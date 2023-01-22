@@ -1,0 +1,62 @@
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    <title>CAMat</title>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+</head>
+
+<body>
+    {% include menu.html %}
+    
+    <main class="wrapper l-page" style="background-color: white;">
+        <div class="menu">
+            <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        <header id="home" class="header" role="banner">
+            <section class="container">
+                {% include logo.svg %}
+            </section>
+        </header>
+        
+        <section id="oque" class="container">
+            {{ content }}
+
+            <h3 id="navegação">
+                <a class="anchor" href="#navegação" aria-hidden="true"></a>
+                Navegação
+            </h3>
+            <ul>
+                {% for page in pages %}
+                {% if page.title %}
+                <li>
+                    <a href="{{ site.url }}{{ page.url | relative_url }}">
+                        {{ page.title | escape }}
+                    </a>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </section>
+           
+        <section id="informes" class="container">
+            <h2>
+                <a class="anchor" href="#informes" aria-hidden="true"></a>
+                Informes
+            </h2>
+            {% include posts.html category="informe" limit=10 %}
+        </section>
+            
+        {% include agenda.html %}
+            
+        {% include contacts.html %}
+
+        {% include footer.html %}
+    </main>
+
+    {% include js_pos.html %}
+</body>
+</html>

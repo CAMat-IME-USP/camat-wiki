@@ -1,0 +1,6 @@
+=  Marighella (2019)
+:page-date: 2022-10-21
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_211022.png }
+:page-sinopse: [ "Marighella (2019), estreia de Wagner Moura como diretor, retrata a vida de Carlos Marighella (1911 - 1969): comunista, escritor e importante figura na luta contra a ditadura militar no Brasil, morto em uma emboscada do DOPS." ]
+:page-informacoes: { sala: B09, horario: 16h00, dia: 21/10, dia_semana: sexta-feira }

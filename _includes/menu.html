@@ -1,0 +1,26 @@
+<div class="l-nav">
+    <nav class="nav_topo">
+        {% assign pages = site.pages | where: "categories", "section" | sort: "title" %}
+        <ul class="float-right">
+            {% for page in pages %}
+            {% if page.title %}
+            <li class="nav_topo-primary">
+                <a href="{{ site.url }}{{ page.url | relative_url }}">
+                    {{ page.title | escape }}
+                </a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+
+    </nav>
+    <div style="width: 30px; height: 30px; fill: #ba3925; cursor: pointer; position: absolute; bottom: 30px; right: 10px;" class="botao_alternar_modo_visao">
+        <div class="modo-escuro">
+            {% include lua.svg %}
+        </div>
+        <div class="modo-claro" style="display: none;">
+            {% include sol.svg %}
+        </div>
+    </div>
+</div>
+

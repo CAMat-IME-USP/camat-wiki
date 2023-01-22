@@ -1,0 +1,6 @@
+= Atividades Online Durante a Quarentena
+:showtitle:
+
+Com a determinação da CRUESP, que suspendeu as atividades escolares presenciais no dia 17 de março de 2020 devido à pandemia de COVID-19, passaram a ser adotadas alternativas online para dar continuidade às disciplinas.
+
+Visando auxiliares as(os) estudantes, na época o CAMAT organizou link:https://camat-usp.github.io/Atividades-Online-Durante-a-Quarentena[esta página] reunindo informações de diversas disciplinas, facilitando o acesso, visto que estas não estão todas numa plataforma comum.

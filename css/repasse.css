@@ -1,0 +1,23 @@
+/**
+ * CAMat-Wiki!
+ * Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Arquivo de estilização da página dos repasses.
+ */
+
+.colapsador {
+    cursor: pointer;
+    color: #ba3925;    
+    font-size: 20px;
+}
+
+.repasse {
+    display: none;
+    overflow: hidden;
+    background-color: #eee;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

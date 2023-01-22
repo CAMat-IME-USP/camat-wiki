@@ -1,0 +1,6 @@
+= Tudo em Todo lugar ao Mesmo Tempo (2022)
+:page-date: 2022-09-23
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_230922.png }
+:page-sinopse: [ "Na produção da A24, escrita e dirigida por Daniel Scheinert e Daniel Kwan, acompanhamos a caótica vida de uma imigrante chinesa, Evelyn Wang (Michelle Yeoh): casamento em ruínas, péssimo relacionamento familiar com pai e filha, e seu negócio - uma lavanderia - está à beira do fracasso.", "No meio do caos, uma fenda para o multiverso é aberta e Evelyn tem a oportunidade de explorar realidades paralelas."]
+:page-informacoes: { sala: B09 (bloco B do IME), horario: 16h00, dia: 23/09, dia_semana: sexta-feira }

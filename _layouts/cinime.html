@@ -1,0 +1,40 @@
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+
+    <!-- Carousel -->
+    <link rel="stylesheet" href="../dist/css/swiffy-slider.min.css" />
+    <script src="../dist/js/swiffy-slider.min.js"></script>
+
+    <!-- CSS do CinIME -->
+    <link rel="stylesheet" href="{{ site.url }}/css/cinime.css">
+
+</head>
+<body>
+    {% include menu.html %}
+
+    <main class="wrapper">
+        
+        <div class="menu">
+            <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        <section class="container conteudo_cinime">
+            {% include proxima-sessao-cinime.html %}
+
+            {{ content }}
+            
+            {% include carousel-cinime.html %}
+        </section>
+
+        {% include footer.html %}
+
+    </main>
+
+    {% include js_pos.html %}
+</body>
+</html>

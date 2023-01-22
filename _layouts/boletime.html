@@ -1,0 +1,71 @@
+<!-- 
+ * CAMat-Wiki!
+ * Centro Academico da Matematica, Estatistica e Computacao da Universidade de Sao Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Este eh o layout basico da pagina do BoletIME!
+-->
+
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+
+    <!-- css do boletIME -->
+    <link rel="stylesheet" href="{{ site.url }}/css/boletime.css">
+</head>
+<body>
+    {% include menu.html %}
+
+    <main class="wrapper">
+        
+        <div class="menu">
+            <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        <section class="container">
+            <div class="boletIME-capa">
+                <img src="{{ site.urlImagens }}/boletime/capa_claro.png" alt="Capa do BoletIME" id="capa_claro_boletime">
+                <img src="{{ site.urlImagens }}/boletime/capa_escuro.png" alt="Capa do BoletIME" id="capa_noturno_boletime">
+            </div>
+            <br>
+
+            {{ content }}
+            
+            <br>
+
+            <div class="boletime_edicoes">
+                
+                <div class="edicao_boletime" id="edicao_202301">
+                    <img src="{{ site.urlImagens }}/boletime/edicoes/202301_boletime_capa.png" alt="">
+                    <div class="edicao_boletime_titulo">
+                        <a href="{{ site.url }}/arquivos/boletime/pdf/202301_boletime.pdf" target="_blank" id="edicao_202301_a">
+                        </a>
+                        Janeiro/2023
+                    </div>
+                </div>
+
+                <div class="edicao_boletime" id="edicao_202210">
+                    <img src="{{ site.urlImagens }}/boletime/edicoes/202210_boletime_capa.png" alt="">
+                    <div class="edicao_boletime_titulo">
+                        <a href="{{ site.url }}/arquivos/boletime/pdf/202210_boletime.pdf" target="_blank" id="edicao_202210_a">
+                        </a>
+                        Outubro/2022
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        
+        {% include footer.html %}
+    </main>
+
+    <!-- JavaScript do BoletIME -->
+    <script src="{{ site.url }}/js/boletime.js"></script>
+
+    {% include js_pos.html %}
+</body>
+</html>

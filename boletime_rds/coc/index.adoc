@@ -1,0 +1,32 @@
+= BoletIME RDs
+:page-layout: repasses_rds
+:page-categories: 
+:showtitle:
+
+## Comissão Coordenadora de Curso (CoC)
+
+[.colapsador]
+--
+Reunião 07/2022 - Sil
+--
+
+[.repasse]
+--
+Nas últimas reuniões do BMAC e BMA, junto ao departamento de estatística, foram feitas alterações na grade curricular do BMAC, da qual saíram do elenco de matérias obrigatórias:
+
+* MAE0399 (Análise de Dados e Simulação);
+* MAE0499 (Processos Estocásticos);
+* MAE0699 (Tópicos de Probabilidade e Estatística).
+
+E entraram no lugar delas respectivamente:
+
+* MAE0228 (Noções de Probabilidade e Processos Estocásticos);
+* MAE0212 (Inferência Estatística Frequentista);
+* MAE0302 (Inferência Bayesiana).
+
+Há mais detalhes nas grades disponíveis no JupiterWeb.
+
+Serão disponibilizadas playlists dos cursos de estatística, além da oferta de disponibilidade de alguns professores, para repor eventuais deficiências acadêmicas. Também será analisada a possibilidade de monitoria fora de época.
+
+Além disso, reclamações foram apontadas e debatidas quanto à disciplina MAP2212 (Laboratório de Computação e Simulação), e ficou-se de conversar com o professor.
+--

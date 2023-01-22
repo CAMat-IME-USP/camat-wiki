@@ -1,0 +1,6 @@
+= CinIME em casa com Marcel the Shell with Shoes On (2021)
+:page-date: 2022-10-28
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_281022.png }
+:page-sinopse: [ "Marcel, the Shell with Shoes On (2021) é um pseudodocumentário (ou falso documentário) sobre uma concha - Marcel - e a sua jornada em reencontrar a sua família perdida.", "Marcel mora com sua avó Connie e vivem sozinhos como os únicos sobreviventes de uma misteriosa tragédia. É após serem descobertos por um realizador de documentários entre a confusão do seu Airbnb, e a divulgação de seu curta-metragem online, que Marcel ganha milhões de fãs apaixonados, bem como perigos sem precedentes e uma nova esperança de encontrar a sua família há muito perdida." ]
+:page-informacoes: { sala: discord, horario: 18h00, dia: 28/10, dia_semana: sexta-feira }

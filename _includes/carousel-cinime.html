@@ -1,0 +1,41 @@
+<!-- Para fazer o Carousel usei o swiffy-slider. -->
+
+<!-- Captura todas as páginas que têm como categoria "sessao_cinime" -->
+{% assign paginas = site.pages | where: "categories", "filme_cinime" | sort: "date" | reverse %}
+
+<div class="swiffy-slider slider-item-show2">
+    <!-- Onde ficam os slides -->
+    <ul class="slider-container">
+        {% for pagina in paginas %}
+        
+            {% if pagina != paginas[0] %}
+
+            {% assign date = pagina.date | date: "%d/%m/%Y" %}
+
+            <li>
+                <div>
+                    <b>Sessão {{ date }}</b>
+                    <br>
+                    <img 
+                        src="{{ site.urlImagens }}/cinime/{{ pagina.header.image }}"
+                        alt=""
+                    >
+                    <br>
+                    <b>{{ pagina.title }}</b>
+                </div>
+            </li>
+
+            {% endif %}
+
+        {% endfor %}
+
+    </ul>
+    <button class="slider-nav"></button>
+    <button class="slider-nav slider-nav-next"></button>
+
+    <div class="slider-indicators">
+        <button class="active"></button>
+        <button></button>
+        <button></button>
+    </div>
+</div>

@@ -1,0 +1,273 @@
+= Chapa para RDs 2023
+// :page-categories: section
+:page-layout: candidaturas_rds
+
+## Congregação
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Link Zhang</b><p>Licenciatura em Matemática</p></div>]
+
+image::rds/carometro/graduacao/link_zhang.jpg[]
+
+image::rds/carometro/graduacao/ivan_kuvasney_lima.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Ivan Kuvasney Lima</b><p>Licenciatura em Matemática</p></div>]
+--
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>João Guilherme de Souza</b><p>Bacharelado em Ciência da Computação</p></div>]
+
+image::rds/carometro/graduacao/joao_guilherme_de_souza.jpg[]
+
+image::rds/carometro/graduacao/carlos_marques.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Carlos Marques</b><p>Bacharelado em Ciência da Computação</p></div>]
+--
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Thiago Guelfi</b><p>Bacharelado em Matemática</p></div>]
+
+image::rds/carometro/graduacao/thiago_guelfi.jpg[]
+
+image::rds/carometro/graduacao/mateus_schimidt.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Mateus Schimidt</b><p>Bacharelado em Estatística</p></div>]
+--
+
+
+// CoCs
+
+
+## CoC BM
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Maurício Rossetto</b><p>Bacharelado em Matemática</p></div>]
+
+image::rds/carometro/graduacao/mauricio_rossetto.jpg[]
+
+image::rds/carometro/graduacao/guilherme_malavasi.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Guilherme Malavasi</b><p>Bacharelado em Matemática</p></div>]
+--
+
+
+## CoC BE
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Carolina Hirata</b><p>Bacharelado em Estatística</p></div>]
+
+image::rds/carometro/graduacao/carolina_hirata.jpg[]
+
+image::rds/carometro/graduacao/melissa_tiemi_tanaka.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Melissa Tiemi Tanaka</b><p>Bacharelado em Estatística</p></div>]
+--
+
+
+## CoC LM
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Isabela Pacheco da Silveira</b><p>Licenciatura em Matemática</p></div>]
+
+image::rds/carometro/graduacao/isabela_pacheco_da_silveira.jpg[]
+
+image::rds/carometro/graduacao/carlos_eduardo_ribeiro_borges_monteiro_gomes.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Carlos Eduardo Ribeiro</b><p>Licenciatura em Matemática</p></div>]
+--
+
+
+## CoC BMA
+
+[.candidatura_unica]
+--
+image::rds/carometro/graduacao/renata_santos_miranda.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Renata Santos Miranda</b><p>Bacharelado em Matemática Aplicada</p></div>]
+--
+
+
+## CoC BMAC
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Sil</b><p>Bacharelado em Matemática Aplicada e Computacional</p></div>]
+
+image::rds/carometro/graduacao/sil.jpg[]
+
+image::rds/carometro/graduacao/antonio_gabriel_freitas_da_silva.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Antonio Gabriel Freitas da Silva</b><p>Bacharelado em Matemática Aplicada e Computacional</p></div>]
+--
+
+
+## CoC BCC
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Marília Takaguti Dicezare</b><p>Bacharelado em Ciência da Computação</p></div>]
+
+image::rds/carometro/graduacao/marilia_takaguti_dicezare.jpg[]
+
+image::rds/carometro/graduacao/daniel_silva_lopes_da_costa.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Daniel Silva Lopes da Costa</b><p>Bacharelado em Ciência da Computação</p></div>]
+--
+
+// CTA
+
+
+## Conselho Técnico-Administrativo (CTA)
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Ivan Kuvasney Lima</b><p>Licenciatura em Matemática</p></div>]
+
+image::rds/carometro/graduacao/ivan_kuvasney_lima.jpg[]
+
+image::rds/carometro/graduacao/tiago_sotelo_calvo.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Tiago Sotelo Calvo</b><p>Bacharelado em Estatística</p></div>]
+--
+
+
+// CG
+
+
+## Comissão de Graduação (CG)
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Luiza Barros</b><p>Bacharelado em Ciência da Computação</p></div>]
+
+image::rds/carometro/graduacao/luiza_barros.jpg[]
+
+image::rds/carometro/graduacao/camila_cavalcanti.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Camila Cavalcanti</b><p>Bacharelado em Estatística</p></div>]
+--
+
+
+// Conselhos
+
+
+## Conselho MAT
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Thiago Guelfi</b><p>Bacharelado em Matemática</p></div>]
+
+image::rds/carometro/graduacao/thiago_guelfi.jpg[]
+
+image::rds/carometro/graduacao/ana_julia_modesto.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Ana Julia Modesto</b><p>Licenciatura em Matemática</p></div>]
+--
+
+
+## Conselho MAE
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Camilla Fonseca</b><p>Bacharelado em Estatística</p></div>]
+
+image::rds/carometro/graduacao/camilla_fonseca.jpg[]
+
+image::rds/carometro/graduacao/savio_campos.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Sávio Campos</b><p>Bacharelado em Estatística</p></div>]
+--
+
+
+## Conselho MAP
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Antonio Gabriel Freitas da Silva</b><p>Bacharelado em Matemática Aplicada e Computacional</p></div>]
+
+image::rds/carometro/graduacao/antonio_gabriel_freitas_da_silva.jpg[]
+
+image::rds/carometro/graduacao/sil.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Sil</b><p>Bacharelado em Matemática Aplicada e Computacional</p></div>]
+--
+
+
+## Conselho MAC
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Daniel Silva Lopes da Costa</b><p>Bacharelado em Ciência da Computação</p></div>]
+
+image::rds/carometro/graduacao/daniel_silva_lopes_da_costa.jpg[]
+
+image::rds/carometro/graduacao/marilia_takaguti_dicezare.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Marília Takaguti Dicezare</b><p>Bacharelado em Ciência da Computação</p></div>]
+--
+
+// Comissões
+
+
+## Comissão de Gestão da Comunicação
+
+[.candidatura_unica]
+--
+image::rds/carometro/graduacao/thiago_guelfi.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Thiago Guelfi</b><p>Bacharelado em Matemática</p></div>]
+--
+
+
+## Comissão de Acolhimento à Mulher
+
+[.candidatura_unica]
+--
+image::rds/carometro/graduacao/atena_pinheiro.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Atena Pinheiro</b><p>Licenciatura em Matemática</p></div>]
+--
+
+
+## Comissão de Cultura e Extensão (CCEx)
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Henrique Luiz Pereira</b><p>Bacharelado em Matemática Aplicada e Computacional</p></div>]
+
+image::rds/carometro/graduacao/henrique_luiz_pereira.jpg[]
+
+image::rds/carometro/graduacao/raphael_vlasman.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Raphael Vlasman</b><p>Bacharelado em Matemática Aplicada e Computacional</p></div>]
+--
+
+
+## Estágios
+
+[.candidatura]
+--
+pass:[<div class="candidatura_infos candidatura_esq"><b>Raphael Vlasman</b><p>Bacharelado em Matemática Aplicada e Computacional</p></div>]
+
+image::rds/carometro/graduacao/raphael_vlasman.jpg[]
+
+image::rds/carometro/graduacao/henrique_luiz_pereira.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Henrique Luiz Pereira</b><p>Bacharelado em Matemática Aplicada e Computacional</p></div>]
+--
+
+
+## CCSL
+
+[.candidatura_unica]
+--
+image::rds/carometro/graduacao/felipe_ribas_serras.jpg[]
+
+pass:[<div class="candidatura_infos candidatura_dir"><b>Felipe Ribas Serras</b><p>Bacharelado em Ciência da Computação</p></div>]
+--

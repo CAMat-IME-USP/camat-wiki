@@ -1,0 +1,94 @@
+# Bem-vindo ao Jekyll!
+#
+# Este arquivo de configuracao eh destinado as configurações que afetam o blog
+# inteiro, valores os quais você vai definir uma vez e raramente vai mexer neles
+# depois. Se você ta mexendo demais nesse arquivo, reflita se não ta mexendo no
+# lugar errado.
+#
+# Por motivos tecnicos, esse arquivo *NAO* eh recarregado automaticamente quando
+# voce ta usando 'bundle exec jekyll serve'. Se voce mexer nesse arquivo, reinicie
+# o servidor local.
+#
+# Se precisar de ajuda com a sintaxe YAML, aqui tem umas referencias para voce:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Configuracoes do site
+# Essas sao usadas para personalizar o site. Se voce olhar nos arquivos HTML,
+# voce vai ver elas sendo acessadas via {{ site.title }}, {{ site.email }}, etc.
+# Voce pode criar qualquer variavel que quiser, e elas serao acessiveis da mesma
+# forma, bastando usar {{ site.nome_da_variavel }}
+
+title: CAMat
+email: camat@ime.usp.br
+description: >- # isso daqui serve pra considerar todo o conteudo ate 'baseurl'
+    Wiki do Centro Acadêmico da Matemática, Estatística e Computação do
+    Instituto de Matemática e Estatística da Universidade de São Paulo
+    (IME USP).
+baseurl: "" # o "sub-caminho" do site, tipo /blog
+url: "https://camat.ime.usp.br" # o link em producao do site
+# url: "http://localhost:4000" # o link em desenvolvimento do site. No meu fica assim, talvez no seu tenha uma porta diferente
+urlImagens: "https://camat.ime.usp.br/images"
+# urlImagens: "http://localhost:4000/images" # idem
+twitter: camat_usp
+github: camat-usp
+facebook: CAMatUSP
+telegram: camat_usp
+repository: camat-usp/camat-wiki
+discord_cinime: https://discord.gg/qDfXUMVm6j
+
+# Se tiver plugins, chama eles aqui embaixo
+plugins:
+  - jekyll-minifier
+
+# Configuracoes do pre-processador AsciiDoc
+asciidoc: {}
+asciidoctor:
+  template_dir: _templates
+  base_dir: :docdir
+  safe: unsafe
+  attributes:
+    # imagesdir: https://camat-usp.github.io/camat-wiki/images # producao
+    imagesdir: https://camat.ime.usp.br/images
+    # imagesdir: http://localhost:4000/images # desenvolvimento
+    icons: ""
+    iconsdir: '{imagesdir}/icons'
+    hide-uri-scheme: ""
+    note-title: NOTA
+    tip-title: DICA
+    important-title: IMPORTANTE
+    caution-title: AVISO
+    warning-title: AVISO
+    toc: macro
+    toc-title: Conteúdos
+    idseparator: _
+    source-highlighter: coderay
+
+# Excluidos do processamento.
+# Os seguintes itens não serao processados, por padrao.
+# Qualquer item listado abaixo de `exclude:` vai ser automaticamente
+# adicionado a "default list" interna.
+# 
+# Itens excluídos so podem ser processados pela listagem explicita dos
+# diretorios ou se forem listados na lista `include:`.
+# 
+# Eh tipo um `.gitignore`, so que pro Jekyll.
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - tmp/
+  - vendor/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Rakefile
+  - TODO.adoc
+  - README.adoc
+  - LISCENSE.adoc
+  - LICENSE

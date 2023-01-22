@@ -1,0 +1,90 @@
+<!-- Captura todas as páginas que têm como categoria "sessao_cinime" -->
+{% assign paginas = site.pages | where: "categories", "sessao_cinime" | sort: 'date' | reverse %}
+
+{% assign prox_sessao = paginas.first %}
+{% assign data_sessao = prox_sessao.date | date: "%d/%m/%Y" %}
+
+{% assign votacao = false %}
+
+{% if prox_sessao.categories contains "votacao_cinime" %}
+    {% assign votacao = true %}
+{% endif %}
+
+<section id="proxima_sessao" aria-level="1">
+
+    <div>
+        <!-- <a href="#proxima_sessao" class="anchor" aria-hidden="true"></a> -->
+        {% if votacao == false %}
+            <h3>Sessão {{ data_sessao }}</h3>
+            <h2><b>{{ prox_sessao.title }}</b></h2>
+        {% else %}
+            <h2>Votação da Sessão {{ data_sessao }}</h2>
+        {% endif %}
+    </div>   
+
+    <div class="openblock poster">
+        <div class="content">
+            <img 
+                src="{{ site.urlImagens }}/cinime/{{ prox_sessao.header.image }}" 
+                alt="..."
+            >
+        </div>
+    </div>
+
+    <section id="descricao" aria-level="2">
+        {% if prox_sessao.descricao %}
+            {% for p in prox_sessao.descricao %}
+        	    <p>{{ p }}</p>
+            {% endfor %}
+        {% endif %}
+    </section>
+
+    <section id="sinopse" aria-level="2">
+        <h3>
+            <a href="#sinopse" class="anchor" aria-hidden="true"></a>
+            {% if votacao == false %}
+                Sinopse
+            {% else %}
+                Votação aberta!
+            {% endif %}
+        </h3>
+        {% for p in prox_sessao.sinopse %}
+        <p>
+            {{ p }}
+        </p>
+        {% endfor %}
+
+        {% if votacao == true %}
+            📊 Votação até {{ prox_sessao.datafimvotacao }}
+            <br>
+            🔗 <a href="{{ prox_sessao.formsvotacao }}" target="_blank">Vote aqui</a>
+            <br><br>
+        {% endif %}
+
+    </section>
+
+    {% if votacao == false %}
+
+        <section id="informacoes" aria-level="2">
+            <h3>
+                <a href="#informacoes" class="anchor" aria-hidden="true"></a>
+                Informações
+            </h3>
+            <p>
+                <strong>📆</strong> {{ prox_sessao.informacoes.dia }} ({{ prox_sessao.informacoes.dia_semana }})<br>
+                <strong>⏰</strong>{{ prox_sessao.informacoes.horario }}<br>
+                {% if prox_sessao.informacoes.sala == "discord" %}
+                <strong>📍</strong> Discord do CinIME<br>
+                <strong>🔗</strong><a href="{{ site.discord_cinime }}" target="_blank">{{ site.discord_cinime }}</a><br>
+                {% else %}
+                <strong>📍</strong> Sala {{ prox_sessao.informacoes.sala }}<br>
+                <strong>🍿</strong> Teremos pipoca!
+                {% endif %}
+                
+            </p>
+        </section>
+    
+    {% endif %}
+    
+
+</section>

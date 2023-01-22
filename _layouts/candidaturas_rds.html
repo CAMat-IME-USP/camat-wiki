@@ -1,0 +1,41 @@
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+
+    <!-- CSS dos RDs -->
+    <link rel="stylesheet" href="{{ site.url }}/css/rds.css">
+
+</head>
+<body>
+    {% include menu.html %}
+
+    <main class="wrapper">
+        
+        <div class="menu">
+            <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        
+        <section class="container">
+            <h2>Chapas para RDs 2023</h2>
+            <p>
+                Em dúvidas sobre quem votar para representação discente no IME? Conheça as chapas que contam com o apoio do CAMat!
+            </p>
+            <p>Confira também a carta aberta dos RDs clicando <a href="{{ site.url }}/boletime_rds/rds/chapa/carta_aberta/">aqui</a>.</p>
+
+            <section class="lista_rds">
+                {{ content }}
+            </section>
+        </section>
+
+        {% include footer.html %}
+
+    </main>
+
+    {% include js_pos.html %}
+</body>
+</html>

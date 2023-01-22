@@ -1,0 +1,37 @@
+<footer class="footer">
+    <section class="container">
+        <a href="mailto:{{site.email}}">{{site.email}}</a>
+        
+        <nav class="nav">
+            <a role="button" 
+               aria-label="GitHub" 
+               href="https://github.com/{{site.repository}}">
+                {% include github.svg %}
+            </a>
+            <a role="button" 
+               aria-label="Facebook" 
+               href="http://www.fb.com/{{site.facebook}}">
+                {% include facebook.svg %}
+            </a>
+            <a role="button" 
+               aria-label="Twitter" 
+               href="https://twitter.com/{{site.twitter}}">
+                {% include twitter.svg %}
+            </a>
+            <a role="button" 
+               aria-label="Telegram" 
+               href="https://t.me/{{site.telegram}}">
+                {% include telegram.svg %}
+            </a>
+        </nav>
+    </section>
+</footer>
+
+<div style="width: 30px; height: 30px; fill: #ba3925; cursor: pointer; position: fixed; right: 5%; bottom: 50px; z-index: 100;" class="botao_alternar_modo_visao botao_modo_footer">
+    <div class="modo-escuro">
+        {% include lua.svg %}
+    </div>
+    <div class="modo-claro" style="display: none;">
+        {% include sol.svg %}
+    </div>
+</div>

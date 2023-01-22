@@ -1,0 +1,73 @@
+/**
+ * CAMat-Wiki!
+ * Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Arquivo de estilização da página dos RDs.
+ */
+
+.candidatura img, .candidatura_unica img {
+    justify-self: center;
+    max-width: 130px;
+    max-height: 130px;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+@media all and (max-width: 980px) {
+    .candidatura img {
+        max-width: 80px;
+        max-height: 80px;
+    }
+}
+
+.candidatura .content{
+    display: grid;
+    grid-template-columns: 0% 27% 0% 23% 23% 0% 27% 0%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.lista_rds > section {
+    margin: 50px 0px;
+}
+.candidatura, .candidatura_unica {
+    margin: 30px 0px;
+}
+
+.candidatura_unica .content{
+    display: grid;
+    grid-template-columns: 0% 40% 0% 60%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.candidatura_unica .content {
+    display: flex;
+    justify-content: center;
+}
+.candidatura_unica img {
+    margin-right: 20px;
+}
+
+
+div.candidatura_dir, div.candidatura_dir p {
+    text-align: left;
+}
+div.candidatura_esq, div.candidatura_esq p {
+    text-align: right;
+}
+div.candidatura_infos {
+    font-size: 20px;
+}
+div.candidatura_infos p {
+    font-size: 12px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 800;
+}

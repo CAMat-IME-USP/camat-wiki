@@ -1,0 +1,23 @@
+= CinIME
+:page-categories: section
+:showtitle:
+:page-layout: cinime
+
+// CAMat-Wiki!
+// Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+// https://camat.ime.usp.br/
+//  
+// Página inicial do CinIME.
+
+## Sobre o Projeto CinIME
+
+Após dois anos sem sessões, o CinIME ressurge revigorado com ideias novas para
+trabalhar o potencial desse projeto. Com a proposta de pautar de maneira mais crítica
+quais, como e onde consumimos entretenimento audiovisual, o CAMat retomará as
+atividades de cinema no IME como parte de um momento de debate, mas também de
+lazer. Afinal, cinema e pipoquinha são legais e todo mundo gosta.
+
+Quer saber mais? Veja o documento do link:../arquivos/CinIME_projeto.pdf[Projeto CinIME].
+
+## Sessões Anteriores
+

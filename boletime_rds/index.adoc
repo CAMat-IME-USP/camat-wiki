@@ -1,0 +1,21 @@
+= BoletIME RDs
+:page-categories: section
+:showtitle:
+
+// CAMat-Wiki!
+// Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+// https://camat.ime.usp.br/
+//  
+// Página inicial do BoletIME RDs.
+
+Visando facilitar e aumentar o contato dos estudantes com seus representantes discentes (RDs), o CAMat criou esta página para que estes possam fazer repasses do que tem acontecido nas comissões em que estão eleitos.
+
+Veja os repasses de cada comissão ou grupo de trabalho (GT):
+
+link:./departamentos/index.html[Departamentos]
+
+link:./coc/index.html[Comissão Coordenadora de Curso (CoC)]
+
+link:./congregacao_cg/index.html[Congregação e Comissão de Graduação (CG)]
+
+link:./gts/acolhime/index.html[GT de Acolhimento (AcolhIME)]

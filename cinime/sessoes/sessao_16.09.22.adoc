@@ -1,0 +1,6 @@
+= CRUSP em Pauta: _A Experiência Cruspiana_ e _A Invasão do CRUSP, 50 anos depois_
+:page-date: 2022-09-16
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_160922.png }
+:page-sinopse: [ "Estrearemos a volta do CinIME exibindo dois curta-documentários sobre o Conjunto Residencial da USP (CRUSP): A Experiência Cruspiana (1986) e A Invasão do CRUSP, 50 Anos Depois (2018). Ambos trazem o CRUSP como ponto central de articulação e resistência estudantil durante a ditadura militar.", "A escolha do filme busca dialogar com o momento atual de mobilizações crescentes em torno da moradia estudantil, vide o turbulento e autocrático projeto de reforma da Reitoria e as constantes faltas de água. Inclusive, culminantes na convocatória de paralisação da USP no dia 20 de setembro (próxima terça-feira)*.", "Qual é a história do CRUSP? Seria o projeto de descaso com a moradia estudantil, na verdade, uma política decorrente da ditadura militar? Qual política a Universidade tem para o CRUSP atualmente?"]
+:page-informacoes: { sala: B09, horario: 16h00, dia: 16/09, dia_semana: sexta-feira }

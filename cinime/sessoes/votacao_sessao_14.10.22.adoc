@@ -1,0 +1,8 @@
+= Especial Terror - Votação Aberta
+:page-date: 2022-10-14
+:page-categories: [sessao_cinime, votacao_cinime]
+:page-header: { image: votacao_141022.png }
+:page-sinopse: [ "Aproveitando o mês do dia do Saci, o horroroso e terrorístico outubro, a próxima sessão do CinIME (14/10) será um filme de terror a  ser escolhido pelo público por meio uma votação aberta até terça (11/10)!", "Entre as possibilidades temos: À Meia-Noite Levarei Sua Alma (1964), Cure (1997) e Nope (2022) -  no formulário de votação tem a sinopse de cada filme. Vote quantas vezes quiser!" ]
+:page-formsvotacao: https://forms.gle/v1F4A9XeiyPYEhpu6
+:page-datafimvotacao: 11/10
+:page-informacoes: { sala: B09, horario: 16h00 }
