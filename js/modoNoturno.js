@@ -33,6 +33,10 @@ let elementosNoturnoExcecoes = [
   document.querySelector('.l-nav'),
   document.querySelector('.menu-header'),
 ]
+// se tiver algum modal, adiciona na lista
+document.querySelector('.modal-content') ? elementosNoturnoExcecoes.push(document.querySelector('.modal-content')) : ''
+
+// salva os elementos
 Array.prototype.slice.call(document.querySelectorAll('.repasse')).map(el => elementosNoturnoExcecoes.push(el))
 
 elementosNoturnoExcecoes.map(el => {
