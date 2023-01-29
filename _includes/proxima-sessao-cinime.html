@@ -5,6 +5,12 @@
 {% assign data_sessao = prox_sessao.date | date: "%d/%m/%Y" %}
 
 {% assign votacao = false %}
+{% assign especial = false %}
+
+{% if prox_sessao.categories contains "sessao_especial" %}
+    {% assign especial = true %}
+    {% assign data_sessao = prox_sessao.data %}
+{% endif %}
 
 {% if prox_sessao.categories contains "votacao_cinime" %}
     {% assign votacao = true %}
@@ -14,20 +20,50 @@
 
     <div>
         <!-- <a href="#proxima_sessao" class="anchor" aria-hidden="true"></a> -->
-        {% if votacao == false %}
-            <h3>Sessão {{ data_sessao }}</h3>
+        {% if especial == true %}
+            <h3>{{ data_sessao }}</h3>
             <h2><b>{{ prox_sessao.title }}</b></h2>
         {% else %}
-            <h2>Votação da Sessão {{ data_sessao }}</h2>
+            {% if votacao == false %}
+                <h3>Sessão {{ data_sessao }}</h3>
+                <h2><b>{{ prox_sessao.title }}</b></h2>
+            {% else %}
+                <h2>Votação da Sessão {{ data_sessao }}</h2>
+            {% endif %}
         {% endif %}
     </div>   
 
     <div class="openblock poster">
         <div class="content">
-            <img 
-                src="{{ site.urlImagens }}/cinime/{{ prox_sessao.header.image }}" 
-                alt="..."
-            >
+            {% if especial != true %}
+                <img 
+                    src="{{ site.urlImagens }}/cinime/{{ prox_sessao.header.image }}" 
+                    alt="..."
+                >
+            {% else %}
+                {% assign paginas = prox_sessao.imgs %}
+                <div class="swiffy-slider slider-item-show cinime-mimea">
+                    <!-- Onde ficam os slides -->
+                    <ul class="slider-container">
+                        {% for pagina in paginas %}
+                        
+                            <li>
+                                <img src="{{ site.urlImagens }}/cinime/mimea/{{ pagina }}" alt="">
+                            </li>
+        
+                        {% endfor %}
+        
+                    </ul>
+                    <button class="slider-nav"></button>
+                    <button class="slider-nav slider-nav-next"></button>
+        
+                    <div class="slider-indicators">
+                        <button class="active"></button>
+                        <button></button>
+                        <button></button>
+                    </div>
+                </div>
+            {% endif %}
         </div>
     </div>
 
@@ -42,10 +78,14 @@
     <section id="sinopse" aria-level="2">
         <h3>
             <a href="#sinopse" class="anchor" aria-hidden="true"></a>
-            {% if votacao == false %}
-                Sinopse
+            {% if especial == true %}
+                Especial
             {% else %}
-                Votação aberta!
+                {% if votacao == false %}
+                    Sinopse
+                {% else %}
+                    Votação aberta!
+                {% endif %}
             {% endif %}
         </h3>
         {% for p in prox_sessao.sinopse %}
@@ -71,16 +111,21 @@
                 Informações
             </h3>
             <p>
-                <strong>📆</strong> {{ prox_sessao.informacoes.dia }} ({{ prox_sessao.informacoes.dia_semana }})<br>
-                <strong>⏰</strong>{{ prox_sessao.informacoes.horario }}<br>
+                <strong>📆</strong> 
+                {% if especial == false %}
+                    {{ prox_sessao.informacoes.dia }} ({{ prox_sessao.informacoes.dia_semana }})<br>
+                    <strong>⏰</strong>{{ prox_sessao.informacoes.horario }}<br>
+                {% else %}
+                    {{ prox_sessao.informacoes.dia }}<br>
+                    <strong>🎬</strong> <a href="{{ site.url }}/arquivos/cinime/I_Mostra_IMEana_de_Animação.pdf" target="_blank">Programação completa.</a><br>
+                {% endif %}                
                 {% if prox_sessao.informacoes.sala == "discord" %}
                 <strong>📍</strong> Discord do CinIME<br>
                 <strong>🔗</strong><a href="{{ site.discord_cinime }}" target="_blank">{{ site.discord_cinime }}</a><br>
                 {% else %}
                 <strong>📍</strong> Sala {{ prox_sessao.informacoes.sala }}<br>
                 <strong>🍿</strong> Teremos pipoca!
-                {% endif %}
-                
+                {% endif %}                
             </p>
         </section>
     
