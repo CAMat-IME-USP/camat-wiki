@@ -64,9 +64,18 @@ function atualizarModal (nome) {
   })
 
   // contato
-  let contato_rd = document.getElementById("contato_rd")
-  contato_rd.href = "tel:" + infos[nome]["contato"]
-  contato_rd.textContent = formatarTelefone(infos[nome]["contato"])
+  let celular_rd = document.getElementById("celular_rd")
+  if (infos[nome]["celular"] != "") {
+    celular_rd.href = "tel:" + infos[nome]["celular"]
+    celular_rd.textContent = "☎️ " + formatarTelefone(infos[nome]["celular"])
+  }
+
+  let email_rd = document.getElementById("email_rd")
+  if (infos[nome]["email"] != "") {
+    email_rd.href = "mailto:" + infos[nome]["email"]
+    email_rd.textContent = "✉️" + infos[nome]["email"]
+  }
+
 
   // abre o modal            
   abrirModal()

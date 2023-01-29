@@ -2,163 +2,253 @@
   "Link Zhang": {
     "foto": "graduacao/link_zhang.jpg",
     "curso": "Licenciatura em Matemática",
-    "contato": "11912345678",
-    "cargos": ["Representante na Congregação."]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na Congregação."
+    ]
   },
   "Ivan Kuvasney Lima": {
     "foto": "graduacao/ivan_kuvasney_lima.jpg",
     "curso": "Licenciatura em Matemática",
-    "contato": "11912345678",
-    "cargos": ["Suplente na Congregação", "Representante no Conselho Técnico-Administrativo"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na Congregação",
+      "Representante no Conselho Técnico-Administrativo"
+    ]
   },
   "João Guilherme de Souza": {
     "foto": "graduacao/joao_guilherme_de_souza.jpg",
     "curso": "Bacharelado em Ciência da Computação",
-    "contato": "11912345678",
-    "cargos": ["Representante na Congregação"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na Congregação"
+    ]
   },
   "Carlos Marques": {
     "foto": "graduacao/carlos_marques.jpg",
     "curso": "Bacharelado em Ciência da Computação",
-    "contato": "11912345678",
-    "cargos": ["Suplente na Congregação"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na Congregação"
+    ]
   },
   "Thiago Guelfi": {
     "foto": "graduacao/thiago_guelfi.jpg",
     "curso": "Bacharelado em Matemática",
-    "contato": "11912345678",
-    "cargos": ["Representante na Congregação", "Representante no Conselho MAT", "Representante na Comissão de Gestão da Comunicação"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na Congregação",
+      "Representante no Conselho MAT",
+      "Representante na Comissão de Gestão da Comunicação"
+    ]
   },
   "Mateus Schimidt": {
     "foto": "graduacao/mateus_schimidt.jpg",
     "curso": "Bacharelado em Estatística",
-    "contato": "11912345678",
-    "cargos": ["Suplente na Congregação"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na Congregação"
+    ]
   },
   "Luiza Barros": {
     "foto": "graduacao/luiza_barros.jpg",
     "curso": "Bacharelado em Ciência da Computação",
-    "contato": "11912345678",
-    "cargos": ["Representante na Comissão de Graduação (CG)"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na Comissão de Graduação (CG)"
+    ]
   },
   "Camila Cavalcanti": {
     "foto": "graduacao/camila_cavalcanti.jpg",
     "curso": "Bacharelado em Estatística",
-    "contato": "11912345678",
-    "cargos": ["Suplente na Comissão de Graduação (CG)"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na Comissão de Graduação (CG)"
+    ]
   },
   "Anny Beatriz Silva de Azevedo": {
     "foto": "graduacao/anny_beatriz_silva_de_azevedo.jpg",
     "curso": "Bacharelado em Matemática",
-    "contato": "11912345678",
-    "cargos": ["Representante na CoC BM"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na CoC BM"
+    ]
   },
   "Cayo Leitão Costa": {
     "foto": "graduacao/cayo_leitao_costa.jpg",
     "curso": "Bacharelado em Matemática",
-    "contato": "11912345678",
-    "cargos": ["Suplente na CoC BM"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na CoC BM"
+    ]
   },
   "Carolina Hirata": {
     "foto": "graduacao/carolina_hirata.jpg",
     "curso": "Bacharelado em Estatística",
-    "contato": "11912345678",
-    "cargos": ["Representante na CoC BE"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na CoC BE"
+    ]
   },
   "Melissa Tiemi Tanaka": {
     "foto": "graduacao/melissa_tiemi_tanaka.jpg",
     "curso": "Bacharelado em Estatística",
-    "contato": "11912345678",
-    "cargos": ["Suplente na CoC BE"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na CoC BE"
+    ]
   },
   "Isabela Pacheco da Silveira": {
     "foto": "graduacao/isabela_pacheco_da_silveira.jpg",
     "curso": "Licenciatura em Matemática",
-    "contato": "11912345678",
-    "cargos": ["Representante na CoC LM"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na CoC LM"
+    ]
   },
   "Carlos Eduardo Ribeiro": {
     "foto": "graduacao/carlos_eduardo_ribeiro.jpg",
     "curso": "Licenciatura em Matemática",
-    "contato": "11912345678",
-    "cargos": ["Suplente na CoC LM"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na CoC LM"
+    ]
   },
   "Renata Santos Miranda": {
     "foto": "graduacao/renata_santos_miranda.jpg",
     "curso": "Bacharelado em Matemática Aplicada",
-    "contato": "11912345678",
-    "cargos": ["Representante na CoC BMA"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na CoC BMA"
+    ]
   },
   "Sil": {
     "foto": "graduacao/sil.jpg",
     "curso": "Bacharelado em Matemática Aplicada e Computacional",
-    "contato": "11912345678",
-    "cargos": ["Representante na CoC BMAC", "Suplente no Conselho MAP"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na CoC BMAC",
+      "Suplente no Conselho MAP"
+    ]
   },
   "Antonio Gabriel Freitas da Silva": {
     "foto": "graduacao/antonio_gabriel_freitas_da_silva.jpg",
     "curso": "Bacharelado em Matemática Aplicada e Computacional",
-    "contato": "11912345678",
-    "cargos": ["Suplente na CoC BMAC", "Representante no Conselho MAP"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na CoC BMAC",
+      "Representante no Conselho MAP"
+    ]
   },
   "Marília Takaguti Dicezare": {
     "foto": "graduacao/marilia_takaguti_dicezare.jpg",
     "curso": "Bacharelado em Ciência da Computação",
-    "contato": "11912345678",
-    "cargos": ["Representante na CoC BCC", "Suplente no Conselho MAC"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na CoC BCC",
+      "Suplente no Conselho MAC"
+    ]
   },
   "Daniel Silva Lopes da Costa": {
     "foto": "graduacao/daniel_silva_lopes_da_costa.jpg",
     "curso": "Bacharelado em Ciência da Computação",
-    "contato": "11912345678",
-    "cargos": ["Suplente na CoC BCC", "Representante no Conselho MAC"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na CoC BCC",
+      "Representante no Conselho MAC"
+    ]
   },
   "Ana Julia Modesto": {
     "foto": "graduacao/ana_julia_modesto.jpg",
     "curso": "Licenciatura em Matemática",
-    "contato": "11912345678",
-    "cargos": ["Suplente no Conselho MAT"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente no Conselho MAT"
+    ]
   },
   "Camilla Fonseca": {
     "foto": "graduacao/camilla_fonseca.jpg",
     "curso": "Bacharelado em Estatística",
-    "contato": "11912345678",
-    "cargos": ["Representante no Conselho MAE"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante no Conselho MAE"
+    ]
   },
   "Sávio Campos": {
     "foto": "graduacao/savio_campos.jpg",
     "curso": "Bacharelado em Estatística",
-    "contato": "11912345678",
-    "cargos": ["Suplente no Conselho MAE"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente no Conselho MAE"
+    ]
   },
   "Atena Pinheiro": {
     "foto": "graduacao/atena_pinheiro.jpg",
     "curso": "Licenciatura em Matemática",
-    "contato": "11912345678",
-    "cargos": ["Representante na Comissão de Acolhimento à Mulher"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na Comissão de Acolhimento à Mulher"
+    ]
   },
   "Henrique Luiz Pereira": {
     "foto": "graduacao/henrique_luiz_pereira.jpg",
     "curso": "Bacharelado em Matemática Aplicada e Computacional",
-    "contato": "11912345678",
-    "cargos": ["Representante na Comissão de Cultura e Extensão (CCEx)", "Suplente na Comissão de Estágios"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na Comissão de Cultura e Extensão (CCEx)",
+      "Suplente na Comissão de Estágios"
+    ]
   },
   "Raphael Vlasman": {
     "foto": "graduacao/raphael_vlasman.jpg",
     "curso": "Bacharelado em Matemática Aplicada e Computacional",
-    "contato": "11912345678",
-    "cargos": ["Suplente na Comissão de Cultura e Extensão (CCEx)", "Representante na Comissão de Estágios"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na Comissão de Cultura e Extensão (CCEx)",
+      "Representante na Comissão de Estágios"
+    ]
   },
   "Felipe Ribas Serras": {
     "foto": "graduacao/felipe_ribas_serras.jpg",
     "curso": "Bacharelado em Ciência da Computação",
-    "contato": "11912345678",
-    "cargos": ["Representante no CCSL"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante no CCSL"
+    ]
   },
   "Tiago Sotelo Calvo": {
     "foto": "graduacao/tiago_sotelo_calvo.jpg",
     "curso": "Bacharelado em Estatística",
-    "contato": "11912345678",
-    "cargos": ["Suplente no Conselho Técnico-Administrativo (CTA)"]
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente no Conselho Técnico-Administrativo (CTA)"
+    ]
   }
 }
