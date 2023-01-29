@@ -10,7 +10,11 @@
 
 Visando facilitar e aumentar o contato dos estudantes com seus representantes discentes (RDs), o CAMat criou esta página para que estes possam fazer repasses do que tem acontecido nas comissões em que estão eleitos.
 
-Veja os repasses de cada comissão ou grupo de trabalho (GT):
+Confira abaixo os representantes discentes de cada curso e comissão:
+
+link:./rds/index.html[Representantes Discentes Atuais]
+
+Veja também os repasses de cada comissão ou grupo de trabalho (GT):
 
 link:./departamentos/index.html[Departamentos]
 

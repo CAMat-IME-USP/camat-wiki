@@ -1,0 +1,63 @@
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+
+    <!-- CSS dos RDs -->
+    <link rel="stylesheet" href="{{ site.url }}/css/rds.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/rds_atuais.css">
+</head>
+<body>
+    {% include menu.html %}
+
+    <main class="wrapper">
+        
+        <div class="menu">
+            <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        <div class="modal" id="modal_infoRD">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <section>
+                    <div class="modal-img">
+                        <img src="/images/rds/carometro/graduacao/ana_julia_modesto.jpg" id="foto_rd">
+                    </div>
+                    <div>
+                        <div class="nome_curso">
+                            <h2 id="nome_rd">Ana Júlia Modesto</h2>
+                            <h3 id="curso_rd">Licenciatura em Matemática</h3>
+                        </div>
+                        
+                        <ul id="cargos_rd">
+                            <li>Suplente no <i>Conselho de MAT</i></p></li>
+                        </ul>
+                        
+                        <div class="contato_rd">
+                            <strong>Contato</strong>
+                            <a href="#" id="contato_rd"></a>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+        
+        <section class="container">
+            <section class="lista_rds_atuais">
+                {{ content }}
+            </section>
+        </section>
+
+        {% include footer.html %}
+
+    </main>
+
+    {% include js_pos.html %}
+
+    <script src="{{ site.url }}/js/rds_atuais.js"></script>
+</body>
+</html>

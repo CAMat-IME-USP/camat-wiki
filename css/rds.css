@@ -6,7 +6,7 @@
  * Arquivo de estilização da página dos RDs.
  */
 
-.candidatura img, .candidatura_unica img {
+ .candidatura img, .candidatura_unica img {
     justify-self: center;
     max-width: 130px;
     max-height: 130px;
@@ -70,4 +70,35 @@ div.candidatura_infos p {
 h2 {
     text-align: center;
     font-weight: 800;
+}
+
+
+/* PARA OS RDS ATUAIS */
+th, td p {
+    text-align: center;
+}
+
+.lista_rds_atuais table {
+    display: table;
+}
+.lista_rds_atuais tr {
+    justify-content: center;
+}
+.lista_rds_atuais h2 {
+    font-size: 24px;
+    width: 100%;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+.lista_rds_atuais h3 {
+    font-size: 20px;
+    text-align: left;
+    font-weight: 900;
+}
+.lista_rds_atuais th, .lista_rds_atuais td, .lista_rds_atuais tr, .lista_rds_atuais td p {
+    font-size: 15px;
+    padding: 0px;
+    margin: 0px;
 }

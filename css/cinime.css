@@ -60,6 +60,7 @@ section#sinopse p{
 }
 .slider-container li img {
     width: 220px;
+    height: 220px;
 }
 .slider-container li b {
     font-size: 18px;
@@ -69,4 +70,14 @@ section#sinopse p{
     transform: translateY(-50%);
     visibility: visible;
     background-color: rgb(77,9,8) !important;
+}
+
+.cinime-mimea ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cinime-mimea ul li img{
+    width: 100%;
+    height: 100%;
 }
