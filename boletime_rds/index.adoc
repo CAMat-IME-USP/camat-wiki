@@ -12,7 +12,7 @@ Visando facilitar e aumentar o contato dos estudantes com seus representantes di
 
 Confira abaixo os representantes discentes de cada curso e comissão:
 
-link:./rds/index.html[Representantes Discentes Atuais]
+link:./rds/index.html[Representantes discentes atuais]
 
 Veja também os repasses de cada comissão ou grupo de trabalho (GT):
 
