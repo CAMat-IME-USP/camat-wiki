@@ -8,6 +8,8 @@ A wiki camatiana vem a ser o multi-canal do CAMat, um espaço de transparência
 -- administrativa e financeira -- e comunicação entre a gestão do CAMat e a 
 galera do IME.
 
+Para entender +/- como funciona o site, veja a https://tree.taiga.io/project/potalej-camat-wiki/wiki/home[documentação].
+
 == Detalhes Técnicos
 
 O site é baseado no gerador de sites estáticos https://jekyllrb.com/[Jekyll] e 
