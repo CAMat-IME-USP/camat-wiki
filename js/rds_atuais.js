@@ -65,12 +65,14 @@ function atualizarModal (nome) {
 
   // contato
   let celular_rd = document.getElementById("celular_rd")
+  celular_rd.innerHTML = ""
   if (infos[nome]["celular"] != "") {
     celular_rd.href = "tel:" + infos[nome]["celular"]
     celular_rd.textContent = "☎️ " + formatarTelefone(infos[nome]["celular"])
   }
 
   let email_rd = document.getElementById("email_rd")
+  email_rd.innerHTML = ""
   if (infos[nome]["email"] != "") {
     email_rd.href = "mailto:" + infos[nome]["email"]
     email_rd.textContent = "✉️" + infos[nome]["email"]
