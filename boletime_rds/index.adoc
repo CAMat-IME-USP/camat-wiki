@@ -22,4 +22,6 @@ link:./coc/index.html[Comissão Coordenadora de Curso (CoC)]
 
 link:./congregacao_cg/index.html[Congregação e Comissão de Graduação (CG)]
 
+link:./cta/index.html[Conselho Técnico-Administrativo (CTA)]
+
 link:./gts/acolhime/index.html[GT de Acolhimento (AcolhIME)]
