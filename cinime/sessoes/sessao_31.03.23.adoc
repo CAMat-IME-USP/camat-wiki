@@ -1,0 +1,6 @@
+= Pearl (2022)
+:page-date: 2023-03-31
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_310323.png }
+:page-sinopse: [ "[SESSÃO ADIADA PARA 31/03]", "Em 1918, a jovem Pearl está obcecada em se tornar uma grande estrela do cinema. Presa na fazenda isolada de sua família no interior do Texas, ela se vê obrigada a cuidar de seu pai doente depois de uma pandemia de gripe espanhola, e viver sob a vigilância constante de sua amarga e autoritária mãe devota. Desejando uma vida cheia de glamour que viu nos filmes, Pearl começa a enlouquecer e ter desejos assassinos quando seus sonhos são negados a ela.", "É neste enredo que vemos a origem da icônica vilã do filme X." ]
+:page-informacoes: { sala: B05 (bloco B do IME), horario: 14h00, dia: 31/03, dia_semana: sexta-feira }

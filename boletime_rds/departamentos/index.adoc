@@ -25,6 +25,21 @@ O problema é que, no cenário atual, caso as licenças (que vale reforçar, sã
 Isso pode agravar problemas que já estamos enfrentando, como a escassez de oferecimento de optativas, tanto na graduação quanto na pós, e uma qualidade inferior no ensino, devido a sobrecarga dos docentes. Esses problemas estão ligados diretamente aos estudantes e sobre os quais devemos nos atentar.
 --
 
+[.colapsador]
+--
+Reunião 15/03/2023 - Thiago Guelfi
+--
+
+[.repasse]
+--
+Foram discutidas a distribuição das vagas de Fuvest e SISU trazidas pelas CoCs. Não é mérito do departamento aprovar isso nesse momento, mas discutimos a taxa de evasão, especialmente no bacharelado, e por que razão ela seria mais alta entre alunos de SISU. A conclusão foi de que precisamos investigar melhor o assunto, que eu vou encaminhar ao CAMat também.
+
+Está sendo aberto concurso com algumas das vagas que a reitoria abriu para o IME. Serão feitos dois concursos com escopo amplo (análise, álgebra ou geometria). Foi sugerido que no segundo concurso houvesse o foco em professores da área de educação matemática.
+
+Foi votada a nova politica de afastamento do departamento, que é um assunto de muito interesse e polêmica entre os docentes. Havia uma quantidade muito grande de docentes pedindo afastamento para pesquisar em universidades fora do país e na atual situação de falta de professores, isso compromete a carga didática, sobrecarregando os docentes que permanecem do Brasil. A nova politica de  afastamento é menos permissiva, mas foi fruto do acumulo da discussão dos professores inclusive através de reuniões abertas entre eles. Chamo atenção novamente para o deficit de docentes que só poderá ser resolvido com novas contratações.
+--
+
+
 ### MAE
 
 Ainda sem repasses.
