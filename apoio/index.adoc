@@ -45,7 +45,7 @@ Sabendo que o acesso a materiais de estudo, como provas e listas anteriores, per
 == Banco de Provas
 
 Encontre provas antigas no 
-link:https://drive.google.com/drive/folders/0B0qfe1Tj7RTPUGJpSHdUaUo5LXM[Banco de Provas]. 
+link:https://tinyurl.com/provas-camat[Banco de Provas]. 
  
 Para que seja útil aos estudos, é importante que o Banco 
 de provas esteja devidamente atualizado - conforme o passar dos semestres - 
