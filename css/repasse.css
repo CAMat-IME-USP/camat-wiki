@@ -11,6 +11,11 @@
     color: #ba3925;    
     font-size: 20px;
 }
+.subcolapsador {
+    cursor: pointer;
+    color: #ba3925;    
+    font-size: 20px;
+}
 
 .repasse {
     display: none;
@@ -20,4 +25,13 @@
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
+}
+
+.subrepasse {
+    display: none;
+    overflow: hidden;
+    background-color: #eee;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
 }

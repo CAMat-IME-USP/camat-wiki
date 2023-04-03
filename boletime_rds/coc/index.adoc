@@ -5,6 +5,8 @@
 
 ## Comissão Coordenadora de Curso (CoC)
 
+### Bacharelado em Matemática Aplicada e Computacional (BMAC)
+
 [.colapsador]
 --
 Reunião 07/2022 - Sil
@@ -29,4 +31,18 @@ Há mais detalhes nas grades disponíveis no JupiterWeb.
 Serão disponibilizadas playlists dos cursos de estatística, além da oferta de disponibilidade de alguns professores, para repor eventuais deficiências acadêmicas. Também será analisada a possibilidade de monitoria fora de época.
 
 Além disso, reclamações foram apontadas e debatidas quanto à disciplina MAP2212 (Laboratório de Computação e Simulação), e ficou-se de conversar com o professor.
+--
+
+### Bacharelado em Matemática (BM)
+
+[.colapsador]
+--
+Reunião 03/2023 - Anny Beatriz
+--
+
+[.repasse]
+--
+++++
+include::sub/bm_202303.html[]
+++++
 --
