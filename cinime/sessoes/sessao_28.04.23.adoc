@@ -1,0 +1,6 @@
+= Battle Royale (2000)
+:page-date: 2023-04-28
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_280423.png }
+:page-sinopse: [ 'Do diretor Kinji Fukasaku, a produção japonesa retrata uma sociedade futura cujo governo, sob a realização de um experimento "revolucionário", decide capturar uma turma de estudantes do nono ano e forçar a se matarem até restar apenas um.' ]
+:page-informacoes: { sala: B05, horario: 14h00, dia: 28/04, dia_semana: sexta-feira }
