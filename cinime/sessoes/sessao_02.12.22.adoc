@@ -1,0 +1,6 @@
+= 🇧🇷 Copa no CinIME!
+:page-date: 2022-12-02
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_021222.png }
+:page-sinopse: [ '🇧🇷 É COPA NO CINIME!!1!ONZE!!!11!!!', 'Nesta sexta-feira (02/12), iremos transmitir ao vivo o jogo Brasil x Camarões! Venham todes sofrer, se emocionar, passar raiva juntos em mais um jogo da nossa seleção (que já está classificada pras oitavas de final!).', 'A IME-Chan já tá pronta, e vocês?' ]
+:page-informacoes: { sala: B09, horario: 16h00, dia: 02/12, dia_semana: sexta-feira }
