@@ -1,0 +1,6 @@
+= Decisão de Partir (2022) e Transmissão do Óscar
+:page-date: 2023-03-11
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_110323.png }
+:page-sinopse: [ 'Como contraponto ao Oscar, o CinIME propõe o prêmio Torrent Toroidal de Ouro, exibindo no sábado o filme coreano Decisão de Partir (2022) que, apesar de ter sido premiado em outros eventos como o Festival de Cannes, não chegou a ser indicado em nenhuma categoria do Oscar. Ainda, visto que a cerimônia de premiação do Oscar desse ano não será exibida em nenhum canal aberto de televisão, o CinIME propõe também a sua transmissão esse domingo (12/03) via Discord a fim de democratizar o acesso a esse tipo de conteúdo.', 'Dirigido poir Park Chan-Wook, Decisão de Partir conta a história de um detetive eficaz e meticuloso que investiga um possível assassinato em uma localidade remota no meio das montanhas. No local, ele começa a desenvolver um relacionamento amoroso com a viúva da vítima, que é considerada a principal suspeita.' ]
+:page-informacoes: { sala: discord, horario: 15h00, dia: 11/03, dia_semana: sábado }

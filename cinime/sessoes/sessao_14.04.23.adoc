@@ -1,0 +1,6 @@
+= O Fabuloso Destino de Amélie Poulain (2001)
+:page-date: 2023-04-14
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_140423.png }
+:page-sinopse: [ 'Após deixar a vida de subúrbio que levava com a família, a inocente Amélie muda-se para o bairro parisiense de Montmartre e certo dia encontra uma caixa escondida no banheiro de sua casa. Pensando que pertencesse ao antigo morador, decide anonimamente retornar o pertence ao dono. Ao ver que ele chora de alegria ao reaver o seu objeto, a moça fica impressionada e adquire uma nova visão do mundo. Então, a partir de pequenos gestos, ela passa a ajudar as pessoas que a rodeiam, vendo nisto um novo sentido para sua existência.' ]
+:page-informacoes: { sala: B05, horario: 14h00, dia: 14/04, dia_semana: sexta-feira }

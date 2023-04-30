@@ -48,7 +48,7 @@
                         {% for pagina in paginas %}
                         
                             <li>
-                                <img src="{{ site.urlImagens }}/cinime/mimea/{{ pagina }}" alt="">
+                                <img src="{{ site.urlImagens }}/cinime/{{ prox_sessao.header.diretorio }}/{{ pagina }}" alt="">
                             </li>
         
                         {% endfor %}
@@ -117,11 +117,16 @@
                     <strong>⏰</strong>{{ prox_sessao.informacoes.horario }}<br>
                 {% else %}
                     {{ prox_sessao.informacoes.dia }}<br>
-                    <strong>🎬</strong> <a href="{{ site.url }}/arquivos/cinime/I_Mostra_IMEana_de_Animação.pdf" target="_blank">Programação completa.</a><br>
+                    {% if prox_sessao.informacoes.programacao != "" %}
+                        <strong>🎬</strong> <a href="{{ site.url }}/arquivos/cinime/{{ prox_sessao.informacoes.programacao }}" target="_blank">Programação completa.</a><br>
+                    {% endif %}
                 {% endif %}                
                 {% if prox_sessao.informacoes.sala == "discord" %}
                 <strong>📍</strong> Discord do CinIME<br>
                 <strong>🔗</strong><a href="{{ site.discord_cinime }}" target="_blank">{{ site.discord_cinime }}</a><br>
+                {% elsif prox_sessao.informacoes.sala == "cinusp_ma" %}
+                <strong>📍</strong> CinUSP - Maria Antônia<br>
+                <strong>🔗</strong><a href="{{ site.site_cinusp }}" target="_blank">CinUSP</a><br>
                 {% else %}
                 <strong>📍</strong> Sala {{ prox_sessao.informacoes.sala }}<br>
                 <strong>🍿</strong> Teremos pipoca!

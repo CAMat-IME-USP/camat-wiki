@@ -38,6 +38,8 @@ telegram: camat_usp
 repository: camat-usp/camat-wiki
 discord_cinime: https://discord.gg/qDfXUMVm6j
 
+site_cinusp: http://200.144.255.199/
+
 # Se tiver plugins, chama eles aqui embaixo
 plugins:
   - jekyll-minifier
