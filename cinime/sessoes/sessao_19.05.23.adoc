@@ -1,0 +1,6 @@
+= Maquia (2018)
+:page-date: 2023-05-19
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_190523.png }
+:page-sinopse: [ "Direção de Mari Okada, o filme retrata a jornada de Maquia, jovem imortal, ao escapar de uma guerra e encontrar um pequeno sobrevivente: uma criança humana. Logo, Maquia decide criá-lo como seu filho e terá de encarar o tempo que os separam.", "O CinIME traz esse filme para falarmos sobre maternidade." ]
+:page-informacoes: { sala: B05 (bloco B do IME), horario: 14h00, dia: 19/05, dia_semana: sexta-feira }
