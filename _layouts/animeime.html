@@ -1,0 +1,63 @@
+<!-- 
+ * CAMat-Wiki!
+ * Centro Academico da Matematica, Estatistica e Computacao da Universidade de Sao Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Este eh o layout basico da pagina do BoletIME!
+-->
+
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+
+    <!-- CSS do An(IME)² -->
+    <link rel="stylesheet" href="{{ site.url }}/css/animeime.css">
+</head>
+<body>
+    {% include menu.html %}
+
+    <main class="wrapper">
+        
+        <div class="menu">
+            <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        <section class="container">
+            {{ content }}
+                        
+            <br>
+
+            <div class="galeria">
+            </div>
+
+            <div class="paginas" id="paginas_baixo">
+
+            </div>
+        </section>
+
+        
+        {% include footer.html %}
+      </main>
+      
+      <div class="foto_grande">
+        <div>
+          <div class="botaoFechar">X</div>
+        </div>
+        <div class="foto_fotogrande">
+          <img src="" alt="" id="foto_grande_img">
+        </div>
+      </div>
+
+    <!-- JavaScript do BoletIME -->
+    <script>
+      let dir = '{{ site.url }}'
+    </script>
+    <script src="{{ site.url }}/js/animeime.js"></script>
+
+    {% include js_pos.html %}
+</body>
+</html>
