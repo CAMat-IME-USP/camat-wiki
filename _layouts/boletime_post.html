@@ -1,0 +1,97 @@
+<!-- 
+ * CAMat-Wiki!
+ * Centro Academico da Matematica, Estatistica e Computacao da Universidade de Sao Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Este eh o layout basico da pagina do BoletIME!
+-->
+
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+
+    <!-- css do boletIME -->
+    <link rel="stylesheet" href="{{ site.url }}/css/boletime.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/boletime_post.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    {% include menu.html %}
+
+    <main class="wrapper">
+        
+        <div class="menu">
+          <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        <div class="boletIME-post-capa" style="background-image: url('{{ page.capa }}')">
+          <!-- <img src="{{ page.capa }}" alt="Capa do BoletIME"> -->
+          <div class="container boletIME-post-titulo">
+            <div>
+              {{ page.title }}
+              <h2 class="subtitulo">{{ page.subtitle }}</h2>
+            </div>
+          </div>
+        </div>
+
+        <section class="container boletIME-post-texto">
+          <div class="boletIME-post-pos-cabecalho">
+            <div class="boletIME-post-pos-cabecalho-tags">
+              {% for tag in page.tags %}
+                <div class="boletIME-post-tag boletIME-post-tag-{{ tag }}">
+                  {{ tag }}
+                </div>
+              {% endfor %}
+            </div>
+            
+            <p>
+              <i class="fa-regular fa-calendar"></i> {{ page.data }}
+            </p>
+          </div>
+
+          <div class="boletIME-post-texto-conteudo">
+            {{ content }}  
+          </div>
+        </section>
+
+        <section class="container boletIME-post-postexto">
+          <span>
+            Curtiu? Compartilha com a galera aí
+          </span>
+          <br>
+          <div class="boletIME-post-compartilhar">
+            <div class="boletIME-post-botao-compartilhar">
+              <i class="fa-brands fa-whatsapp"></i>
+            </div>
+            <div class="boletIME-post-botao-compartilhar">
+              <i class="fa-brands fa-facebook"></i>
+            </div>
+            <div class="boletIME-post-botao-compartilhar">
+              <i class="fa-brands fa-instagram"></i>
+            </div>
+            <div class="boletIME-post-botao-compartilhar">
+              <i class="fa-brands fa-twitter"></i>
+            </div>
+            <div class="boletIME-post-botao-compartilhar">
+              <i class="fa-brands fa-telegram"></i>
+            </div>
+            <div class="boletIME-post-botao-compartilhar">
+              <i class="fa-solid fa-print"></i>
+            </div>
+          </div>
+        </section>
+        
+        {% include footer.html %}
+    </main>
+
+    <!-- JavaScript do BoletIME -->
+    <script src="{{ site.url }}/js/boletime.js"></script>
+
+    {% include js_pos.html %}
+</body>
+</html>

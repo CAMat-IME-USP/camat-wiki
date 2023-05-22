@@ -1,0 +1,25 @@
+= O Crusp em três atos
+:page-subtitle: Ato I: Na Ditadura
+:page-data: "09 de maio de 2023"
+:page-layout: boletime_post
+:page-capa: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2018/12/20181214_barreira_crusp_1968_1280px.jpg?w=1280&ssl=1
+:page-tags: ['Crusp', 'Histórico']
+
+O Conjunto Residencial da Universidade de São Paulo (CRUSP) serve além de alojamento para alunos de baixa renda da USP, mas também é um símbolo da resistência e luta estudantil. Em 1963 o CRUSP nasce com o objetivo de abrigar os atletas dos jogos Pan Americanos e, após os jogos, abrigar os estudantes da USP. Logo de início o CRUSP é palco das lutas estudantis, quando o reitor Luiz Antônio da Gama e Silva não permitiu a liberação para os estudantes morarem, então 30 apartamentos foram ocupados por estudantes em forma de protesto, dando início à resistência estudantil no CRUSP. Em 1967 o CRUSP já era o centro do movimento estudantil de São Paulo, com seus moradores participando avidamente da luta contra a ditadura militar.
+
+[.img]
+--
+image::https://i.postimg.cc/6qCXTpdW/image.png[Foto do CRUSP]
+_Crusp em meados da década de 60._ +
+_Fonte: Arquivo da Faculdade de Arquitetura e Urbanismo da USP_
+--
+
+Foi em 17 de dezembro de 1968, pouco depois da instituição do AI-5, que tropas do exército invadiram e ocuparam o CRUSP, fecharam a Banca da Cultura, argumentando que a livraria fazia parte do movimento estudantil, e prenderam entre 800 a 1000 estudantes. Após a ocupação dos militares, houve uma exposição dos itens “subversivos” apreendidos no CRUSP, livros sobre a reforma agrária foram expostos no objetivo de manchar a imagem dos moradores, como baderneiros comunistas. Para continuar a série de violências e opressões, 4 meses após a invasão começa mais uma caça aos docentes da USP.
+
+Com o tempo, apesar da problemática década de 70, o CRUSP foi reaberto, recebendo apenas estudantes da pós-graduação e, eventualmente, os alunos de graduação que precisavam de residência estudantil.
+
+[.img]
+--
+image::https://i.postimg.cc/vTyQrn8g/image.png[Tanque do exército na invasão do CRUSP em 1968 e trincheira de moradores.]
+Em cima: tanque do exército durante a invasão do CRUSP em 68; em baixo: trincheira formada por moradores durante a invasão do exército em 68. _Fonte: jornal da USP_
+--

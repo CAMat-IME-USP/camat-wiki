@@ -1,0 +1,111 @@
+/**
+ * CAMat-Wiki!
+ * Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Arquivo de estilização de posts do BoletIME.
+ */
+
+.boletIME-post-capa {
+  width: 100%;
+  height: 350px;
+  margin-right: 8px;
+  padding: 0px;
+  box-shadow: inset 0 0 99999px rgba(0, 0, 0, 1);
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.boletIME-post-capa img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  fill: black;
+}
+/* titulo do post */
+.boletIME-post-titulo {
+  height: 100%;
+}
+.boletIME-post-titulo > div {
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bolder;
+  font-size: 80px;
+  position: absolute;
+  bottom: 0;
+}
+.boletIME-post-titulo div .subtitulo {
+  font-size: 45px;
+  font-weight: bolder;
+}
+.boletIME-post-texto {
+  padding-top: 0px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.boletIME-post-texto .img {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boletIME-post-texto .img div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 45%;
+  text-align: center !important;
+}
+.boletIME-post-texto .img div p {
+  text-align: center !important;
+  font-size: small;
+}
+
+.boletIME-post-pos-cabecalho {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.boletIME-post-pos-cabecalho-tags {
+  display: flex;
+  grid-gap: 10px;
+}
+
+/* tags */
+.boletIME-post-tag {
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 16px;
+  line-height: 16px;
+  margin: 5px 0px;
+}
+.boletIME-post-tag-Crusp {
+  background-color: rgb(162, 103, 218);
+}
+.boletIME-post-tag-Histórico {
+  background-color: rgb(50, 114, 231);
+}
+
+.boletIME-post-postexto {
+  display: flex;
+  justify-content: space-evenly;
+}
+.boletIME-post-compartilhar {
+  display: flex;
+}
+.boletIME-post-botao-compartilhar {
+  font-size: 20px;
+  line-height: 20px;
+  padding: 5px;
+  margin: 0px 3px;
+  background-color: var(--highlight-color);
+  color: white;
+  border-radius: 10px;
+}
+.boletIME-post-botao-compartilhar:hover {
+  cursor: pointer;
+}
