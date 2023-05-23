@@ -1,0 +1,6 @@
+= Solaris (1972)
+:page-date: 2023-05-26
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_260523.png }
+:page-sinopse: [ "Direção de Andrei Tarkovsky, Solaris é um filme de ficção científica produzido na URSS. Inspirado no livro de Stanislaw Lem, Tarkovsky busca fazer um contraponto às ficções científicas propagadas no Ocidente e trazer mais caldo ao debate sobre tecnologia e humanidade.", "Nesse espírito, o filme retrata a jornada do psicólogo Kris Kelvin em se juntar aos cientistas na nave-estação ao redor do planeta Solaris e avaliar os estudos feitos e se devem ser continuados ou todos retornarem à Terra." ]
+:page-informacoes: { sala: B05 (bloco B do IME), horario: 14h00, dia: 26/05, dia_semana: sexta-feira }
