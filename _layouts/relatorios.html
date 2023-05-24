@@ -1,0 +1,98 @@
+<!-- 
+ * CAMat-Wiki!
+ * Centro Academico da Matematica, Estatistica e Computacao da Universidade de Sao Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Este eh o layout basico da pagina de relatorios!
+-->
+
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+
+    <!-- css dos relatórios -->
+    <link rel="stylesheet" href="{{ site.url }}/css/relatorios.css">
+</head>
+<body>
+    {% include menu.html %}
+
+    <main class="wrapper">
+        
+        <div class="menu">
+            <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        <section class="container">
+            {{ content }}
+            
+            <br>
+
+            <div class="relatorios">
+
+              <a href="./Errata_Relatorio_Grad_Cancelamento_do_Semestre.pdf" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens }}/relatorios/relatorio_papfe_2023.jpg" alt="">
+                </div>
+                <div class="relatorio-titulo">
+                  Atividades Online Durante a Quarentena
+                </div>
+              </a>
+
+              <a href="../quarentena" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens }}/relatorios/atividades_online_quarentena/computer-pixelart.png" alt="">
+                </div>
+                <div class="relatorio-titulo">
+                  Atividades Online Durante a Quarentena
+                </div>
+              </a>
+
+              <a href="Relatorio_Cola_em_prova.pdf" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens }}/relatorios/cola_em_prova.jpg" alt="Capa do relatório, com o título igual ao abaixo, seguido do nome do Centro Acadêmico.">
+                </div>
+                <div class="relatorio-titulo">
+                  Cola em prova (2020)
+                </div>
+              </a>
+
+              <a href="Relatorio_Grad_Cancelamento_do_Semestre.pdf" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens }}/relatorios/cancelamento_semestre.jpg" alt="Capa do relatório, com o título igual ao abaixo, seguido do nome do Centro Acadêmico.">
+                </div>
+                <div class="relatorio-titulo">
+                  [Graduação] Cancelamento do Semestre (2020)
+                </div>
+              </a>
+
+              <a href="Errata_Relatorio_Grad_Cancelamento_do_Semestre.pdf" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens }}/relatorios/Errata_Relatorio_Grad_Cancelamento_do_Semestre.jpg" alt="Primeira página da errata.">
+                </div>
+                <div class="relatorio-titulo">
+                  Errata - Cancelamento do Semestre (2020)
+                </div>
+              </a>
+
+              <a href="Relatorio_PosGrad_Reorganizacao_do_Semestre.pdf" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens}}/relatorios/Relatorio_PosGrad_Reorganizacao_do_Semestre.jpg">
+                </div>
+                <div class="relatorio-titulo">
+                  [Pós-Graduação] Reorganização do Semestre (2020)
+                </div>
+              </a>
+            </div>
+
+        </section>
+        
+        {% include footer.html %}
+    </main>
+
+    {% include js_pos.html %}
+</body>
+</html>

@@ -1,10 +1,9 @@
-= Arquivos
-:page-categories: section
-:page-layout: arquivos
+= Relatórios
+:page-layout: relatorios
 :showtitle:
 
 // CAMat-Wiki!
 // Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
 // https://camat.ime.usp.br/
 //  
-// Página inicial dos arquivos.
+// Subdiretório de relatórios.

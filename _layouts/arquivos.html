@@ -1,0 +1,71 @@
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+
+    <!-- css dos arquivos -->
+    <link rel="stylesheet" href="{{ site.url }}/css/arquivo.css">
+</head>
+<body>
+    {% include menu.html %}
+
+    <main class="wrapper">
+
+        <div class="menu">
+            <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        <section class="container">
+
+          {{ content }}
+          
+          <div class="arquivo-secoes">
+
+            <a href="boletime" class="arquivo-secao">
+              <div class="arquivo-secao-capa">
+                {% include newspaper-regular.svg %}
+              </div>
+              <div class="arquivo-secao-titulo">
+                BoletIME
+              </div>
+            </a>
+
+            <a href="relatorios" class="arquivo-secao">
+              <div class="arquivo-secao-capa">
+                {% include database-solid.svg %}
+              </div>
+              <div class="arquivo-secao-titulo">
+                Relatórios
+              </div>
+            </a>
+
+            <a href="Estatuto_vigente_CAMat.pdf" class="arquivo-secao">
+              <div class="arquivo-secao-capa">
+                {% include file-solid.svg %}
+              </div>
+              <div class="arquivo-secao-titulo">
+                Estatuto
+              </div>
+            </a>
+
+            <a href="regulamentos" class="arquivo-secao">
+              <div class="arquivo-secao-capa">
+                {% include file-signature-solid.svg %}
+              </div>
+              <div class="arquivo-secao-titulo">
+                Regulamentos
+              </div>
+            </a>
+
+          </div>
+        </section>
+        
+        {% include footer.html %}
+    </main>
+
+    {% include js_pos.html %}
+</body>
+</html>
