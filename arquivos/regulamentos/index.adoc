@@ -1,4 +1,4 @@
 = Regulamentos
+:page-layout: regulamentos
 :showtitle:
 
-Aqui ficam os regulamentos
