@@ -1,0 +1,7 @@
+= Adeus, Lênin (2003) | cinime em novo horário 😎
+:page-date: 2023-06-02
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_020623.png }
+:page-descricao: ["👉 Atendendo a aclamação pública, o CinIME voltará a transmitir o filme às 16h! Agora, sem desculpas para não vir, viu?" ]
+:page-sinopse: [ "O filme da vez será Adeus, Lênin (2003) dirigido por Wolfgang Becker. A história retrata a Berlim Oriental sendo transformada pela tomada capitalista após a queda do Muro de Berlim. Enquanto isso, o jovem Alexander busca esconder a realidade de sua mãe que entrou em coma antes da queda do Muro, e teme que as mudanças prejudiquem a saúde de sua mãe." ]
+:page-informacoes: { sala: B05 (bloco B do IME), horario: 16h00, dia: 02/06, dia_semana: sexta-feira }
