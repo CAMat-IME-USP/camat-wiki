@@ -1,9 +1,12 @@
 = O Crusp em três atos
 :page-subtitle: Ato I: Na Ditadura
+:page-id: crusp_tres_atos_1
 :page-data: "09 de maio de 2023"
 :page-layout: boletime_post
+:page-categories: [boletime_post]
 :page-capa: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2018/12/20181214_barreira_crusp_1968_1280px.jpg?w=1280&ssl=1
 :page-tags: ['Crusp', 'Histórico']
+:page-autoria: 'CAMat - Gestão Chapa Integrar'
 
 O Conjunto Residencial da Universidade de São Paulo (CRUSP) serve além de alojamento para alunos de baixa renda da USP, mas também é um símbolo da resistência e luta estudantil. Em 1963 o CRUSP nasce com o objetivo de abrigar os atletas dos jogos Pan Americanos e, após os jogos, abrigar os estudantes da USP. Logo de início o CRUSP é palco das lutas estudantis, quando o reitor Luiz Antônio da Gama e Silva não permitiu a liberação para os estudantes morarem, então 30 apartamentos foram ocupados por estudantes em forma de protesto, dando início à resistência estudantil no CRUSP. Em 1967 o CRUSP já era o centro do movimento estudantil de São Paulo, com seus moradores participando avidamente da luta contra a ditadura militar.
 

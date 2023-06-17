@@ -68,11 +68,19 @@
   display: flex;
   flex-direction: column;
   width: 100%;
-  margin-bottom: 1rem;
+  margin-bottom: 2.5rem;
 }
 .boletIME-post-pos-cabecalho-tags {
   display: flex;
   grid-gap: 10px;
+}
+.boletIME-post-texto-conteudo p {
+  text-indent: 30px;
+}
+
+.boletIME-post-cabecalho-info {
+  display: flex;
+  justify-content: space-between;
 }
 
 /* tags */
@@ -82,6 +90,7 @@
   font-size: 16px;
   line-height: 16px;
   margin: 5px 0px;
+  color: white;
 }
 .boletIME-post-tag-Crusp {
   background-color: rgb(162, 103, 218);
@@ -108,4 +117,86 @@
 }
 .boletIME-post-botao-compartilhar:hover {
   cursor: pointer;
+  color: white;
+}
+
+/* outros posts (recomendacoes) */
+.boletime-post-recomendacoes {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  row-gap: 20px;
+}
+.boletime-post-recomendacao {
+  height: 200px;
+  display: grid;
+  border-radius: 10px;
+  background-color: var(--header-color);
+  grid-template-columns: 25% 75%;
+}
+.boletime-post-recomendacao-capa {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 200px;
+}
+.boletime-post-recomendacao-conteudo {
+  padding: 20px 20px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  color: black;
+}
+.boletime-post-recomendacao-titulo {
+  text-align: left;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.boletime-post-recomendacao-data {
+  margin-top: 9px;
+  font-size: 13px;
+}
+.boletime-post-recomendacao-resumo {
+  overflow: hidden;
+  height: 200px;
+  font-size: 13px;
+}
+.boletime-post-recomendacao:hover .boletime-post-recomendacao-conteudo {
+  background-color: var(--highlight-color);
+  color: white;
+}
+.boletime-post-recomendacao:hover .boletime-post-recomendacao-capa {
+  border: 3px outset var(--highlight-color);
+}
+.boletime-post-recomendacao-autoria {
+  margin-top: 5px;
+}
+
+@media all and (max-width: 799px) {
+  .boletIME-post-titulo > div {
+    text-align: left;
+    font-size: 60px;
+  }
+  .boletime-post-recomendacao-titulo {
+    font-size: 18px;
+  }
+  .boletime-post-recomendacao-autoria {
+    font-size: 12px;
+  }
+  .boletime-post-recomendacao-conteudo-header {
+    display: flex;
+  }
+  .boletIME-post-texto .img div {
+    width: 70%;
+  }
+  .boletIME-post-texto .img div p {
+    font-size: 14px;
+  }
+}
+
+@media all and (max-width: 530px) {
+  .boletIME-post-postexto {
+    flex-direction: column;
+  }
 }

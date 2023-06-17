@@ -49,9 +49,14 @@
               {% endfor %}
             </div>
             
-            <p>
-              <i class="fa-regular fa-calendar"></i> {{ page.data }}
-            </p>
+            <div class="boletIME-post-cabecalho-info">
+              <div class="boletIME-post-cabecalho-autor">
+                <i>Por <b>{{ page.autoria }}</b></i>
+              </div>
+              <div class="boletIME-post-cabecalho-data">
+                <i class="fa-regular fa-calendar"></i> {{ page.data }}
+              </div>
+            </div>
           </div>
 
           <div class="boletIME-post-texto-conteudo">
@@ -65,25 +70,29 @@
           </span>
           <br>
           <div class="boletIME-post-compartilhar">
-            <div class="boletIME-post-botao-compartilhar">
+            <a class="boletIME-post-botao-compartilhar">
               <i class="fa-brands fa-whatsapp"></i>
-            </div>
-            <div class="boletIME-post-botao-compartilhar">
+            </a>
+            <a class="boletIME-post-botao-compartilhar">
               <i class="fa-brands fa-facebook"></i>
-            </div>
-            <div class="boletIME-post-botao-compartilhar">
+            </a>
+            <a class="boletIME-post-botao-compartilhar">
               <i class="fa-brands fa-instagram"></i>
-            </div>
-            <div class="boletIME-post-botao-compartilhar">
+            </a>
+            <a class="boletIME-post-botao-compartilhar">
               <i class="fa-brands fa-twitter"></i>
-            </div>
-            <div class="boletIME-post-botao-compartilhar">
+            </a>
+            <a class="boletIME-post-botao-compartilhar">
               <i class="fa-brands fa-telegram"></i>
-            </div>
-            <div class="boletIME-post-botao-compartilhar">
+            </a>
+            <a class="boletIME-post-botao-compartilhar">
               <i class="fa-solid fa-print"></i>
-            </div>
+            </a>
           </div>
+        </section>
+
+        <section class="container boletIME-post-outros-posts">
+          {% include boletime_recomendacoes.html %}
         </section>
         
         {% include footer.html %}

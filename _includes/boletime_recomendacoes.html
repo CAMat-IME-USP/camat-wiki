@@ -1,0 +1,33 @@
+{% assign posts = site.pages | where: "categories", "boletime_post" | sort: "date" | limit: 2 %}
+
+<h3>Outros posts</h3>
+
+<div class="boletime-post-recomendacoes">
+  {% for post in posts %}
+    {% if page.id != post.id %}
+    <a href="#" class="boletime-post-recomendacao">
+      <div class="boletime-post-recomendacao-capa" style="background-image: url('{{ post.capa }}')">
+      </div>
+      <div class="boletime-post-recomendacao-conteudo">
+        <div class="boletime-post-recomendacao-titulo">
+          {% if post.subtitle %}
+          {{ post.title }}: {{ post.subtitle }}
+          {% else %}
+          {{ post.title }}
+          {% endif %}
+        </div>
+        <div class="boletime-post-recomendacao-resumo">
+          {{ post.resumo }}
+        </div>
+        
+        <div class="boletime-post-recomendacao-data">
+          <i class="fa-regular fa-calendar"></i> {{ post.data }}
+        </div>
+        <div class="boletime-post-recomendacao-autoria">
+          Por <b>{{ post.autoria }}</b>
+        </div>
+      </div>
+    </a>
+    {% endif %}
+  {% endfor %}
+</div>
