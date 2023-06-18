@@ -5,8 +5,8 @@
 <div class="boletime-post-recomendacoes">
   {% for post in posts %}
     {% if page.id != post.id %}
-    <a href="#" class="boletime-post-recomendacao">
-      <div class="boletime-post-recomendacao-capa" style="background-image: url('{{ post.capa }}')">
+    <a href="{{ site.url }}{{ post.url }}" class="boletime-post-recomendacao">
+      <div class="boletime-post-recomendacao-capa" style="background-image: url('{{ site.urlImagens }}/boletime/posts/{{ post.id }}/capa.jpg')">
       </div>
       <div class="boletime-post-recomendacao-conteudo">
         <div class="boletime-post-recomendacao-titulo">
