@@ -1,0 +1,6 @@
+= Drive My Car (2021)
+:page-date: 2023-06-19
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_190623.png }
+:page-sinopse: [ "No Japão, o ator e diretor de teatro Yûsuke Kafuku (Hidetoshi Nishijima) atingiu o sucesso na vida pessoal e profissional. Porém, quando a sua amada desaparece de repente, todo o seu mundo vira do avesso. Sofrendo com a dor da perda, ele contrata uma jovem motorista para dirigir o seu carro. Os dois viverão uma jornada única com o seu carro vermelho.", "👉 Começaremos a sessão uma hora mais cedo que o normal (às 15h) devido ao filme ter cerca de 3h!" ]
+:page-informacoes: { sala: B05 (bloco B do IME), horario: 15h00, dia: 19/06, dia_semana: sexta-feira }
