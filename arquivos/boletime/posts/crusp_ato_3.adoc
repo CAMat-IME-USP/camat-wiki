@@ -1,7 +1,8 @@
 = O Crusp em três atos
+:page-date: 2023-03-03
 :page-subtitle: Ato III - Lutas Atuais
 :page-id: crusp_ato_3
-:page-data: "09 de maio de 2023"
+:page-data: "03 de março de 2023"
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['Crusp', 'Histórico']

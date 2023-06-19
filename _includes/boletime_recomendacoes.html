@@ -1,4 +1,4 @@
-{% assign posts = site.pages | where: "categories", "boletime_post" | sort: "date" | limit: 2 %}
+{% assign posts = site.pages | where: "categories", "boletime_post" | sort: "date" | reverse | limit: 2 %}
 
 <h3>Outros posts</h3>
 

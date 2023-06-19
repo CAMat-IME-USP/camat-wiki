@@ -1,7 +1,8 @@
 = O Crusp em três atos
+:page-date: 2023-02-24
 :page-subtitle: Ato II -  Democratização e a última década
 :page-id: crusp_ato_2
-:page-data: "09 de maio de 2023"
+:page-data: "24 de fevereiro de 2023"
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['Crusp', 'Histórico']
