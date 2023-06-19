@@ -1,13 +1,9 @@
-= Blog
-:page-layout: blog
+= Blog BoletIME
+:page-layout: boletime_blog
 :page-categories: section
-:showtitle:
 
 // CAMat-Wiki!
 // Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
 // https://camat.ime.usp.br/
 //  
-// Página inicial do Blog.
-
-Textos informativos do que acontece nas rendondezas do CAMat^(TM)^.
-
+// Página inicial do Blog do BoletIME.
