@@ -1,4 +1,4 @@
-= Blog BoletIME
+= Blog
 :page-layout: boletimeblog
 :page-categories: section
 
