@@ -44,7 +44,11 @@
             <div class="boletIME-post-pos-cabecalho-tags">
               {% for tag in page.tags %}
                 <div class="boletIME-post-tag boletIME-post-tag-{{ tag }}">
-                  {{ tag }}
+                  {% if tag == "BoletIME" %}
+                    {{ tag }} {{ page.boletime }}
+                  {% else %}
+                    {{ tag }}
+                  {% endif %}
                 </div>
               {% endfor %}
             </div>

@@ -483,3 +483,12 @@ h6:hover > a.anchor {
 a.anchor::before {
     content: "\00A7";
 }
+
+/* blockquote para citacoes */
+.quoteblock blockquote {
+    margin-bottom: 0px;
+}
+.quoteblock .attribution {
+    text-align: right;
+    margin-bottom: 20px;
+}

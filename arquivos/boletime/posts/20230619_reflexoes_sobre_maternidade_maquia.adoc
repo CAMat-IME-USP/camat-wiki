@@ -1,0 +1,53 @@
+= Reflexões sobre maternidade em Maquia: When the Promised Flower Blooms
+:page-date: 2023-06-19
+// :page-subtitle: 
+:page-id: 20230619_reflexoes_sobre_maternidade_maquia
+:page-data: "19 de junho de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['CinIME', 'BoletIME']
+:page-boletime: 'Junho/2023'
+:page-autoria: 'Comissão Organizadora do CinIME'
+:page-resumo: ['Maquia: When the Promised Flower Blooms foi a escolha do CinIME para sessão seguinte ao Dia das Mães. A decisão não foi acidental, e este texto traz um pouco da intenção da Comissão Organizadora ao escolher este filme.']
+
+[.img]
+--
+image::boletime/posts/{page-id}/spoilers_maquia.png[Aviso com fundo preto e letras brancas dizendo: "Contém spoilers para Maquia: When the Promised Flower Blooms"]
+--
+
+[quote, Mari Okada, From Truant to Anime Screenwriter]
+--
+_"Minha mãe tropeçou. Cobri ela com um futon, subi em cima dela, e tirei a faca das mãos dela. Desde então, passei a viver em constante medo dela um dia me esfaquear enquanto eu dormia. Mas ela nunca mais tentou me matar."_
+--
+
+Dentro das ideias dominantes que capitalizam o valor das relações e conexões humanas - sejam românticas, de amizade, familiares, ou até mesmo aquelas que temos com nós próprios -, fica inevitável perceber que, não poucas vezes, é norteado as pequenas e grandes celebrações em cima da compra: do consumo. Desde exemplos explícitos como a ligação direta da Páscoa com chocolate, até exemplos mais minuciosos como vistos em propagandas de carro, que tendem a ligar uma ideia de “Sucesso” com a posse do veículo.
+
+Em meio a isso, surge uma dificuldade relativamente grande de, ao mesmo tempo, discutir sobre o que poderia ser entendido como valoroso mas que não termina em alguma forma de capitalização. No entanto, Mari Okada roteirizou e dirigiu uma resposta para esse aparente impasse na sua obra Maquia: When the Promised Flower Blooms.
+
+É de muita ironia, talvez, que a diretora do filme, que o CinIME propôs para ser exibido em comemoração ao Dia das Mães, teve um convívio perturbado com a sua própria mãe. Em sua autobiografia “From Truant to Anime Screenwriter”, Mari Okada relata uma infância reclusa e introvertida, tendo múltiplas instâncias de faltar na escola; seguida pela sua mãe que nunca soube exatamente como lidar com as suas questões particulares.
+
+[.img]
+--
+image::boletime/posts/{page-id}/sessao_190523.png[Divulgação do CinIME da exibição de Maquia.]
+_Divulgação do CinIME da exibição de Maquia._ +
+_Fonte: Arquivos do CAMat._
+--
+
+Nesse aspecto, Maquia não é a única obra em que Okada faz uma exploração na tentativa de, talvez, trazer sentido à maternidade - um tema muito recorrente nas suas obras. No entanto, Maquia é a única que traz um teor de introspecção da própria diretora em relação a si e à sua mãe.
+
+Tirando todos os elementos fantásticos, Maquia: When the Promised Flower Blooms é essencialmente uma história sobre uma garota que, indo contra a vontade da sua comunidade de permanecerem reclusos, decidiu adotar um bebê que encontrou vivo depois de um massacre. Assim, através das lentes de Maquia - a protagonista do filme -, Okada cria uma história de encontrar o significado das coisas através da interação com o outro e com o mundo, em um movimento contrário daquele vivenciado na sua infância autobiográfica. E é através dessa premissa que o filme explora, de maneira honesta, possíveis significados de ser mãe pelas várias óticas tanto da construção da personagem, quanto da construção do mundo fantástico da história.
+
+O ponto mais dominante do filme que contribui para a discussão da maternidade é o fato de que, rigorosamente falando, Maquia não é nem sequer humana - mas sim uma Iorph: uma espécie fictícia e praticamente imortal. Assim, logo de cara é colocada a discussão de “quem pode ser mãe?”. E sobre isso, o filme deixou uma resposta bem clara através tanto do fato de Ariel ser um filho adotado quanto pelo fato da Maquia não ser exatamente uma humana.
+
+Um outro ponto muito importante da discussão que o filme traz acerca da maternidade é o aspecto de crescimento do Ariel sob os cuidados da Maquia. Nisso, a história é muito direta com o que quer dizer, mostrando através de uma série de montagens de salto temporal o processo da Maquia - que não possui experiência de cuidar de uma criança - de aprender as minuciosas responsabilidades, problemas e implicações de ser uma mãe - ainda mais, uma mãe solteira. Dentro desse aspecto, por Maquia pertencer aos Iorphs e, por consequência, não envelhecer, é colocado um novo plano de significados quando se contextualiza a obra pela ótica da maternidade: em um determinado momento, Ariel se depara com a sua mãe tendo aparentemente a mesma idade que ele, criando uma espécie de “dissonância geracional”, sendo este um conflito recorrente na segunda metade do filme e, ao final, Ariel falece diante da própria mãe, que continua com a aparência jovem que sempre teve desde o início do filme.
+
+[.img]
+--
+image::boletime/posts/{page-id}/mariokada.jpg[Foto de Mari Okada sentada e de frente, tirada na estreia de Maquia.]
+_Mari Okada na estreia de Maquia._ +
+_Fonte: Divulgação externa._
+--
+
+Fugindo um pouco do escopo da maternidade, Maquia: When the Promised Flower Blooms é provocativo, também, em alguns outros tópicos, apesar de não serem exatamente o foco. Um desses tópicos é uma questão sobre racismo, mais especificamente da eugenia, como um dos principais conflitos da história deixou bem claro: humanos tentando criar híbridos com Iorphs a fim de superar a mortalidade - projeto que, no fim, falhou -. Outro tópico que o filme levanta possíveis discussões é a questão ambiental, dado que fica explícito pela narrativa que os humanos causaram a extinção dos Renatos - uma espécie de dragão - por abuso.
+
+Assim, pensando em uma forma diferente e mais genuína de celebrar o Dia das Mães, o CinIME trouxe, no dia 19 de maio de 2023, a exibição de Maquia: When the Promised Flower Blooms, rejeitando a capitalização em cima de uma ideia romantizada de maternidade e, ao mesmo tempo, colocando em pauta algumas das dificuldades de ser uma mãe - e, no caso do filme, explicitamente mãe solteira - através da habilidosa forma que Mari Okada tem de escrever histórias com grande peso emocional e genuinidade de conexão humana.

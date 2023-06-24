@@ -7,43 +7,7 @@
     <link rel="stylesheet" href="{{ site.url }}/css/boletime_post.css">
 
     <style>
-        .boletime-recomendacao-arquivo {
-            width: 100%;
-            height: 130px;
-            border-radius: 10px;
-            display: flex;
-            justify-content: center;
-        }
-        .boletime-post-recomendacao-capa-arquivo {
-            width: 60%;
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-            height: 100%;
-            border-radius: 10px;
-        }
-        .boletime-post-recomendacao-capa-arquivo div {
-            height: 100%;
-            width: 100%;
-            text-align: center;
-            background-color: rgba(0,0,0,0.6);
-            color: white;
-            font-size: 18px;
-            font-weight: bold;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            border-radius: 10px;
-            padding: 30px;
-        }
-
-        .boletime-recomendacao-arquivo:hover .boletime-post-recomendacao-capa-arquivo div {
-            background-color: rgba(186, 57, 37, 0.6);
-        }
-
-        .boletime-post-recomendacao-tags {
-          height: 30px;
-        }
+        
     </style>
 </head>
 
@@ -65,13 +29,13 @@
             <a href="{{ site.url }}/arquivos/boletime " class="boletime-recomendacao-arquivo">
                 <div class="boletime-post-recomendacao-capa-arquivo" style="background-image: url('{{ site.urlImagens }}/boletime/edicoes/202306_boletime_capa.png')">
                     <div>
-                    O BoletIME também sai em edições! Clique aqui e confira as edições anteriores!
+                    O BoletIME é também um jornal! Clique aqui e confira as edições anteriores!
                     </div>
                 </div>
             </a>
             
             <br>
-            <h1>{{ page.title }}</h1>
+            <h1 class="boletIME-blog-titulo">{{ page.title }}</h1>
             <br>
 
             {{ content }}
@@ -93,7 +57,11 @@
                         {% endif %}
                       </div>
                       <div class="boletime-post-recomendacao-tags">
-
+                        {% for tag in post.tags %}
+                          <div class="boletIME-post-recomendacao-tag boletIME-post-tag-{{ tag }}">
+                            {{ tag }}
+                          </div>
+                        {% endfor %}
                       </div>
                       <div class="boletime-post-recomendacao-resumo">
                         {{ post.resumo }}
