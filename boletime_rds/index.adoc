@@ -1,4 +1,4 @@
-= BoletIME RDs
+= RDs
 :page-categories: section
 :showtitle:
 
