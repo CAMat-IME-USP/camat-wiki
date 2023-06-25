@@ -1,0 +1,106 @@
+<!-- 
+ * CAMat-Wiki!
+ * Centro Academico da Matematica, Estatistica e Computacao da Universidade de Sao Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Este eh o layout basico da pagina de regulamentos!
+-->
+
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+
+    <!-- css dos relatórios -->
+    <link rel="stylesheet" href="{{ site.url }}/css/relatorios.css">
+</head>
+<body>
+    {% include menu.html %}
+
+    <main class="wrapper">
+        
+        <div class="menu">
+            <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        <section class="container">
+            {{ content }}
+            
+            <h2>Regimento - Debate eleitoral (CONUNE 2023)</h2>
+
+            <div class="relatorios">
+
+              <a href="{{ site.url }}/arquivos/regulamentos/20230612_DebateConune2023_regimento.pdf" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens }}/estatutos/20230612_DebateConune2023_regimento.jpg" alt="">
+                </div>
+                <div class="relatorio-titulo">
+                  [2023] Debate eleitoral - CONUNE 2023
+                </div>
+              </a>
+
+            </div>
+
+            <br>
+
+            <h2>An(IME)²</h2>
+
+            <div class="relatorios">
+
+              <a href="{{ site.url }}/arquivos/regulamentos/2023_RegulamentoConcursodeCosplay.pdf" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens }}/estatutos/2023_RegulamentoConcursodeCosplay.jpg" alt="">
+                </div>
+                <div class="relatorio-titulo">
+                  [2023] Regulamento Concurso de Cosplay
+                </div>
+              </a>
+
+              <a href="{{ site.url }}/arquivos/regulamentos/2023_AnIME_concursoBottons.pdf" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens }}/estatutos/2023_AnIME_concursoBottons.jpg" alt="">
+                </div>
+                <div class="relatorio-titulo">
+                  [2023] Regulamento Concurso de Bottons
+                </div>
+              </a>
+
+              <a href="{{ site.url }}/arquivos/regulamentos/2022_Regulamento_ConcursoCosplay.pdf" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens }}/estatutos/2022_Regulamento_ConcursoCosplay.jpg" alt="">
+                </div>
+                <div class="relatorio-titulo">
+                  [2022] Regulamento Concurso de Cosplay
+                </div>
+              </a>
+
+            </div>
+
+            <br>
+
+            <h2>Eleições</h2>
+
+            <div class="relatorios">
+
+              <a href="{{ site.url }}/arquivos/regulamentos/Edital_Eleição_CAMat2019.pdf" class="relatorio">
+                <div class="relatorio-capa">
+                  <img src="{{ site.urlImagens }}/estatutos/Edital_Eleição_CAMat2019.jpg" alt="">
+                </div>
+                <div class="relatorio-titulo">
+                  [2019] Edital Eleição CAMat
+                </div>
+              </a>
+
+            </div>
+
+        </section>
+        
+        {% include footer.html %}
+    </main>
+
+    {% include js_pos.html %}
+</body>
+</html>

@@ -76,6 +76,7 @@
     </section>
 
     <section id="sinopse" aria-level="2">
+        {% if especial == true || votacao == true || prox_sessao.sinose %}
         <h3>
             <a href="#sinopse" class="anchor" aria-hidden="true"></a>
             {% if especial == true %}
@@ -88,11 +89,16 @@
                 {% endif %}
             {% endif %}
         </h3>
+        {% endif %}
         {% for p in prox_sessao.sinopse %}
         <p>
             {{ p }}
         </p>
         {% endfor %}
+        {% if prox_sessao.forms %}
+            🔗 <a href="{{ prox_sessao.forms }}" target="_blank">{{ prox_sessao.forms }}</a>
+            <br><br>
+        {% endif %}
 
         {% if votacao == true %}
             📊 Votação até {{ prox_sessao.datafimvotacao }}
@@ -122,14 +128,19 @@
                     {% endif %}
                 {% endif %}                
                 {% if prox_sessao.informacoes.sala == "discord" %}
-                <strong>📍</strong> Discord do CinIME<br>
-                <strong>🔗</strong><a href="{{ site.discord_cinime }}" target="_blank">{{ site.discord_cinime }}</a><br>
+                    <strong>📍</strong> Discord do CinIME<br>
+                    <strong>🔗</strong><a href="{{ site.discord_cinime }}" target="_blank">{{ site.discord_cinime }}</a><br>
                 {% elsif prox_sessao.informacoes.sala == "cinusp_ma" %}
-                <strong>📍</strong> CinUSP - Maria Antônia<br>
-                <strong>🔗</strong><a href="{{ site.site_cinusp }}" target="_blank">CinUSP</a><br>
+                    <strong>📍</strong> CinUSP - Maria Antônia<br>
+                    <strong>🔗</strong><a href="{{ site.site_cinusp }}" target="_blank">CinUSP</a><br>
                 {% else %}
-                <strong>📍</strong> Sala {{ prox_sessao.informacoes.sala }}<br>
-                <strong>🍿</strong> Teremos pipoca!
+                    <strong>📍</strong> {{ prox_sessao.informacoes.sala }}<br>
+                    {% if prox_sessao.pipoca == true %}
+                        <strong>🍿</strong> Teremos pipoca e refri!<br>
+                    {% endif %}
+                    {% if prox_sessao.resenha == true %}
+                        <strong>🤙</strong> e resenha após o filme!
+                    {% endif %}
                 {% endif %}                
             </p>
         </section>

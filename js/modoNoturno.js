@@ -38,6 +38,7 @@ document.querySelector('.modal-content') ? elementosNoturnoExcecoes.push(documen
 
 // salva os elementos
 Array.prototype.slice.call(document.querySelectorAll('.repasse')).map(el => elementosNoturnoExcecoes.push(el))
+Array.prototype.slice.call(document.querySelectorAll('.arquivo-secao')).map(el => elementosNoturnoExcecoes.push(el))
 
 Array.prototype.slice.call(document.querySelectorAll('.boletime-post-recomendacao')).map(el => elementosNoturnoExcecoes.push(el))
 
