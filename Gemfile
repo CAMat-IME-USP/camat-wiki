@@ -25,6 +25,7 @@ gem 'haml', '~> 5.1', '>= 5.1.2'
 group :jekyll_plugins do
   gem 'jekyll-asciidoc', '~> 2.0.1'
   gem 'jekyll-minifier', '~> 0.1.10'
+  gem 'jekyll-paginate-v2'
 end
 
 # Windows e JRuby nao includem arquivos de "zoneinfo", entao usamos a gema tzinfo-data

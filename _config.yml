@@ -26,10 +26,10 @@ description: >- # isso daqui serve pra considerar todo o conteudo ate 'baseurl'
     Instituto de Matemática e Estatística da Universidade de São Paulo
     (IME USP).
 baseurl: "" # o "sub-caminho" do site, tipo /blog
-url: "https://camat.ime.usp.br" # o link em producao do site
-# url: "http://localhost:4000" # o link em desenvolvimento do site. No meu fica assim, talvez no seu tenha uma porta diferente
-urlImagens: "https://camat.ime.usp.br/images"
-# urlImagens: "http://localhost:4000/images" # idem
+# url: "https://camat.ime.usp.br" # o link em producao do site
+url: "http://localhost:4000" # o link em desenvolvimento do site. No meu fica assim, talvez no seu tenha uma porta diferente
+# urlImagens: "https://camat.ime.usp.br/images"
+urlImagens: "http://localhost:4000/images" # idem
 instagram: camat.usp
 twitter: camat_usp
 github: camat-usp
@@ -40,9 +40,29 @@ discord_cinime: https://discord.gg/qDfXUMVm6j
 
 site_cinusp: http://200.144.255.199/
 
+# para a paginacao do blog
+pagination:
+  # se quer usar ou nao o plugin
+  enabled: true
+  # qual colecao de arquivos eh a de posts
+  collection: posts
+  # quantos por pagina
+  per_page: 10
+  # Para definir o titulo do blog. Se quiser adicionar o numero da pagina eh so usar :num
+  title: ':title'
+  # link permanente da pagina
+  permalink: '/pag:num/'
+  # por qual campo ordenar
+  sort_field: date
+  # ordenar ao contrario
+  sort_reverse: true
+  # categoria de posts
+  category: posts
+
 # Se tiver plugins, chama eles aqui embaixo
 plugins:
   - jekyll-minifier
+  - jekyll-paginate-v2
 
 # Configuracoes do pre-processador AsciiDoc
 asciidoc: {}

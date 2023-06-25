@@ -6,9 +6,8 @@
     <link rel="stylesheet" href="{{ site.url }}/css/boletime.css">
     <link rel="stylesheet" href="{{ site.url }}/css/boletime_post.css">
 
-    <style>
-        
-    </style>
+    <!-- FontAesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 
 <body>
@@ -38,15 +37,39 @@
             <h1 class="boletIME-blog-titulo">{{ page.title }}</h1>
             <br>
 
+            <div class="index-paginas">
+              {% if paginator.total_pages > 1 %}
+              <div class="index-quantas-paginas">
+                Página {{ paginator.page }} de {{ paginator.total_pages }}
+              </div>
+              <ul>
+                {% if paginator.previous_page %}
+                  <li class="index-paginas-ativo" onclick="this.firstChild.click()"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
+                      <i class="fa-solid fa-caret-left"></i>
+                  </a></li>
+                {% else %}
+                  <li><i class="fa-solid fa-caret-left"></i></li>
+                {% endif %}
+                {% if paginator.next_page %}
+                  <li class="index-paginas-ativo" onclick="this.firstChild.click()"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">
+                      <i class="fa-solid fa-caret-right"></i>
+                  </a></li>
+                {% else %}
+                  <li><i class="fa-solid fa-caret-right"></i></li>
+                {% endif %}
+              </ul>
+              {% endif %}
+            </div>
+
             {{ content }}
 
-            {% assign posts = site.pages | where: "categories", "boletime_post" | sort: "date" | reverse %}
+            <!-- {% assign posts = site.pages | where: "categories", "boletime_post" | sort: "date" | reverse %} -->
 
             <div class="boletime-post-recomendacoes">
-                {% for post in posts %}
+                {% for post in paginator.posts %}
                   {% if page.id != post.id %}
                   <a href="{{ site.url }}{{ post.url }}" class="boletime-post-recomendacao">
-                    <div class="boletime-post-recomendacao-capa" style="background-image: url('{{ site.urlImagens }}/boletime/posts/{{ post.id }}/capa.jpg')">
+                    <div class="boletime-post-recomendacao-capa" style="background-image: url('{{ site.urlImagens }}/boletime/posts/{{ post.identificador }}/capa.jpg')">
                     </div>
                     <div class="boletime-post-recomendacao-conteudo">
                       <div class="boletime-post-recomendacao-titulo">

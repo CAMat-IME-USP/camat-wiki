@@ -1,9 +1,9 @@
-{% assign posts = site.pages | where: "categories", "boletime_post" | sort: "date" | reverse | limit: 2 %}
+{% assign posts = site.pages | where: "categories", "boletime_post" | sort: "date" | reverse | limit:4 %}
 
 <h3>Outros posts</h3>
 
 <div class="boletime-post-recomendacoes">
-  {% for post in posts %}
+  {% for post in posts limit:4 %}
     {% if page.id != post.id %}
     <a href="{{ site.url }}{{ post.url }}" class="boletime-post-recomendacao">
       <div class="boletime-post-recomendacao-capa" style="background-image: url('{{ site.urlImagens }}/boletime/posts/{{ post.id }}/capa.jpg')">

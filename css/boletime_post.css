@@ -319,3 +319,46 @@
     font-size: 40px;
   }
 }
+
+/* Paginacao */
+.index-paginas {
+  display: flex;
+  /* justify-content: center; */
+  align-items: end;
+  flex-direction: column;
+  padding: 5px;
+  padding-top: 0px;
+  row-gap: 0px;
+}
+.index-quantas-paginas {
+  margin: 0px;
+  font-size: 13px;
+  margin-bottom: 3px;
+}
+.index-paginas ul {
+  margin: 0px;
+  list-style: none;
+  display: flex;
+}
+.index-paginas li {
+  border: 1px solid white;
+  font-size: 19px;
+  line-height: 30px;
+  padding: 0px;
+  text-align: center;
+  height: 30px;
+  width: 30px;
+  color: var(--header-color);
+  border: 1px solid var(--header-color);
+}
+.index-paginas li.index-paginas-ativo {
+  color: white;
+  border: 1px solid var(--highlight-color);
+}
+.index-paginas li.index-paginas-ativo:hover {
+  background-color: var(--highlight-color);
+  cursor: pointer;
+}
+.index-paginas li.index-paginas-ativo:hover a {
+  color: white;
+}
