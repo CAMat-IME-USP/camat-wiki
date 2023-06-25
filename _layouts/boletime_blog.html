@@ -34,7 +34,7 @@
             </a>
             
             <br>
-            <h1 class="boletIME-blog-titulo">{{ page.title }}</h1>
+            <h1 class="boletIME-blog-titulo">Blog BoletIME</h1>
             <br>
 
             <div class="index-paginas">
@@ -102,7 +102,30 @@
                 {% endfor %}
               </div>
 
-            <!-- {% include posts.html limit=50 %} -->
+            <div class="index-paginas">
+              {% if paginator.total_pages > 1 %}
+              <div class="index-quantas-paginas">
+                Página {{ paginator.page }} de {{ paginator.total_pages }}
+              </div>
+              <ul>
+                {% if paginator.previous_page %}
+                  <li class="index-paginas-ativo" onclick="this.firstChild.click()"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
+                      <i class="fa-solid fa-caret-left"></i>
+                  </a></li>
+                {% else %}
+                  <li><i class="fa-solid fa-caret-left"></i></li>
+                {% endif %}
+                {% if paginator.next_page %}
+                  <li class="index-paginas-ativo" onclick="this.firstChild.click()"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">
+                      <i class="fa-solid fa-caret-right"></i>
+                  </a></li>
+                {% else %}
+                  <li><i class="fa-solid fa-caret-right"></i></li>
+                {% endif %}
+              </ul>
+              {% endif %}
+            </div>
+            
         </section>
         
         {% include footer.html %}
