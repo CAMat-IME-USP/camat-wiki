@@ -1,0 +1,38 @@
+= Eleições CONUNE 2023
+:page-subtitle: Estudantes da USP elegem os 63 delegados para representar a universidade no congresso em Brasília
+:page-identificador: 20230619_conune_eleicao
+:page-data: "19 de junho de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['CONUNE', 'BoletIME']
+:page-boletime: 'Junho/2023'
+:page-autoria: 'CAMat'
+:page-resumo: ['Durante os dias 14 a 16 de junho, os estudantes da Universidade de São Paulo votaram entre 8 chapas para definir a distribuição de delgados a representarem a universidade no 59º Congresso Nacional da UNE. Veja o resultado final da distribuição de delegados e o resultado da urna do IME!']
+
+O Congresso Nacional da UNE (CONUNE) é a instância máxima de deliberação do movimento estudantil de graduandos do Brasil, organizado através da entidade União Nacional dos Estudantes (UNE). É neste espaço em que a próxima direção da entidade será eleita, como também a tese - ou projeto político - a orientar seus trabalhos pelos próximos dois anos.
+
+Para garantir maior representatividade do corpo estudantil de cada universidade - públicas e privadas -, a definição da quantia de delegados é feita da seguinte forma: 1 delegado para cada 1.000 estudantes regularmente matriculados em cursos de graduação. Aqui na USP, isso implica em 63 delegados.
+
+A votação, do processo eleitoral uspiano CONUNE 2023, aconteceu nos dias 14, 15 e 16 de junho e contabilizou 7.903 votos válidos e 55 votos brancos ou nulos. na tarde de 17 de juho foi feita a apuração na sede do DCE Livre da USP. Veja como ficou a distribuição dos delgados através das forças políticas:
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/conune_resultado_usp.png[Gráfico da divisão de delegados na USP]
+_Gráfico com a divisão de delegados por chapa na USP+
+_Fonte: Comissão Eleitoral CONUNE USP_
+--
+
+A área marcada por * indica a junção das três forças com os menores resultados para a melhor leitura do gráfico. São elas: USP é pra brilhar (3 delegados), Construir a revolução do nosso tempo (3 delegados) e Nosso Futuro Não Se Negocia (2 delegados).
+
+E a urna do IME?
+
+A urna do IME contabilizou 119 votos válidos, não obteve nenhum voto branco ou nulo, e os votos ficaram distribuídos da seguinte forma:
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/conune_resultado_ime.png[Gráfico do resultado da eleição no IME]
+_Gráfico com os votos computados na urna do IME-USP+
+_Fonte: Comissão Eleitoral CONUNE USP_
+--
+
+O resultado da urna do IME se mostrou similar em outros institutos da Rua do Matão quanto a predileção por voto na chapa UNE na Luta: Pela Universidade Popular!, sendo: 70% dos votos da urna do IFUSP, 88% da urna do IO e 53% na urna do IGc. Em contramão, a chapa mais votada no IAG foi a Lutar e Mudar as Coisas, também da oposição, contando com 86% dos votos válidos.
