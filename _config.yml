@@ -26,9 +26,11 @@ description: >- # isso daqui serve pra considerar todo o conteudo ate 'baseurl'
     Instituto de Matemática e Estatística da Universidade de São Paulo
     (IME USP).
 baseurl: "" # o "sub-caminho" do site, tipo /blog
-url: "https://camat.ime.usp.br" # o link em producao do site
+url: "https://camat-ime-usp.github.io/camat-wiki/" # o link em producao do site
+# url: "https://camat.ime.usp.br" # o link em producao do site
 # url: "http://localhost:4000" # o link em desenvolvimento do site. No meu fica assim, talvez no seu tenha uma porta diferente
-urlImagens: "https://camat.ime.usp.br/images"
+urlImagens: "https://camat-ime-usp.github.io/camat-wiki/images"
+# urlImagens: "https://camat.ime.usp.br/images"
 # urlImagens: "http://localhost:4000/images" # idem
 instagram: camat.usp
 twitter: camat_usp
@@ -71,8 +73,8 @@ asciidoctor:
   base_dir: :docdir
   safe: unsafe
   attributes:
-    # imagesdir: https://camat-usp.github.io/camat-wiki/images # producao
-    imagesdir: https://camat.ime.usp.br/images
+    imagesdir: https://camat-ime-usp.github.io/camat-wiki/images # producao
+    # imagesdir: https://camat.ime.usp.br/images
     # imagesdir: http://localhost:4000/images # desenvolvimento
     icons: ""
     iconsdir: '{imagesdir}/icons'
