@@ -17,7 +17,7 @@ O evento contou com um público de cerca de 26 estudantes da USP, tanto do IME q
 
 [.img]
 --
-image::boletime/posts/{page-identificador}/foto_exibicao.png[Fotos da exibição]
+image::boletime/posts/{page-identificador}/fotos_exibicao.png[Fotos da exibição]
 _Fotos da exibição. Da direita para esquerda, Perfect Blue (1997), Millenium Actress (2001) e Paprika (2006)_ +
 _Fonte: Comissão Organizadora do CinIME_
 --

@@ -1,0 +1,51 @@
+= CinIME na Maria Antônia
+:page-identificador: 20230322_cinime_na_maria_antonia
+:page-data: "22 de março de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME', 'CinIME']
+:page-boletime: 'Março/2023'
+:page-autoria: 'CAMat'
+:page-resumo: ['O CinIME vai na Maria Antônia!']
+
+O Centro Universitário Maria Antônia da USP funciona como espaço para disseminação de cursos, exposições, atividades de cultura e extensão, apresentações teatrais e etc. Só não funciona como um espaço para ministrar aulas ordinárias dos cursos regulares da USP - coisa que já fez e muito.
+
+A história do prédio da Maria Antônia é frequentemente deixada de lado. Não falamos que anteriormente o curso de matemática era ministrado lá, perto do centro. Não falamos do porquê então surgiu a Cidade Universitária da USP, campus em que temos aula. Deixamos cair no esquecimento importante momento em que os estudantes da USP foram resistência à ditadura militar.
+
+Por isso, o CinIME convida a todes para irmos assistir Touki Bouki, filme que será exibido pelo CINUSP na Maria Antônia em 01 de abril, data que marcará 59 anos do Golpe Civil-Militar no Brasil. A data se relaciona a história que iremos relembrar para enfim dizer **DITADURA NUNCA MAIS!** 
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/toukibouki.png[Divulgação do filme]
+--
+
+'''
+
+**Atualização:**
+
+Estudantes do IME foram ao https://www.instagram.com/mariantoniausp/[@mariantoniausp] no sábado 01 de abril para assistir a uma sessão do CINUSP (filme Touki Bouki) e conhecer o prédio e a história do movimento estudantil da USP!
+
+O espaço está com a exposição MemoriAntonia que recupera a memória da resistência estudantil frente a organizações como o Comando de Caça aos Comunistas (CCC), que detinha membros no Mackenzie, e expondo o contexto macro em que a "Batalha da Maria Antônia" se insere e desagua na criação da Cidade Universitária (onde temos aula agora).
+
+A exposição é aberta e gratuita, no segundo andar do prédio. Funcionamento de terça a domingo, das 10h às 18h.
+
+[.img]
+--
+image::cinime/cinusp_01_04_23/cinusp1.png[Foto]
+--
+[.img]
+--
+image::cinime/cinusp_01_04_23/cinusp2.png[Foto]
+--
+[.img]
+--
+image::cinime/cinusp_01_04_23/cinusp3.png[Foto]
+--
+[.img]
+--
+image::cinime/cinusp_01_04_23/cinusp4.png[Foto]
+--
+[.img]
+--
+image::cinime/cinusp_01_04_23/cinusp5.png[Foto]
+--

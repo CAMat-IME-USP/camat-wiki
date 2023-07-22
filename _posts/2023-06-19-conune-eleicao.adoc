@@ -18,7 +18,7 @@ A votação, do processo eleitoral uspiano CONUNE 2023, aconteceu nos dias 14, 1
 [.img]
 --
 image::boletime/posts/{page-identificador}/conune_resultado_usp.png[Gráfico da divisão de delegados na USP]
-_Gráfico com a divisão de delegados por chapa na USP+
+_Gráfico com a divisão de delegados por chapa na USP_ +
 _Fonte: Comissão Eleitoral CONUNE USP_
 --
 
@@ -31,7 +31,7 @@ A urna do IME contabilizou 119 votos válidos, não obteve nenhum voto branco ou
 [.img]
 --
 image::boletime/posts/{page-identificador}/conune_resultado_ime.png[Gráfico do resultado da eleição no IME]
-_Gráfico com os votos computados na urna do IME-USP+
+_Gráfico com os votos computados na urna do IME-USP_ +
 _Fonte: Comissão Eleitoral CONUNE USP_
 --
 

@@ -79,6 +79,9 @@
 .boletIME-post-texto-conteudo p {
   text-indent: 30px;
 }
+.nao-indentar p {
+  text-indent: 0px;
+}
 
 .boletIME-post-cabecalho-info {
   display: flex;
@@ -96,15 +99,19 @@
 }
 .boletIME-post-tag-Crusp {
   background-color: rgb(162, 103, 218);
+  color: white;
 }
 .boletIME-post-tag-Histórico {
   background-color: rgb(50, 114, 231);
+  color: white;
 }
 .boletIME-post-tag-BoletIME {
   background-color: var(--highlight-color);
+  color: white;
 }
 .boletIME-post-tag-CinIME {
   background-color: forestgreen;
+  color: white;
 }
 .boletIME-post-tag-Informe {
   background-color: yellow;
@@ -112,6 +119,19 @@
 }
 .boletIME-post-tag-Nota {
   background-color: red;
+  color: white;
+}
+.boletIME-post-tag-CONUNE {
+  background-color: rgb(255, 0, 119);
+  color: white;
+}
+.boletIME-post-tag-ENEMAT {
+  background-color: rgb(0, 4, 255);
+  color: white;
+}
+.boletIME-post-tag-Entrevista {
+  background-color: rgb(216, 159, 188);
+  color: white;
 }
 
 .boletIME-post-postexto {

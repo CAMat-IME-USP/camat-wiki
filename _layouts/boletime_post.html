@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="{{ site.url }}/css/boletime_post.css">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    {% assign estilos = page.estilo %}
 </head>
 <body>
     {% include menu.html %}
@@ -63,8 +65,12 @@
             </div>
           </div>
 
-          <div class="boletIME-post-texto-conteudo">
-            {{ content }}  
+          {% if page.nao_indentar == 1%}
+            <div class="boletIME-post-texto-conteudo nao-indentar">
+          {% else %}
+            <div class="boletIME-post-texto-conteudo">
+          {% endif %}
+              {{ content }}  
           </div>
         </section>
 

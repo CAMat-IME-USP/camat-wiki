@@ -17,7 +17,7 @@ A escolha também explicita um segundo ponto: a Executiva não vem sendo planeja
 [.img]
 --
 image::boletime/posts/{page-identificador}/logo_enemat.jpeg[Logo da ENEMAT]
-_Logo da Executiva Nacional dos Estudantes de Matemática+
+_Logo da Executiva Nacional dos Estudantes de Matemática_ +
 _A proposta do logo é a de cada ponto representar as 26 capitais e 1 o Distrito Federal, todos ligados de modo a formar uma rede. O contorno ao redor, perpassando os pontos extremos, de modo a evidenciar a figura do Brasil. O E ao centro para indicar "Executiva". A presença de diversos triângulos em alusão à Matemática._
 --
 
