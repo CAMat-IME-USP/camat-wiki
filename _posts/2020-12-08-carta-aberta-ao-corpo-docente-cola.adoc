@@ -1,7 +1,11 @@
 = Carta aberta ao corpo docente
-:revdate: 2020-12-08
-:page-excerpt: Como deliberado em assembleia des estudantes do IME-USP no dia 07/12, apresentamos esta carta aberta ao corpo docente sobre a questão de cola em prova. 
-:page_image: carta-aberta-docentes-tt.png
+:page-identificador: 20201208_carta_aberta_ao_corpo_docente_cola
+:page-data: "08 de dezembro de 2020"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Informe']
+:page-autoria: 'CAMat'
+:page-resumo: ['Como deliberado em assembleia des estudantes do IME-USP no dia 07/12, apresentamos esta carta aberta ao corpo docente sobre a questão de cola em prova.']
 
 image::carta-aberta-docentes-tt.png[Carta aberta ao corpo docente]
 

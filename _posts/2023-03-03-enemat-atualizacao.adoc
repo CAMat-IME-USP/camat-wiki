@@ -1,0 +1,48 @@
+= Executiva Nacional dos Estudantes da Matemática
+:page-identificador: 20230303_enemat_atualizacao
+:page-data: "03 de março de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['ENEMAT', 'BoletIME']
+:page-boletime: 'Março/2023'
+:page-autoria: 'CAMat'
+:page-resumo: ['No início deste ano, o CAMat divulgou uma nota política expondo o processo da fundação da Executiva Nacional dos Estudantes de Matemática. Trazemos nesta edição a nota na íntegra e uma segunda nota atualizando os acontecimentos decorridos da primeira nota e a fundação da ENEMAT. É importante que os estudantes de matemática leiam e se apropriem sobre a questão posta. O CAMat deverá convocar em breve espaço de discussão para podermos coletivamente pensarmos nas possibilidades de atuação na ENEMAT.']
+
+Em setembro de 2022, cerca de 88 centros e diretórios acadêmicos (CAs e DAs) de matemática pelo Brasil receberam um convite do CAMat da Universidade Federal do Catalão (UFCAT) para a fundação de uma Executiva Nacional. Destes, cerca de 50 se interessaram e foi realizada uma primeira reunião, já consensuando a fundação da Executiva.
+
+Há de observar, no entanto, que a Executiva, nomeada por ora de Executiva Nacional dos Estudantes de Matemática (ENEMAT), não vem sendo construída de maneira aberta com os estudantes de matemática como um todo e seu objetivo material não se mostra de forma plena. No momento, nem cerca de 10 das 50 entidades de base, que participaram da primeira reunião, têm atuado ativamente na construção da fundação, isto é, participando das quatro outras reuniões que ocorreram desde então. Em primeiro lugar, a fundação oficial foi marcada para acontecer na Bienal da União Nacional dos Estudantes (UNE), a acontecer entre os dias 2 e 5 de fevereiro no Rio de Janeiro, na justificativa de ser um local de aglutinação da base universitária. Disso já fica evidente a falta de conexão da construção da Executiva com a base dos estudantes, pois é muito sabido que tal Bienal não é um evento que reúne os estudantes das matemáticas.
+
+A escolha também explicita um segundo ponto: a Executiva não vem sendo planejada com um direcionamento político concreto. Todos os objetivos propostos se resumem à divulgação de eventos e trocas de experiência, o que não deveria ser o principal se tendo ciência dos altíssimos níveis de desistência nos cursos de matemática, das diversas questões ligadas à saúde mental nos cursos, da infinita dificuldade de fazer pesquisa na área no Brasil, do sucateamento das carreiras de docência, da necessidade material de se voltar para o setor privado para conseguir se manter, etc.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/logo_enemat.jpeg[Logo da ENEMAT]
+_Logo da Executiva Nacional dos Estudantes de Matemática_ +
+_A proposta do logo é a de cada ponto representar as 26 capitais e 1 o Distrito Federal, todos ligados de modo a formar uma rede. O contorno ao redor, perpassando os pontos extremos, de modo a evidenciar a figura do Brasil. O E ao centro para indicar "Executiva". A presença de diversos triângulos em alusão à Matemática._
+--
+
+É necessário pontuar também que a fundação recai em outros vícios comuns ao movimento estudantil de matemática vistos por vezes em conduções das entidades de base da área, como a centralização da atuação pelo viés da licenciatura, além da marginalização da matemática aplicada – adicionada de última hora na lista do que é considerado “matemática” pela Executiva –, e, em especial, dos cursos computacionais, como o Bacharelado em Matemática Aplicada e Computacional e o Bacharelado em Matemática Computacional, cursos existentes em muitas universidades públicas do Brasil e que foram deixados de fora da representação da Executiva.
+
+Neste horizonte, nós do CAMat IME-USP, afirmamos a nossa posição de compor a Executiva, pois as críticas apontadas devem ser ferramentas para construção do caráter político e representativo dessa entidade nacional, não devendo a divergência ser mesquinha e apontar para a ausência nesse importante espaço. Como também afirmamos a nossa oposição aos caminhos tomados pelas entidades de base à frente do processo de fundação, na medida em que, ao tornarem o processo acelerado, não se interessam pela massificação da entidade e nem pelo diálogo franco com a base de estudantes de matemática em sua totalidade.
+
+A todos e todas estudantes de matemática do Brasil, de todos os cursos e sem exclusão, fazemos o chamado para que, tomando ciência do ocorrido, venham construir a entidade nacional para que ela seja de fato a Executiva Nacional dos Estudantes de Matemática, não apenas para os estudantes de matemática.
+
+Atualização
+
+No dia 03 de fevereiro foi realizada a cerimônia de fundação da Executiva, como marcado. A cerimônia foi feita no Rio de Janeiro durante a Bienal da UNE e contou com a participação presencial de somente 5 gestões de centros acadêmicos.
+
+A baixíssima presença na fundação é algo que já havíamos apontado na nota: a desculpa de ser a Bienal da UNE um lugar de aglutinação universitária não tem fundamento algum se tratando da matemática. Também como apontamos, isso era sabido pelas gestões que organizaram a fundação, pois de maneira alguma o interesse era em uma participação massiva dos estudantes de matemática como um todo.
+
+Outra evidência disso é a não transmissão da fundação em redes abertas. Apesar de ter um ponto virtual - que foi utilizado somente pelo nosso CAMat para participar da fundação à distância -, foi divulgado que a fundação seria transmitida pelo YouTube, o que permitiria que qualquer pessoa, e não apenas as gestões de CAs, acompanhasse no momento e posteriormente.
+
+Após a divulgação da nota nas redes sociais, houve um burburinho entre as gestões fundadoras, que fizeram críticas pessoais aos membros do CAMat do IME-USP. Não poderia ser diferente, já que a nota apenas apontou discordâncias e o oportunismo das gestões fundadoras, e isso nem elas seriam capazes de negar. Vale ressaltar que apenas as gestões fundadoras fizeram tal burburinho e se incomodaram com nossa nota. As demais (a maioria) não se manifestaram.
+
+Importante apontar também que as gestões fundadoras que desesperadamente dirigiram ataques ao CAMat IME-USP nos acusaram de politicagem, de querer “fazer política” dentro da ENEMAT. Para além de todas as críticas possíveis a tal compreensão rasa de “fazer política”, as mesmas gestões estão ligadas à UJS (não coincidentemente, a majoritária na direção da UNE).
+
+Ou seja, não se trata de uma preocupação com “politicagens” dentro da ENEMAT: eles que estão com medo de que alguém interrompa sua própria “politicagem”, sua atuação oportunista, desonesta e totalmente desinteressada nas bases.
+
+A questão do Bacharelado em Matemática Aplicada e Computacional (BMAC) e outros cursos de matemática ignorados pelas gestões fundadoras foi puxada pelo CAMat IME-USP durante a fundação. A resposta foi: a eleição dos cursos foi votada, e foi decidido que BMAC e outros cursos de matemática não são matemática. Após insistência nossa, disseram que isso seria revisto, sem informar como nem por quem.
+
+Alguns dias depois do tensionamento, apenas surgiram o BMAC (sem o B e sem o A) e o curso de Engenharia Matemática na lista de cursos que compunham a matemática no Brasil. Nada foi dito, apenas foram adicionados.
+
+Desde a fundação, o que foi feito (ao menos divulgado) foi uma reunião da diretoria. Sem resolução, encaminhamento, qualquer coisa. Segue uma gestão apartada dos estudantes de matemática e até das outras gestões que compõem a Executiva. Uma gestão desinteressada nas bases, desinteressada nos problemas que afetam quem faz matemática no Brasil.

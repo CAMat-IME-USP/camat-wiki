@@ -8,14 +8,16 @@
 
         <ul class="navigation-list float-right">
             {% for page in pages %}
-            {% if page.title %}
-            <li class="navigation-item">
-                <a class="navigation-link"
-                   href="{{ site.url }}{{ page.url | relative_url }}">
-                    {{ page.title | escape }}
-                </a>
-            </li>
-            {% endif %}
+                {% if page.title %}
+                {%- unless page.title contains 'Página' -%}
+                    <li class="navigation-item">
+                        <a class="navigation-link"
+                        href="{{ site.url }}{{ page.url | relative_url }}">
+                            {{ page.title | escape }}
+                        </a>
+                    </li>
+                {%- endunless -%}
+                {% endif %}
             {% endfor %}
 
         </ul>

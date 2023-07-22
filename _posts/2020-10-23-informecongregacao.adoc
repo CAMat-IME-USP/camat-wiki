@@ -1,7 +1,11 @@
 = Informes da Congregação (22/10)
-:page-categories: [informe]
-:page-excerpt: Repasses do representante discente da Congregação, acerca da reunião de 22/10.
-:toc: macro
+:page-identificador: 20201023_informecongregacao
+:page-data: "23 de outubro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Informe']
+:page-autoria: 'CAMat'
+:page-resumo: ['Repasses do representante discente da Congregação, acerca da reunião de 22/10.']
 
 toc::[]
 

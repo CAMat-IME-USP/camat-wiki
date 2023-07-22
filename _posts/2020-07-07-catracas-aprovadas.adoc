@@ -1,8 +1,11 @@
 = Aprovada a instalação de catracas no IME-USP
-:page-categories: [informe]
-:revdate: 2020-07-07
-:page-excerpt: Por 7 a 1 votos favoráveis, o Conselho Técnico Administrativo do IME-USP aprova a instalação de catracas no instituto.
-:toc: macro
+:page-identificador: 20200707_catracas_aprovadas
+:page-data: "07 de julho de 2020"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Informe']
+:page-autoria: 'CAMat'
+:page-resumo: ['Por 7 a 1 votos favoráveis, o Conselho Técnico Administrativo do IME-USP aprova a instalação de catracas no instituto.']
 
 toc::[]
 

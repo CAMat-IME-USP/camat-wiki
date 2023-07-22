@@ -1,0 +1,23 @@
+= CinIME realiza o seu I Corujão na sexta-feira de Corpus Christi
+:page-subtitle: Corujão Satoshi Kon
+:page-identificador: 20230609_satoshi_kon
+:page-data: "10 de junho de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['CinIME', 'BoletIME']
+:page-boletime: 'Junho/2023'
+:page-autoria: 'COrg CinIME'
+:page-resumo: ['O primeiro corujão do CinIME aconteceu na sexta-feira (09 de junho) e contou com a exibição de três longa-metragens do diretor Satoshi Kon: Perfect Blue (1997), Millenium Actress (2001) e Paprika (2006), com direito a lanche e prosa!']
+
+Inspirados na Maratona Wong Kar Wai do CINUSP, a Comissão Organizadora do CinIME decidiu aproveitar o feriadão prolongado e apostar na realização de seu primeiro corujão e o diretor escolhido para estreia foi ninguém menos do que Satoshi Kon.
+
+O corujão foi realizado no auditório Irme Simon, localizado no bloco C do Instituto de Matemática e Estatística, e foram exibidos em sequência três filmes do consagrado diretor japonês: Perfect Blue (1997), Millennium Actress (2001) e Paprika (2006). Entre cada filme foi dado uma pausa para comer um lanchinho e bater um papo sobre o filme!
+
+O evento contou com um público de cerca de 26 estudantes da USP, tanto do IME quanto de outros institutos como a Faculdade de Filosofia, Letras e Ciências Humanas, o Instituto de Geociências, a Escola de Comunicação e Artes, dentre outros.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/fotos_exibicao.png[Fotos da exibição]
+_Fotos da exibição. Da direita para esquerda, Perfect Blue (1997), Millenium Actress (2001) e Paprika (2006)_ +
+_Fonte: Comissão Organizadora do CinIME_
+--

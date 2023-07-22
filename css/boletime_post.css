@@ -1,0 +1,391 @@
+/**
+ * CAMat-Wiki!
+ * Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Arquivo de estilização de posts do BoletIME.
+ */
+
+.boletIME-post-capa {
+  width: 100%;
+  height: 350px;
+  margin-right: 8px;
+  padding: 0px;
+  box-shadow: inset 0 0 99999px rgba(0, 0, 0, 1);
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.boletIME-post-capa img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  fill: black;
+}
+/* titulo do post */
+.boletIME-post-titulo {
+  height: 100%;
+}
+.boletIME-post-titulo > div {
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bolder;
+  font-size: 50px;
+  position: absolute;
+  bottom: 0;
+}
+.boletIME-post-titulo div .subtitulo {
+  font-size: 45px;
+  font-weight: bolder;
+}
+.boletIME-post-texto {
+  padding-top: 0px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.boletIME-post-texto .img {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boletIME-post-texto .img div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 45%;
+  text-align: center !important;
+}
+.boletIME-post-texto .img div p {
+  text-indent: unset;
+  text-align: center !important;
+  font-size: small;
+}
+
+.boletIME-post-pos-cabecalho {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 2.5rem;
+}
+.boletIME-post-pos-cabecalho-tags {
+  display: flex;
+  grid-gap: 10px;
+}
+.boletIME-post-texto-conteudo p {
+  text-indent: 30px;
+}
+.nao-indentar p {
+  text-indent: 0px;
+}
+
+.boletIME-post-cabecalho-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* tags */
+.boletIME-post-tag {
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 16px;
+  line-height: 16px;
+  margin: 5px 0px;
+  color: white;
+}
+.boletIME-post-tag-Crusp {
+  background-color: rgb(162, 103, 218);
+  color: white;
+}
+.boletIME-post-tag-Histórico {
+  background-color: rgb(50, 114, 231);
+  color: white;
+}
+.boletIME-post-tag-BoletIME {
+  background-color: var(--highlight-color);
+  color: white;
+}
+.boletIME-post-tag-CinIME {
+  background-color: forestgreen;
+  color: white;
+}
+.boletIME-post-tag-Informe {
+  background-color: yellow;
+  color: black;
+}
+.boletIME-post-tag-Nota {
+  background-color: red;
+  color: white;
+}
+.boletIME-post-tag-CONUNE {
+  background-color: rgb(255, 0, 119);
+  color: white;
+}
+.boletIME-post-tag-ENEMAT {
+  background-color: rgb(0, 4, 255);
+  color: white;
+}
+.boletIME-post-tag-Entrevista {
+  background-color: rgb(216, 159, 188);
+  color: white;
+}
+
+.boletIME-post-postexto {
+  display: flex;
+  justify-content: space-evenly;
+}
+.boletIME-post-compartilhar {
+  display: flex;
+}
+.boletIME-post-botao-compartilhar {
+  font-size: 20px;
+  line-height: 20px;
+  padding: 5px;
+  margin: 0px 3px;
+  background-color: var(--highlight-color);
+  color: white;
+  border-radius: 10px;
+}
+.boletIME-post-botao-compartilhar:hover {
+  cursor: pointer;
+  color: white;
+}
+
+/* outros posts (recomendacoes) */
+.boletime-post-recomendacoes {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  row-gap: 20px;
+}
+.boletime-post-recomendacao {
+  height: 200px;
+  display: grid;
+  border-radius: 10px;
+  background-color: var(--header-color);
+  grid-template-columns: 25% 75%;
+}
+.boletime-post-recomendacao-capa {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 200px;
+}
+.boletime-post-recomendacao-conteudo {
+  padding: 10px 20px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  color: black;
+  border-radius: 10px;
+}
+.boletime-post-recomendacao-tags {
+  display: flex;
+  column-gap: 5px;
+  height: 30px;
+}
+.boletIME-post-recomendacao-tag {
+  font-size: 11px;
+  padding: 1px 5px;
+  border-radius: 5px;
+}
+.boletime-post-recomendacao-titulo {
+  text-align: left;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  margin-bottom: 5px;
+}
+.boletime-post-recomendacao-data {
+  margin-top: 7px;
+  font-size: 13px;
+}
+.boletime-post-recomendacao-resumo {
+  overflow: hidden;
+  height: 200px;
+  font-size: 13px;
+  line-height: 20px;
+}
+.boletime-post-recomendacao:hover {
+  background-color: var(--highlight-color) !important;
+}
+.boletime-post-recomendacao:hover .boletime-post-recomendacao-conteudo, .boletime-post-recomendacao:hover .boletime-post-recomendacao-conteudo div {
+  color: white !important;
+  background-color: var(--highlight-color) !important;
+}
+.boletime-post-recomendacao:hover .boletime-post-recomendacao-capa {
+  border: 3px outset var(--highlight-color) !important;
+}
+.boletime-post-recomendacao-autoria {
+  /* margin-top: 4px;; */
+  font-size: 13px;
+}
+
+
+.boletime-recomendacao-arquivo {
+  width: 100%;
+  height: 130px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+}
+.boletime-post-recomendacao-capa-arquivo {
+  width: 60%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  border-radius: 10px;
+}
+.boletime-post-recomendacao-capa-arquivo div {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(0,0,0,0.6);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.boletime-recomendacao-arquivo:hover .boletime-post-recomendacao-capa-arquivo div {
+  background-color: rgba(186, 57, 37, 0.6);
+}
+
+
+
+@media all and (max-width: 799px) {
+  .boletime-post-recomendacao {
+    grid-template-columns: 35% 65%;
+  }
+  .boletIME-post-titulo > div {
+    text-align: left;
+    font-size: 40px;
+  }
+  .boletime-post-recomendacao-titulo {
+    font-size: 18px;
+  }
+  .boletime-post-recomendacao-autoria {
+    font-size: 12px;
+  }
+  .boletime-post-recomendacao-conteudo-header {
+    display: flex;
+  }
+  .boletIME-post-texto .img div {
+    max-width: 100%;
+  }
+  .boletIME-post-texto .img div p {
+    font-size: 14px;
+  }
+}
+
+@media all and (max-width: 530px) {
+  .boletime-post-recomendacao {
+    position: relative;
+  }
+  .boletIME-post-titulo > div {
+    font-size: 35px;
+  }
+  .boletIME-post-titulo div .subtitulo {
+    font-size: 25px;
+  }
+  .boletIME-post-cabecalho-info {
+    flex-direction: column;
+  }
+  .boletIME-post-postexto {
+    flex-direction: column;
+  }
+  .boletime-post-recomendacao-capa {
+    margin: 0px 10px;
+    align-self: center;
+    justify-content: center;
+    height: 50%;
+  }
+  .boletime-post-recomendacao-titulo {
+    font-size: 15px;
+  }
+  .boletime-post-recomendacao:hover .boletime-post-recomendacao-capa {
+    border: unset;
+  }
+  .boletime-post-recomendacao-tags {
+    position: absolute;
+    left: 10px;
+    bottom: 5px;
+    background-color: red;
+  }
+  .boletIME-post-recomendacao-tag {
+    font-size: 9px;
+    padding: 1px 5px;
+    border-radius: 5px;
+    height: 16px;
+  }
+  .boletime-post-recomendacao-conteudo {
+    padding: 10px 10px;
+  }
+
+  .boletime-recomendacao-arquivo {
+    height: auto;
+  }
+  .boletime-post-recomendacao-capa-arquivo {
+    width: 100%;
+  }
+  .boletime-post-recomendacao-capa-arquivo div {
+    font-size: 15px;
+    padding: 10px;
+  }
+  .boletIME-blog-titulo {
+    font-size: 40px;
+  }
+}
+
+/* Paginacao */
+.index-paginas {
+  display: flex;
+  /* justify-content: center; */
+  align-items: end;
+  flex-direction: column;
+  padding: 5px;
+  padding-top: 0px;
+  row-gap: 0px;
+}
+.index-quantas-paginas {
+  margin: 0px;
+  font-size: 13px;
+  margin-bottom: 3px;
+}
+.index-paginas ul {
+  margin: 0px;
+  list-style: none;
+  display: flex;
+}
+.index-paginas li {
+  border: 1px solid white;
+  font-size: 19px;
+  line-height: 30px;
+  padding: 0px;
+  text-align: center;
+  height: 30px;
+  width: 30px;
+  color: var(--header-color);
+  border: 1px solid var(--header-color);
+}
+.index-paginas li.index-paginas-ativo {
+  color: white;
+  border: 1px solid var(--highlight-color);
+}
+.index-paginas li.index-paginas-ativo:hover {
+  background-color: var(--highlight-color);
+  cursor: pointer;
+}
+.index-paginas li.index-paginas-ativo:hover a {
+  color: white;
+}

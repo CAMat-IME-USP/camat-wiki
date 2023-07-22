@@ -1,0 +1,24 @@
+= O Crusp em três atos
+:page-subtitle: Ato II -  Democratização e a última década
+:page-identificador: 20230224_crusp_ato_2
+:page-data: "24 de fevereiro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Crusp', 'Histórico']
+:page-autoria: 'CAMat'
+:page-resumo: ['Quem olha o CRUSP hoje não imagina como era seu projeto inicial, espaços amplos e com objetivo de tornar a convivência estudantil mais harmônica. A planta inicial proposta pelos arquitetos Eduardo Knesse de Mello, Joel Ramalho Jr. e Sidney de Oliveira contava com térreos em pilotis, que poderiam, naturalmente, acontecer um jogo de vôlei nos térreos dos prédio, rico em espaços livres, não haviam apartamentos individuais, eram apartamentos que abrigavam três moradores, seguindo com o objetivo principal que era a convivência entre alunos de diversos cursos da universidade. Mas sabemos que não é bem assim.']
+
+Quem olha o CRUSP hoje não imagina como era seu projeto inicial, espaços amplos e com objetivo de tornar a convivência estudantil mais harmônica. A planta inicial proposta pelos arquitetos Eduardo Knesse de Mello, Joel Ramalho Jr. e Sidney de Oliveira contava com térreos em pilotis, que poderiam, naturalmente, acontecer um jogo de vôlei nos térreos dos prédio, rico em espaços livres, não haviam apartamentos individuais, eram apartamentos que abrigavam três moradores, seguindo com o objetivo principal que era a convivência entre alunos de diversos cursos da universidade. Mas sabemos que não é bem assim.
+
+Os 10 anos de desocupação desaguaram no assasinato arquitetônico de seu projeto inicial, os reitores da época aproveitaram de seu fechamento para imporem reformas no conjunto, os térreos em pilotis foram fechados e espaços de convivência foram substituídos por construções alheias ao objetivo habitacional do CRUSP.
+
+Não se sabe se essas reformas foram propositais, com o objetivo de separar os moradores do CRUSP (símbolo da resistência estudantil), ou não, porém podemos ver as consequências dessas reformas ainda nos dias atuais, quando vemos casos de negligência à saúde mental e sofrimento psíquico dentro da vivência universitária se tornando cada vez mais comuns na realidade cruspiana, sendo esse um dos principais temas do movimento estudantil atualmente, protestos pedindo medidas de prevenção ao suicídio dentro do campus se tornaram mais comuns. Mas, se tratando do CRUSP, apesar de existirem projetos datados de 2009 buscando revitalizá-lo, não andamos muito para frente desde então, quando falamos de sua arquitetura prisional.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/reforma_sim_despejo_nao.jpg[Foto do CRUSP]
+_Faixa pendurada em janela de um dos blocos do CRUSP._ +
+_Fonte: Jornalistas Livres_
+--
+
+Durante a pandemia, o caos foi instaurado. A quarentena exigia que os alunos permanecessem em casa, no CRUSP diversos blocos faltavam água, a insalubridade, toda a negligência nesse período tão delicado só ressaltou mais problemas que já eram alarmantes em condições “normais”. Também houve o despejo de dezenas de moradores para reformas no bloco D do CRUSP, os estudantes teriam 20 dias para se realocar sem saber se voltariam para lá num prazo mínimo de 1 ano, todos esses absurdos foram somados com a caótica pandemia da COVID- 19.

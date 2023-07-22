@@ -1,0 +1,46 @@
+= A quem interessa a política de permanência da USP?
+:page-identificador: 20230619_a_quem_interessa_permanencia_usp
+:page-data: "19 de junho de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: 'Junho/2023'
+:page-autoria: 'CAMat'
+:page-resumo: ['A criação da Pró-Reitoria de Inclusão e Pertencimento marca uma nova forma da Reitoria em lidar com as políticas de permanência: não mais ignorando, mas usando de modo a promover a reputação da universidade.', 'O texto apresenta o mapeamento feito pelo grupo de trabalho do IME sobre o PAPFE e informa quanto a nova aposta da PRIP para a permanência estudantil: o USP Diversa, a permanência como negociação.']
+
+A Universidade de São Paulo (USP) é uma instituição de ensino superior centenária e peça central no desenvolvimento de ciência e tecnologia nacional, consagrando em ranqueamentos internacionais como a “melhor universidade” da América Latina. Tal título, porém, contradiz o cotidiano de milhares de estudantes marcado pelo descaso institucional.
+
+As recentes mudanças, ao final de 2022, no escopo do Programa de Apoio à Permanência e Formação Estudantil (PAPFE) ilustram de modo certeiro esta contradição. O projeto formulado pela Pró-Reitoria de Inclusão e Pertencimento (PRIP) foi apresentado às vésperas do período de férias letivas, momento de menor mobilização estudantil, e instaurou uma tática, a ser repetida pela pró- reitoria, para falsear o caráter democrático dessas formulações: as reivindicações da comunidade universitária foram ouvidas em audiência pública. Ora, convida-se as pessoas para um espaço sob o pretexto de ouvir as críticas e melhorar o rascunho do projeto, mas sem qualquer compromisso a aplicar as críticas na reformulação do rascunho. No final, o compromisso da Pró-Reitoria de Inclusão e Pertencimento não é com os estudantes vulneráveis.
+
+Os problemas atrelados às mudanças na política de permanência estudantil começaram a aparecer já antes do início do ano letivo de 2023. O edital vigente estava dividido em três chamadas, sendo a primeira a única a ser paga ainda em março, na semana seguinte ao início das aulas. As demais chamadas seriam pagas no final de abril e, ainda, os recursos seriam pagos apenas em maio. Assim, implica-se que estes últimos ficariam dois meses sem auxílio - ou seja, sem meios materiais para permanecer no curso - enquanto o semestre corria. E, de fato, esta foi a realidade para diversos estudantes, tanto ingressantes quanto veteranes.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/audiencia_publica_capa.jpg['Capa da transmissão de uma audiência pública sobre as mudanças no PAPFE com o título com letra preta e fundo branco centrado  "Mudanças no Programa de Apoio à Permanência e Formação Estudantil (PAPFE)", anunciando o dia 30 de novembro de 2022, às 15 horas, e com uma lateral laranja vazia.']
+_Thumbnail da transmissão da Audiência Pública sobre as mudanças no PAPFE (30 de novembro de 2022)_ +
+_Fonte: https://www.youtube.com/watch?v=drW1dpIXKL4[https://www.youtube.com/watch?v=drW1dpIXKL4]_
+--
+
+Diante dessa situação, o Centro Acadêmico de Matemática, Estatística e Computação “Elza Furtado Gomide” (CAMat) e demais estudantes do IME-USP formaram um Grupo de Trabalho (GT) para mapear as condições de permanência dos estudantes do instituto. O GT realizou o estudo no período de 20 a 27 de abril através de formulários tanto presencial quanto online. Posteriormente, foi redigido um relatório sobre o estudo – que foi enviado aos estudantes e, principalmente, aos representantes discentes –.
+
+Tal mapeamento mostrou a existência de pontos influentes na problemática de permanência cuja abordagem economicista - isto é, pautar apenas o auxílio financeiro - tem se mostrado ineficiente em resolver. Por exemplo, mobilidade e transporte público foram apontados como o segundo maior entrave em permanecer no curso. Tal apontamento é crível, a medida que o campus Armando Salles de Oliveira, localizado no Butantã, possui estudantes de bairros periféricos da cidade de São Paulo, como também de cidades da região metropolitana. Como agravante, ao mesmo tempo em que o Conjunto Residencial da USP (CRUSP) não tem ampliação de vagas há anos, é inviável morar ao redor do campus pelo alto custo de vida.
+
+Logo, vemos aqui pontos que nos forçam a realocar a universidade dentro do debate público. De certa maneira, “quebrar seus muros” e formular a permanência através da discussão do acesso à universidade que, no final, não se trata apenas sobre o acesso da comunidade uspiana à universidade, mas do acesso da comunidade de São Paulo à universidade. O mesmo pode se dizer sobre a luta por moradia nas regiões ao redor do campus.
+
+Enfim, é interessante o mapeamento ter evidenciado tais questões, expondo uma outra abordagem possível para se debater a permanência. Ainda mais se considerarmos que a Pró-Reitoria de Inclusão e Pertencimento não tem medo em debater a ampliação do auxílio financeiro em si, dado a criação do USP Diversa.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/usp_diversa.jpg['Capa de uma apresentação do USP diversa, com a logo do programa em laranja e escrito abaixo em azul: "Programa Extraorçamentário de Promoção da Diversidade Estudantil"']
+_Capa da apresentação do USP Diversa_ +
+_Fonte: https://www5.usp.br/wp-content/uploads/2023/02/2023-USP-DIVERSA.pdf[https://www5.usp.br/wp-content/uploads/2023/02/2023-USP-DIVERSA.pdf]_
+--
+
+
+O USP Diversa é um projeto de captação financeira a partir de doações do setor privado ou pessoas físicas. Estas são revertidas em auxílio financeiro aos estudantes em vulnerabilidade social, diferenciando-se do PAPFE por focar nas minorias sociais: mulheres, negros, pessoas com deficiência e demais. Essa diferença não é acidental: o projeto se enquadra nas práticas de ESG (Environmental, Social and Corporate Governance), quando empresas investem em projetos sociais para melhorarem a reputação quanto ao impacto social, tendo como consequência a garantia de ser mais atrativa aos investidores.
+
+Assim, o USP Diversa é a resposta da PRIP para sanar duas demandas: o aumento de auxílios financeiros e o investimento privado em ESG. Ainda, em troca da doação financeira, as empresas podem solicitar a participação dos estudantes contemplados em workshops, oficinas e capacitações. Ou seja, estudantes pobres são moeda de troca entre a Universidade de São Paulo e o setor privado.
+
+As táticas da nova reitoria tem mostrado a necessidade de fazermos uma autocrítica e ousarmos a retomar o debate sobre o papel social da universidade e a quais interesses ela deve servir.
+
+Na edição Nº1/2023 do BoletIME tem uma nota do CAASO sobre as mudanças do PAPFE e a mobilização do DCE Livre da USP sobre o assunto. https://camat.ime.usp.br/arquivos/boletime/pdf/202301_boletime.pdf[Clique Aqui!, window=_blank]

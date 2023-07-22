@@ -1,7 +1,11 @@
 = Com aumento de casos de coronavírus em SP, USP sedia evento de luxo 
-:revdate: 2020-11-20
-:page-excerpt: Com o aumento do número de casos de coronavírus na cidade de SP, USP sediará evento de luxo entre 19 a 24 de novembro.
-:page_image: evento-spbs-usp-tt.png
+:page-identificador: 20201120_usp_sedia_evento_de_luxo
+:page-data: "20 de novembro de 2020"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Informe']
+:page-autoria: 'CAMat'
+:page-resumo: ['Com o aumento do número de casos de coronavírus na cidade de SP, USP sediará evento de luxo entre 19 a 24 de novembro.']
 
 image::evento-spbs-usp-tt.png[Com aumento de casos de coronavírus em SP, USP sedia evento de luxo]
 
