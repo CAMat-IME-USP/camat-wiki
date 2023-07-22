@@ -106,6 +106,13 @@
 .boletIME-post-tag-CinIME {
   background-color: forestgreen;
 }
+.boletIME-post-tag-Informe {
+  background-color: yellow;
+  color: black;
+}
+.boletIME-post-tag-Nota {
+  background-color: red;
+}
 
 .boletIME-post-postexto {
   display: flex;
