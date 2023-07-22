@@ -80,22 +80,19 @@
           </span>
           <br>
           <div class="boletIME-post-compartilhar">
-            <a class="boletIME-post-botao-compartilhar">
+            <a id="botao_whatsapp" class="boletIME-post-botao-compartilhar" target="_blank" href="https://api.whatsapp.com/send?text={{site.url}}{{page.url}}" data-action="share/whatsapp/share">
               <i class="fa-brands fa-whatsapp"></i>
             </a>
-            <a class="boletIME-post-botao-compartilhar">
-              <i class="fa-brands fa-facebook"></i>
-            </a>
-            <a class="boletIME-post-botao-compartilhar">
-              <i class="fa-brands fa-instagram"></i>
-            </a>
-            <a class="boletIME-post-botao-compartilhar">
-              <i class="fa-brands fa-twitter"></i>
-            </a>
-            <a class="boletIME-post-botao-compartilhar">
+            <a class="boletIME-post-botao-compartilhar" target="_blank" href="https://t.me/share/url?url={{site.url}}{{page.url}}&text={{page.title}}">
               <i class="fa-brands fa-telegram"></i>
             </a>
-            <a class="boletIME-post-botao-compartilhar">
+            <a class="boletIME-post-botao-compartilhar" target="_blank" href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}">
+              <i class="fa-brands fa-facebook"></i>
+            </a>
+            <a class="boletIME-post-botao-compartilhar" target="_blank" href="https://twitter.com/intent/tweet?url={{site.url}}{{page.url}}&text={{page.title}}">
+              <i class="fa-brands fa-twitter"></i>
+            </a>
+            <a class="boletIME-post-botao-compartilhar" onclick="print()">
               <i class="fa-solid fa-print"></i>
             </a>
           </div>

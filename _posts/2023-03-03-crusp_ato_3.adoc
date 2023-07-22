@@ -18,7 +18,7 @@ O campus butantã é o único no Brasil que possui uma base da polícia no seu i
 
 [.img]
 --
-image::boletime/posts/crusp_ato_3/foto-base-pm-usp.jpeg[Foto da base da PM na USP]
+image::boletime/posts/{page-identificador}/foto-base-pm-usp.jpeg[Foto da base da PM na USP]
 _Base da PM na USP, localizada ao lado do CRUSP._ +
 --
 
