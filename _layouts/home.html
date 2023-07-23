@@ -35,11 +35,13 @@
             <ul>
                 {% for page in pages %}
                 {% if page.title %}
+                {%- unless page.title contains 'Página' -%}
                 <li>
                     <a href="{{ site.url }}{{ page.url | relative_url }}">
                         {{ page.title | escape }}
                     </a>
                 </li>
+                {%- endunless -%}
                 {% endif %}
                 {% endfor %}
             </ul>
@@ -52,40 +54,41 @@
             </h2>
 
             <div class="boletime-post-recomendacoes">
-                {% for post in paginator.posts %}
-                  {% if page.id != post.id %}
-                  <a href="{{ site.url }}{{ post.url }}" class="boletime-post-recomendacao">
-                    <div class="boletime-post-recomendacao-capa" style="background-image: url('{{ site.urlImagens }}/boletime/posts/{{ post.identificador }}/capa.jpg')">
+              {% assign posts = site.posts | where: "categories", "boletime_post" | sort: 'date' | reverse %}
+              {% for post in posts limit:5 %}
+                {% if page.id != post.id %}
+                <a href="{{ site.url }}{{ post.url }}" class="boletime-post-recomendacao">
+                  <div class="boletime-post-recomendacao-capa" style="background-image: url('{{ site.urlImagens }}/boletime/posts/{{ post.identificador }}/capa.jpg')">
+                  </div>
+                  <div class="boletime-post-recomendacao-conteudo">
+                    <div class="boletime-post-recomendacao-titulo">
+                      {% if post.subtitle %}
+                      {{ post.title }}: {{ post.subtitle }}
+                      {% else %}
+                      {{ post.title }}
+                      {% endif %}
                     </div>
-                    <div class="boletime-post-recomendacao-conteudo">
-                      <div class="boletime-post-recomendacao-titulo">
-                        {% if post.subtitle %}
-                        {{ post.title }}: {{ post.subtitle }}
-                        {% else %}
-                        {{ post.title }}
-                        {% endif %}
-                      </div>
-                      <div class="boletime-post-recomendacao-tags">
-                        {% for tag in post.tags %}
-                          <div class="boletIME-post-recomendacao-tag boletIME-post-tag-{{ tag }}">
-                            {{ tag }}
-                          </div>
-                        {% endfor %}
-                      </div>
-                      <div class="boletime-post-recomendacao-resumo">
-                        {{ post.resumo }}
-                      </div>
-                      
-                      <div class="boletime-post-recomendacao-data">
-                        <i class="fa-regular fa-calendar"></i> {{ post.data }}
-                      </div>
-                      <div class="boletime-post-recomendacao-autoria">
-                        Por <b>{{ post.autoria }}</b>
-                      </div>
+                    <div class="boletime-post-recomendacao-tags">
+                      {% for tag in post.tags %}
+                        <div class="boletIME-post-recomendacao-tag boletIME-post-tag-{{ tag }}">
+                          {{ tag }}
+                        </div>
+                      {% endfor %}
                     </div>
-                  </a>
-                  {% endif %}
-                {% endfor %}
+                    <div class="boletime-post-recomendacao-resumo">
+                      {{ post.resumo }}
+                    </div>
+                    
+                    <div class="boletime-post-recomendacao-data">
+                      <i class="fa-regular fa-calendar"></i> {{ post.data }}
+                    </div>
+                    <div class="boletime-post-recomendacao-autoria">
+                      Por <b>{{ post.autoria }}</b>
+                    </div>
+                  </div>
+                </a>
+                {% endif %}
+              {% endfor %}
             </div>
             
             <br>
