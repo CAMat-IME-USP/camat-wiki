@@ -1,0 +1,37 @@
+name: Deploy do Jekyll
+
+on:
+  push:
+    branches:
+      # toda vez que tiver push na branch main ele vai rodar isso
+      - main
+
+jobs:
+  build_e_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Usa o cache do GitHub Actions para guardar as dependencias
+      - uses: actions/cache@v3
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+            
+      # Usa o GitHub Deploy Action para fazer o build e o deploy ao GitHub
+      # Para usar a ultima versao: `jeffreytse/jekyll-deploy-action@master`
+      - uses: jeffreytse/jekyll-deploy-action@v0.5.0
+        with:
+          provider: 'github'         # O Padrao eh github
+          token: ${{ secrets.GITHUB_TOKEN }} # Eh o Personal Access Token (PAT)
+          branch: 'site'         # Branch onde sera feito o deploy
+          jekyll_src: './'           # Por padrao eh o diretorio raiz
+          jekyll_cfg: '_config.yml'  # Por padrao eh o _config.yml
+          jekyll_baseurl: ''         # O padrao eh o que esta no _config.yml
+          bundler_ver: '>=0'         # Por padrao eh a versao mais recente do bundler
+          cname: ''                  # O padrao eh nao usar um cname
+          actor: ''                  # O padrao eh GITHUB_ACTOR
+          pre_build_commands: ''     # Instalando dependencias adicionais (Arch Linux)
+      
