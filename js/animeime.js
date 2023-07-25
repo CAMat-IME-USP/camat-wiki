@@ -49,7 +49,7 @@ lista_fotos.map(foto => {
   div.appendChild(image)
 
   image.onclick = function(){
-    document.getElementById("foto_grande_img").src = this.src.replace('thumbnails/', 'qualidade/').replace('.jpg', '.png')
+    document.getElementById("foto_grande_img").src = this.src.replace('thumbnails/', 'qualidade/')
     foto_grande.style.display = "flex"
   }
 

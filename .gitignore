@@ -5,6 +5,3 @@
 /tmp/
 *.bundle
 Gemfile.lock
-
-images/eventos/animeime_2023/qualidade/*
-images/eventos/animeime_2023/thumbnails/*
