@@ -61,7 +61,6 @@ pagination:
 
 # Se tiver plugins, chama eles aqui embaixo
 plugins:
-  - jekyll-minifier
   - jekyll-paginate-v2
 
 # Configuracoes do pre-processador AsciiDoc

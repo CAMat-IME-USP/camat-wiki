@@ -24,7 +24,6 @@ gem 'haml', '~> 5.1', '>= 5.1.2'
 # Se tiver plugins, bota aqui
 group :jekyll_plugins do
   gem 'jekyll-asciidoc', '~> 2.0.1'
-  gem 'jekyll-minifier', '~> 0.1.10'
   gem 'jekyll-paginate-v2'
 end
 
