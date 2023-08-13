@@ -3,7 +3,7 @@
 <!-- Captura todas as páginas que têm como categoria "sessao_cinime" -->
 {% assign paginas = site.pages | where: "categories", "filme_cinime" | sort: "date" | reverse %}
 
-<div class="swiffy-slider slider-item-show2">
+<div class="swiffy-slider slider-item-show3">
     <!-- Onde ficam os slides -->
     <ul class="slider-container">
         {% for pagina in paginas %}
@@ -35,6 +35,7 @@
 
     <div class="slider-indicators">
         <button class="active"></button>
+        <button></button>
         <button></button>
         <button></button>
     </div>
