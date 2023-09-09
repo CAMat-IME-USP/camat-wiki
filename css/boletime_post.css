@@ -281,6 +281,7 @@
 .aviso_amarelo p, .aviso-escuro p {
   padding: 15px;
   text-indent: 0px;
+  font-size: 13px;
 }
 
 
@@ -325,10 +326,11 @@
     background-color: unset !important;
   }
   .boletIME-post-titulo > div {
-    font-size: 33px;
+    font-size: 27px;
+    font-weight: bold;
   }
   .boletIME-post-titulo div .subtitulo {
-    font-size: 25px;
+    font-size: 23px;
   }
   .boletIME-post-cabecalho-info {
     flex-direction: column;

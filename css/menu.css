@@ -61,7 +61,7 @@
     width: 24px;
     height: 24px;
     cursor: pointer;
-    z-index: 10;
+    z-index: 11;
 }
 .menu:hover .menu-hamburger:before,
 .menu:hover .menu-hamburger:after {
@@ -119,7 +119,7 @@
 }
 
 .l-page {
-    z-index: 2;
+    z-index: 12;
 }
 
 .l-nav {
@@ -133,7 +133,7 @@
 
     .l-page {
         margin-left: 0;
-        z-index: 3;
+        z-index: 13;
         -webkit-transition: 0.35s;
         -moz-transition: 0.35s;
         transition: 0.35s;
@@ -154,7 +154,7 @@
 
 .l-nav.is-open {
     display: block;
-    z-index: 5;
+    z-index: 15;
     width: 250px;
     -webkit-transition: 0.35s;
     -moz-transition: 0.35s;

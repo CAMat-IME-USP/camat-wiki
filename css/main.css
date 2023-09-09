@@ -42,10 +42,6 @@ table {
     max-width: 80rem;
 }
 
-.wrapper > .container {
-    padding-top: 7.5rem;
-}
-
 .header {
     padding-top: 1rem;
 }
