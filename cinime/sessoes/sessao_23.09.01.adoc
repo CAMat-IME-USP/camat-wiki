@@ -1,0 +1,6 @@
+= One Piece: A Série (2023)
+:page-date: 2023-09-01
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_010923.png }
+:page-sinopse: [ "A Comissão Organizadora do CinIME decidiu aproveitar o lançamento, nessa semana, da série live-action do One Piece e transmitir para galera otaku no IME!","Venha assistir os três episódios iniciais e comentar sobre a boa (ou ruim) adaptação do nosso amado pirata que estica!" ]
+:page-informacoes: { sala: B05 (bloco B do IME), horario: 16h00, dia: 01/09, dia_semana: sexta-feira }
