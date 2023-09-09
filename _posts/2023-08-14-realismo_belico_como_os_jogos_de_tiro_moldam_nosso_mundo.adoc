@@ -1,0 +1,90 @@
+= Realismo Bélico
+:page-subtitle: como os jogos de tiro moldam o nosso mundo
+:page-identificador: 20230814_realismo_belico_como_os_jogos_de_tiro_moldam_nosso_mundo
+:page-data: "14 de agosto de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME', 'Leitores']
+:page-boletime: 'Agosto/2023'
+:page-autoria: 'Leitores'
+:page-resumo: ['Uma reflexão sobre como as nossas mídias de entretenimento são usadas como ferramentas para redefinir as narrativas no âmbito histórico, cultural e popular, levando a uma discussão acerca do significado da "neutralidade política" de obras que retratam temas inerentemente políticas. Ao fim, relaciona-se o fenômeno nomeado como Realismo Bélico pelo autor com aquilo que seria chamado de Complexo de Entretenimento Militar.']
+
+
+[.aviso_amarelo]
+--
+Texto enviado por um estudante da Licenciatura em Matemática. Para mais textos assim, visitem o seu canal: https://www.youtube.com/@baldedeideias3707[https://www.youtube.com/@baldedeideias3707, window=_blank]. +
+--
+
+A definição comum para um jogo “realista” reside em alguns aspectos muito específicos: gráficos detalhados, efeitos fotorrealistas; se um modelo específico de arma tem o comportamento próximo do mesmo modelo na vida real, se um veículo específico tem o mesmo desempenho no jogo que na prática, se a representação de um evento dialoga com o imaginário do grupo público do jogo.
+
+Essa definição de realismo não se limita apenas para jogos e simuladores. De fato, ela nem sequer foi usada pela primeira vez em larga escala no âmbito dos jogos, mas sim no âmbito da indústria hollywoodiana, quando O Resgate do Soldado Ryan vinculou a ideia de “algo realista” com o sensorial e, mais tarde, usando tal aparato como parte do seu marketing. As manchetes explodiram com relatos de como veteranos da Segunda Guerra que viveram de primeira mão os eventos foram re-traumatizados pela “autenticidade” do Dia-D como retratado no filme, em que a construção brutal das cenas foi feita com intuito de trazer uma história anti-guerra nas próprias palavras do diretor. Para isso, Spielberg decidiu que corpos mutilados, sangue e pedaços de perna seriam ferramentas para comunicar a ideia de não existir um vencedor na guerra e na violência.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/veteranos.jpg[Frame de uma entrevista com 6 veteranos estadunidenses, todos homens velhos e brancos.]
+_Entrevista conduzida pela emissora estunidense ABC News com 6 veteranos que participaram do Dia-D._ +
+_"Vocês estavam lá. Foi como o filme mostrou?", "Sim."_ +
+_Fonte: Saving Private Ryan's Haunting D-Ray Realism - 26/07/1998_
+--
+
+Porém, existe um problema desse tipo de discussão inerentemente entrar em conflito com a experiência geral de ir ao cinema comercial, ainda mais no contexto de um filme como O Resgate do Soldado Ryan. É um lugar que se paga para rir, chorar e se assustar de propósito. Dentro desse espaço, os horrores da guerra acabam por se subverter em uma forma de entretenimento bizarro através da espetacularização, de certa forma, da violência visceral apresentada na tela. Por um lado, a sua história tenta convencer o interlocutor das tragédias da guerra; mas por outro ele é só mais um filme de ação que apela para “_uau, você acredita que estão mostrando isso no cinema?_”.
+
+É importante ressaltar que o cinema comercial não representa a única forma de cinema. Existem filmes de guerra que não entram nesse paradoxo. O Resgate do Soldado Ryan se encontra nessa dualidade porque é um filme pensado para o mercado, não por causa da sua temática propriamente dita. Por isso, a real efetividade do filme de ter passado ou não uma mensagem anti-guerra tornou-se irrelevante, porque ele foi indiscutivelmente lucrativo, tornando um dos filmes que mais gerou bilheteria em 1998. Após O Resgate do Soldado Ryan, filmes de guerra passaram a se popularizar cada vez mais, e diretores transpuseram a busca incessante por um suposto realismo para teatros cada vez mais diversos ao redor do globo: Coreia, Vietnã, Somália - qualquer lugar que permita mostrar pessoas sendo desmembradas em pedaços -.
+
+Mais tarde, com o terceiro jogo da franquia _Medal of Honor_, Spielberg recria a própria cena do desembarque do Dia-D e, mais uma vez, a mesma ideia de “realismo” foi usada como divulgação.
+
+Em 2002, por questões de divergências com a empresa original, os designers de _Medal of Honor_ Jason West e Vince Zampella usariam a experiência que tiveram produzindo _Medal of Honor_ para criar o projeto batizado de “_Matador de Medal of Honor_”: _Call of Duty_. Rapidamente Call of Duty virou _o jogo_ de Segunda Guerra, ultrapassando o _Medal of Honor_ em vendas. Mais tarde, _Call of Duty_ viraria “_A Franquia de video games mais vendida_” quando decidiu enfrentar um tipo diferente de guerra.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/medal_of_honor.jpg[Capa do jogo Medal of Honor em sua versão para PlayStation 2.]
+_Material de divulgação do jogo Medal of Honor: Allied Assault._ +
+--
+
+No mês consequente ao 11 de Setembro, EUA invade Afeganistão em busca de Osama Bin Laden. Em 2003, EUA invade o Iraque baseado em acusações falsas de produção de armas biológicas de destruição em massa.
+
+Essas guerras não se parecem com aquelas da década de 30 e 40 mistificadas na consciência coletiva, e o apoio popular em cima de Afeganistão e Iraque nunca chegou perto do entusiasmo que houve depois de Pearl Harbour. Não mais estavam engajando na ideia de combater o mal absoluto do Nazismo, ou a expansão imperial japonesa.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/protesto.jpg[Multidão com faixas e cartazes brancos em protesto.]
+_Protesto contra a Guerra do Iraque (2003). As placas escrevem, entre outras mensagens, "Não ataque Iraque" e "Pare os crimes de guerra israelenses"._ +
+_Fonte: https://commons.wikimedia.org/wiki/File:London_anti-war_protest_banners.jpg_
+--
+
+As mídias de entretenimento mais “tradicionais” tomaram uma postura muito cautelosa em relação a essas novas guerras e, assim, ninguém definiu o que seria uma guerra moderna no contexto, talvez, cultural. Call of Duty 4: Modern Warfare, lançado em 2007, teve uma tela vazia para defini-la como quiser.
+
+Existe uma divergência temática muito sutil entre Call of Duty 4 e todos os jogos da franquia que o precede no que diz respeito ao entendimento e definição de “herói”. Não demora muito para revelar a temática individualista que a franquia passaria a tomar no seu entendimento sobre guerras: os personagens tomam posse de armamentos personalizados, diálogos distintos, pêlos faciais não- regulares, uniformes com toques que ressaltam o individualismo. E o jogador faz parte disso ao exercer controle total do campo de batalha, não importa onde estiver, produzindo um movimento de inversão de papéis no que se refere à interação personagem x contexto, cultivando o mito do operador - indivíduos altamente treinados e nunca em desvantagem tática -.
+
+A partir do _Modern Warfare_, a franquia passou a engajar em uma narrativa não só de “_os fins justificam os meios_”, mas sim, como Jacob Geller expõe em seu texto “_Does Call of Duty Believe in Anything?_”, em algo mais cínico ainda de “_os meios estão sempre justificados desde que sejam feitas pela pessoa certa_”, e que a capacidade dessas “pessoas certas” - dos _Operadores_ - de fazer até mesmo aquilo impossivelmente imoral para nós, é a única forma de garantir que possamos manter as nossas moralidades dentro das nossas casas.
+
+Não estamos mais falando do “realismo” no seu sentido comum, mas sim um _Realismo_, que possibilita tanto os desenvolvedores quanto os jogadores de mascararem todas essas questões inerentemente políticas sobre representação do mundo e aderência de discursos naquilo que a indústria chama de “controvérsia”.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/joel_emslie.jpg[Frame de uma entrevista com o diretor de arte do jogo Call of Duty, um homem branco, cabelo curto e barba branca mediana.]
+_Em entrevista, o diretor de arte do jogo Call of Duty: Modern Warfare (2019) Joel Emslie assume que "seria insano um jogo possuir teor político"._ +
+_Fonte: 129 Rapid-Fire Questions About Call of Duty: Modern Warfare_
+--
+
+É controverso existir uma fase em que você pode sem querer matar civis e um bebê. É uma representação realista de como pessoas mundanas podem acabar no cruzar de fogos. Operações assim, na vida real, são invariavelmente controversas, então a sua representação mais realista possível, também, não escapa da controvérsia. Mas nisso, não estamos questionando como essa sensação de impacto é completamente manufaturada, já que o jogo sequer deixa eu puxar o gatilho quando a mira está no Capitão Price. Não importa o quão forte eu aperte o botão de atirar, a arma simplesmente não dispara. Mas eu posso atirar no bebê do Call of Duty.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/cod_cena_civil.jpg[Frame da cena no jogo, no qual o personagem aponta uma arma pesada contra uma mãe que está na frente do berço de seu filho.]
+_Screenshot da missão Clean House de Call of Duty: Modern Warfare (2019). A cena permite ao jogador atirar na mãe e na criança._ +
+--
+
+Ao final da Guerra Fria, os EUA passaram a ter uma grande ênfase em reduzir gastos militares e dar preferência para o uso da indústria comercial civil ao invés da militar. Assim, criou-se um cenário efetivo para impulsionar investimentos na área de tecnologias de simulação militar, que estavam se emergindo na época na forma de Kriegspiel’s: jogos de guerra. O que hoje é chamado de Complexo de Entretenimento-Militar sofreu impulsos diretos desse movimento, e os seus traços podem ser encontrados em todas as formas de mídia que consumimos hoje.
+
+Jogos, filmes e séries podem colaborar diretamente com o Departamento de Defesa dos EUA para obter acesso a equipamentos, veículos, informações, entre muitas outras coisas para aumentar o impacto visual ou narrativa; em troca, os ramos militares envolvidos decidem como eles querem ser representados na obra.
+
+Em _Call of Duty 2019_, para reforçar a ideia de ser um jogo que replica o mundo real, o Corpo de Fuzileiros Navais dos Estados Unidos e o Gabinete de Ligação de Mídias de Entretenimento da Marinha dos EUA foram creditados como “Consultores”; não surpreendentemente, o Departamento de Defesa dos EUA recebeu agradecimentos especiais em Top Gun: Maverick. O que está sendo vendido não é só a peça de entretenimento em si, mas todo um aparato desenhado para vender uma ideia de guerra, e essa venda é indiscutivelmente lucrativa.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/creditos_cod.jpg[Cena de créditos finais de Call of Duty, na qual é possível ler na lista de consultores a marinha estadunidense.]
+_Créditos finais do jogo Call of Duty: Modern Warfare (2019)_ +
+--
+
+Quando um jogo explicitamente sobre unidades antiterroristas alega que _“qualquer semelhança [do jogo] com eventos ou indivíduos reais, vivas ou não, é mera coincidência”_, mas ao mesmo tempo apresentam mapas que claramente retratam eventos que ocorreram no mundo real, com unidades da vida real e armas da vida real; quando existe uma predominância tanto de opções quanto de discursos sobre como jogos de tiro devem “evitar de ser política”; é vendido a ideia de que essa é a única forma possível de representar conflitos, forças-armadas, e o mundo. Não existe outra opção senão engajar na ideia de um suposto realismo, na ideia do policiamento ético, no Mito do Operador, no choque sensorial da brutalidade e controvérsia manufaturada. É esse Realismo - com R maiúsculo - que os jogos de tiro engajam quando é usada a propriedade inerente de mídia interativa que os videogames proporcionam para vender justificativas para guerra: o Realismo Bélico.

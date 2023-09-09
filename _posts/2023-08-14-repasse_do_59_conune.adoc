@@ -1,0 +1,27 @@
+= Repasse do 59º CONUNE
+// :page-subtitle:
+:page-identificador: 20230814_repasse_do_59_conune
+:page-data: "14 de agosto de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: 'Agosto/2023'
+:page-autoria: 'CAMat'
+:page-resumo: ['O 59º CONUNE (Congresso Nacional da União Nacional dos Estudantes), ocorrido entre 12 de 16 de julho, mais uma vez demonstrou sérios problemáticos em relação à condução da entidade pela majoritária. O repasse, na sua íntegra, conta com descrições breves de alguns acontecimentos e do quê eles representam para o movimento estudantil.']
+
+Muitos acontecimentos foram vistos dentro do período de 12 a 16 de Julho deste ano no CONUNE, e muitos deles comprovam a forma errática que é tocada a entidade atualmente pela majoritária. Mas antes é bom lembrar que o CONUNE é um espaço deliberativo para decidir quem direcionará a gestão da UNE durante um período de dois anos, período que contempla o mandato de eleitos.
+
+Nota-se que, desde os primeiros dias, vários estudantes de diversas forças se encontraram em situação muitas vezes precária, pois havia uma discrepância na forma como a majoritária tratava aqueles ligados às forças que a compõem e as forças de oposição, em especial alimentação. Várias das forças presentes tiveram que bancar a alimentação de delegades por conta própria, caso contrário não haveria garantia que a UNE distribuísse qualquer forma de alimento ou subsídio para tais estudantes.
+
+Além disso, percebeu-se também que as forças da oposição apareceram em peso durante todos os dias do congresso, participando em peso dos atos ali convocados. Já as forças da majoritária haviam pouca ou nenhuma presença até os últimos dois dias, quando apareceram em peso unicamente para as votações do CONUNE. Sabemos que o período desse congresso tem o propósito justamente de contemplar a politização de seus participantes, e uma ação dessas mostra um interesse em despolitizar seus militantes por parte da majoritária.
+
+E falando na politização viu-se que a linha presente nos debates ocorridos foi extremamente rebaixada, muitas vezes convergindo para um governismo barato, sem qualquer compromisso em uma mudança concreta ou uma cisão com o status quo vigente. Um exemplo dessa linha rebaixada é quando a convidada da majoritária, ligada ao PT, defendeu o arcabouço fiscal e a retirada da pasta de educação do projeto como se fosse uma vitória dos estudantes.
+
+Um detalhe interessante também para a questão política das forças presentes no CONUNE se dá pela presença da UJL e a conivência da majoritária com a mesma, esta sendo quebrada pelas ações de forças da oposição que expulsaram a UJL dos espaços diversas vezes, e também a forma como o Afronte se alinhou com a Majoritária nas votações, mostrando que o discurso de oposição pode atrair oportunismo para suas fileiras se não houver uma união entre discurso e ação.
+
+O que isso representa? Antes de mais nada que a luta do movimento estudantil ainda tem muito a ser construída, mesmo que contra a tendência puxada pela majoritária e suas artimanhas para conseguir mais delegados sem haver qualquer lastro de trabalho real com as bases.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/ujs_fake_natty.png[Retângulo vermelho escrito dentro: "UJS fake natty"]
+--

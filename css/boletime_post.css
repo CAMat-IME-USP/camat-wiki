@@ -6,7 +6,7 @@
  * Arquivo de estilização de posts do BoletIME.
  */
 
-.boletIME-post-capa {
+ .boletIME-post-capa {
   width: 100%;
   height: 350px;
   margin-right: 8px;
@@ -138,6 +138,10 @@
   background-color: rgb(216, 159, 188);
   color: white;
 }
+.boletIME-post-tag-Leitores {
+  background-color: rgb(216, 159, 188);
+  color: white;
+}
 
 .boletIME-post-postexto {
   display: flex;
@@ -266,6 +270,18 @@
   background-color: rgba(186, 57, 37, 0.6);
 }
 
+.aviso_amarelo {
+  background-color: #e6a517;
+  color: black;
+}
+.aviso-escuro {
+  background-color: #131313;
+  color: white;
+}
+.aviso_amarelo p, .aviso-escuro p {
+  padding: 15px;
+  text-indent: 0px;
+}
 
 
 @media all and (max-width: 799px) {
@@ -297,8 +313,19 @@
   .boletime-post-recomendacao {
     position: relative;
   }
+  .boletime-post-recomendacao:hover .boletime-post-recomendacao-capa {
+    border: none !important;
+  }
+  .boletime-post-recomendacao:hover > .boletime-post-recomendacao-conteudo{
+    color: white !important;
+    background-color: rgba(186, 57, 37, 0.8) !important;
+    border: none;
+  }
+  .boletime-post-recomendacao:hover > .boletime-post-recomendacao-conteudo > div {
+    background-color: unset !important;
+  }
   .boletIME-post-titulo > div {
-    font-size: 35px;
+    font-size: 33px;
   }
   .boletIME-post-titulo div .subtitulo {
     font-size: 25px;
@@ -310,22 +337,33 @@
     flex-direction: column;
   }
   .boletime-post-recomendacao-capa {
-    margin: 0px 10px;
     align-self: center;
     justify-content: center;
-    height: 50%;
+    position: absolute;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+  }
+  .boletime-post-recomendacao-conteudo {
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    color: white !important;
+    background-color: rgba(0,0,0,0.8) !important;
+  }
+  .boletime-post-recomendacao-conteudo > div {
+    background-color: unset !important;
   }
   .boletime-post-recomendacao-titulo {
-    font-size: 15px;
+    font-size: 16px;
+  }
+  .boletime-post-recomendacao-resumo {
+    font-size: 13px;
   }
   .boletime-post-recomendacao:hover .boletime-post-recomendacao-capa {
     border: unset;
-  }
-  .boletime-post-recomendacao-tags {
-    position: absolute;
-    left: 10px;
-    bottom: 5px;
-    background-color: red;
   }
   .boletIME-post-recomendacao-tag {
     font-size: 9px;
