@@ -60,6 +60,52 @@ Foram feitos os pedidos de reposição dos claros docentes dos professores exone
 Votação para a aprovação da emeritação de um professor foi adiada devido a falta de quórum. A congregação pede novamente que, na próxima reunião, todos os membros compareçam.
 --
 
+
+[.colapsador]
+--
+Reunião 24/08/2023 - Thiago Guelfi
+--
+
+[.repasse]
+--
+**Repasses:**
+
+**CO:** 
+Foi repassado pelo representante da Congregação no CO que a arrecadação caiu, então a reitoria não deve aprovar novas vagas para contratação, uma vez que estamos no limite da folha (as vagas já prometidas serão mantidas, como os concursos que vão abrir agora no IME) 
+Também pelo representante no CO foi repassado que a reitoria está tratando das questões de TI na USP, existe o projeto de expandir o oferecimento de wi-fi no campus; também deve mudar a distribuição de google drive, algo como 100 GB para docentes e 20 GB para alunos, a ideia é diminuir a dependência da Google ou de qualquer outra empresa
+
+**CPq:**
+Foi repassado pela CPq que o IME recebeu representantes do Google num evento que aconteceu no IEA, o vice-presidente do google que palestrou no evento disse que tem muito carinho pelo IME devido a um outro evento que o IME hospedou, na época com presença do Yoshiharu e da Yoshiko; a CPq julga que precisamos buscar o protagonismo de parcerias acadêmicas do google no Brasil (ooc: talvez se eles derem o drive de volta?)
+
+**CG:**
+Foi repassado pela CG novamente a questão de o IME ser recordista de evasão e a reunião com a pró-reitoria de graduação a respeito disso; também foi mencionada a questão da curricularização da extensão, que surpreendentemente já se aplica aos estudantes ingressantes desse ano, 10% da carga horária precisa ser extensão; foi repassado que o provão paulista entrará em vigor a partir do ano que vem; foi repassado a demanda discente por mais ambientes de estudo, que a CG apoia
+
+**CCEx:**
+Foi repassado pelo presidente da CCEx um aprofundamento da curricularização da extensão, o modelo permitirá que cada docente proponha um projeto de extensão através do JúpiterWeb, e caso o aluno participe desses projetos, eles constarão no histórico como uma disciplina especial que dará as horas de extensão; o projeto do IME para curricularização da extensão precisa ser apresentado até Setembro, a CCEx quer fazer o melhor possível com o prazo curto, mas as alternativas são ou reduzir a carga horária de disciplinas para abrir espaço para a extensão, ou então criar improvisos que deem as horas; a reitoria está elaborando um FAQ sobre isso, mas ele só ficará pronto depois que o IME já tiver apresentado o projeto, pelo próprio calendário da reitoria 
+
+**CPG:**
+a CPG repassou a mudança de pró-reitor, mencionou que a USP quer fazer reformas na pós-graduação buscando um modelo de "mestrado australiano"[1] (confesso que não entendi como funciona), além de uma nova implementação que permite que um estudante de graduação que cursou disciplinas da pós como aluno especial aproveite os créditos da mesma disciplina na graduação e na pós
+
+**CIP:**
+A CIP repassou que haverá uma reunião extraordinária da PRIP para deliberar sobre o PAPFE 2024, e também sobre os tópicos discutidos na reunião da CIP em relação a acolhimento de estudantes neurodivergentes, que fica prejudicado com a redução das bolsas de monitoria do IME 
+
+O professor Goldman repassou que a USP assinou um novo convênio com o CNRS, para um centro de pesquisa que funcionará onde era a agência do banco do Brasil; esse convênio terá grupos temáticos, sendo um deles computação, e haverá uma grande verba FAPESP para financiar projetos de pesquisa, de modo que os pesquisadores que tenham contatos franceses devem ir atrás disso 
+
+Foi repassada a abertura emergencial de uma disciplina de reforço para alunos do MAP, essa disciplina deverá ser reformulada de modo a se tornar uma optativa com uma nova sigla que será oferecida regularmente 
+
+Foi homologado uma decisão que havia sido aprovada ad-referendum permitindo que alunos de graduação componham a CPq
+
+Foram discutidos concursos de professor doutor do MAE e do MAP, que foram aprovados apenas no mérito porque eles tem regras como a aplicação de prova em inglês que ainda dependem de mudanças vindas do CO, então a aprovação no mérito serve para que o diretor possa aprovar ad referendum no momento que isso for legal
+
+Foi informado que a estatística precisa publicar um concurso de professor titular ainda esse ano porque a reitoria não libera vagas de professor titular para institutos que já estejam com vagas em aberto, e a estatística tem uma
+
+Foi aprovada a homologação do concurso do MAT e o departamento deve receber uma nova vaga para substituir o professor Pedro Salomão, que exonerou 
+
+Foram aprovadas bancas do concurso do MAC (18 inscritos) e dos concursos do MAT de doutor (66 inscritos) e titular (5 inscritos).
+
+(1) Sobre o mestrado australiano, o assunto foi tratado na abertura da pós-graduação: https://www.youtube.com/watch?v=z6F80X5Y7oY[https://www.youtube.com/watch?v=z6F80X5Y7oY]
+--
+
 ## Comissão de Graduação (CG)
 
 [.colapsador]
