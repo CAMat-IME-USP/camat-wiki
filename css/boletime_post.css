@@ -142,6 +142,11 @@
   background-color: rgb(216, 159, 188);
   color: white;
 }
+.boletIME-post-tag-URGENTE {
+  background-color: red;
+  color: white;
+}
+
 
 .boletIME-post-postexto {
   display: flex;
