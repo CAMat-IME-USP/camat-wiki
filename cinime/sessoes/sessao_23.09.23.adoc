@@ -1,0 +1,8 @@
+= 🎞 CORUJÃO NA GREVIME 😱🚩
+:page-date: 2023-09-23
+:page-categories: [sessao_cinime, filme_cinime]
+:page-header: { image: sessao_230923.png }
+:page-descricao: ["O CinIME irá exibir três animações que permitem também refletirmos sobre organização, o coletivo e a diversidade. Além de serem divertidos!", "👉 Robôs", "👉 Vida de Inseto", "👉 Shrek" ]
+:page-informacoes: { sala: GrevIME, horario: a partir das 23h, dia: 23/09, dia_semana: sábado }
+:page-pipoca: true
+:page-resenha: false
