@@ -1,0 +1,30 @@
+= Um contraponto aos jornais oficiais
+// :page-subtitle:
+:page-identificador: 20230929_um_contraponto_aos_jornais_oficiais
+:page-data: "29 de setembro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['GrevIME', 'BoletIME']
+:page-boletime: 'Setembro/2023'
+:page-autoria: 'CAMat
+:page-resumo: ['Um breve texto discutindo a importância de contar as nossas histórias através dos nossos jornais.']
+
+Estamos em um momento turbulento e decisivo que tanto a nossa Universidade como um todo se encontra através da falta sistemática de professores - ameaçando, inclusive, o fechamento de cursos -, péssimas políticas de permanência, avanços cada vez maiores de privatização; quanto os institutos individualmente se encontram pelas suas questões únicas - como a disparidade entre os cursos diurnos e noturnos do IME e a redução crônica de oferecimentos de cursos na FCF -.
+
+Diante disso, o movimento percebido pelos jornais oficiais é de mascarar o movimento estudantil - que tem tido apoio dos prórpios docentes -, colocando um discurso de deslegitimar as pautas através de fachadas como:
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/folha_de_sp.webp[Fundo branco e letras pretas grandes no título e pequenas no subtítulo.]
+_Manchete da matéria produzida pela Folha de São Paulo em 22 de setembro de 2023._
+--
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/jornal_da_usp.webp[Fundo branco e letras pretas.]
+_Trecho do artigo "A luta pela educação precisa ser feita com educação" publicado pelo Jornal da USP em 23 de setembro de 2023._ 
+--
+
+Isso mostra, mais uma vez, a importância de nós contarmos ao mundo as nossas histórias. Sabemos que os canais oficiais de comunicação trabalharão para deslegitimar toda e qualquer tentativa de reinvindicação dos nossos direitos em troca do status quo. Frases e declarações como “As opiniões expressas nos artigos publicados no Jornal da USP são de inteira responsabilidade de seus autores e não refletem opiniões do veículo nem posições institucionais da Universidade de São Paulo”, encontrada ao final do artigo acima citado, não fazem sentido algum, uma vez que a própria publicação do artigo é uma postura de concordância com o mesmo.
+
+Sendo assim, peçamos para que engajem com BoletIME, conte para nós as coisas que estão acontecendo durante a greve, o que você sente, as suas frustrações, demandas; sejam elas coisas de grande magnitude, ou até coisas mais corriqueiras. Juntos podemos construir um jornal que registre as nossas lutas.

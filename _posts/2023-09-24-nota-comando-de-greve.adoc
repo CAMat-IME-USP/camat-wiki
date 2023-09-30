@@ -4,7 +4,7 @@
 :page-data: "24 de setembro de 2023"
 :page-layout: boletime_post
 :page-categories: [boletime_post]
-:page-tags: ['URGENTE']
+:page-tags: ['URGENTE', 'GrevIME']
 :page-boletime: 'Setembro/2023'
 :page-autoria: 'Comando de Greve IME-USP'
 :page-resumo: ['Estamos recebendo diversas mensagens de professores que irão retomar as atividades de aulas - e inclusive provas - nessa semana, e todos reforçando uma orientação do diretor para que adotem essa postura. O diretor que fez uma reunião com o comando de greve, dizendo respeitar nossa greve e o piquete, reconhecendo a luta dos estudantes, este é o mesmo diretor que está articulando os professores para a retomada das atividades de aula.']

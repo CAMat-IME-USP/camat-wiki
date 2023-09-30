@@ -4,7 +4,7 @@
 :page-data: "22 de setembro de 2023"
 :page-layout: boletime_post
 :page-categories: [boletime_post]
-:page-tags: ['URGENTE']
+:page-tags: ['URGENTE', 'GrevIME']
 :page-boletime: 'Setembro/2023'
 :page-autoria: 'Comando de Greve IME-USP'
 :page-resumo: ['O CAMat, em Assembleia Emergencial realizada hoje com os estudantes, deliberou pela adesão à paralisação para o dia de amanhã, 21/09.']
