@@ -1,0 +1,27 @@
+= Sobre opor a Greve
+// :page-subtitle:
+:page-identificador: 20231005_sobre_opor_a_greve
+:page-data: "05 de outubro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Leitores', 'GrevIME', 'BoletIME']
+:page-boletime: 'Outubro/2023'
+:page-autoria: 'Leitores'
+:page-resumo: ['Pequena discussão sobre a importância de movimentos disruptivas em tempos de inação.']
+
+[.aviso-vermelho]
+--
+O texto a seguir foi enviado via forms de contato do BoletIME e não necessariamente condiz com a opinião do corpo editorial.
+--
+
+É inevitável que todo tipo de movimento disruptivo como uma greve gere opiniões contrárias. São movimentos que questionam o sistema quando vozes não são ouvidas e demandas ignoradas; movimentos que pressionam os beneficiários pela não-escuta. Durante a atual Greve dos estudantes, no contexto imeano, não foi diferente. Desde o início houve resistência por parte tanto de grupos de estudantes quanto de grupos de professores vocalizando posturas opostas à Greve, manifestando-se de maneiras não-oficiais – como E-Mails e baixo-assinados – e também na forma de participação das assembleias, votando contra a continuidade da Greve.
+
+O IME possui grades taquicárdicas, e muitas vezes um pequeno atraso de duas aulas é o suficiente para colocar a continuidade da disciplina inteira em cheque. Não à toa que a taxa de reprovação do Instituto é a maior da Universidade; ou que a taxa de desistência do IME esteja, também, entre os maiores da USP. Com isso, não é totalmente incompreensível que existam alunos – ou até mesmo professores – contrárias à Greve. Porém, é extremamente importante que cada um de nós tenha, também, a consciência das reivindicações do atual movimento, dos motivos que levaram ao estopim do cenário atual, e da importância de pressionar e lutar por um espaço acadêmico digno para nós, estudantes, e professores. Nisso, é nítido que a maioria do Instituto possui, ao menos, um conhecimento mínimo sobre: as vozes contrárias ao movimento são uma minoria; e apesar da aparente oposição em massa dos professores, somente um terço é contra o movimento.
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/grafico.jpg[Grafico pizza sobre a assinatura da carta anti-greve por parte de docentes: 34.2% são docentes ativos que não assinaram, 31.5% são ativos que assinaram, 30% são inativos que não assinaram, 3.8% são inativos que assinaram e 0.4% é um professor colaborador que assinou.,width=100%]
+_Dados levantados pelo GT de Dados da Greve_
+--
+
+No dia 4 de outubro de 2023, representantes da greve geral dos estudantes participaram de uma negociação com a Reitoria, chegando a conclusões muito significativas das pautas de reivindicações dos estudantes, demonstrando a clara efetividade que o movimento tem atingido no relativo curto período de ação, especialmente comparado com os resultados da primeira tentativa de negociação – quando a Reitoria deu a entender uma postura de atrito por exaustão –. Mais uma vez volta-se à discussão sobre a importância de movimentos não-conciliatórias e disruptivas diante de estruturas que não visam sequer a escuta das nossas demandas urgentes que ameaçam não só a própria existência daquilo que gostaríamos de cursar, como também do bem-estar dos nossos professores dentro de um cenário de sobrecarga de trabalho.

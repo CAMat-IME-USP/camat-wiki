@@ -57,7 +57,13 @@
             
             <div class="boletIME-post-cabecalho-info">
               <div class="boletIME-post-cabecalho-autor">
-                <i>Por <b>{{ page.autoria }}</b></i>
+                <i>Por <b>
+                  {% if page.autoria-completa %}
+                    {{ page.autoria-completa }}
+                  {% else %}
+                    {{ page.autoria }}
+                  {% endif %}
+                </b></i>
               </div>
               <div class="boletIME-post-cabecalho-data">
                 <i class="fa-regular fa-calendar"></i> {{ page.data }}

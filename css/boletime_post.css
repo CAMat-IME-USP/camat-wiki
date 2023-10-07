@@ -8,7 +8,6 @@
 
  .boletIME-post-capa {
   width: 100%;
-  height: 350px;
   margin-right: 8px;
   padding: 0px;
   box-shadow: inset 0 0 99999px rgba(0, 0, 0, 1);
@@ -26,22 +25,21 @@
 }
 /* titulo do post */
 .boletIME-post-titulo {
-  height: 100%;
   background-color: rgba(0,0,0,0.6);
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: end;
+  min-height: 350px;
 }
 .boletIME-post-titulo > div {
   color: white;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-weight: bolder;
   font-size: 50px;
-  position: absolute;
-  bottom: 0;
+  padding-top: 50px !important;
 }
 .boletIME-post-titulo div .subtitulo {
-  font-size: 45px;
+  font-size: 38px;
   font-weight: bolder;
 }
 .boletIME-post-texto {
@@ -92,6 +90,9 @@
 .boletIME-post-cabecalho-info {
   display: flex;
   justify-content: space-between;
+}
+.boletIME-post-cabecalho-autor {
+  max-width: 70%;
 }
 
 /* tags */
@@ -280,6 +281,10 @@
   background-color: rgba(186, 57, 37, 0.6);
 }
 
+.aviso-vermelho {
+  background-color: #f8362c;
+  color: white;
+}
 .aviso_amarelo {
   background-color: #e6a517;
   color: black;
@@ -288,7 +293,7 @@
   background-color: #131313;
   color: white;
 }
-.aviso_amarelo p, .aviso-escuro p {
+.aviso_amarelo p, .aviso-escuro p, .aviso-vermelho p {
   padding: 15px;
   text-indent: 0px;
   font-size: 13px;

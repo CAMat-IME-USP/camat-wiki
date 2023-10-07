@@ -1,0 +1,33 @@
+= Uma carta pelo voto online
+// :page-subtitle:
+:page-identificador: 20231005_uma_carta_pelo_voto_online
+:page-data: "05 de outubro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Leitores', 'GrevIME', 'BoletIME']
+:page-boletime: 'Outubro/2023'
+:page-autoria: 'Leitores'
+:page-resumo: ['Reflexão pelo argumento do voto não presencial, visando maior inclusão.']
+
+[.aviso-vermelho]
+--
+O texto a seguir foi enviado via forms de contato do BoletIME e não necessariamente condiz com a opinião do corpo editorial.
+--
+
+"Tem que ser presencial se não as pessoas não tem pertencimento", quase paradoxalmente esta frase une o meu empregador e o movimento estudantil, mas me divide de ambos, uma vez que não consigo, muitas vezes, expressar e construir a minha opinião com o segundo por conta da obrigação (ou dependência) do primeiro.
+
+Não consigo entender porque a resistência em trazer debates e decisões para mais perto dos estudantes com mecanismos online, uma vez que estes aumentam a possibilidade de participação e são - atenção - complementares aos eventos físicos.
+
+O medo da despolitização do debate virtual é medo de uma hipótese. Nunca testamos esse modelo antes. Pior, é um medo que ignora a vivência democrática brasileira.
+
+O voto no Brasil é desenhado para trazer a maioria. Temos urnas em todos os lugares possíveis. Instituimos voto obrigatório. E, mesmo assim, brancos, nulos e abstenções são quase metade das contagens.
+
+Se mesmo quando o voto é obrigatório quem não quer participar não participa, quão baseada no mundo real é a hipótese da despolitização do voto online?
+
+Ao ignorar a tecnologia os estudantes escolhem que impere um viés de seleção. É um perfil de estudante que pode participar das assembleias presenciais. As línguas mais afiadas dizem que existe um medo por parte de lideranças progressistas de que outros perfis de estudantes estejam correlacionados a outras visões de mundo e somem votos às visões políticas divergentes do status quo do movimento estudantil.
+
+Talvez isso seja verdade, talvez não seja. O que é verdade é que negar a tecnologia reduz a participação de estudantes de TODOS os espectros políticos.
+
+Existem várias formas de mesclar o físico com o remoto, a pandemia já nos ensinou isso, e até as plataformas sociais estão cheias de features de streamimg e interações entre o fisico e virtual. Podemos empregar transmissões simultâneas, interação online, perguntas mandadas por mensagem...
+
+Por fim, acredito que criar esses mecanismos de voto não presencial é o correto se a inclusão for de fato nossa preocupação, e quando realizarmos como foi tão fácil e tão bom para expandir as boas discussões vamos nos sentir idiotas por não o termos feito antes. 

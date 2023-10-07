@@ -1,0 +1,17 @@
+= Insatisfação com a greve
+// :page-subtitle:
+:page-identificador: 20231005_insatisfacao_com_a_greve
+:page-data: "05 de outubro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Leitores', 'GrevIME', 'BoletIME']
+:page-boletime: 'Outubro/2023'
+:page-autoria: 'Leitores'
+:page-resumo: ['Breve parágrafo trazendo um contra-ponto à Greve.']
+
+[.aviso-vermelho]
+--
+O texto a seguir foi enviado via forms de contato do BoletIME e não necessariamente condiz com a opinião do corpo editorial.
+--
+
+O IME deve tem milhares de alunos e houve na última assembleia a presença de pouco mais de 100 alunos para votação que resultou na continuidade da greve, não há legitimidade de quem está fazendo a greve que é uma minoria de alunos. Deve-se discutir o interesse dos alunos nas aulas, o que vejo são jovens descomprometidos com o próprio futuro e desinteressados no curso que fazem, não há falta de professores tampouco falta de estrutura na USP.

@@ -1,0 +1,43 @@
+= Texto sobre permanência
+// :page-subtitle:
+:page-identificador: 20231005_texto_sobre_permanencia
+:page-data: "05 de outubro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Leitores', 'GrevIME', 'BoletIME']
+:page-boletime: 'Outubro/2023'
+:page-autoria: 'Leitores'
+:page-resumo: ['Uma reflexão sobre a questão da permanência estudantil.']
+
+[.aviso-vermelho]
+--
+O texto a seguir foi enviado via forms de contato do BoletIME e não necessariamente condiz com a opinião do corpo editorial.
+--
+
+
+== I. Breve história do ensino médio até a USP
+Eu saí do ensino médio em 2013, e vim de uma escola pública comum. De 2013 a 2018 mesclei períodos intensos de estudo e trabalho, vendo na minha formação em uma boa universidade a única chance de sair do quadro de pobreza e miséria. Por carregar toda essa pressão, acabei desenvolvendo burnout, depressão e insônia (ambas em tratamento, não de maneira constante por conta de minhas condições financeiras), tal fato será importante nas próximas seções. Por estar em uma condição extrema, acredito que eu possa de alguma forma contribuir com novas pautas e complementando estas pautas atuais.
+
+== II. Principais problemas enfrentados quanto à permanência na USP
+
+O primeiro problema que posso citar é justamente a questão financeira. Infelizmente os auxílios financeiros da universidade não tem sido suficientes para ter uma estabilidade nos estudos, sem precisar me preocupar com as despesas de casa. Mesmo com o aumento do PAPFE para R$800, o custo mínimo para uma pessoa se manter em SP, é de R$1500-3000 reais, ainda mais para alunos que já atuam como arrimo de família, pois necessariamente, o núcleo familiar de alunos PPI de maneira geral, tem que repor financeiramente o desfalque que um aluno traz ao ter que se dedicar somente aos estudos. 
+
+Entretanto, na prática os alunos de baixa renda têm que se virar para encontrar estágios na USP, fazer "maracutaias" para conseguir um estágio ou até mesmo trancar o curso para complementar sua renda em casa. Contudo, pensando só nos estágios da USP somado ao valor atual do PAPFE, o máximo que um aluno poderia conseguir em tese, seria R$1800,00. Entretanto, se o PAPFE fosse aumentado para R$1000-1500 com um estágio na USP um aluno PPI conseguiria ter uma folga maior para ajudar em casa e conciliar os estudos.
+
+Penso também que levar só R$1000,00 como aumento imediato do PAPFE pode gerar uma desidratação no valor final concedido via negociação, por isso acredito que levar o valor de aumento de R$1000 para R$1500 poderia trazer um aumento mais significativo neste auxílio. Além disso, pode-se citar o fato dos créditos de auxílio alimentação muitas vezes serem subutilizados pois alunos PPI passam muito tempo em transporte na ida e volta, o que inviabiliza as refeições nos restaurantes universitários. 
+
+Desta forma, queria sugerir como pauta uma flexibilização do auxílio alimentação, podendo este ser pago em dinheiro ou em créditos nos restaurantes universitários para os alunos PPI, pois permite maior flexibilidade quanto ao próprio uso do valor para confecção de alimentação específica, de acordo com o contexto de cada aluno. 
+
+Penso também que o IME deveria permitir os estágios já a partir do ingresso do aluno no BCC, permitindo mais autonomia ao aluno e menos dependência financeira da universidade, o que ia requerer maior flexibilização dos horários das disciplinas e possíveis mudanças na grade horária. 
+
+Outro fator também muito áspero aos alunos PPI é o período de extensão do prazo do curso, que poderia ser maior que 1/4 do curso (2 anos) para alunos enquadrados em quadro de vulnerabilidade social, emocional e que são contistas. Falo isso porque sou um, e não digo isso em tom de preconceito, mas é fechar os olhos para a realidade pensar que um aluno PPI vai conseguir conduzir o curso no período estipulado pela CG, uma vez que todos os desafios enfrentados por estes alunos são bem maiores que os problemas que um típico aluno da USP enfrenta.
+
+Além disso, também deveria haver uma iniciativa da universidade quanto a provisão de equipamento pata que o aluno possa seguir no seu curso. Dificilmente um aluno de baixa renda/contista, conseguirá investir R$3000-4000 em um notebook. E aqui cabe uma sugestão: a universidade poderia ter parcerias com a iniciativa privada para a concessão destes equipamentos a alunos que precisarem de fato desta ajuda. O mais próximo que ocorreu foi o projeto Conectividade do IME, na qual me doou um notebook mas que já apresenta falhas e tem dificultado as minhas atividades de estudo, por exemplo.
+
+Como um último adendo, poderia ser debatido a bolsa USP diversa, que teve ampla divulgação da mídia mas que até agora nem teve edital lançado aos alunos. Isso porque já falei com o pessoal da SAS e não conseguiram me dar uma posição concreta sobre o suposto auxílio. 
+
+== III Outros
+
+Também acho importante citar que seria ótimo um aluno poder ter seu TCC substituído por seu estágio, uma vez que estaria sendo remunerado e estaria trabalhando em algo que realmente o mercado exige, saindo um pouco do mundo acadêmico que a USP oferece, que infelizmente, na maioria das vezes não dialoga com a realidade da sociedade, principalmente com o "povão", que é de onde muitas vezes se originam os alunos contistas da universidade. 
+
+Esses são alguns apontamentos que queria fazer. Penso que por ser PPI talvez eu consiga ter falado de uma maneira mais profunda e prática sobre as questões de permanência estudantil no IME. Peço perdão por erros de escrita ou se pareci grosseiro. Só parece muitas vezes que a USP, e em especial o IME é um ambiente construído de cima pra baixo, não o contrário.

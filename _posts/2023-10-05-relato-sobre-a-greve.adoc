@@ -1,0 +1,33 @@
+= Relato sobre a Greve
+// :page-subtitle:
+:page-identificador: 20231005_relato_sobre_a_greve
+:page-data: "05 de outubro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Leitores', 'GrevIME', 'BoletIME']
+:page-boletime: 'Outubro/2023'
+:page-autoria: 'Leitores'
+:page-resumo: ['Um texto pessoal de um estudante diante das suas percepções da Greve.']
+
+[.aviso-vermelho]
+--
+O texto a seguir foi enviado via forms de contato do BoletIME e não necessariamente condiz com a opinião do corpo editorial.
+--
+
+Abro o navegador de internet, procuro as notícias do dia e me deparo com fotos do piquete do IME sendo exibidas como capa de diversas publicações. Títulos como “‘Formamos alunos para serem críticos, mas movimento que usa força não cabe na USP’” são comuns. Frases como essa parafraseada sendo ditas pelo próprio reitor da Universidade, em um dos maiores movimentos grevistas dos últimos anos. E o motivo da greve? As causas? As entrevistas com participantes? Isso nunca é divulgado.
+
+Em meio a essa desinformação sendo explicitada a todo momento pelos meios de notícia, que nem sequer buscam confirmar as informações publicadas, é necessário trazer um pouco de esperança, informação e acima de tudo, explicar a situação com respeito a todos.
+
+Me lembro especificamente de terça-feira, dia 25 de setembro, quando cheguei no IME pela primeira vez, após o início da greve, para participar da assembléia que iria debater e determinar a continuação ou não dos piquetes, além de outras pautas, e senti uma pequena estranheza vendo aquele ambiente, mesmo sendo a favor da greve. Tal estranheza passou também, quando pude ver as pessoas que eu conhecia e ter sido bem recepcionado, como se fosse um dia comum. Tive também a oportunidade de fazer parte do movimento, recepcionando por um tempo as pessoas que chegavam. E na hora da assembléia, me surpreendi: uma grande quantidade de pessoas, engajadas politicamente, para discutir o movimento. Mesmo nem todos sendo a favor da greve, todos que estavam ali foram discutir e ouvir o posicionamento de outras pessoas. E quando começou, uma assembléia totalmente organizada, com uma pequena introdução, e espaço para a voz de todos. Como a ideia não era de debate, mas sim de expressão de opiniões, em momento algum qualquer pessoa foi desrespeitada, tanto aqueles que eram a favor ou contra a greve puderam falar e expor seus pontos de vista, enquanto o restante ouvia, e esperava sua própria vez para falar. Quando havia discordância, não ocorria discussão, e sim uma explicação e reforço de outro ponto de vista. Assim, a assembléia termina, com a votação pela continuidade da greve sendo vencedora.
+
+Além disso, foram propostas após as assembléias diversas reuniões pelo instituto com seus docentes e coordenadores de curso, que de certa forma aceitaram cooperar e conversar, ouvir as demandas dos estudantes nesse período difícil. Aliás, a própria ADUSP (Associação dos Docentes da USP) aprovou a greve, ao entender que não reivindicamos direitos apenas para nós alunos, porém para eles também, visto que com a principal reivindicação sendo a de contratação de novos docentes deve liberar uma carga excessiva de aulas desses professores, que poderão focar também em pesquisas e evitar uma sobrecarga.
+
+Por dados levantados no próprio IME, grande parte dos docentes do instituto são responsáveis por lecionar mais de 100 alunos. Diversas matérias optativas  deixam de ser oferecidas anualmente por falta de docentes, e outras acabam sobrecarregadas, com mais alunos do que o permitido. Bolsas de monitoria para alunos em falta, gerando mais sobrecarga aos professores que ficam sem monitores em suas matérias. Alunos de cursos como o Bacharelado em Ciência da Computação e o Bacharelado em Estatística sem poder se graduar, pois não há professores para lecionar a matéria obrigatória de Língua Portuguesa. Essas e outras pautas são discutidas e estão sendo organizadas e reivindicadas.
+
+E a resposta da reitoria, em meio a tudo isso? Dizem que já estão lidando com essa falta de professores, sem se comprometer a ouvir nenhuma das outras reivindicações, nem ao menos ler os dados enviados. Se comprometem a contratar metade dos professores necessários, em um prazo longo, enquanto há cursos na universidade deixando de existir. A 85° melhor universidade do mundo, perdendo cada vez mais sua diversidade de ensino e pesquisa, por pura negligência a um movimento político. Ao reitor, fica a pergunta, não seria mais fácil ouvir as reivindicações dos alunos? Não seria melhor ajudar a pressionar o estado e tentar agir em prol de melhorar a universidade?
+
+Agora fica a questão, em meio a esse ambiente em que foi dada a voz para todos que precisassem falar, e quisessem talvez convencer outros sobre seu ponto de vista, onde se ressalta o uso da força que a reitoria está falando? Onde está a violência, sempre apontada pelos meios de notícia? No IME não está!
+
+Aos senhores jornalistas, que escrevem notícias falaciosas e produzem um conteúdo enviesado, próprio para ganhar clicks de internautas e gerar revolta popular, comentários sobre a notícia, qual a herança vocês acreditam que isso deve trazer à universidade pública? Não apenas à USP? Vocês carregam responsabilidade por tudo aquilo que escrevem, e agora me parece o melhor momento para que os alunos sejam realmente entrevistados, e possam expor seu ponto de vista para a sociedade.
+
+Espero que essas palavras sejam lidas e espalhadas, pois em um momento sensível como esse na história da nossa universidade, os alunos se juntam para lutar pelos seus direitos, de forma respeitosa e baseada no diálogo, como deve ser feito.

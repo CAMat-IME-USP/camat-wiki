@@ -6,7 +6,7 @@
 :page-categories: [boletime_post]
 :page-tags: ['GrevIME', 'BoletIME']
 :page-boletime: 'Setembro/2023'
-:page-autoria: 'CAMat
+:page-autoria: 'CAMat'
 :page-resumo: ['Um breve texto discutindo a importância de contar as nossas histórias através dos nossos jornais.']
 
 Estamos em um momento turbulento e decisivo que tanto a nossa Universidade como um todo se encontra através da falta sistemática de professores - ameaçando, inclusive, o fechamento de cursos -, péssimas políticas de permanência, avanços cada vez maiores de privatização; quanto os institutos individualmente se encontram pelas suas questões únicas - como a disparidade entre os cursos diurnos e noturnos do IME e a redução crônica de oferecimentos de cursos na FCF -.
