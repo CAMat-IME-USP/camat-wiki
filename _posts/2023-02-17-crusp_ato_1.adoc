@@ -12,7 +12,7 @@ O Conjunto Residencial da Universidade de São Paulo (CRUSP) serve além de aloj
 
 [.img]
 --
-image::boletime/posts/{page-identificador}/crusp_1960.jpg[Foto do CRUSP]
+image::boletime/posts/{page-identificador}/crusp_1960.jpg[Foto do CRUSP, width=45%]
 _Crusp em meados da década de 60._ +
 _Fonte: Arquivo da Faculdade de Arquitetura e Urbanismo da USP_
 --
@@ -23,6 +23,6 @@ Com o tempo, apesar da problemática década de 70, o CRUSP foi reaberto, recebe
 
 [.img]
 --
-image::boletime/posts/{page-identificador}/tanque_trincheira_crusp.jpg[Tanque do exército na invasão do CRUSP em 1968 e trincheira de moradores.]
+image::boletime/posts/{page-identificador}/tanque_trincheira_crusp.jpg[Tanque do exército na invasão do CRUSP em 1968 e trincheira de moradores., width=45%]
 Em cima: tanque do exército durante a invasão do CRUSP em 68; em baixo: trincheira formada por moradores durante a invasão do exército em 68. _Fonte: jornal da USP_
 --

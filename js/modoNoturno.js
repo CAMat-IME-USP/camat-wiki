@@ -15,7 +15,7 @@
 let modoSessao = localStorage.getItem('modo');
 
 // verifica se ja esta definido, e, se nao, define
-let variavel_modo = modoSessao ? parseInt(modoSessao) : 0; 
+let variavel_modo = modoSessao ? parseInt(modoSessao) : 1; 
 
 // captura todos os botoes de modo escuro e de modo claro
 let botoesNoturno = [...document.querySelectorAll(".modo-escuro")]

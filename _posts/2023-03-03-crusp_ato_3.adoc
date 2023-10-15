@@ -18,7 +18,7 @@ O campus butantã é o único no Brasil que possui uma base da polícia no seu i
 
 [.img]
 --
-image::boletime/posts/{page-identificador}/foto-base-pm-usp.jpeg[Foto da base da PM na USP]
+image::boletime/posts/{page-identificador}/foto-base-pm-usp.jpeg[Foto da base da PM na USP, width=45%]
 _Base da PM na USP, localizada ao lado do CRUSP._ +
 --
 
@@ -27,7 +27,7 @@ Durante a pandemia do vírus Covid-19, os problemas de infraestrutura e negligê
 
 [.img]
 --
-image::boletime/posts/{page-identificador}/bloco_das_maes_maio_2020.jpg[Foto do Bloco das Mães, em maio de 2020]
+image::boletime/posts/{page-identificador}/bloco_das_maes_maio_2020.jpg[Foto do Bloco das Mães, em maio de 2020, width=45%]
 _Bloco das Mães, Maio/2020_ +
 _Fonte: Ponte Jornalismo_
 --
@@ -37,7 +37,7 @@ A negligência ao sofrimento psíquico por parte da universidade pode gerar cons
 
 [.img]
 --
-image::boletime/posts/{page-identificador}/CAPA-Vinícius-Lucena.jpg[Foto de manifestantes com cartazes denunciando a falta de medidas efetivas de prevenção ao suicídio dentro do campus.]
+image::boletime/posts/{page-identificador}/CAPA-Vinícius-Lucena.jpg[Foto de manifestantes com cartazes denunciando a falta de medidas efetivas de prevenção ao suicídio dentro do campus., width=45%]
 _Manifestantes com cartazes denunciando a falta de medidas efetivas de prevenção ao suicídio dentro do campus._ +
 _Fonte: Jornal do Campus_
 --
@@ -50,6 +50,6 @@ Para concluir, as lutas do CRUSP envolvem a permanência estudantil, o movimento
 
 [.img]
 --
-image::boletime/posts/{page-identificador}/abaixo-controle-de-acesso.jpeg[Cartazes denunciando o controle de acesso imposto pela reitoria da USP sobre o CRUSP com os escritos "Abaixo o controle de acesso!", "Pela autonomia estudantil" e "Morador é quem mora!"]
+image::boletime/posts/{page-identificador}/abaixo-controle-de-acesso.jpeg[Cartazes denunciando o controle de acesso imposto pela reitoria da USP sobre o CRUSP com os escritos "Abaixo o controle de acesso!", "Pela autonomia estudantil" e "Morador é quem mora!", width=45%]
 _Cartazes denunciando o controle de acesso imposto pela PRIP._ +
 --

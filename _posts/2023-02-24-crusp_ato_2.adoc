@@ -16,7 +16,7 @@ Não se sabe se essas reformas foram propositais, com o objetivo de separar os m
 
 [.img]
 --
-image::boletime/posts/{page-identificador}/reforma_sim_despejo_nao.jpg[Foto do CRUSP]
+image::boletime/posts/{page-identificador}/reforma_sim_despejo_nao.jpg[Foto do CRUSP, width=45%]
 _Faixa pendurada em janela de um dos blocos do CRUSP._ +
 _Fonte: Jornalistas Livres_
 --
