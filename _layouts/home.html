@@ -55,7 +55,7 @@
 
             <div class="boletime-post-recomendacoes">
               {% assign posts = site.posts | where: "categories", "boletime_post" | sort: 'date' | reverse %}
-              {% for post in posts limit:5 %}
+              {% for post in paginator.posts limit:5 %}
                 {% if page.id != post.id %}
                 <a href="{{ site.url }}{{ post.url }}" class="boletime-post-recomendacao">
                   <div class="boletime-post-recomendacao-capa" style="background-image: url('{{ site.urlImagens }}/boletime/posts/{{ post.identificador }}/capa.jpg')">

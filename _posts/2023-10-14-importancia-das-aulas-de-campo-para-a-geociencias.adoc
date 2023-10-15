@@ -1,0 +1,70 @@
+= Importância das aulas de campo para a Geociências
+// :page-subtitle:
+:page-identificador: 20231014_importancia_das_aulas_de_campo_para_a_geociencias
+:page-data: "14 de outubro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Leitores', 'GrevIME', 'BoletIME']
+:page-boletime: 'Outubro/2023'
+:page-autoria: 'CEPEGE'
+:page-autoria-completa: 'Centro de Estudos Paulista de Geocências (CEPEGE)'
+:page-resumo: ['Uma carta sobre as reivindicações da Geociências pela CEPEGE']
+
+[.aviso-vermelho]
+--
+O texto a seguir foi enviado via forms de contato do BoletIME e não necessariamente condiz com a opinião do corpo editorial.
+--
+
+A Geologia e o LIGEA (Licenciatura em Geociências e Educação Ambiental) são áreas predicadas em estudos do planeta Terra. Seu início se deu junto com a de Biologia, no extinto curso de História Natural. Por ser uma ciência compreendida apenas através da observação, é impossível compreender como o mundo funciona sem observá-lo diretamente. 
+
+Para um geólogo, o trabalho de campo é como uma aula de anatomia prática de um médico, onde se vê de fato como as coisas são na realidade, seus detalhes, texturas e formas que não cabem em um slide ou laboratório. Não há médico sem anatomia, assim como não há geólogo sem aula de campo. 
+
+O campo é extremamente importante não só para a formação do geocientista, mas também como profissional de outras áreas como: oceanógrafos, biólogos, geógrafos, Turismólogo, Gestor Ambiental e etc. O MEC exige que para um geólogo graduar é necessário 720h horas de aulas de campo em sua graduação, o que equivale a ⅙ da graduação aqui na USP. Muitas disciplinas ministradas são para dar a base teórica necessária ao aluno antes de ir ao campo e não o contrário, ou seja, ao contrário do que muitos pensam, as aulas de campo são a base da graduação e não um complemento do curso.
+
+A exemplo, a função de Mapeamento Geológico é a única exclusiva do geólogo no CREA e mapeamento só é feito em campo e não em powerpoint. Não há como aprender a mapear em sala de aula.
+
+
+[.img]
+--
+image::boletime/posts/{page-identificador}/cepege.png[Gráfico de colunas contendo o orçamento de campo solicitado à reitoria do segundo semestre de 2023, apresentando um valor faltante muito maior que o valor enviado, com 5 dos 12 campos não recebendo nada.,width=100%]
+_Dados foram cedidos pelo Presidente da Comissão de Graduação do IGc com autorização do Pró-reitor de Graduação sobre as solicitações de verba de campo para a reitoria, esses dados foram sintetizados no gráfico abaixo._
+--
+
+
+
+## Nossa situação
+
+Nosso instituto já gastou quase toda sua reserva desde que a nova reitoria assumiu e as complicações com campo se ampliaram, esse semestre o campo mais importante da disciplina Geologia Geral do Sistema Terra, a primeira e uma das mais importantes do curso foi cancelado pois a reitoria se negou a entregar a verba e o instituto não pode arcar com esse campo pois está em risco de comprometer funções básicas. 
+
+Outro exemplo são as disciplinas de Geologia Estrutural 2 e Geologia Metamórfica onde nem todos os professores e motoristas receberam as diárias de alimentação e hospedagem, o que fez com que os próprios professores retirassem do bolso para ratear o valor faltante.
+
+Um dos casos mais graves também é da disciplina de Geologia Histórica do Brasil do Fanerozóico, onde foi enviado R$150,00 por dia para cada aluno e o montante necessário era de R$180,00. O campo de 6 dias faria com que então faltasse R$180,00 por pessoa para o campo inteiro. Foi especulado que talvez os estudantes tivessem que pagar esse valor, um dos professores responsáveis chegou a sugerir dele mesmo pagar cerca de R$9.000,00 do bolso dele para que o campo não fosse cancelado, não houve jeito, o campo foi cancelado pelo diretor de qualquer forma.  
+
+As matérias anuais apresentam 0 créditos no segundo semestre pois o sistema tem esse erro de não colocar os créditos anuais no segundo semestre apenas no primeiro, por tanto os campos dessas matérias foram cortados na canetada pois o sistema possui um erro nativo e isso foi usado como motivo para corte. 
+
+
+## A Geociências reivindica:
+
+### I. Cumprimento do repasse de campo
+
+É dever da reitoria cumprir com o repasse para as aulas de campo que são parte da disciplina, elas são parte da ementa e contam crédito, é função da reitoria pagar integralmente tudo que está na ementa. 
+
+
+### II. Aumento da diária de campo
+
+Atualmente a diária de campo é de R$150,00 e não cobre vários campos, como já descrito anteriormente. Hoje é muito difícil bancar estadia e três refeições com R$150,00.
+
+
+### III. Contratação de funcionários especializados
+
+Nossos motoristas necessitam de conhecimento aprofundado de suas funções, profissionais terceirizados nem sempre são autorizados ou tem experiência de andar com veículos grandes em locais de dificílimo acesso. Profissionais inexperientes e desconhecidos põe em risco a vida dos estudantes de geociências ao atravessarem pontes de madeira, desfiladeiros e etc. 
+
+Falta de mecânico também é um problema, a licitação para manutenção é cara e lenta e pode inviabilizar veículos por muito tempo, muitas vezes as empresas escolhidas atendem a necessidade da reitoria e não do IGc. Um mecânico do instituto é mais confiável. 
+
+
+### IV. Compra de veículos novos
+
+Os veículos estão velhos e quebrados, constantemente passamos por situações de risco e comprometimento por falha mecânica de serenidade. Não apenas isso, mas muitas empresas terceirizadas as quais a reitoria entra em acordo possuem cláusulas sobre não acessar locais difíceis ou estradas de terra. Já ocorreu de alunos da UNICAMP terem que andar quilômetros para chegar no lugar do campo pelo mesmo motivo. Campos inteiros podem deixar de existir pois uma empresa terceirizada de ônibus pode se negar a nos levar lá, pois não pode sujar o veículo. 
+
+
+### 
