@@ -249,7 +249,6 @@
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
-  background-color: red !important;
 }
 .boletime-post-recomendacao:hover {
   background-color: var(--highlight-color) !important;
