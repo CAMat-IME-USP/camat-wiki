@@ -1,0 +1,24 @@
+= Comentário sobre a greve
+// :page-subtitle:
+:page-identificador: 20231025_comentario_sobre_a_greve
+:page-data: "25 de outubro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Leitores', 'GrevIME', 'BoletIME']
+:page-boletime: 'Outubro/2023'
+:page-autoria: 'Leitores'
+// :page-autoria-completa: ''
+:page-resumo: ['Breve comentário em ode ao fim da greve.']
+
+[.aviso-vermelho]
+--
+O texto a seguir foi enviado via forms de contato do BoletIME e não necessariamente condiz com a opinião do corpo editorial.
+--
+
+A greve, no início, era válida, entretanto, com o passar do tempo, os únicos prejudicados são os próprios alunos.
+
+As greves surgiram durante o Período da Revolução Industrial. Os trabalhadores paravam de exercer suas funções nas fábricas para reivindicar melhores condições de trabalho. Dessa maneira, os donos dos meios de produção eram prejudicados, já que sua produção parava, logo, não renderia lucro para a burguesia.
+
+Essa ideia não está alinhada ao que ocorre na greve do IME, pois o tempo passa e o único retorno obtido é o dano na aprendizagem dos estudantes, já que está retardando seu desenvolvimento acadêmico.
+
+Além disso, o Instituto está cada vez mais isolado, uma vez que a maioria dos institutos, de acordo com este Boletim, já saíram da greve. Dado isso, importante evidenciar a possibilidade apresentada pela Diretoria da perda do semestre, o que resultaria em um extremo atraso da evolução universitária de todos.

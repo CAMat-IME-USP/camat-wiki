@@ -4,7 +4,7 @@
 :page-data: "14 de outubro de 2023"
 :page-layout: boletime_post
 :page-categories: [boletime_post]
-:page-tags: ['Leitores', 'GrevIME', 'BoletIME']
+:page-tags: ['GrevIME', 'BoletIME']
 :page-boletime: 'Outubro/2023'
 :page-autoria: 'CAMat'
 // :page-autoria-completa: ''

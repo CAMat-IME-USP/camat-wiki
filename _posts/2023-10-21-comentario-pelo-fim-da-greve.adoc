@@ -1,0 +1,25 @@
+= Comentários pelo fim da greve
+// :page-subtitle:
+:page-identificador: 20231021_comentario_pelo_fim_da_greve
+:page-data: "21 e 25 de outubro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['Leitores', 'GrevIME', 'BoletIME']
+:page-boletime: 'Outubro/2023'
+:page-autoria: 'Leitores'
+// :page-autoria-completa: ''
+:page-resumo: ['Dois parágrafos em ode ao fim da greve.']
+
+[.aviso-vermelho]
+--
+Os textos a seguir foram enviados via forms de contato do BoletIME e não necessariamente condizem com a opinião do corpo editorial.
+--
+
+## Um autor (21/10)
+
+Acho que os esforços dados pela universidade tem sido importantes e rápidas, acho já que é hora de dar fim ao greve. As consequências serão para os alunos. A universidade não tem sido alheia aos questionamentos dos alunos tem propostas e bondade de melhorar. Fim da greve.
+
+---
+
+## Outro autor (25/10)
+Desejo o retorno das aulas acredito que essa greve tem nos prejudicado muito academicamente, pois com o retorno das aulas em outros institutos não faz sentido o IME ainda continuar com a paralização.
