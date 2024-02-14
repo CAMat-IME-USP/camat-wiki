@@ -1,0 +1,210 @@
+// CAMat-Wiki!
+// Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+// https://camat.ime.usp.br/
+//  
+// Listagem dos RDs atuais.
+
+== Congregação
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#congregação[Thiago Guelfi]
+|link:#congregação[Matheus Siniscarchio]
+
+|link:#congregação[Carlos Marques]
+|link:#congregação[Octavio Potalej]
+
+|link:#congregação[Link Zhang]
+|link:#congregação[João Guilherme de Souza]
+|===
+
+
+// CG
+== Comissão de Graduação (CG)
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#comissão_de_graduação_cg[Thiago Guelfi]
+|link:#comissão_de_graduação_cg[Luiza Barros]
+|===
+
+
+// CTA
+== Conselho Técnico-Administrativo (CTA)
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#conselho_técnico_administrativo_cta[Link Zhang]
+|link:#conselho_técnico_administrativo_cta[Pedro Eduardo Soto]
+|===
+
+// CoCs
+== Comissões Coordenadoras de Curso (CoCs)
+
+=== CoC BM
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_bm[Caio Domiciano]
+|link:#coc_bm[Marcos Yuri]
+|===
+
+=== CoC BE
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_be[Matheus Siniscarchio]
+|link:#coc_be[Bruno Kleine]
+|===
+
+=== CoC LM
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_lm[Isabela Pacheco da Silveira]
+|link:#coc_lm[Izabelle Camile Moreira]
+|===
+
+=== CoC BMA
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_bma[Gabs]
+|link:#coc_bma[Luiza Ferraz Santos]
+|===
+
+=== CoC BMAC
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_bmac[Pedro Eduardo Soto]
+|link:#coc_bmac[Pietra Holtz]
+|===
+
+=== CoC BCC
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_bcc[Rafael de Oliveira Magalhães]
+|link:#coc_bcc[Pedro Lucas Rezende]
+|===
+
+// Conselhos
+== Conselhos de Departamento
+
+=== Conselho MAT
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#conselho_mat[Bugari]
+|link:#conselho_mat[Thiago Guelfi]
+
+|link:#conselho_mat[Ananda Monichelly]
+|link:#conselho_mat[Madeline Morato]
+
+|link:#conselho_mat[Cadu]
+|link:#conselho_mat[Riani de Souza Alvaro]
+|===
+
+=== Conselho MAE
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#conselho_mae[Bruno Kleine]
+|link:#conselho_mae[Matheus Siniscarchio]
+|===
+
+=== Conselho MAP
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#conselho_map[Antonio Gabriel Freitas da Silva]
+|link:#conselho_map[Sil]
+|===
+
+=== Conselho MAC
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#conselho_mac[Rafael de Oliveira Magalhães]
+|link:#conselho_mac[Pedro Lucas Rezende]
+|===
+
+
+// Comissões
+== Comissões
+
+=== Subcomissão de Gestão da Comunicação
+[%header, cols="1"]
+|===
+|Representante
+
+|link:#comissão_de_gestão_da_comunicação[Thiago Guelfi]
+|===
+
+=== Comissão de Acolhimento à Mulher
+[%header, cols="1"]
+|===
+|Representante
+
+|link:#comissão_de_acolhimento_à_mulher[Atena Pinheiro]
+
+|link:#comissão_de_acolhimento_à_mulher[Luana Giacomini Barbosa]
+|===
+
+=== Comissão de Cultura e Extensão (CCEx)
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#comissão_de_cultura_e_extensão_ccex[Marcos Augusto Fontes de Araujo]
+|link:#comissão_de_cultura_e_extensão_ccex[Raphael Vlasman]
+|===
+
+=== Comissão de Estágios
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#comissão_de_estágios[Raphael Vlasman]
+|link:#comissão_de_estágios[Marcos Augusto Fontes de Araujo]
+|===
+
+=== Comissão de Pesquisa e Inovação (CPql)
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#comissão_de_pesquisa_e_inovação[Thiago Augusto Silva Dourado]
+|link:#comissão_de_pesquisa_e_inovação[Thiago Guelfi]
+|===
+
+=== Comissão de Inclusão e Pertencimento (CIP)
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#comissão_de_inclusão_e_pertencimento[Thiago Guelfi]
+|link:#comissão_de_inclusão_e_pertencimento[Atena Pinheiro]
+|===
+
+=== CCSL
+[%header, cols="1"]
+|===
+|Representante
+
+|link:#ccsl[Bruna Bazaluk]
+|===

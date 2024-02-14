@@ -1,0 +1,183 @@
+// CAMat-Wiki!
+// Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+// https://camat.ime.usp.br/
+//  
+// Listagem dos RDs atuais.
+
+== Congregação
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#congregação[Link Zhang]
+|link:#congregação[Ivan Kuvasney Lima]
+
+|link:#congregação[João Guilherme de Souza]
+|link:#congregação[Carlos Marques]
+
+|link:#congregação[Thiago Guelfi]
+|link:#congregação[Mateus Schimidt]
+|===
+
+
+// CG
+== Comissão de Graduação (CG)
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#comissão_de_graduação_cg[Luiza Barros]
+|link:#comissão_de_graduação_cg[Camila Cavalcanti]
+|===
+
+
+// CTA
+== Conselho Técnico-Administrativo (CTA)
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#conselho_técnico_administrativo_cta[Ivan Kuvasney Lima]
+|link:#conselho_técnico_administrativo_cta[Tiago Sotelo Calvo]
+|===
+
+// CoCs
+== Comissões Coordenadoras de Curso (CoCs)
+
+=== CoC BM
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_bm[Anny Beatriz Silva de Azevedo]
+|link:#coc_bm[Cayo Leitão Costa]
+|===
+
+=== CoC BE
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_be[Carolina Hirata]
+|link:#coc_be[Melissa Tiemi Tanaka]
+|===
+
+=== CoC LM
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_lm[Isabela Pacheco da Silveira]
+|link:#coc_lm[Carlos Eduardo Ribeiro]
+|===
+
+=== CoC BMA
+[%header, cols="1"]
+|===
+|Representante
+
+|link:#coc_bma[Renata Santos Miranda]
+|===
+
+=== CoC BMAC
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_bmac[Sil]
+|link:#coc_bmac[Antonio Gabriel Freitas da Silva]
+|===
+
+=== CoC BCC
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#coc_bcc[Marília Takaguti Dicezare]
+|link:#coc_bcc[Daniel Silva Lopes da Costa]
+|===
+
+// Conselhos
+== Conselhos de Departamento
+
+=== Conselho MAT
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#conselho_mat[Thiago Guelfi]
+|link:#conselho_mat[Ana Julia Modesto]
+|===
+
+=== Conselho MAE
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#conselho_mae[Camilla Fonseca]
+|link:#conselho_mae[Sávio Campos]
+|===
+
+=== Conselho MAP
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#conselho_map[Antonio Gabriel Freitas da Silva]
+|link:#conselho_map[Sil]
+|===
+
+=== Conselho MAC
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#conselho_mac[Daniel Silva Lopes da Costa]
+|link:#conselho_mac[Marília Takaguti Dicezare]
+|===
+
+
+// Comissões
+== Comissões
+
+=== Comissão de Gestão da Comunicação
+[%header, cols="1"]
+|===
+|Representante
+
+|link:#comissão_de_gestão_da_comunicação[Thiago Guelfi]
+|===
+
+=== Comissão de Acolhimento à Mulher
+[%header, cols="1"]
+|===
+|Representante
+
+|link:#comissão_de_acolhimento_à_mulher[Atena Pinheiro]
+|===
+
+=== Comissão de Cultura e Extensão (CCEx)
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#comissão_de_cultura_e_extensão_ccex[Henrique Luiz Pereira]
+|link:#comissão_de_cultura_e_extensão_ccex[Raphael Vlasman]
+|===
+
+=== Comissão de Estágios
+[%header, cols="1,1"]
+|===
+|Representante |Suplente
+
+|link:#comissão_de_estágios[Raphael Vlasman]
+|link:#comissão_de_estágios[Henrique Luiz Pereira]
+|===
+
+=== CCSL
+[%header, cols="1"]
+|===
+|Representante
+
+|link:#ccsl[Felipe Ribas Serras]
+|===

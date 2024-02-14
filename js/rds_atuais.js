@@ -10,8 +10,10 @@
  * é feita em uma lista.
  */
 
+const ANO = 2024
+
 // diretório dos contatos
-const DIR_CONTATOS = "/boletime_rds/rds/2023/contatos.json"
+const DIR_CONTATOS = `/boletime_rds/rds/${ANO}/contatos.json`
 
 // Captura o Modal
 var modal = document.getElementById("modal_infoRD")
@@ -44,7 +46,7 @@ function abrirModal () { modal.style.display = "flex" }
 function atualizarModal (nome) {
   // foto
   let foto_rd = document.getElementById("foto_rd")
-  foto_rd.src = '/images/rds/carometro/' + infos[nome]["foto"]
+  foto_rd.src = `/images/rds/carometro/${ANO}/` + infos[nome]["foto"]
 
   // nome
   let nome_rd = document.getElementById("nome_rd")
@@ -112,5 +114,9 @@ span.onclick = () => modal.style.display = "none";
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-  if (event.target == modal) modal.style.display = "none";
+  if (event.target == modal) {
+    modal.style.display = "none";
+    let foto_rd = document.getElementById("foto_rd")
+    foto_rd.src = ""
+  }
 }
