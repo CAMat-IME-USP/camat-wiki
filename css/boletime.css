@@ -65,3 +65,72 @@
 .edicao_boletime:hover .edicao_boletime_titulo {
   background-color: #212121;
 }
+
+.boletIME-escreva {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.boletIME-escreva:hover > div {
+  background-color: #212121;
+  border: 1px solid var(--highlight-color);
+}
+.boletIME-escreva > div {
+  background-color: var(--highlight-color);
+  width: 40%;
+  height: 100%;
+  padding: 10px;
+  color: white !important;
+  border-radius: 10px;
+}
+@media all and (max-width: 790px) {
+  .boletIME-escreva > div {
+    width: 100% !important;
+  }  
+}
+.boletIME-escreva div {
+  display: flex;
+  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+}
+.boletIME-escreva img {
+  margin: 0px;
+  padding: 0px 10px;
+  width: 80px;
+}
+
+.boletime-recomendacao-arquivo {
+  width: 100%;
+  height: 130px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+}
+.boletime-post-recomendacao-capa-arquivo {
+  width: 60%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  border-radius: 10px;
+  background-color: var(--highlight-color);
+}
+.boletime-post-recomendacao-capa-arquivo div {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(0,0,0,0.6);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.boletime-recomendacao-arquivo:hover .boletime-post-recomendacao-capa-arquivo div {
+  background-color: rgba(186, 57, 37, 0.6);
+}

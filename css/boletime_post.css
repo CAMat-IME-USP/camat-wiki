@@ -265,40 +265,6 @@
 }
 
 
-.boletime-recomendacao-arquivo {
-  width: 100%;
-  height: 130px;
-  border-radius: 10px;
-  display: flex;
-  justify-content: center;
-}
-.boletime-post-recomendacao-capa-arquivo {
-  width: 60%;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 100%;
-  border-radius: 10px;
-}
-.boletime-post-recomendacao-capa-arquivo div {
-  height: 100%;
-  width: 100%;
-  text-align: center;
-  background-color: rgba(0,0,0,0.6);
-  color: white;
-  font-size: 18px;
-  font-weight: bold;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 10px;
-  padding: 30px;
-}
-
-.boletime-recomendacao-arquivo:hover .boletime-post-recomendacao-capa-arquivo div {
-  background-color: rgba(186, 57, 37, 0.6);
-}
-
 .aviso-vermelho {
   background-color: #f8362c;
   color: white;

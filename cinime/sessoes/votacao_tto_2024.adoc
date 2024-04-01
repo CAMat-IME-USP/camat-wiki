@@ -1,0 +1,8 @@
+= Torrent Toroidal de Ouro 2024
+:page-date: 2024-03-29
+:page-categories: [sessao_cinime, votacao_cinime]
+:page-header: { image: votacao_tto_2024.png }
+:page-sinopse: [ "Na batalha Literalmente Eu temos O Fabuloso Destino de Amélie Poulain (2001) vs Psicopata Americano (2000), e o mais votado será exibido na próxima sessão do CinIME (14 de abril, às 14h). ", "Eae, o seu voto vai para qual filme?"]
+:page-formsvotacao: https://forms.gle/Mf2ryEgB2A3nb6FWA
+:page-datafimvotacao: 29/03
+
