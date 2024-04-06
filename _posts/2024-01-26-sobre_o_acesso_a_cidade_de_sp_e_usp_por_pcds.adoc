@@ -1,0 +1,26 @@
+= Sobre o acesso à cidade de São Paulo e USP por PCDs
+:page-identificador: 20240126_sobre_o_acesso_a_cidade_de_sp_e_usp_por_pcds
+:page-data: "26 de janeiro de 2024"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Janeiro/2023 (7ed)"
+:page-autoria: "Paulo Tadeu de Oliveira"
+:page-resumo: ['Um texto sobre o cenário que PCDs enfrentam ao se locomoverem para acessar a cidade de São Paulo, com um pequeno imaginativo de o que a USP poderia fazer e ser.']
+
+[.aviso-vermelho]
+--
+Os textos a seguir foram enviados via forms de contato do BoletIME e não necessariamente condizem com a opinião do corpo editorial.
+--
+
+Segundo a Organização Mundial de Saúde (OMS) em 2010, estima-se que um pouco mais de um bilhão de pessoas de todo o mundo, representando por volta de 15% da população mundial e no caso do Brasil, segundo o Instituto Brasileiro de Geografias e Estatística (IBGE) em 2010, estima-se que 45,6 milhões de pessoas, representando aproximadamente 23,9% da população brasileira, convivem com alguma forma de deficiência. Em todo o mundo, as pessoas com deficiência apresentam piores perspectivas de saúde, níveis mais baixos de escolaridade, menor participação econômica e taxa de pobreza mais elevada em termos comparativos às pessoas sem deficiência.
+
+As pessoas com deficiências compõem um grupo de excluídos que sempre despertou diferentes sentimentos, desde a repulsa até a piedade extrema, tendo sido até considerados menos humanos ou desprovidos de humanidade. Atualmente, no âmbito das políticas de inclusão social e educacional, tornaram-se alvo de ações afirmativas, as quais buscam assegurar-lhes seus direitos em vários aspectos da vida em sociedade.
+
+Acredita-se que as baixas condições de trabalho das pessoas com deficiência são devidas a situações como: dificuldade de acesso à educação, infraestrutura inadequada, preconceito, falta de informação e de melhores condições de acessibilidade por parte de escolas e empresas que fazem com que essas pessoas apresentem um menor nível de escolaridade o que dificulta o ingresso delas no mercado formal de trabalho. Para que as pessoas com deficiência atinjam perspectivas melhores e mais duradoras, devemos capacitar essas pessoas e retirar as barreiras que as impedem de participar da comunidade, de ter acesso à educação de qualidade, de encontrar trabalho decente e ter suas vozes ouvidas.
+
+No Brasil, entre as pessoas com deficiência mais de 50% são pessoas com deficiência visual. Em uma cidade como São Paulo significa passar por problemas e barreiras de toda a ordem como calçamentos inadequados, dificuldades para acessar transporte coletivo, dificuldades de acessar transporte, lazer, saúde entre muitas outras coisas.
+
+No caso da USP uma questão que acho que deveria ser vista é a questão de pessoas com deficiência visual para acessar o transporte coletivo, montando um sistema que permita ao usuário com um aparelho ou mesmo um aplicativo de celular poder digitar o número do ônibus que deseja pegar e em que ponto ficará esperando e o ônibus emite um sinal dizendo quanto tempo demora ou se já está chegando.
+
+Esse tipo de coisa acho que traria maior comodidade aos passageiros com mais garantia de que pegará o seu ônibus e aos motoristas dos coletivos evitando paradas desnecessárias.

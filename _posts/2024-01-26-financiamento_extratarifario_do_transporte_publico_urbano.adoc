@@ -1,0 +1,69 @@
+= Financiamento Extratarifário do Transporte Público Urbano no Brasil
+:page-identificador: 20240126_financiamento_extratarifario_do_transporte_publico_urbano
+:page-data: "26 de janeiro de 2024"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Janeiro/2023 (7ed)"
+:page-autoria: "CAMat"
+:page-resumo: ['Por vezes, o convite ao debate sobre o financiamento do transporte público urbano é lido por setores à esquerda como um questionamento liberal, quando, na verdade, é uma urgência nos debruçarmos sobre esta discussão se queremos alcançar o horizonte de universalização do acesso à cidade e do passe livre. Nesse sentido, trazemos um resumo do estudo Financiamento Extratarifário do Transporte Público Urbano no Brasil, a fim de instigar o início desse debate.']
+
+Apresentaremos aqui um resumo do documento Financiamento Extratarifário da Operação dos Serviços de Transporte Público Urbano no Brasil (2019) realizado por Carlos Henrique Ribeiro de Carvalho (Doutor em Economia pela Universidade de Brasília) e Instituto de Estudos Socioeconômicos (Inesc). A redação do estudo busca expandir o debate da Tarifa Zero dado às manifestações de junho de 2013 seguidas da promulgação da Emenda Constitucional 90/15, que garante o transporte como direito social do cidadão. Ainda, podemos adicionar um fato nesta lista: em maio do ano passado, a deputada Luiza Erundina, junto da frente ampla de Lula no Congresso, apresentou a Proposta de Emenda Constitucional (PEC) 25/23, cujo objetivo é a criação do Sistema Único de Mobilidade - a grosso modo, o “SUS dos transportes coletivos”.
+
+A expansão do debate sobre o transporte público urbano (TPU) como um direito social e a instituição do Sistema Único de Transporte (SUM) requerem o mesmo entusiasmo para se discutir o seu financiamento, sob a luz da Tarifa Zero. Por vezes, este convite é lido por setores à esquerda como um questionamento liberal, quando, na verdade, é uma urgência nos debruçarmos sobre esta discussão se queremos alcançar o horizonte de universalização do acesso à cidade e do passe livre. Vamos ao resumo.
+
+== PANORAMA GERAL DO TRANSPORTE URBANO NO BRASIL
+
+Em 2016, segundo dados da Associação Nacional de Transporte Público (ANTP), nas cidades com mais de 60.000 habitantes no Brasil, foram realizadas 65,2 bilhões de viagens urbanas. Destas, 41% foram a pé, 29% em veículos motorizados privados e 28% em transporte coletivo. Dentre o transporte coletivo, 24% foram realizadas por ônibus, e apenas 4% por sistemas sobre trilhos, como metrôs e trens urbanos.
+
+Ao considerar apenas os deslocamentos motorizados, 44% foram feitos por automóveis, 7% por motocicletas, 42% por ônibus urbanos e 7% por sistemas sobre trilhos. Nas cidades com população superior a 60.000 habitantes, ocorreram cerca de 18 bilhões de viagens por transporte coletivo, com um custo operacional total de R$ 59,3 bilhões em 2016. Os custos operacionais dos sistemas metroferroviários representaram R$ 8 bilhões.
+
+É relevante destacar que esses valores não consideram os custos das externalidades negativas, como impactos ambientais e sociais, estimados em R$ 16,6 bilhões. A ANTP ressalta que esse montante é uma pequena fração dos impactos negativos do transporte individual, calculados em R$ 137,8 bilhões pela associação.
+
+O transporte público, tradicionalmente dominante nos deslocamentos urbanos, tem perdido espaço nos últimos 20 anos em relação ao transporte individual motorizado. As políticas de estímulo à indústria automotiva e de motocicletas contribuíram para o crescimento do transporte individual, apesar dos impactos negativos nos centros urbanos.
+
+Temos aqui um ciclo vicioso de perda de competitividade do transporte público em relação ao transporte individual. O aumento das tarifas do Transporte Público Urbano (TPU) leva à transferência de demanda para o transporte individual, aumentando os custos do TPU, já que menos pessoas utilizam esse serviço. O crescimento do transporte individual contribui para congestionamentos urbanos, gerando novos aumentos de custo para o TPU. Esses aumentos de custo são repassados para a tarifa, resultando em nova perda de demanda do TPU, alimentando o ciclo vicioso. O encarecimento do TPU desencadeia esse ciclo, e, com exceção do período das manifestações populares de 2013, os reajustes das tarifas urbanas nos últimos 20 anos foram consistentemente superiores à inflação.
+
+[.img]
+--
+image::boletime/posts/20240126_financiamento_extratarifario_do_transporte_publico_urbano/grafico_variacao_ipca.jpg[Gráfico de colunas indicando a variação do IPCA, tarifas de ônibus e insumos do transporte privado motorizado.]
+_Elaboração: Inesc_ +
+_Fonte: IBGE/SIDRA_
+--
+
+A inclusão do transporte como direito social na Constituição, resultado das manifestações de 2013, evidencia a necessidade de reavaliar o caráter mercadológico do Transporte Público Urbano (TPU), que exclui aqueles que não podem pagar por seus deslocamentos. Esse modelo gera intensas externalidades negativas, incluindo custos com congestionamentos, acidentes e poluição. O Instituto de Pesquisa Econômica Aplicada (Ipea) estima perdas anuais de mais de R$ 50 bilhões devido a acidentes de trânsito no Brasil, com mais de 40 mil mortes e 300 mil internações por ano. A poluição veicular na Região Metropolitana de São Paulo é responsável por cerca de 4 mil mortes anuais, e globalmente, a ONU estima mais de um milhão de mortes por ano relacionadas à poluição veicular.Apesar dos programas federais para redução das emissões veiculares, a poluição nos grandes centros urbanos persiste devido ao aumento da frota e formação de congestionamentos. Por fim, destaca-se o aumento dos tempos de viagem, principalmente nos deslocamentos casa-trabalho, devido ao crescimento dos congestionamentos urbanos. Estudos internacionais apontam perdas entre 1% e 3% do PIB devido a congestionamentos urbanos nos países.
+
+== FINANCIAMENTO DA OPERAÇÃO E DAS GRATUIDADES DO TPU: PRINCIPAIS PROBLEMAS E INIQUIDADES
+
+A perda de competitividade do transporte público está relacionada ao atual modelo de financiamento, excessivamente dependente da arrecadação tarifária, principalmente em um cenário em que a maioria dos usuários são pessoas de baixa capacidade de pagamento.
+
+No Brasil, os sistemas de ônibus são geralmente pouco subsidiados, com exceções em cidades como Brasília e São Paulo, que subsidiam em cerca de R$ 300 milhões e R$ 2,5 bilhões anuais, respectivamente. No entanto, falta transparência nos cálculos de custeio, tornando desconhecidos os ganhos dos operadores e o custo efetivo do sistema.
+
+Já nos sistemas metroferroviários, os custos de operação mais elevados resultam em subsídios significativos, atingindo uma média de 35% de cobertura total (cerca de R$ 3 bilhões anuais). A Companhia Brasileira de Trens Urbanos (CBTU) chega a ter mais de 80% de cobertura do custo total. Nos sistemas privatizados do Rio de Janeiro, não há subsídio direto público, apesar dos investimentos em infraestrutura serem públicos. O Metrô de São Paulo também recebe subvenções relacionadas às concessões de gratuidades, com um espectro mais amplo em comparação ao Rio de Janeiro.
+
+O vale-transporte é outro importante meio de financiamento do transporte público, onde os empregadores cobrem os custos que excedem 6% do salário. Contudo, este benefício se restringe aos trabalhadores formais de baixa renda, deixando muitos sem qualquer benefício.
+
+Atualmente, dos R$ 59 bilhões necessários para cobrir os custos dos sistemas de transportes urbanos, aproximadamente R$ 6 bilhões são subsídios públicos, enquanto os R$ 53 bilhões restantes provêm majoritariamente do pagamento de tarifas pelos usuários.
+
+Um desafio significativo no financiamento do transporte público é a concentração do ônus do custeio sobre a população de menor poder aquisitivo, uma vez que os segmentos mais ricos contribuem pouco ou nada para o financiamento, apesar de se beneficiarem indiretamente da disponibilidade do transporte público. Mesmo sem usar o sistema, as famílias mais ricas se beneficiam da redução do congestionamento de carros proporcionada pelo transporte público, evitando assim externalidades negativas.
+
+O financiamento das gratuidades no transporte público também é destacado como iníquo, já que os usuários pagantes acabam subsidiando esses benefícios através de um mecanismo de subsídio cruzado. Essa prática transfere a responsabilidade financeira para os setores mais vulneráveis da sociedade, enquanto os benefícios sociais deveriam ser custeados pela sociedade como um todo, preferencialmente por fontes progressivas.
+
+Além disso, a atual forma de cobrança no transporte público perpetua a transferência de renda dos setores mais vulneráveis para os empresários do setor, incentivando a busca por custos mais baixos em detrimento da qualidade do serviço oferecido.
+
+== FONTES ALTERNATIVAS DE FINANCIAMENTO DO TPU
+
+A exploração de outras fontes de financiamento do TPU se tornou uma realidade possível a partir de janeiro de 2012 com a edição da Lei nº 12.587, mais conhecida como Lei de Mobilidade Urbana. Em geral, as cidades, que adotam o financiamento extratarifário, se utilizam de fontes já existentes no orçamento municipal. O problema dessa solução é que, em via de regra, este é um recurso comprometido, tendo em vista os demais programas sociais, não permitindo o aumento progressivo da expansão do financiamento.
+
+O ideal é adotar fontes de financiamento progressivas, onde os mais ricos contribuem mais e os mais pobres menos, em contraste com o modelo tarifário atual. Além disso, é necessário implementar mecanismos de compensação para lidar com as externalidades negativas do sistema de mobilidade na nova estrutura de financiamento (taxação do transporte individual motorizado, por exemplo).
+
+Em 2013, por ocasião das jornadas de junho, o Instituto de Pesquisa Econômica Aplicada publicou material elencando algumas formas de financiamento do transporte para além da tarifa, como: taxação do uso de transporte individual motorizado, taxação da compra de transporte individual motorizado, taxação do setor produtivo proporcional ao faturamento de pagamento, taxa sobre vagas privativas de grandes empreendimentos imobiliários. De igual, o IPEA apresenta como “desvantagem” dessas alternativas a resistência política para sua implementação.
+
+Agora, neste trabalho, apresentamos alternativas de financiamento que seguissem os princípios de progressividade na arrecadação e potencial de compensação pelas externalidades negativas geradas pelo seu consumo ou uso. São essas: taxação da gasolina, vale-transporte e taxação da folha de pagamento, alíquotas adicionais ao IPVA, cobrança pelo uso privado do espaço público.
+
+
+[.aviso-amarelo]
+--
+Para ler o estudo completo, incluindo a breve simulação de três casos distintos de financiamento extratarifário, veja https://www.inesc.org.br/wp-content/uploads/2019/10/Financiamento-Extratarif%C3%A1rio.pdf[aqui] 
+--
+

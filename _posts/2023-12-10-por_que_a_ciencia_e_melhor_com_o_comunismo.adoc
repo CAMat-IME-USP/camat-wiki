@@ -1,0 +1,88 @@
+= Por que a ciência é melhor com o comunismo? O caso do Sci-Hub
+:page-identificador: 20231210_por_que_a_ciencia_e_melhor_com_o_comunismo
+:page-data: "10 de dezembro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Dezembro/2023 (6ed)"
+:page-autoria: "Alexandra Elbakyan"
+:page-resumo: ['Uma tradução da transcrição da palestra "Why science is better with communism?" dada pela Alexandra Elbakyan em 2016.']
+
+[.aviso-escuro]
+--
+O texto trata-se de uma tradução da transcrição da palestra "Why science is better with communism?" dada pela Alexandra Elbakyan, criadora do Sci-Hub, no Simpósio do Acesso Aberto 2016 da University of North Texas.
+--
+
+Antes de mais nada, obrigada por me convidar para compartilhar minhas opiniões. Meu nome é Alexandra. Como vocês devem ter adivinhado, eu represento o site Sci-Hub. Ele foi fundado em 2011 e tornou-se imediatamente popular entre a comunidade local, quase imediatamente começou a fornecer acesso a cerca de 40 artigos por hora e agora fornece mais de 200.000 por dia.
+
+Deve-se dizer que ao longo do desenvolvimento do site, este foi fortemente apoiado por doações, e quando por várias razões tivemos de suspender o serviço, houveram muitas usuárias descontentes que clamaram pela volta do projeto para que o trabalho em seu laboratório pudesse continuar.
+
+Este caso não ocorre apenas nos países pobres; posso dizer que nos países ricos o público também não tem acesso a artigos acadêmicos. E nem todas as universidades têm assinaturas para aqueles recursos que são necessários para a pesquisa.
+
+Alguns de nossos usuários insistiram que começássemos a cobrar dos usuários, por exemplo, permitindo que um ou dois artigos fossem baixados gratuitamente, mas cobrando por mais, para que o serviço fosse apoiado por aqueles que realmente precisam dele. Mas eu não acabei fazendo isso porque o objetivo do recurso é o conhecimento para todos.
+
+Alguns defensores de acesso aberto criticam o site, dizendo que o que realmente precisamos é que os artigos estejam em acesso aberto desde o início, mudando os modelos de negócios das editoras. Posso responder dizendo que o objetivo do projeto é, antes de tudo, a disseminação do conhecimento acadêmico na sociedade, e que temos que trabalhar nas condições em que nos encontramos. Naturalmente, se as editoras acadêmicas tivessem um modelo de negócios diferente, então talvez este projeto não fosse necessário. Também podemos imaginar que se os humanos tivessem asas, não precisaríamos de aviões. Mas, de qualquer forma, precisamos voar, por isso, fazemos aviões.
+
+As editoras acadêmicas rapidamente apelidaram o trabalho do Sci-Hub de pirataria. É certo que o Sci-Hub viola as leis de direitos autorais, mas os direitos autorais estão relacionados com os direitos de propriedade intelectual. Ou seja, os artigos acadêmicos são propriedade dos editores, e lê-los gratuitamente acaba se tornando algo como roubo, de acordo com a lei atual.
+
+O conceito de propriedade intelectual em si não é novo, embora possa parecer o contrário. A história dos direitos autorais remonta ao século XVIII, embora as primeiras menções a algo semelhante possam ser encontradas no Talmud. É que recentemente os direitos autorais têm sido encontrado no centro do debate apaixonado, já que alguns estão tentando proibir a distribuição gratuita de informações na internet.
+
+Entretanto, o foco central do debate é a censura e a privacidade. A defesa da propriedade intelectual na Internet requer censura dos sites, e isso é, consequentemente, uma violação da liberdade de expressão. Isto também levanta uma questão de interferência na vida privada - isto é, quando o governo de alguma forma monitora os usuários que violam os direitos autorais. Em princípio, isto também é uma intrusão na comunicação.
+
+Contudo, a própria essência dos direitos autorais - ou seja, o conceito de propriedade intelectual - quase nunca é questionada. Isto é, se o conhecimento pode ser propriedade de alguém raramente é discutido.
+
+No entanto, nossos antepassados eram ainda mais ousados. Eles não questionavam apenas a propriedade intelectual, mas a propriedade em geral. Ou seja, há obras nas quais podemos encontrar a aparência da ideia do comunismo. Há a Utopia de Thomas More do século XVI, mas na verdade tais obras surgiram muito antes, mesmo na Grécia Antiga, onde estas questões já eram discutidas em 391 a.C.
+
+Se olharmos os slogans do comunismo, vemos que um dos conceitos centrais é a luta contra a desigualdade, a revolta das classes suprimidas, cujos membros não têm nenhum poder contra aqueles que concentraram recursos básicos e poder em suas mãos, com o objetivo de redistribuir esses recursos.
+
+Podemos ver que ainda hoje existe uma certa desigualdade informacional, quando, por exemplo, apenas estudantes e funcionários das universidades mais ricas têm pleno acesso a informações acadêmicas, enquanto que o acesso pode ser completamente inexistente para as instituições do próximo nível inferior e para o público em geral.
+
+Uma ideia surge: se não há propriedade privada, então não há base para uma distribuição desigual da riqueza. Em nosso caso também: se não houver propriedade intelectual privada e todas as publicações acadêmicas forem nacionalizadas, então todas as pessoas terão igual acesso ao conhecimento.
+
+Entretanto, surge uma pergunta: se não há propriedade privada, então o que pode estimular uma pessoa a trabalhar? Uma das ideias é que sob o comunismo, ao invés de a ganância ou aspiração à riqueza ser um estímulo ao trabalho, uma pessoa aspiraria ao auto-desenvolvimento e ao aprendizado para a melhoria do mundo.
+
+Mesmo que tais valores não possam ser aplicados à sociedade como um todo, eles pelo menos funcionam no mundo do conhecimento. Portanto, na União Soviética havia um verdadeiro culto à ciência - estátuas foram até erguidas para a glória da ciência - e talvez graças a isso nosso país tenha sido um dos primeiros a ir ao espaço.
+
+No entanto, uma coisa é ter uma revolução, quando há uma redistribuição em massa da propriedade na sociedade, mas um ato de roubo é outra coisa. Isto, claro, ainda não é uma revolução, mas é um pequeno protesto contra os direitos de propriedade e a distribuição desigual da riqueza. O roubo como protesto sempre foi bem-vindo e aprovado em todas as épocas da sociedade. Por exemplo, todos nós sabemos sobre Robin Hood, mas na verdade tem havido alguns bandidos nobres na história. Eu listei apenas alguns deles.
+
+Acho que se o Estado funciona bem, então, de acordo com isso, ele tem um sistema tributário funcional e um certo sistema de redistribuição de riqueza, e então, de acordo com isso, não há motivo para revolução, por exemplo. Mas se por algumas razões o Estado funciona mal, então as pessoas começam a resolver o problema por si mesmas. Desta forma, o Sci-Hub é uma resposta apropriada à desigualdade que surgiu devido à falta de acesso à informação.
+
+Na foto é Aldar Köse, um herói do povo cazaque que usou sua astúcia para enganar os ricos e tomar posse de seus bens. É interessante notar que os ricos são sempre retratados como gananciosos e estúpidos. E se você olhar para o que está escrito hoje na blogosfera sobre editoras eruditas, você pode encontrar estas mesmas características.
+
+[.img]
+--
+image::boletime/posts/20231210_por_que_a_ciencia_e_melhor_com_o_comunismo/aldar_kose.jpg[Aldar Köse]
+_Aldar Köse_
+--
+
+Há também a interessante figura do antigo deus grego Hermes, o patrono dos ladrões. Ou seja, o roubo era uma atividade suficientemente respeitada que tinha seu próprio deus.
+
+Há um pesquisador chamado Norman Brown que escreveu um trabalho acadêmico chamado Hermes, o Ladrão: A Evolução de um Mito. Acontece que este mito está relacionado a uma certa revolução na antiga sociedade grega, quando as classes mais baixas, que não possuíam propriedade, começaram a se erguer.
+
+Por exemplo, o poeta Theognis de Megara escreveu que “aqueles que não eram nada se tornaram tudo” e vice versa. Este é essencialmente um dos mais conhecidos slogans comunistas.
+
+Para os antigos gregos, isto estava relacionado, novamente como diz Brown, com o aparecimento do comércio. O comércio era identificado com o roubo. Não havia distinção clara entre a troca de mercadorias legais e ilegais - ou seja, o comércio era tão considerado roubo quanto o que hoje chamamos de pirataria.
+
+Por que aconteceu desta maneira? Porque Hermes era originalmente um deus dos limites e das transições. Portanto, podemos pensar que a propriedade está relacionada a manter algo dentro dos limites. Ao mesmo tempo, as coisas que Hermes protegeu - roubo, comércio e comunicação - estão relacionadas com a traição de fronteiras.
+
+Se pensarmos em periódicos acadêmicos, então qualquer periódico é antes de tudo um meio de comunicação e, portanto, é evidente que manter os periódicos em acesso fechado contradiz a essência daquilo a que eles se destinavam.
+
+Isto, é claro, não é nem mesmo o mais interessante.
+
+Hermes realmente evoluiu - isto é, enquanto ele já foi uma divindade intelectual, mais tarde veio a ser interpretado como o mesmo Thoth, o deus egípcio do conhecimento, e mais tarde veio a supervisionar coisas como astrologia, alquimia e magia - isto é, as coisas das quais, pode-se dizer, surgiram as ciências contemporâneas. Portanto, podemos dizer que a ciência contemporânea surgiu do roubo.
+
+É claro, alguém pode objetar, dizendo que a ciência contemporânea é muito diferente da esotérica, como a astrologia e a alquimia, mas se olharmos para a história da ciência, vemos que a ciência contemporânea difere das artes antigas sendo a primeira mais aberta.
+
+Ou seja, quando surgiu o movimento em direção a uma maior abertura, a ciência contemporânea também apareceu. Mais uma vez, este não é um argumento a favor das editoras acadêmicos.
+
+De fato, na consciência cultural, a ciência e o processo de aprendizagem sempre estiveram intimamente associados ao roubo, a começar pela lenda de Adão e Eva e a árvore proibida, que é chamada simplesmente de “a árvore do conhecimento”. E é interessante que o logotipo da Elsevier retrata algum tipo de árvore, o que, consequentemente, cria associações com esta árvore no Jardim do Éden - a árvore do conhecimento - da qual era proibido comer o fruto.
+
+Da mesma forma, podemos recordar a conhecida lenda do Prometeu, uma parte de nossa consciência cultural, que roubou algum conhecimento e o trouxe aos seres humanos. Mais uma vez, vemos a conexão entre ciência e roubo.
+
+Atualmente, muitos estudiosos têm descrito a ciência como o conhecimento de segredos. No entanto, se olharmos de perto, temos que perguntar: o que é um segredo? Um segredo é algo privado, em essência propriedade privada. Assim, a revelação do segredo significa que ele deixa de ser propriedade. Mais uma vez, vemos a contradição entre o conhecimento e os direitos de propriedade.
+
+Podemos lembrar Robert Merton, que estudou institutos de pesquisa e revelou quatro normas éticas básicas que, em sua opinião, são importantes para seu funcionamento bem sucedido. Uma delas é o comunismo, ou seja, o conhecimento ser compartilhado.
+
+Assim, se olharmos para certas comunidades tradicionais, descobrimos que aquelas comunidades que funcionam dentro de um sistema de castas (dividindo as pessoas por ocupação) geralmente acabam tendo certas castas de pessoas com ocupações intelectuais, e se olharmos para as normas éticas de tais castas, descobrimos que elas também são comunistas. Você pode encontrar isto, por exemplo, em Platão. Ou mesmo se você olhar para a Índia, você descobre que a acumulação de riqueza é geralmente a ocupação de outra casta.
+
+Em resumo, temos os seguintes aprendizados. A ciência, como parte da cultura, está em conflito com a propriedade privada. Assim, a comunicação acadêmica é um conflito duplo. O que o acesso aberto está fazendo é devolver a ciência às suas raízes essenciais.

@@ -1,0 +1,17 @@
+= Por que Alexandra Elbakyan?
+:page-identificador: 20231209_por_que_alexandra_elbakyan
+:page-data: "09 de dezembro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Dezembro/2023 (6ed)"
+:page-autoria: "CAMat"
+:page-resumo: ['Breve explicação da gestão sobre o porquê do nome "Alexandra Elbakyan"']
+
+Escolhemos homenagear Alexandra Elbakyan, pois ela é a criadora do SciHub. Homenagear o SciHub é um dever nosso, pois se trata da ferramenta científica mais importante no que diz respeito ao acesso a conhecimento científico.
+
+Alexandra, que é conhecida tambem como a rainha da pirataria, é cientista da computação, o que se relaciona com um curso e uma área de conhecimento do IME que o CAMat precisa estar em contato e representar.
+
+Ainda, o SciHub tem relação com ciência aberta, um dos eixos da nossa carta programa.
+
+E um adendo é o sobrenome dela (Elbakyan) ser armênio, ainda que ela mesma seja cazaque. Os armênios estão passando por um genocídio em Artsakh, então fica essa homenagem em solidariedade ao povo armênio.

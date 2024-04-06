@@ -1,0 +1,22 @@
+= Transferência interna
+:page-identificador: 20231113_transferencia_interna
+:page-data: "13 de novembro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: 'Novembro/2023 (5ed)'
+:page-autoria: 'Leitores'
+:page-resumo: ['Apontamentos de um estudante sobre o processo de transferência interna para o curso de Bacharelado em Ciência da Computação.']
+
+[.aviso-vermelho]
+--
+O texto a seguir foi enviado via forms de contato do BoletIME e não necessariamente condiz com a opinião do corpo editorial.
+--
+
+Estudo no IME no período noturno. A princípio, minha ideia era ingressar no BCC, mas optei por continuar no BMAC por motivos de ‘consigo pegar matérias do BCC’, porém, acabei não me identificando com o curso e decidi pedir transferência. Mas, como o processo é extremamente burocrático, acabei não conseguindo, e esse é meu ponto no tema.
+
+Não sei se o IME gosta de passar a mão na cabeça do Departamento da Computação, ou talvez seja outra coisa, mas avaliar o histórico escolar, depois aplicar uma prova e ainda fazer uma entrevista é algo de se pensar do porquê. Eu vim de escola pública, e o que eu sei de matemática foi o que eu aprendi sozinho, e isso foi muito difícil lidar no primeiro semestre, o que resultou em dp, e provavelmente nessa que eles já me eliminaram do processo de transferência.
+
+Mesmo tendo muitos inscritos para realizar a transferência, eu acredito que poderia ser mais democrático, ainda mais com alunos que tenham a mesma realidade que a minha. Às vezes parece que o BCC tem que ser composto apenas pelos “melhores alunos” (em relação ao processo de transferência). E por esses motivos que muitos alunos acabam desistindo do curso, do IME ou, no meu caso, se submetendo a fazer a Fuvest de novo.
+
+Pode ser que eu esteja errado em algo, ou exista alguma informação que eu não peguei, mas é o que eu sinto no momento.

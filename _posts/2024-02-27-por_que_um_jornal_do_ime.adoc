@@ -1,0 +1,17 @@
+= Por que um jornal do IME?
+:page-identificador: 20240227_por_que_um_jornal_do_ime
+:page-data: "27 de fevereiro de 2024"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Fevereiro/2023 (8ed)"
+:page-autoria: "CAMat"
+:page-resumo: ['Em tempos de tantas mídias digitais, qual a importância de um jornal da comunidade IMEana?']
+
+No contexto de uma dinâmica virtual de informações expressas, que vão embora tão rápido quanto chegam, questionase a relevância da existência dos jornais, em especial dos jornais físicos. Se há tantos meios virtuais e práticos, qual a relevância de um jornal local?
+
+A estrutura dos meios de comunicação tradicionais se caracteriza pela delimitação de duas categorias: quem escreve e quem lê. Isso configura uma relação de poder através do controle ideológico, pois aqueles que detém o poder da escrita determinam o que e como será veiculado, perpetuando uma narrativa em detrimento de outras, que são apagadas. No caso dos jornais tradicionais, como Estadão, Folha e o Jornal da USP, a narrativa dominante é a da burguesia paulista, do agronegócio e do capital financeiro, que dominam a mídia tradicional paulista.
+
+Nesse modelo, nós nos encontramos apenas como receptores de informação, incapacitados de rebater quaisquer informações apresentadas pelo jornal, na medida em que não temos espaço para colocar nossa visão de mundo. Da mesma maneira, não temos nessa estrutura nenhuma forma de colocar mesmo nossos anseios e dificuldades, o que, alimentado por uma narrativa dominante individualista, faz pensar que tudo aquilo que experienciamos no dia-a-dia, principalmente as dificuldades enfrentadas na experiência universitária, são questões individuais e não há o que se fazer sobre.
+
+Por isso, quando falamos de construir um jornal dos estudantes do IME, propomos um modelo alternativo de mídia, fazendo um chamado para que, como disse Lênin, se *“abandone de uma vez por todas o hábito burguês de pensar e agir como é costume em relação aos jornais legalmente publicados - o hábito segundo o qual seu trabalho é escrever, e o nosso é ler”*. O BoletIME é uma ode para a estruturação desse espaço construído por toda a comunidade IMEana e que ultrapassa os limites da mídia tradicional, sendo um espaço aberto para o debate e para a comunicação franca, de modo que cada IMEano tenha a possibilidade de discutir e vocalizar as questões do IME, do Baixo Matão, da USP, de São Paulo, do Brasil e além.

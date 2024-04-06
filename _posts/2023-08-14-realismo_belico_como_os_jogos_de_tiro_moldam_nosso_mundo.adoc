@@ -10,7 +10,7 @@
 :page-resumo: ['Uma reflexão sobre como as nossas mídias de entretenimento são usadas como ferramentas para redefinir as narrativas no âmbito histórico, cultural e popular, levando a uma discussão acerca do significado da "neutralidade política" de obras que retratam temas inerentemente políticas. Ao fim, relaciona-se o fenômeno nomeado como Realismo Bélico pelo autor com aquilo que seria chamado de Complexo de Entretenimento Militar.']
 
 
-[.aviso_amarelo]
+[.aviso-amarelo]
 --
 Texto enviado por um estudante da Licenciatura em Matemática. Para mais textos assim, visitem o seu canal: https://www.youtube.com/@baldedeideias3707[https://www.youtube.com/@baldedeideias3707, window=_blank]. +
 --

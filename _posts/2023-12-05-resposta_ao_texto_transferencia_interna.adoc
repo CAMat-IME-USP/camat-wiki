@@ -1,0 +1,24 @@
+= Resposta ao texto "Transferência Interna" da 5a edição do BoletIME
+:page-identificador: 20231205_resposta_ao_texto_transferencia_interna
+:page-data: "05 de dezembro de 2023"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Dezembro/2023 (6ed)"
+:page-autoria: "Leitores"
+:page-resumo: ['Resposta de um estudante de BCC por transferência interna sobre o texto "Transferência Interna" da edição passada.']
+
+[.aviso-vermelho]
+--
+Os textos a seguir foram enviados via forms de contato do BoletIME e não necessariamente condizem com a opinião do corpo editorial.
+--
+
+Eu entrei no BCC por transferência interna. Como já fui RD, já participei do processo de seleção da transferência interna; então, tenho muitas informações sobre o assunto.
+
+Basicamente, fiquei muito triste com o que li no texto pois são mentiras. A pessoa que escreveu o texto poderia ter apenas perguntado aos RDs do BCC quais são os critérios avaliados na seleção, ou até conversado com o professor coordenador do curso, mas ela escolheu escrever um texto dizendo coisas sobre as quais não sabe.Vou explicar um pouco como funciona o processo: há 3 partes, primeiro há uma análise de currículo, onde você envia seu histórico escolar; a segunda parte é uma prova de estrutura de dados e outros assuntos básicos de computação; e finalmente, uma entrevista com 3 professores do DCC e um aluno, normalmente um dos RDs.Sobre a parte 1: eu passei por essa fase com 4 matérias reprovadas e uma média ponderada péssima. O objetivo desta fase é apenas filtrar pessoas que entram em cursos “mais fáceis de entrar pela Fuvest” para se transferirem para os cursos com notas de corte mais altas depois. Ou seja, se você está num curso por mais de 1 ano e está cursando algumas disciplinas por semestre, a chance de você passar pra próxima fase é alta. Além disso, os professores levam em consideração de qual instituto você está vindo. Logo, se você tem notas baixas mas vem de um instituto que é famoso por ter disciplinas difíceis (como o IME), isso também é levado em consideração. Infelizmente, quanto mais o tempo passa, mais pessoas se inscrevem no processo de transferência interna para o BCC e o IME é um lugar com uma quantidade de salas e funcionários finita, então aplicar uma prova de transferência para mais de 100 pessoas é inviável (lembrando ainda que algum professor tem que corrigir todas as provas).Por isso, além dos critérios principais que eu citei acima, outros critérios tiveram que ser adotados ao longo do tempo para que a segunda fase fosse viável. Alguns critérios que eu sei que são levados em consideração é o quão longe da computação está o curso que a pessoa cursa, por exemplo, se você é do BMAC, os professores consideram que você já está na área da computação, então suas chances acabam sendo menores que alguém que estaria vindo da FFLCH por exemplo.
+
+Sobre a parte 2: quase todos os institutos aplicam provas no processo de transferência, então é natural que isso também aconteça no BCC. Para passar para a próxima fase o candidato tem que acertar 70% ou mais da prova (que é dissertativa). No meu caso, a prova cobria coisas de computação que eu ainda não sabia, e tive que aprender sozinhe para conseguir resolvê-la.
+
+Sobre a última parte: na entrevista os professores pedem para o candidato falar um pouco sobre si mesmo e contar o motivo de estar pedindo a transferência. Critérios que normalmente são avaliados nesta parte são questões de participação, pois o BCC é um curso que preza pela participação dos alunos nas atividades extra-curriculares. Ou seja, se você já participa de algum grupo de extensão do BCC antes de ser aluno do curso, você já ganhou vários pontinhos na entrevista. Outro critério é o quão certa a pessoa está em relação à transferência. Pessoas que demonstram estar neutras em relação ao fato de serem aprovadas ou não têm menos prioridade que pessoas que demonstram estar extremamente animadas com o curso e dizem que continuariam tentando a transferência até conseguirem passar.
+
+Pra finalizar, acredito que é impossível fazer um processo de seleção 100% justo, mas não acho que o caso da transferência interna do BCC esteja muito longe disso. Sinto muito que você não tenha passado, mas tenho certeza que a culpa não foi sua e nem do processo, mas sim da concorrência, que a cada ano aumenta quase exponencialmente. (A última vez que olhei havia mais de 100 candidatos pra 4 vagas). Sugiro que você continue tentando a transferência e a Fuvest enquanto pega disciplinas do BCC. Espero que você consiga entrar c:

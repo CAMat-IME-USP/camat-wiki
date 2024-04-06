@@ -1,0 +1,75 @@
+= Uma Apologia à Matemática Aplicada
+:page-identificador: 20240330_apologia_a_matematica_aplicada
+:page-data: "30 de março de 2024"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Março/2023 (9ed)"
+:page-autoria: "Vladmir I. Arnold"
+:page-resumo: ['“A diferença entre a matemática pura e a aplicada não é científica, apenas social. Um matemático puro é pago para descobrir novos fatos matemáticos. Um matemático aplicado é pago pela solução de problemas bastante específicos.”']
+
+[.aviso-escuro]
+--
+O texto a seguir faz parte da coletânea "Problemas Topológicos da Teoria de Propagação de Ondas" do matemático russo Vladimir Igorevich Arnold.
+--
+
+Uma opinião comum (embora comumente suprimida) tanto de matemáticos puros quanto dos físicos teóricos acerca da matemática “industrial e aplicada” é que ela consiste em uma máfia de pensadores fracos, incapazes de produzir quaisquer resultados científicos importantes, que simplesmente exploram as conquistas dos matemáticos puros das gerações anteriores, e que os membros desta máfia estão mais interessados em dinheiro do que na ciência e são irremediavelmente corrompidos por isso.
+
+“Eles são tão modestos”, disse um matemático puro uma vez, “que eles nem esperam conquistar nada de uma forma direta e honesta; distanciam-se dos matemáticos simplesmente para evitar a competição honesta”.
+
+Não acho que essa caracterização da matemática aplicada fosse completamente merecida. As realizações de Galileu dedicadas aos negócios não evocam menos admiração do que os resultados do filósofo puro Pascal.
+
+A diferença entre a matemática pura e a aplicada não é científica, apenas social. Um matemático puro é pago para descobrir novos fatos matemáticos. Um matemático aplicado é pago pela solução de problemas bastante específicos.
+
+Exemplo. Colombo começou fazendo um estudo puramente aplicado, tentando achar o caminho para a China, e ele estava sendo pago por isso.
+
+O fim de sua viagem lembra um fato da matemática pura. Note que o benefício direto imediato das descobertas de Colombo para a economia espanhola foi muito menor do que o da navegação costeira dos capitães comuns.
+
+Maiakóvski descreveu bem a diferença entre a matemática pura e a aplicada em “Como fazer poesia”. *“O homem que descobriu que duas vezes o dois é quatro foi um grande matemático, mesmo que tenha descoberto isso contando pontas de cigarro. Aqueles que agora calculam pela mesma fórmula coisas muito maiores, por exemplo locomotivas, não são matemáticos de forma alguma.”*
+
+A teoria das curvas algébricas sobre corpos finitos agora se tornou matemática aplicada, financiada pela CIA, pela KGB e outras organizações semelhantes. O problema de Fermat também seria aplicado se a sua solução tivesse valor monetário. Muitos matemáticos do século XX alertaram para os perigos de dividir a matemática em partes. Hermann Weyl escreveu: *“No nosso tempo, o anjo da topologia e o diabo da álgebra abstrata estão lutando por todos os domínios matemáticos”*.
+
+Na primeira metade do século, o diabo estava vencendo. Depois de Lagrange, que baniu as imagens da matemática, chegaram os algebristas e axiomatizadores - primeiro Hilbert e depois Bourbaki.
+
+Exemplo. Defina o produto dos números naturais por meio do algoritmo de multiplicação “por colunas”. Então a comutatividade da multiplicação é um teorema que é difícil de provar. Posteriormente, pode-se forçar crianças em idade escolar (ou estudantes) a estudar a prova formal deste teorema, as aterrorizando e elevando a uma altura sem paralelo a autoridade não só dos professores, mas também de suas ciências.
+
+Gerações de matemáticos foram ensinados por este método, não tendo contato algum com qualquer outro tipo de matemática. Como resultado, eles não conseguem compreender nenhuma outra ciência e com entusiasmo ocupam-se com detalhes tediosos de generalizações de realizações de seus professores de pouco interesse.
+
+Hilbert defendeu o princípio democrático segundo o qual cada sistema de axiomas tinha o mesmo direito de ser estudado, enquanto o valor de uma conquista matemática era determinado apenas por sua dificuldade, como no alpinismo. Como resultado, surgiu um divórcio entre a matemática “pura” e todas as ciências, um sistema de educação matemática criminoso contra aqueles ensinados, e a imagem da matemática na mente comum era a de uma perigosa seita parasitária no corpo da ciência e da tecnologia, consistindo de sacerdotes de uma religião moribunda como os druidas.
+
+Landau disse: *“Por que é que os matemáticos somam números primos? Os números primos foram criados para serem multiplicados”* (o teorema sobre a representação de qualquer número ímpar suficientemente grande como a soma de três números primos é considerado uma das maiores conquistas da matemática).
+
+Vingando-se da humilhação sofrida na escola, os administradores na maioria dos países, como porcos debaixo de um carvalho, estão agora ocupados, após a redução dos preparativos bélicos, em redobrar seus esforços para aniquilar a matemática, especialmente a matemática “pura”.
+
+O governo dos EUA recentemente descobriu que 85% dos matemáticos, já existentes ou em formação, especialmente aqueles que são “puros”, não são essenciais para o país. Sem guerras estelares, não são necessários nem supercolisores nem matemáticos. Estão sendo considerados diferentes projetos sobre como reduzir em sete vezes o número de matemáticos. Especialistas americanos calculam que isso levará dez anos.
+
+Infelizmente, temos de reconhecer que os matemáticos “puros” foram inteiramente responsáveis pela criação, com as suas próprias mãos, da opinião geral descrita. O método axiomático-dedutivo, tendo levado ao banimento de todos os exemplos (e especialmente das motivações para a introdução de definições) no ensino da matemática em todos os níveis, é, acima de tudo, responsável por isto.
+
+Richard Feynman, descreveu claramente esse método de ensino (“levando a um estado de pseudo-educação autopropagada”) em seu livro “Só pode ser brincadeira, Sr. Feynman!”, descrevendo o ensino da física no Brasil nos primeiros anos do pós-guerra. Lendo Feynman muitas vezes percebi, com vergonha, o quão próximo esse método “brasileiro” de ensinar física estava do nosso ensino de matemática.
+
+Feynman deu um exemplo. O professor declara que o momento de inércia de um ponto material relativo a um eixo é o produto da massa pelo quadrado da distância ao eixo. Os estudantes escrevem a definição. Parece que está tudo bem. Mas Feynman explica que tal forma de ensino é completamente inaceitável.
+
+É necessário explicar que uma balança presa a uma porta perto de sua dobradiça dificilmente afeta a abertura da porta, enquanto uma presa à maçaneta interfere fortemente nela. Sem esse exemplo, a definição não tem significado - ela apenas ajuda a responder a questão de exame: “formule a definição do momento de inércia”. Aqueles que desejarem podem encontrar exemplos que ilustram o desamparo dos alunos ensinados desta forma no livro de Feynman.
+
+Aqui seguem alguns exemplos da minha experiência ensinando em Paris. Na hora de uma prova escrita, um aluno do quarto período me disse: “eu esqueci minha calculadora - me diga, por favor, 4/7 é maior ou menor que 1?”. Quatro sétimos era o número do qual dependia a convergência da integral, governando o comportamento do sistema dinâmico em estudo. Esse era um bom estudante, mas aqui foram frações simples que evidentemente ele havia estudado na versão francesa do método “brasileiro”!
+
+Estudantes da École Normale em Paris me perguntaram: “Por que você chama o anel de série de potências formal de local? Ele realmente satisfaz os axiomas de um anel local?”. Para os não especialistas preciso explicar que essa questão é análoga à questão “por que você chama um círculo de uma seção cônica?”. Eles eram os melhores estudantes de matemática da França. Claramente, algum algebrista criminoso lhes ensinou os axiomas de um anel (e também os de um anel local), sem fornecer-lhes nenhum exemplo (e, em particular, sem explicar a origem do termo “local”).
+
+Após um erro nas condições iniciais, a curva de fase de um sistema hamiltoniano em um plano pareceu não como a separatriz de uma sela, mas como uma curva fechada. Isso levou a seguinte solução do problema de determinar o limite da solução quando t tende ao infinito: “Pelo Teorema 45 - em um exame escrito pode-se recorrer a qualquer fonte - existe T > 0 tal que o valor de ϕ(T) da solução no momento T é igual ao valor inicial”. Depois disso foi provado rigorosamente por indução (usando um teorema de unicidade), que ϕ(nT) = ϕ(0) para qualquer n inteiro arbitrário.
+
+Disso tudo vem o resultado irrepreensível: “o limite é igual ao valor inicial!”. Do ponto de vista dos matemáticos dedutivos-axiomáticos em todas essas considerações não houve um erro sequer: o erro está apenas na formulação do problema.
+
+Está claro, no entanto, que quem escreveu não entendeu nada, apenas sabe como provar. O absurdo e até a criminalidade de um sistema de educação, que conduz pessoas notoriamente inteligentes a tal estado, parece-me óbvio. Para o trabalho “aplicado” esse “conhecimento” é inútil e até perigoso (as consequências podem assumir o caráter de um desastre de Chernobyl).
+
+O objetivo de uma aula de matemática não deve ser a derivação lógica de algumas afirmações incompreensíveis a partir de outras (igualmente incompreensíveis): é necessário explicar à audiência sobre o que se trata a discussão e ensiná-la a usar não apenas os resultados apresentados, mas - e isso é importante - os métodos e as ideias.
+
+Seguindo essa transformação das aulas de matemática em uma espécie de serviço divino que não exige qualquer compreensão dos ouvintes, as conferências e congressos de matemática também já começaram a se tornar serviços divinos. A diferença entre a missa e uma palestra num congresso (por exemplo o atual) consiste, porém, no fato de que, ao entrar na palestra, os ouvintes devem pagar uma quantia não trivial. Isto, porém, não é surpreendente - por cada noite passada pelo orador no hotel onde este congresso é realizado, os organizadores pagam ao hotel uma quantia correspondente ao meu salário mensal em Moscou durante vários meses…
+
+Na Rússia o divórcio entre matemática “pura” e “aplicada” nunca se completou, e quase todo matemático se considerava tanto um quanto o outro. Por exemplo, todo o meu trabalho em sistemas dinâmicos (incluindo o trabalho em mecânica celeste, armadilhas magnéticas, arritmia cardíaca e estabilidade hidrodinâmica) foi realizado no âmbito da matemática “pura” na Universidade Estadual de Moscou, enquanto o trabalho em geometria algébrica, teoria de singularidades, grupos de Coxeter e a teoria de nós, foi aplicado (realizado para o Instituto de Construção de Máquinas Eletrônicas de Moscou em conexão com a pesquisa sobre regimes de calor em um meio cristalino).
+
+[.img]
+--
+image::boletime/posts/20240330_apologia_a_matematica_aplicada/arnold.jpg[Foto de Vladmir Arnold, um senhor de pele clara e cabelos escuros nas laterais da cabeça]
+_Vladmir Igorevich Arnold foi um matemático russo. Além do teorema de Kolmogorov-Arnold-Moser, que diz respeito à estabilidade de sistemas hamiltonianos integrais, teve ontribuições importantes em várias áreas, entre elas: teoria dos sistemas dinâmicos, teoria das catástrofes, topologia, geometria algébrica, mecânica clássica e teoria das singularidades, em uma longa carreira que continuou depois de seu primeiro resultado principal - a solução do décimo-terceiro problema de Hilbert em 1957._ +
+_Fonte: IBGE/SIDRA_
+--

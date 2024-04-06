@@ -1,0 +1,42 @@
+= Mini Metro: uma reflexão em cima de quadrados e triângulos
+:page-identificador: 20240126_mini_metro_reflexao_em_cima_de_quadrados_e_triangulos
+:page-data: "26 de janeiro de 2024"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Janeiro/2023 (7ed)"
+:page-autoria: "Leitores"
+:page-resumo: ['Um pequeno texto que dialoga as mecânicas do jogo Mini Metro com a realidade.']
+
+[.aviso-vermelho]
+--
+Os textos a seguir foram enviados via forms de contato do BoletIME e não necessariamente condizem com a opinião do corpo editorial.
+--
+
+Desenvolvida pela equipe indie Dinosaur Polo Club, Mini Metro é um jogo de estratégia em que os jogadores são atarefados de construir um sistema de transporte público em uma cidade em rápido crescimento através da construção de linhas de metrô, representadas de maneira minimalista, com cores vibrantes e formas geométricas simples e bem definidas.
+
+[.img]
+--
+image::boletime/posts/20240126_mini_metro_reflexao_em_cima_de_quadrados_e_triangulos/inicio.jpg[Captura de tela do jogo]
+_Início de uma sessão de Mini Metro_+
+_Fonte: Autoria própria_
+--
+
+Mecanicamente, o jogador arrasta uma linha de metrô a partir de uma estação que surge de maneira esporádica e aleatória até uma outra estação - representadas como formas geométricas -, com o objetivo de levar passageiros para as estações correspondentes - representados como formas geométricas congruentes às das estações -. Todo trem possui uma capacidade máxima de passageiros, assim como as estações possuem uma capacidade máxima antes de entrar em um estado de superlotação. Eventualmente, mais estações vão surgindo de maneira esporádica em locais aleatórios, e mais formas geométricas precisam ser atendidas. Nisso, cabe ao jogador atender a essas estações da forma que achar melhor, seja construindo uma nova linha ou implementando a estação para uma linha já existente. A condição de derrota se dá quando uma estação qualquer passa um tempo determinado em estado de superlotação.
+
+[.img]
+--
+image::boletime/posts/20240126_mini_metro_reflexao_em_cima_de_quadrados_e_triangulos/derrota.jpg[Tela de derrota com o texto "Fim do jogo", 200, 100]
+_Exemplo de tela de derrota_+
+_Fonte: Autoria própria_
+--
+
+No jogo, os passageiros, assim como na vida real, fazem baldeações, e é muito recorrente acontecer de uma estação com um forma geométrica muito específica aparecer em um canto do mapa, enquanto que os passageiros que precisam chegar nela partem sempre de um outro canto. Nesses momentos, a habilidade do jogador de solucionar a quebra-cabeças sem comprometer o resto das linhas dentro das limitações de recurso impostas - a quantidade máxima de pontes, túneis, trens e linhas disponíveis - se tornam extremamente importantes. Não raras vezes, ao progredir cada vez mais no jogo, padrões vão surgindo, e certas estações acabam virando um central de baldeações pela quantidade de linhas que ali passam, sendo este um ponto crucial para acessar todo resto da cidade com maior eficiência possível.
+
+Dessa forma, Mini Metro é, além de um quebra-cabeças, um jogo de gerenciamento de recursos. Você só tem aquilo de linhas para trabalhar; você só tem um único trem com um único vagão por linha; você só tem uma quantidade específica de pontes e túneis que pode usar. Claro que, conforme a progressão do jogo, mais recursos vão sendo gradualmente distribuídos. Para cada semana que se sobrevive, você pode escolher entre ganhar mais uma linha ou mais um vagão; entre ganhar mais um túnel ou aumentar a capacidade de alguma estação; entre um carro novo ou uma ponte.
+
+Mas nada disso torna o jogo mais fácil, uma vez que o recebimento desses recursos não acompanha o aumento da demanda. Para contornar isso, entre várias estratégias válidas que o jogo permite, está em reconstruir por completo uma linha já existente porque em algum lugar apareceu um losango que atende outros pequenos losangos e, no meio disso, ignorar todas as outras estações que a linha atendia, porque os nossos passageiros representados por pequenas formas geométricas são capazes de fazer baldeações, ainda que a mudança da linha possa acabar gerando uma, duas ou até mais baldeações necessárias.
+
+Entra, assim, um dilema entre como nós, jogadores, escolhemos enxergar essas pequenas formas geométricas que representam passageiros. No trailer de lançamento do jogo, os nossos pequenos quadrados, círculos e triângulos são exibidos de maneira antropomórfica no quesito de possuírem trabalhos, hobbies, happy-hours, casas. Eles possuem noção de tempo, e provavelmente sentem cansaço também, como o trailer explicitamente mostra um quadrado dormindo.
+
+Mas é claro, nada disso importa para nós, jogadores. Afinal, são só pequenos triângulos, quadrados, círculos, cruzes, enfim. Não tem porque se preocupar que estamos aumentando em 30% o tempo de viagem por acrescentar mais uma baldeação no caminho, não são pessoas que estamos lidando. Só precisamos ser eficientes em levar os quadradinhos e aumentar um contador arbitrário, sobreviver por mais uma semana, pegar mais um túnel, e repetir tudo de novo, de novo, e de novo; numa lógica mercadológica que trata pessoas como quadradinhos e triangulinhos para não tomar um Fim de Jogo.

@@ -269,7 +269,7 @@
   background-color: #f8362c;
   color: white;
 }
-.aviso_amarelo {
+.aviso-amarelo {
   background-color: #e6a517;
   color: black;
 }
@@ -277,10 +277,18 @@
   background-color: #131313;
   color: white;
 }
-.aviso_amarelo p, .aviso-escuro p, .aviso-vermelho p {
+.aviso-amarelo p, .aviso-escuro p, .aviso-vermelho p {
   padding: 15px;
   text-indent: 0px;
   font-size: 13px;
+}
+.aviso-amarelo a {
+  color: white;
+  text-decoration: underline;
+}
+.aviso-vermelho a {
+  color: black;
+  text-decoration: underline;
 }
 
 
