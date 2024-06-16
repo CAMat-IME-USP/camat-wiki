@@ -1,0 +1,36 @@
+= Mas isto até eu faço!
+// :page-subtitle:
+:page-identificador: 20240423_mas_isso_ate_eu_faco
+:page-data: "23 de abril de 2024"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Abril/2024 (10ed)"
+:page-autoria: 'Leitores'
+// :page-autoria-completa: ''
+:page-resumo: ['Uma discussão sobre a natureza da Matemática, das exatas e das ciências.']
+
+[.aviso-vermelho]
+--
+O texto a seguir foi enviado via forms de contato do BoletIME e não necessariamente condiz com a opinião do corpo editorial.
+--
+
+Até meados do século XVIII, prevaleceu uma crença incrustada nas pessoas que ousavam dedicar parte do seu tempo à Arte: buscar um propósito utilitário para o seu fazer. Os poetas escreviam para os jornais ou participavam de competições em busca de compensações. Os pintores e escultores usavam suas habilidades para retratar com máxima verossimilhança uma cena escolhida por seus mecenas. A dança, tal qual o teatro, devia, obrigatoriamente, gerar entretenimento ao público. Quanto à arquitetura, por fim, não é difícil enxergar seu fim utilitário. A arte não era um fazer que terminava em si, a Arte era um ofício, um trabalho, e, portanto, estava sujeita ao capital e suas consequências ideológicas.
+
+A criação da câmera, no contexto artístico, foi uma onda de abalou todos os campos das artes plásticas. O que seria dos artistas se um dispositivo capturasse a realidade com maior perfeição e que o fizesse muito mais rápido? É nesse conturbado contexto que surge o Modernismo. Cansados de verem a mesma Arte sendo produzida e reproduzida, os artistas, em diversos países da Europa, decidiram produzir novos paradigmas (ou axiomas).
+
+O Dadaísmo foi a mais revolucionária vanguarda artística desde o seu nascimento. Foi no Cabaré Voltaire onde os artistas (não apenas plásticos) propuseram-se a contrariar a lógica e a razão por trás da arte burguesa. É difícil encontrar características que unam as obras dadaístas, pois o movimento tinha como objetivo pasmar o público sem um meio específico.  É em todo esse, para dizer o mínimo, caótico, contexto que surge Marcel Duchamp, um escultor, pintor e poeta francês que é comumente tratado como o representante do Dadaísmo. Neste texto, vale destacar uma de suas obras mais famosas: Roda de Bicicleta (1951). Materialmente, a obra não passa de uma roda de bicicleta fixada em um banco de madeira qualquer, não são de nenhuma marca especial e tampouco passaram por um processo especial de manufatura.
+
+Objetivamente, a Roda de Bicicleta é INÚTIL. Não passa de um desperdício de materiais, poderia ter sido feita por qualquer pessoa e ainda ousa exibir o seu status de arte. Neste momento, você, leitor, deve ter três perguntas em mente: “Por que você dedicou três parágrafos para uma coisa tão inútil?”, “O que isso tem a ver com matemática?” e “Por que estou lendo sobre Arte numa revista do IME?”. Se não estava, agora deve estar e, por sorte, terá respostas!
+
+Aproveitando o embalo do https://camat.ime.usp.br/boletime_post/2024/03/30/apologia_a_matematica_aplicada.html[texto de Vladimir Igorevich Arnold], trazido no 9º BoletIME, sobre as diferenças entre a Matemática pura e a aplicada, a grande ideia que quero convencê-lo é que a Matemática pura não é diferente da Arte. A pura, como chamam os íntimos, não deve ter uma utilidade. Quantas vezes não nos demonstraram que √2 é irracional? Sabemos que é um processo simples, assim como é simples prender uma roda de bicicleta em um banco, mas foi somente Duchamp quem fez isso pela primeira vez. Mesmo que qualquer pessoa pudesse reproduzir o fato, o seu valor está na genialidade de quem o fez pela primeira vez.
+
+Adiciono, ainda, que a Matemática, tal qual a Arte, possui um fator fundamental: a realidade precede-as, por mais distantes que os dois possam ser da realidade, mas não as limita. Não há números na natureza, mas ainda assim a humanidade foi capaz de criar a teoria dos números. O Abaporu jamais foi visto em qualquer lugar, por mais remoto que seja, mas ainda assim Tarsila do Amaral foi capaz de retratá-lo. A analogia máxima que fica aqui é que os dois objetos não precisam e não podem depender da realidade para existirem e terem seu valor.
+
+Compreendido que a Arte pode não estar tão distante da Matemática, ouso utilizar da indução finita para introduzir mais um questionamento: as ciências exatas estão tão distantes das ciências humanas?
+
+Em primeiro lugar, é crucial lembrar que a Arte não é uma ciência humana e a Matemática não é uma ciência exata! Apesar de compartilharem muitas características. Ademais, também é importante retomarmos a origem das duas ciências: a filosofia.
+
+Eu entendo que, num instituto de Matemática e Estatística (e Ciência da Computação), ousar falar de arte é um pecado capital. Todavia, espero que este texto tenha servido como ponto de partida para um debate sobre esse maniqueísmo que tem ocorrido nas diversas áreas do conhecimento. Pensem nos benefícios existentes numa maior integração entre os diversos cursos disponibilizados na USP. A Estatística já começou com um pé na frente nessa corrida, afinal de contas, é a menos exata das ciências exatas!
+
+Finalmente, desde ponto em diante, deixo a demonstração a cargo do leitor, ou seja, esperarei a opinião de vocês sobre os temas levantados nesse texto, assim como uma resposta para a pergunta sobre as ciências exatas e humanas.

@@ -1,0 +1,21 @@
+= Novo projeto acadêmico para o próximo ciclo
+:page-identificador: 20240603_novo_projeto_academico
+:page-data: "03 de junho de 2024"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Maio/2024 (11ed)"
+:page-autoria: "CAMat"
+:page-resumo: ['Um convite para entender o que é um projeto acadêmico, onde o IME se encontra nisso e como a comunidade como um todo pode e deve participar da sua construção. Foi marcada a 1ª reunião aberta do projeto acadêmico para 06 de junho, às 17h no Saguão do Bloco B.']
+
+O projeto acadêmico é um documento estratégico, norteando as ações do instituto e departamentos dentro de um ciclo. Como dispõe de uma análise conjuntural da unidade e estipula metas a serem alcançadas através de atitudes pontuadas como necessárias, o projeto acadêmico permite, ao final do ciclo, a realização de um balanço da atuação institucional e docente naquele período. Ou seja, este documento não é meramente técnico, mas político.
+
+A USP está no momento de reformulação do projeto acadêmico das unidades - e o IME USP não é isolado disso. Na semana, o representante discente na Comissão de Graduação recebeu o rascunho inicial - o qual iremos disponibilizar ao lado - das metas sugeridas para o próximo ciclo de 5 anos do instituto, tendo o prazo de 9 de junho (segunda-feira) para apresentar propostas de alteração ou supressão. Posteriormente, o projeto consolidado na CG passará para a Congregação, onde novamente teremos possibilidade de intervenção.
+
+Fazemos, então, um chamado à comunidade IMEana para realizarmos um balanço das metas postas no ciclo anterior e o quanto, na visão dos estudantes, o instituto avançou ou não. E mais, colocarmos as nossas ponderações, propostas e críticas às metas rascunhadas para o próximo ciclo.
+
+Arquivos:
+
+- https://forms.gle/UGRUyTcKwjugpcZ87[Formulário para colaboração];
+- https://camat.ime.usp.br/arquivos/outros/projeto_academico_resumo.pdf[Rascunho das metas - CG];
+- https://camat.ime.usp.br/arqiovos/outros/pa-institucional-2018-2022.pdf[Projeto acadêmico vigente];

@@ -1,0 +1,55 @@
+= Carta ao ministério da saúde pela vacina atualizada
+// :page-subtitle:
+:page-identificador: 20240423_vacina_atualizada
+:page-data: "23 de abril de 2024"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Abril/2024 (10ed)"
+:page-autoria: 'Qual Máscara?'
+// :page-autoria-completa: ''
+:page-resumo: ['Uma carta pública ao Ministério da Saúde para exigir a compra de vacinas atualizadas para Covid']
+
+O texto a seguir é uma carta pública ao Ministério da Saúde
+para exigir a compra de vacinas atualizadas para Covid e
+que estas estejam disponíveis para toda a população
+brasileira.
+
+Entendemos que há diversas pressões de setores do centrão
+e do mercado sobre o Ministério da Saúde, que tem um dos
+maiores orçamentos do governo/Estado, mas diante da
+gravidade dos efeitos que a chamada "Covid Longa" pode
+causar, é necessário fazer a denúncia e cobrar a compra de
+vacinas. É por esta razão que o CAMat reproduz e subscreve
+essa carta no espaço do BoletIME.
+
+---
+
+Ao Ministério da Saúde
+
+À Excelentíssima Sra. Nísia Trindade Lima +
+Ministra da Saúde do Brasil
+
+Ao Excelentíssimo Sr. Luiz Inácio Lula da Silva +
+Presidente da República
+
+Prezados,
+
+Em 31 de outubro de 2023, o Ministério anunciou que apenas determinados grupos prioritários receberiam as vacinas monovalentes atualizadas para a variante XBB do SARS-CoV-2. Imunocompetentes de 5 a 59 anos estariam em definitivo excluídos do calendário vacinal da Covid-19.
+
+Ainda em 2023, as crianças ficaram privadas da dose atualizada da versão infantil da vacina bivalente, tendo de contar apenas com as vacinas produzidas para as cepas originais, que não estão mais em circulação. A vacina mais atual, desenvolvida contra a variante XBB, está disponível para o público do hemisfério norte desde setembro de 2023, com dose de reforço já liberada para a vacinação de idosos nos Estados Unidos desde fevereiro de 2024. A Anvisa apenas aprovou seu uso no Brasil em dezembro e até o momento não temos notícias do início da vacinação, anunciada para março, depois para abril e agora sem previsão. Mesmo ao iniciar, o governo está negociando apenas 12,5 milhões de doses, que cobrem menos de 6% da população do país.
+
+A comunidade científica internacional especializada em Covid converge em destacar os riscos pós-infecção pelo SARS-CoV-2 para toda a população, não apenas para casos graves da fase aguda, nem mesmo apenas para indivíduos que se encaixariam em grupos de risco, e tampouco apenas para os que não teriam o esquema vacinal primário completo. O risco das sequelas a longo prazo das infecções é considerado uma roleta-russa, mas é certo que aumenta com o número de infecções prévias.
+
+As estimativas dos números reais de casos de infecção e de morte feitas pela OMS nos indicam que os dados brasileiros oficiais contam uma história parcial da realidade no país: reporta-se falta de testes em diferentes regiões, inexistem estratégias nacionais para notificação de autotestes, não há coleta de dados sobre pessoas sofrendo com sequelas pós-covid, o rastreio do virus em águas residuais foi suspenso no final de 2022, e com a narrativa disseminada coletivamente de que o vírus não é mais uma preocupação para a saúde pública, enfrentamos uma falta de dados que nos permitam aferir a real circulação do virus e o real impacto dele na sociedade.
+
+Quase seis meses após o anúncio, em 15 de abril de 2024, não apenas não há vacina atualizada disponível para nenhum brasileiro como não há informação nem previsão de início da campanha. Países como os Estados Unidos, Dinamarca, Japão, Chile e Paraguai já vacinam a população desde o segundo semestre de 2023. O Ministério alega que as vacinas bivalentes protegem igualmente (o que não é verdade), mas cidades como o Rio de Janeiro sinalizam a falta completa de estoque de vacinas bivalentes para Covid.
+
+Diante deste cenário, é vital que a população toda esteja ao menos parcialmente protegida de complicações na fase aguda da infecção por vacinas compatíveis com as variantes em circulação. É inadmissível o total abandono que estamos vivendo em um país reconhecido mundialmente por nossas campanhas de vacinação e por um governo eleito com esta pauta. Na ausência de dados, de medidas não farmacológicas de mitigação, de esclarecimento da população para os riscos das reinfecções e das sequelas pós-infecção, ao menos que haja vacina atualizada para toda a população com urgência, junto a uma campanha de vacinação voltada para a hesitação vacinal e a conscientização de que a covid ainda é uma doença a ser evitada e responsável por inúmeras mortes em nosso país.
+
+Fazemos um apelo para que ouçam os cidadãos interessados em que a vacina atualizada esteja disponível pelo SUS para toda a população e que exigem informações detalhadas e verdadeiras sobre a demora no início da vacinação.
+
+[.aviso-vermelho]
+--
+Esta carta foi originalmente publicada no seguinte endereço eletrônico e pode ser assinada por qualquer pessoa: https://www.qualmascara.com.br/vacinaatualizada
+--

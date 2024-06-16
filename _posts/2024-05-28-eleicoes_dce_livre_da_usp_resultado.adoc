@@ -1,0 +1,69 @@
+= DCE Livre da USP: chapa Fazer Valer a Luta eleita para o mandato 2024/2025
+:page-identificador: 20240528_eleicoes_dce_livre_da_usp_resultado
+:page-data: "28 de maio de 2024"
+:page-layout: boletime_post
+:page-categories: [boletime_post]
+:page-tags: ['BoletIME']
+:page-boletime: "Maio/2024 (11ed)"
+:page-autoria: "CAMat"
+:page-resumo: ['Confira os resultados e estatísticas das eleições do DCE Livre da USP 2024.']
+
+Vulgarmente definido como “é como um CA, só que pra USP
+toda”, o Diretório Central dos Estudantes (DCE) Livre
+Alexandre Vannucchi Leme é a entidade representativa do
+corpo discente da Universidade de São Paulo, e isso incluí os
+estudantes de graduação e pós-graduação dos oito campi
+da universidade. A entidade tem por função organizar
+politicamente os estudantes entorno da disputa do projeto
+de universidade e de país, como também promover
+atividades acadêmico-culturais.
+
+A gestão do DCE Livre da USP é eleita anualmente, com
+urnas abertas durante três dias, em dezenas de institutos,
+para garantir a ampla participação da comunidade
+estudantil. No ano passado, devido a greve de 2023, o
+Conselho de Centros Acadêmicos (CCA) encaminhou o
+adiamento das eleições para o primeiro semestre deste ano
+(vide BoletIME #6).
+
+A votação aconteceu nos dias 27 a 29 de maio e contabilizou
+8.941 votos válidos e 47 votos nulos. Na tarde de 30 de
+maio foi feita a apuração na sede do DCE Livre da USP. Veja
+como ficou o resultado:
+
+[.img]
+--
+image::boletime/posts/20240528_eleicoes_dce_livre_da_usp_resultado/resultado_geral.jpg["Gráfico de barras com o resultado geral.", width=60%]
+--
+
+Ainda, o resultado das eleições é utilizado na distribuição
+das cadeiras de representação discente nos órgãos
+colegiados centrais. A construção da chapa “Unidade
+Estudantil” é feita proporcionalmente entre as forças
+polícias concorrentes ao DCE Livre da USP de acordo com os
+votos totais obtidos na eleição da entidade.
+
+== E a urna do IME?
+
+A urna do IME contabilizou 209 votos válidos e 1 voto nulo,
+e os votos ficaram distribuídos da seguinte forma:
+
+[.img]
+--
+image::boletime/posts/20240528_eleicoes_dce_livre_da_usp_resultado/resultado_ime.jpg["Gráfico de barras com o resultado no IME.", width=60%]
+--
+
+== Para comparar: Eleiçõs 2022 - DCE Livre Da USP
+
+**Quórum:** 10.049
+
+* É Tudo Pra Ontem - 6.214
+* Por Todos os Cantos - 1.145
+* Nossa Voz - 1.141
+* USP Sem Medo - 825
+* Envolver - 313
+* Quebra das Correntes - 175
+* Retomada - 87
+* USP Pública, Gratuita e Para Todos - 61
+* Lula Presidente - 47
+* Nulos - 41
