@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Janeiro/2023 (7ed)"
+:page-boletime: "Janeiro/2024 (7ed)"
 :page-autoria: "CAMat"
 :page-resumo: ['O editorial do BoletIME chamou Diego Prado*, estudante da USP, para fazer uma entrevista exclusiva para esta edição especial sobre mobilidade urbana. Essencialmente, a entrevista buscou abordar a participação do estudante nos dois atos - o primeiro no dia 4 e outro no dia 18 -, a sua leitura política tanto dos atos em si quanto da organização e preparação dos estudantes em torno da pauta do Passe Livre.']
 

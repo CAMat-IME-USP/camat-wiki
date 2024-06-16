@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Março/2023 (9ed)"
+:page-boletime: "Março/2024 (9ed)"
 :page-autoria: "Vladmir I. Arnold"
 :page-resumo: ['“A diferença entre a matemática pura e a aplicada não é científica, apenas social. Um matemático puro é pago para descobrir novos fatos matemáticos. Um matemático aplicado é pago pela solução de problemas bastante específicos.”']
 

@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Janeiro/2023 (7ed)"
+:page-boletime: "Janeiro/2024 (7ed)"
 :page-autoria: "Leitores"
 :page-resumo: ['Um relato sobre o trajeto até a USP, trazendo um questionamento ao final sobre como o transporte pode vir a se tornar um empecilho para o acesso à educação.']
 

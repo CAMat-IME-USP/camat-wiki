@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Janeiro/2023 (7ed)"
+:page-boletime: "Janeiro/2024 (7ed)"
 :page-autoria: "CAMat"
 :page-resumo: ['Por vezes, o convite ao debate sobre o financiamento do transporte público urbano é lido por setores à esquerda como um questionamento liberal, quando, na verdade, é uma urgência nos debruçarmos sobre esta discussão se queremos alcançar o horizonte de universalização do acesso à cidade e do passe livre. Nesse sentido, trazemos um resumo do estudo Financiamento Extratarifário do Transporte Público Urbano no Brasil, a fim de instigar o início desse debate.']
 

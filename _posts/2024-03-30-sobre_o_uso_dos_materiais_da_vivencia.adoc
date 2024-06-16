@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Março/2023 (9ed)"
+:page-boletime: "Março/2024 (9ed)"
 :page-autoria: "CAMat"
 :page-resumo: ['Breve comunicado da gestão Alexandra Elbakyan visto o frequente descuidado com os materiais da Vivência.']
 

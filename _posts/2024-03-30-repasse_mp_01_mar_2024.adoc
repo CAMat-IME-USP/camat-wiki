@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Março/2023 (9ed)"
+:page-boletime: "Março/2024 (9ed)"
 :page-autoria: "CAMat"
 :page-resumo: ['Repasse da reunião de negociação entre estudantes da USP, ministério público e a Reitoria da USP, ocorrida em 01 de março.']
 

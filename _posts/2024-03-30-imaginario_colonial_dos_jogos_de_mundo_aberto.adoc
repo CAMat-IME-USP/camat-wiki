@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Março/2023 (9ed)"
+:page-boletime: "Março/2024 (9ed)"
 :page-autoria: "Leitores"
 :page-resumo: ['“Assim, através de múltiplas faces, o grupo que possui agência sobre os rumos de um mundo - os jogadores - é delineado do grupo que não possui essa mesma agência - os aldeões -, e o jogo faz questão de lembrar que, apesar de serem igualmente humanóides como os jogadores, eles são diferentes.”']
 

@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Janeiro/2023 (7ed)"
+:page-boletime: "Janeiro/2024 (7ed)"
 :page-autoria: "Paulo Tadeu de Oliveira"
 :page-resumo: ['Um texto sobre o cenário que PCDs enfrentam ao se locomoverem para acessar a cidade de São Paulo, com um pequeno imaginativo de o que a USP poderia fazer e ser.']
 

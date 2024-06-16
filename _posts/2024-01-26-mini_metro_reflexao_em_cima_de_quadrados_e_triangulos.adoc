@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Janeiro/2023 (7ed)"
+:page-boletime: "Janeiro/2024 (7ed)"
 :page-autoria: "Leitores"
 :page-resumo: ['Um pequeno texto que dialoga as mecânicas do jogo Mini Metro com a realidade.']
 

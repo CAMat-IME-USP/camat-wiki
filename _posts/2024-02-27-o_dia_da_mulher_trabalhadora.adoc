@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Fevereiro/2023 (8ed)"
+:page-boletime: "Fevereiro/2024 (8ed)"
 :page-autoria: "Alexandra Kollontai"
 :page-resumo: ['Em razão da proximidade da data neste ano, o BoletIME trará nesta edição um texto da Alexandra Kollontai sobre a importância dessa comemoração não apenas para as mulheres, mas para todo o movimento socialista.']
 

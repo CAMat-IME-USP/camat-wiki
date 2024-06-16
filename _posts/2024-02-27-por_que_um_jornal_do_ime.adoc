@@ -4,7 +4,7 @@
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['BoletIME']
-:page-boletime: "Fevereiro/2023 (8ed)"
+:page-boletime: "Fevereiro/2024 (8ed)"
 :page-autoria: "CAMat"
 :page-resumo: ['Em tempos de tantas mídias digitais, qual a importância de um jornal da comunidade IMEana?']
 
