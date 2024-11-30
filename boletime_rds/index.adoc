@@ -2,6 +2,8 @@
 :page-categories: section
 :showtitle:
 
+== link:./votacao[As eleições são entre os dias 5 e 6 de dezembro. Clique aqui e participe!]
+
 // CAMat-Wiki!
 // Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
 // https://camat.ime.usp.br/

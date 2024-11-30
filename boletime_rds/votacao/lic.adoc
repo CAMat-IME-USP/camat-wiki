@@ -1,0 +1,20 @@
+= Eleição de RDs (2025)
+:showtitle:
+:page-liquid:
+
+// CAMat-Wiki!
+// Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+// https://camat.ime.usp.br/
+//  
+// Página de links para a votação nos RDs
+
+
+== Lic
+=== Das 09h do dia 05/12 às 18h do dia 06/12
+
+Para votar, acesse os links abaixo. O usuário é seu número USP, e a senha para cada votação foi enviada em seu e-mail.
+
+- +++<a href="{{ site.data.eleicao_rds_2024.congregacao.link }}">{{ site.data.eleicao_rds_2024.congregacao.titulo }}</a>+++
+- +++<a href="{{ site.data.eleicao_rds_2024.cta.link }}">{{ site.data.eleicao_rds_2024.cta.titulo }}</a>+++
+- +++<a href="{{ site.data.eleicao_rds_2024.mat_conselho.link }}">{{ site.data.eleicao_rds_2024.mat_conselho.titulo }}</a>+++
+- +++<a href="{{ site.data.eleicao_rds_2024.mat_lic_coc.link }}">{{ site.data.eleicao_rds_2024.mat_lic_coc.titulo }}</a>+++

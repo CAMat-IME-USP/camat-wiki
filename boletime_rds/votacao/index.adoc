@@ -1,0 +1,46 @@
+= Eleição de RDs (2025)
+:showtitle:
+
+// CAMat-Wiki!
+// Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+// https://camat.ime.usp.br/
+//  
+// Página de links para a votação nos RDs
+
+
+== Das 09h do dia 05/12 às 18h do dia 06/12
+
+Participe das votações disponíveis para seu curso!
+
++++
+<div class="link-grande">
+    <a href="./bmac.html">
+       &gt; Bacharelado em Matemática Aplicada e Computacional
+    </a>
+</div>
+<div class="link-grande">
+    <a href="./bma.html">
+       &gt; Bacharelado em Matemática Aplicada
+    </a>
+</div>
+<div class="link-grande">
+    <a href="./lic.html">
+       &gt; Licenciatura em Matemática
+    </a>
+</div>
+<div class="link-grande">
+    <a href="./pura.html">
+       &gt; Bacharelado em Matemática
+    </a>
+</div>
+<div class="link-grande">
+    <a href="./estat.html">
+       &gt; Bacharelado em Estatística
+    </a>
+</div>
+<div class="link-grande">
+    <a href="./bcc.html">
+       &gt; Bacharelado em Ciência da Computação
+    </a>
+</div>
++++

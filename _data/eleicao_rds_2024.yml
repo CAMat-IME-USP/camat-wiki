@@ -1,0 +1,59 @@
+############################
+
+congregacao:
+  link: "#"
+  titulo: "(Pendente) Congregação, CG e Comissão de Estágios"
+
+cta:
+  link: "#"
+  titulo: "(Pendente) CTA, CCEx, CPql, Comunicação e CIP"
+
+############################
+
+mac_conselho:
+  link: "#"
+  titulo: "(Pendente) Conselho do MAC"
+
+mac_coc:
+  link: "#"
+  titulo: "(Pendente) CoC do MAC"
+
+############################
+
+map_conselho:
+  link: "#"
+  titulo: "(Pendente) Conselho do MAP"
+
+map_bmac_coc:
+  link: "#"
+  titulo: "(Pendente) CoC do BMAC"
+
+map_bma_coc:
+  link: "#"
+  titulo: "(Pendente) CoC do BMA"
+
+############################
+
+mat_conselho:
+  link: "#"
+  titulo: "(Pendente) Conselho do MAT"
+
+mat_lic_coc:
+  link: "#"
+  titulo: "(Pendente) CoC da Lic"
+
+mat_pura_coc:
+  link: "#"
+  titulo: "(Pendente) CoC da Pura"
+
+############################
+
+mae_conselho:
+  link: "#"
+  titulo: "(Pendente) Conselho da Estat"
+
+mae_coc:
+  link: "#"
+  titulo: "(Pendente) CoC da Estat"
+
+############################
