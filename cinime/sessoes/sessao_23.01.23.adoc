@@ -1,8 +1,0 @@
-= 🎬 I Mostra IMEana de Animação 🎬
-:page-data: "De 23 a 28 de janeiro"
-:page-date: 2023-01-23
-:page-categories: [sessao_cinime, filme_cinime, sessao_especial]
-:page-header: { image: mimea/capa_mimea.jpg, diretorio: mimea }
-:page-sinopse: [ "O CinIME apresenta a I Mostra IMEana de Animação! Serão 6 dias com exibição de diversos filmes de animação procurando instigar es participantes no debate: QUAIS OS HORIZONTES IMAGINATIVOS A ANIMAÇÃO PODE PROPORCIONAR?", "Com curadoria especial, a Comissão Organizadora do CinIME traz animações fora do eixo comercial e já conhecido das tradicionais animações da Disney e diversos filmes infantis.", "Venham todes prestigiar esta mostra no discord do CinIME!" ]
-:page-informacoes: { sala: discord, dia: "23 a 28/01", dia_semana: sexta-feira, programacao: I_Mostra_IMEana_de_Animação.pdf }
-:page-imgs: ['capa_mimea.jpg', '23012301.jpg', '23012302.jpg', '23012303.jpg', '24012301.jpg', '24012302.jpg', '25012301.png', '25012302.png', '26012301.png', '26012302.png', '27012301.png', '27012302.png', '28012301.png', '28012302.png']

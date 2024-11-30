@@ -1,8 +1,0 @@
-= Batalha Literalmente Eu
-:page-date: 2023-04-14
-:page-categories: [sessao_cinime, votacao_cinime]
-:page-header: { image: votacao_141022.png }
-:page-sinopse: [ "Na batalha Literalmente Eu temos O Fabuloso Destino de Amélie Poulain (2001) vs Psicopata Americano (2000), e o mais votado será exibido na próxima sessão do CinIME (14 de abril, às 14h). ", "Eae, o seu voto vai para qual filme?"]
-:page-formsvotacao: https://forms.gle/Mf2ryEgB2A3nb6FWA
-:page-datafimvotacao: 13/04
-:page-informacoes: { sala: B05, horario: 14h00, dia: 14/04, dia_semana: sexta-feira }

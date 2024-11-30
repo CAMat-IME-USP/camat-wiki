@@ -1,7 +1,0 @@
-= 🔥 CINIME FOI AO CINUSP + Exposição MemoriAntonia
-:page-date: 2023-04-01
-:page-categories: [sessao_cinime, filme_cinime, sessao_especial]
-:page-header: { image: cinusp_01_04_23/cinusp1.png, diretorio: cinusp_01_04_23 }
-:page-sinopse: [ 'Estudantes do IME foram ao Centro Universitário Maria Antonia no sábado 01 de abril para assistir a uma sessão do CINUSP (filme Touki Bouki) e conhecer o prédio e a história do movimento estudantil da USP!', 'Nos cards, algumas fotos da exposição.', 'O espaço está com a exposição MemoriAntonia que recupera a memória da resistência estudantil frente a organizações como o Comando de Caça aos Comunistas (CCC), que detinha membros no Mackenzie, e expondo o contexto macro em que a "Batalha da Maria Antônia" se insere e desagua na criação da Cidade Universitária (onde temos aula agora).', 'A exposição é aberta e gratuita, no segundo andar do prédio. Funcionamento de terça a domingo, das 10h às 18h.', 'http://www.mariantonia.prceu.usp.br/exposicao-recupera-a-memoria-da-ditadura-brasileira/' ]
-:page-informacoes: { sala: cinusp_ma, horario: 15h00, dia: '01/04 às 15h', dia_semana: sexta-feira, programacao: '' }
-:page-imgs: ['cinusp1.png', 'cinusp2.png', 'cinusp3.png', 'cinusp4.png', 'cinusp5.png']

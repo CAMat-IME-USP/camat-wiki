@@ -1,6 +1,0 @@
-=  Especial Terror: Cure (1997)
-:page-date: 2022-10-14
-:page-categories: [sessao_cinime, filme_cinime]
-:page-header: { image: sessao_141022.png }
-:page-sinopse: [ "Na sessão 14/10, o CinIME exibirá Cure, um filme de terror psicológico japonês, escrito e realizado por Kiyoshi Kurosawa. A história segue um detetive que investiga uma série de assassinatos horripilantes cuja ligação é apenas um X gravado no pescoço de cada vítima e o assassino encontrado perto da vítima de cada caso sem se lembrar de nada do crime.", "O filme, além de ter uma ambientação incrível que ao passar do filme te deixa cada vez mais tenso conforme o enredo avança, também explora e reflete sobre aspectos socio-culturais da sociedade japonesa." ]
-:page-informacoes: { sala: B09, horario: 16h00, dia: 14/10, dia_semana: sexta-feira }

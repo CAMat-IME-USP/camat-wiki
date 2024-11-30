@@ -1,0 +1,535 @@
+#####################################################################################################
+
+- titulo: "🏆 Torrent Toroidal de Ouro 2024 🏆"
+  data: 2024-10-01
+  apenas_google_forms: true
+  forms: https://docs.google.com/forms/d/e/1FAIpQLSeKJACyqjkhHsG7RaPOw3iHtNN7FFuSalE2zaMQHFGqX5U5TA/viewform?embedded=true
+  altura_forms: 100vh
+
+#####################################################################################################
+
+- titulo: "🎞 CORUJÃO NA GREVIME 😱🚩"
+  data: 2023-09-23
+  capa: 'sessao_230923.png'
+  descricao: |
+    O CinIME irá exibir três animações que permitem também refletirmos sobre organização, o coletivo e a diversidade. Além de serem divertidos!
+    <br><br>
+    👉 Robôs
+    <br><br>
+    👉 Vida de Inseto
+    <br><br>
+    👉 Shrek
+  pipoca: true
+  resenha: false
+  informacoes:
+    sala: GrevIME
+    horario: A partir das 23h
+    dia: 23/09
+    dia_semana: sábado
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "A Scene at the Sea (1991)"
+  data: 2023-09-15
+  capa: 'sessao_150923.png'
+  sinopse: |
+    Shigeru, um coletor de lixo sem audição, encontra uma prancha de surfe descartada e, então, resgata-a para consertar e começar a experimentar as ondas. Ele logo fica obcecado pelo esporte e nós o acompanhamos juntos de sua namorada de longo prazo, Takako.
+  informacoes:
+    sala: B05
+    horario: 16h00
+    dia: 15/09
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "One Piece: A Série (2023)"
+  data: 2023-09-01
+  capa: 'sessao_010923.png'
+  sinopse: |
+    A Comissão Organizadora do CinIME decidiu aproveitar o lançamento, nessa semana, da série live-action do One Piece e transmitir para galera otaku no IME!
+    <br><br>
+    Venha assistir os três episódios iniciais e comentar sobre a boa (ou ruim) adaptação do nosso amado pirata que estica!
+  informacoes:
+    sala: B05
+    horario: 16h00
+    dia: 01/09
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Burning (2018)"
+  data: 2023-08-25
+  capa: 'sessao_250823.png'
+  sinopse: |
+    Você provavelmente já assistiu Parasite (2019) de Bong Joon-Ho, mas e Burning, conhece?", "Dirigido por Lee Chang-dong, o filme acompanha a vida de Jongsu e a sua retomada de contato com uma vizinha da infância, Haemi. Após uma viagem para África, Haemi retorna com um novo amigo, Ben. Neste triângulo, acompanhamos dois estratos sociais distintos na Coreia do Sul.
+  informacoes:
+    sala: B05
+    horario: 16h00
+    dia: 25/18
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "12 Macacos (1995)"
+  data: 2023-08-18
+  capa: 'sessao_180823.png'
+  sinopse: |
+    No ano de 2035, o preso James Cole se voluntaria para ser mandado ao passado, no ano de 1996, a fim de descobrir a origem do vírus que quase dizimou por completo a população. Porém, Cole é mandado ao ano de 1990 e acaba preso em um hospital psiquiátrico onde conhece pessoas-chave que podem lhe ajudar.
+  informacoes:
+    sala: B05
+    horario: 16h00
+    dia: 18/18
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Drive My Car (2021)"
+  data: 2023-06-23
+  capa: 'sessao_230623.png'
+  sinopse: |
+    No Japão, o ator e diretor de teatro Yûsuke Kafuku (Hidetoshi Nishijima) atingiu o sucesso na vida pessoal e profissional. Porém, quando a sua amada desaparece de repente, todo o seu mundo vira do avesso. Sofrendo com a dor da perda, ele contrata uma jovem motorista para dirigir o seu carro. Os dois viverão uma jornada única com o seu carro vermelho.
+    <br><br>
+    👉 Começaremos a sessão uma hora mais cedo que o normal (às 15h) devido ao filme ter cerca de 3h!
+  informacoes:
+    sala: B05
+    horario: 15h00
+    dia: 23/06
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "🎞 CORUJÃO SATOSHI KON 😱"
+  data: 2023-06-09
+  capa: 'sessao_090623.png'
+  descricao: |
+    👉 Inspirado na maratona Wong Kar Wai, realizada pelo CinUSP, o CinIME traz o CORUJÃO SATOSHI KON!
+    <br><br>
+    Iremos exibir três filmes do aclamado diretor: Perfect Blue (1997), Millennium Actress (2001) e Paprika (2006); começando às 22h da sexta-feira (09/06) e finalizando na manhã de sábado!
+    <br><br>
+    🌞 Teremos lanchinhos nos intervalos entre os filmes, mas de manhã podemos todes bandejar juntos o café da manhã!
+    <br><br>
+    🔗 Dado a capacidade do auditório, o público será limitado e é obrigatória a inscrição prévia no forms abaixo!
+  informacoes:
+    sala: Auditório Imre Simon (Bloco C)
+    horario: Início às 22h00
+    dia: 09/06
+    dia_semana: sexta-feira
+  forms: "https://forms.gle/XwuAux19vsbm5hsK8"
+  especial: false
+  pipoca: true
+  resenha: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Adeus, Lênin (2003) | CinIME em novo horário 😎"
+  data: 2023-06-02
+  capa: 'sessao_020623.png'
+  descricao: |
+    👉 Atendendo a aclamação pública, o CinIME voltará a transmitir o filme às 16h! Agora, sem desculpas para não vir, viu?
+  sinopse: |
+    O filme da vez será Adeus, Lênin (2003) dirigido por Wolfgang Becker. A história retrata a Berlim Oriental sendo transformada pela tomada capitalista após a queda do Muro de Berlim. Enquanto isso, o jovem Alexander busca esconder a realidade de sua mãe que entrou em coma antes da queda do Muro, e teme que as mudanças prejudiquem a saúde de sua mãe.
+  informacoes:
+    sala: B05
+    horario: 16h00
+    dia: 02/06
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Solaris (1972)"
+  data: 2023-05-26
+  capa: 'sessao_260523.png'
+  sinopse: |
+    Direção de Andrei Tarkovsky, Solaris é um filme de ficção científica produzido na URSS. Inspirado no livro de Stanislaw Lem, Tarkovsky busca fazer um contraponto às ficções científicas propagadas no Ocidente e trazer mais caldo ao debate sobre tecnologia e humanidade.
+    <br><br>
+    Nesse espírito, o filme retrata a jornada do psicólogo Kris Kelvin em se juntar aos cientistas na nave-estação ao redor do planeta Solaris e avaliar os estudos feitos e se devem ser continuados ou todos retornarem à Terra.
+  informacoes:
+    sala: B05
+    horario: 14h00
+    dia: 26/05
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Maquia (2018)"
+  data: 2023-05-19
+  capa: 'sessao_190523.png'
+  sinopse: |
+    Direção de Mari Okada, o filme retrata a jornada de Maquia, jovem imortal, ao escapar de uma guerra e encontrar um pequeno sobrevivente: uma criança humana. Logo, Maquia decide criá-lo como seu filho e terá de encarar o tempo que os separam.
+    <br><br>
+    O CinIME traz esse filme para falarmos sobre maternidade.
+  informacoes:
+    sala: B05
+    horario: 14h00
+    dia: 19/05
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Battle Royale (2008)"
+  data: 2023-04-28
+  capa: 'sessao_280423.png'
+  sinopse: |
+    Do diretor Kinji Fukasaku, a produção japonesa retrata uma sociedade futura cujo governo, sob a realização de um experimento "revolucionário", decide capturar uma turma de estudantes do nono ano e forçar a se matarem até restar apenas um.
+  informacoes:
+    sala: B05
+    horario: 14h00
+    dia: 28/04
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Porco Rosso (1992)"
+  data: 2023-04-21
+  capa: 'sessao_210423.png'
+  sinopse: |
+    A trama gira em torno de um ex-Ás italiano da Primeira Guerra Mundial, agora vivendo como um caçador de recompensas freelance perseguindo “piratas do ar” no Mar Adriático. No entanto, uma maldição incomum o transformou em um porco antropomórfico. Uma vez chamado Marco, ele agora é conhecido no mundo como “Porco Rosso”.
+  informacoes:
+    sala: discord
+    horario: 14h00
+    dia: 21/04
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "O Fabuloso Destino de Amélie Poulain (2001)"
+  data: 2023-04-14
+  capa: 'sessao_140423.png'
+  sinopse: |
+    Após deixar a vida de subúrbio que levava com a família, a inocente Amélie muda-se para o bairro parisiense de Montmartre e certo dia encontra uma caixa escondida no banheiro de sua casa. Pensando que pertencesse ao antigo morador, decide anonimamente retornar o pertence ao dono. Ao ver que ele chora de alegria ao reaver o seu objeto, a moça fica impressionada e adquire uma nova visão do mundo. Então, a partir de pequenos gestos, ela passa a ajudar as pessoas que a rodeiam, vendo nisto um novo sentido para sua existência.
+  informacoes:
+    sala: B05
+    horario: 14h00
+    dia: 14/04
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Batalha Literalmente Eu"
+  data: 2023-04-14
+  capa: 'votacao_141022.png'
+  sinopse: |
+    Na batalha Literalmente Eu temos O Fabuloso Destino de Amélie Poulain (2001) vs Psicopata Americano (2000), e o mais votado será exibido na próxima sessão do CinIME (14 de abril, às 14h).
+    <br><br>
+    Eae, o seu voto vai para qual filme?
+  informacoes:
+    sala: B05
+    horario: 14h
+    dia: 14/04
+    dia_semana: sexta-feira
+  formsvotacao: https://forms.gle/Mf2ryEgB2A3nb6FWA
+  datafimvotacao: 13/04
+  especial: false
+  votacao: true
+
+#####################################################################################################
+
+- titulo: "🔥 CINIME FOI AO CINUSP + Exposição MemoriAntonia"
+  data: 2023-04-01
+  capa: 'cinusp_01_04_23/cinusp1.png'
+  diretorio_imgs: "cinusp_01_04_23"
+  imgs: ['cinusp1.png', 'cinusp2.png', 'cinusp3.png', 'cinusp4.png', 'cinusp5.png']
+  sinopse: |
+    Estudantes do IME foram ao Centro Universitário Maria Antonia no sábado 01 de abril para assistir a uma sessão do CINUSP (filme Touki Bouki) e conhecer o prédio e a história do movimento estudantil da USP!
+    <br><br>
+    Nos cards, algumas fotos da exposição.
+    <br><br>
+    O espaço está com a exposição MemoriAntonia que recupera a memória da resistência estudantil frente a organizações como o Comando de Caça aos Comunistas (CCC), que detinha membros no Mackenzie, e expondo o contexto macro em que a "Batalha da Maria Antônia" se insere e desagua na criação da Cidade Universitária (onde temos aula agora).
+    <br><br>
+    A exposição é aberta e gratuita, no segundo andar do prédio. Funcionamento de terça a domingo, das 10h às 18h.
+    <br><br>
+    <a target="_blank" href="http://www.mariantonia.prceu.usp.br/exposicao-recupera-a-memoria-da-ditadura-brasileira/">http://www.mariantonia.prceu.usp.br/exposicao-recupera-a-memoria-da-ditadura-brasileira/</a>
+  informacoes:
+    sala: cinusp_ma
+    horario: 15h00
+    dia: 01/04
+    dia_semana: sexta-feira
+  especial: true
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Pearl (2022)"
+  data: 2023-03-31
+  capa: 'sessao_310323.png'
+  sinopse: |
+    <b>[SESSÃO ADIADA PARA 31/03]<b>
+    <br><br>
+    Em 1918, a jovem Pearl está obcecada em se tornar uma grande estrela do cinema. Presa na fazenda isolada de sua família no interior do Texas, ela se vê obrigada a cuidar de seu pai doente depois de uma pandemia de gripe espanhola, e viver sob a vigilância constante de sua amarga e autoritária mãe devota. Desejando uma vida cheia de glamour que viu nos filmes, Pearl começa a enlouquecer e ter desejos assassinos quando seus sonhos são negados a ela.
+    <br><br>
+    É neste enredo que vemos a origem da icônica vilã do filme X.
+  informacoes:
+    sala: B05
+    horario: 14h00
+    dia: 31/03
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Decisão de Partir (2022) e Transmissão do Óscar"
+  data: 2023-03-11
+  capa: 'sessao_110323.png'
+  sinopse: |
+    Como contraponto ao Oscar, o CinIME propõe o prêmio Torrent Toroidal de Ouro, exibindo no sábado o filme coreano Decisão de Partir (2022) que, apesar de ter sido premiado em outros eventos como o Festival de Cannes, não chegou a ser indicado em nenhuma categoria do Oscar. Ainda, visto que a cerimônia de premiação do Oscar desse ano não será exibida em nenhum canal aberto de televisão, o CinIME propõe também a sua transmissão esse domingo (12/03) via Discord a fim de democratizar o acesso a esse tipo de conteúdo.
+    <br><br>
+    Dirigido poir Park Chan-Wook, Decisão de Partir conta a história de um detetive eficaz e meticuloso que investiga um possível assassinato em uma localidade remota no meio das montanhas. No local, ele começa a desenvolver um relacionamento amoroso com a viúva da vítima, que é considerada a principal suspeita.
+  informacoes:
+    sala: discord
+    horario: 15h00
+    dia: 11/03
+    dia_semana: sábado
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "🎬 I Mostra IMEana de Animação 🎬"
+  data: 2023-01-23
+  capa: "mimea/capa_mimea.jpg"
+  diretorio_imgs: "mimea"
+  imgs: ['capa_mimea.jpg', '23012301.jpg', '23012302.jpg', '23012303.jpg', '24012301.jpg', '24012302.jpg', '25012301.png', '25012302.png', '26012301.png', '26012302.png', '27012301.png', '27012302.png', '28012301.png', '28012302.png']
+  sinopse: |
+    O CinIME apresenta a I Mostra IMEana de Animação! Serão 6 dias com exibição de diversos filmes de animação procurando instigar es participantes no debate: QUAIS OS HORIZONTES IMAGINATIVOS A ANIMAÇÃO PODE PROPORCIONAR?
+    <br><br>
+    Com curadoria especial, a Comissão Organizadora do CinIME traz animações fora do eixo comercial e já conhecido das tradicionais animações da Disney e diversos filmes infantis.
+    <br><br>
+    Venham todes prestigiar esta mostra no discord do CinIME!
+  informacoes:
+    sala: discord
+    dia: "23 a 28/01"
+    programa: "I_Mostra_IMEana_de_Animação.pdf"
+  especial: true
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "🇧🇷 Copa no CinIME!"
+  data: 2022-12-02
+  capa: 'sessao_021222.png'
+  sinopse: |
+    🇧🇷 É COPA NO CINIME!!1!ONZE!!!11!!!
+    <br><br>
+    Nesta sexta-feira (02/12), iremos transmitir ao vivo o jogo Brasil x Camarões! Venham todes sofrer, se emocionar, passar raiva juntos em mais um jogo da nossa seleção (que já está classificada pras oitavas de final!).
+    <br><br>
+    A IME-Chan já tá pronta, e vocês?
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 02/12
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "No Tempo das Borboletas (2001)"
+  data: 2022-11-25
+  capa: 'sessao_251122.png'
+  sinopse: |
+    Em 25 de novembro, comemora-se o Dia Internacional pelo Fim da Violência contra as Mulheres. A data foi escolhida durante o primeiro encontro feminista da América Latina e Caribe organizado na Colômbia (1981) em memória e homenagem às irmãs Mirabal, brutamente assassinadas em 25 de novembro de 1960.
+    <br><br>
+    Na sessão do CinIME dessa semana, iremos exibir No Tempo das Borboletas (2001), filme que conta a história das irmãs Mirabal - Minerva, Pátria e Maria Teresa -, conhecidas como "Las Mariposas" (codinome usado durante a luta em resistência à ditadura de Trujillo, na República Dominicana).
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 25/11
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "A Vida de Brian (1970)"
+  data: 2022-11-11
+  capa: 'sessao_111122.png'
+  sinopse: |
+    Estrelado e escrito pelo grupo Monty Python, o filme A Vida de Brian é uma sátira religiosa contando a história de Brian Cohen, um jovem judeu nascido no mesmo dia que Jesus Cristo numa casa vizinha a dele, e é frequentemente confundido com o Messias.
+    <br><br>
+    Na época de seu lançamento, o filme fora considerado blasfêmico, sendo censurado ou proibido em alguns países.
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 11/11
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "A Fuga das Galinhas (2000)"
+  data: 2022-11-04
+  capa: 'sessao_041122.png'
+  sinopse: |
+    A Fuga das Galinhas (2000) é um filme de animação em stop motion, sendo ainda considerado a maior bilheteria da história na categoria (stop motion). A trama se passa ao redor de um grupo de galinhas que, ao descobrirem que serão usadas como ingredientes para tortas de frango, decidem se organizar para planejar a escapatória do galinheiro e fugirem da morte certa.
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 04/11
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "CinIME em casa com <i>Marcel the Shell with Shoes On</i> (2021)"
+  data: 2022-10-28
+  capa: 'sessao_281022.png'
+  sinopse: |
+    Marcel, the Shell with Shoes On (2021) é um pseudodocumentário (ou falso documentário) sobre uma concha - Marcel - e a sua jornada em reencontrar a sua família perdida.
+    <br><br>
+    Marcel mora com sua avó Connie e vivem sozinhos como os únicos sobreviventes de uma misteriosa tragédia. É após serem descobertos por um realizador de documentários entre a confusão do seu Airbnb, e a divulgação de seu curta-metragem online, que Marcel ganha milhões de fãs apaixonados, bem como perigos sem precedentes e uma nova esperança de encontrar a sua família há muito perdida.
+  informacoes:
+    sala: discord
+    horario: 18h00
+    dia: 28/10
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Marighella (2019)"
+  data: 2022-10-21
+  capa: 'sessao_211022.png'
+  sinopse: |
+    Marighella (2019), estreia de Wagner Moura como diretor, retrata a vida de Carlos Marighella (1911 - 1969): comunista, escritor e importante figura na luta contra a ditadura militar no Brasil, morto em uma emboscada do DOPS.
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 21/10
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Especial Terror: <i>Cure</i> (1997)"
+  data: 2022-10-14
+  capa: 'sessao_141022.png'
+  sinopse: |
+    Na sessão 14/10, o CinIME exibirá Cure, um filme de terror psicológico japonês, escrito e realizado por Kiyoshi Kurosawa. A história segue um detetive que investiga uma série de assassinatos horripilantes cuja ligação é apenas um X gravado no pescoço de cada vítima e o assassino encontrado perto da vítima de cada caso sem se lembrar de nada do crime.
+    <br><br>
+    O filme, além de ter uma ambientação incrível que ao passar do filme te deixa cada vez mais tenso conforme o enredo avança, também explora e reflete sobre aspectos socio-culturais da sociedade japonesa.
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 14/10
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Especial Terror - Votação Aberta"
+  data: 2022-10-14
+  capa: 'votacao_141022.png'
+  sinopse: |
+    Aproveitando o mês do dia do Saci, o horroroso e terrorístico outubro, a próxima sessão do CinIME (14/10) será um filme de terror a  ser escolhido pelo público por meio uma votação aberta até terça (11/10)!
+    <br><br>
+    Entre as possibilidades temos: À Meia-Noite Levarei Sua Alma (1964), Cure (1997) e Nope (2022) -  no formulário de votação tem a sinopse de cada filme. Vote quantas vezes quiser!
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 14/10
+    dia_semana: sexta-feira
+  formsvotacao: https://forms.gle/v1F4A9XeiyPYEhpu6
+  datafimvotacao: 11/10
+  especial: false
+  votacao: true
+
+#####################################################################################################
+
+- titulo: "Saneamento Básico (2007)"
+  data: 2022-10-07
+  capa: 'sessao_071022.png'
+  sinopse: |
+    Na Linha Cristal, pequena vila de descendentes de colonos italianos na serra gaúcha, a construção de uma fossa para o tratamento do esgoto é uma demanda antiga e, embora uma emergência, é sempre ignorada pelas autoridades. Os moradores decidem se unir e compor uma comissão para pleitear a obra através dos recursos da subprefeitura. No entanto, são informados de que não há verba para saneamento básico, mas que sobra para a produção de um filme.
+    <br><br>
+    No caso, a subprefeitura criou um edital para premiar com R$10.000,00 reais um filme de ficção que fosse produzido por moradores da vila. O grupo resolve então fazer um filme sobre o saneamento básico.
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 07/10
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "Especial Goard: Breathless"
+  data: 2022-09-30
+  capa: 'sessao_300922.png'
+  sinopse: |
+    Breathless é um filme de teatro criminal francês e marca a estreia de Jean-Paul Belmondo como ator, sendo ele protagonista como um criminoso errante chamado Michel, e a atriz Jean Seberg como a sua namorada, a americana Patricia. O filme é o primeiro trabalho de longa-metragem de Godard.
+  descricao: |
+    Em homenagem ao cineasta e roteirista fracês, Jean-Luc Godard, o CinIME exibirá Breathless (1960) em sua próxima sessão (sexta 30/09). O filme foi escolhido por vocês por meio da votação, com Breathless tendo 74 dos 98 votos computados!
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 30/09
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: Tudo em Todo lugar ao Mesmo Tempo (2022)"
+  data: 2022-09-23
+  capa: 'sessao_230922.png'
+  sinopse: |
+    Na produção da A24, escrita e dirigida por Daniel Scheinert e Daniel Kwan, acompanhamos a caótica vida de uma imigrante chinesa, Evelyn Wang (Michelle Yeoh): casamento em ruínas, péssimo relacionamento familiar com pai e filha, e seu negócio - uma lavanderia - está à beira do fracasso.
+    <br><br>
+    No meio do caos, uma fenda para o multiverso é aberta e Evelyn tem a oportunidade de explorar realidades paralelas.
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 23/09
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
+- titulo: "CRUSP em Pauta: <i>A Experiência Cruspiana</i> e <i>A Invasão do CRUSP, 50 anos depois</i>"
+  data: 2022-09-16
+  capa: "sessao_160922.png"
+  sinopse: |
+    Estrearemos a volta do CinIME exibindo dois curta-documentários sobre o Conjunto Residencial da USP (CRUSP): A Experiência Cruspiana (1986) e A Invasão do CRUSP, 50 Anos Depois (2018). Ambos trazem o CRUSP como ponto central de articulação e resistência estudantil durante a ditadura militar.
+    <br><br>
+    A escolha do filme busca dialogar com o momento atual de mobilizações crescentes em torno da moradia estudantil, vide o turbulento e autocrático projeto de reforma da Reitoria e as constantes faltas de água. Inclusive, culminantes na convocatória de paralisação da USP no dia 20 de setembro (próxima terça-feira).
+    <br><br>
+    Qual é a história do CRUSP? Seria o projeto de descaso com a moradia estudantil, na verdade, uma política decorrente da ditadura militar? Qual política a Universidade tem para o CRUSP atualmente?
+  informacoes:
+    sala: B09
+    horario: 16h00
+    dia: 16/09
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false

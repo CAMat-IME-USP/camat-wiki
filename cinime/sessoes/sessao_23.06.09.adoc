@@ -1,9 +1,0 @@
-= 🎞 CORUJÃO SATOSHI KON 😱
-:page-date: 2023-06-09
-:page-categories: [sessao_cinime, filme_cinime]
-:page-header: { image: sessao_090623.png }
-:page-descricao: ["👉 Inspirado na maratona Wong Kar Wai, realizada pelo CinUSP, o CinIME traz o CORUJÃO SATOSHI KON!", "Iremos exibir três filmes do aclamado diretor: Perfect Blue (1997), Millennium Actress (2001) e Paprika (2006); começando às 22h da sexta-feira (09/06) e finalizando na manhã de sábado!", "🌞 Teremos lanchinhos nos intervalos entre os filmes, mas de manhã podemos todes bandejar juntos o café da manhã!", "🔗 Dado a capacidade do auditório, o público será limitado e é obrigatória a inscrição prévia no forms abaixo!", ]
-:page-forms: "https://forms.gle/XwuAux19vsbm5hsK8"
-:page-informacoes: { sala: Auditório Imre Simon (Bloco C), horario: Início às 22h00, dia: 09/06, dia_semana: sexta-feira }
-:page-pipoca: true
-:page-resenha: false

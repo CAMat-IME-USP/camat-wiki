@@ -1,6 +1,0 @@
-= Burning (2018)
-:page-date: 2023-08-25
-:page-categories: [sessao_cinime, filme_cinime]
-:page-header: { image: sessao_250823.png }
-:page-sinopse: [ "Você provavelmente já assistiu Parasite (2019) de Bong Joon-Ho, mas e Burning, conhece?", "Dirigido por Lee Chang-dong, o filme acompanha a vida de Jongsu e a sua retomada de contato com uma vizinha da infância, Haemi. Após uma viagem para África, Haemi retorna com um novo amigo, Ben. Neste triângulo, acompanhamos dois estratos sociais distintos na Coreia do Sul." ]
-:page-informacoes: { sala: B05 (bloco B do IME), horario: 16h00, dia: 25/08, dia_semana: sexta-feira }

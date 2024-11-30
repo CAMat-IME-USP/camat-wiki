@@ -1,6 +1,0 @@
-= Porco Rosso (1992)
-:page-date: 2023-04-21
-:page-categories: [sessao_cinime, filme_cinime]
-:page-header: { image: sessao_210423.png }
-:page-sinopse: [ "A trama gira em torno de um ex-Ás italiano da Primeira Guerra Mundial, agora vivendo como um caçador de recompensas freelance perseguindo “piratas do ar” no Mar Adriático. No entanto, uma maldição incomum o transformou em um porco antropomórfico. Uma vez chamado Marco, ele agora é conhecido no mundo como “Porco Rosso”." ]
-:page-informacoes: { sala: discord, horario: 14h00, dia: 21/04, dia_semana: sexta-feira }

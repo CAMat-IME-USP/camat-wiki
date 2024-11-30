@@ -1,32 +1,40 @@
-<!-- Captura todas as páginas que têm como categoria "sessao_cinime" -->
-{% assign paginas = site.pages | where: "categories", "sessao_cinime" | sort: 'date' | reverse %}
+{% assign sessoes = site.data.sessoes | sort: 'data' | reverse %}
 
-{% assign prox_sessao = paginas.first %}
-{% assign data_sessao = prox_sessao.date | date: "%d/%m/%Y" %}
+{% assign prox_sessao = sessoes.first %}
+{% assign data_sessao = prox_sessao.data | date: "%d/%m/%Y" %}
 
 {% assign votacao = false %}
 {% assign especial = false %}
 
-{% if prox_sessao.categories contains "sessao_especial" %}
+{% if prox_sessao.especial %}
     {% assign especial = true %}
     {% assign data_sessao = prox_sessao.data %}
 {% endif %}
 
-{% if prox_sessao.categories contains "votacao_cinime" %}
+{% if prox_sessao.votacao %}
     {% assign votacao = true %}
 {% endif %}
 
+{% if prox_sessao.apenas_google_forms %}
+    <iframe 
+        src="{{ prox_sessao.forms }}" 
+        frameborder="0" 
+        marginheight="0" 
+        marginwidth="0" 
+        style="width: 100%; height: {{prox_sessao.altura_forms}}">
+    Carregando…
+    </iframe>
+{% else %}
 <section id="proxima_sessao" aria-level="1">
-
     <div>
         <!-- <a href="#proxima_sessao" class="anchor" aria-hidden="true"></a> -->
         {% if especial == true %}
             <h3>{{ data_sessao }}</h3>
-            <h2><b>{{ prox_sessao.title }}</b></h2>
+            <h2><b>{{ prox_sessao.titulo }}</b></h2>
         {% else %}
             {% if votacao == false %}
                 <h3>Sessão {{ data_sessao }}</h3>
-                <h2><b>{{ prox_sessao.title }}</b></h2>
+                <h2><b>{{ prox_sessao.titulo }}</b></h2>
             {% else %}
                 <h2>Votação da Sessão {{ data_sessao }}</h2>
             {% endif %}
@@ -37,7 +45,7 @@
         <div class="content">
             {% if especial != true %}
                 <img 
-                    src="{{ site.urlImagens }}/cinime/{{ prox_sessao.header.image }}" 
+                    src="{{ site.urlImagens }}/cinime/{{ prox_sessao.capa }}" 
                     alt="..."
                 >
             {% else %}
@@ -48,7 +56,7 @@
                         {% for pagina in paginas %}
                         
                             <li>
-                                <img src="{{ site.urlImagens }}/cinime/{{ prox_sessao.header.diretorio }}/{{ pagina }}" alt="">
+                                <img src="{{ site.urlImagens }}/cinime/{{ prox_sessao.diretorio_imgs }}/{{ pagina }}" alt="">
                             </li>
         
                         {% endfor %}
@@ -76,7 +84,7 @@
     </section>
 
     <section id="sinopse" aria-level="2">
-        {% if especial == true || votacao == true || prox_sessao.sinose %}
+        {% if especial == true || votacao == true || prox_sessao.sinopse %}
         <h3>
             <a href="#sinopse" class="anchor" aria-hidden="true"></a>
             {% if especial == true %}
@@ -147,5 +155,5 @@
     
     {% endif %}
     
-
 </section>
+{% endif %}

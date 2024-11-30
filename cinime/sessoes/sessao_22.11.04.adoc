@@ -1,6 +1,0 @@
-= A Fuga das Galinhas (2000)
-:page-date: 2022-11-04
-:page-categories: [sessao_cinime, filme_cinime]
-:page-header: { image: sessao_041122.png }
-:page-sinopse: [ "A Fuga das Galinhas (2000) é um filme de animação em stop motion, sendo ainda considerado a maior bilheteria da história na categoria (stop motion). A trama se passa ao redor de um grupo de galinhas que, ao descobrirem que serão usadas como ingredientes para tortas de frango, decidem se organizar para planejar a escapatória do galinheiro e fugirem da morte certa." ]
-:page-informacoes: { sala: B09, horario: 16h00, dia: 04/11, dia_semana: sexta-feira }

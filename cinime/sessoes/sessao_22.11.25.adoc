@@ -1,6 +1,0 @@
-= No Tempo das Borboletas (2001)
-:page-date: 2022-11-25
-:page-categories: [sessao_cinime, filme_cinime]
-:page-header: { image: sessao_251122.png }
-:page-sinopse: [ "Em 25 de novembro, comemora-se o Dia Internacional pelo Fim da Violência contra as Mulheres. A data foi escolhida durante o primeiro encontro feminista da América Latina e Caribe organizado na Colômbia (1981) em memória e homenagem às irmãs Mirabal, brutamente assassinadas em 25 de novembro de 1960.", 'Na sessão do CinIME dessa semana, iremos exibir No Tempo das Borboletas (2001), filme que conta a história das irmãs Mirabal - Minerva, Pátria e Maria Teresa -, conhecidas como "Las Mariposas" (codinome usado durante a luta em resistência à ditadura de Trujillo, na República Dominicana).' ]
-:page-informacoes: { sala: B09, horario: 16h00, dia: 25/11, dia_semana: sexta-feira }

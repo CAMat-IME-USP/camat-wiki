@@ -1,6 +1,0 @@
-= A Scene at the Sea (1991)
-:page-date: 2023-09-15
-:page-categories: [sessao_cinime, filme_cinime]
-:page-header: { image: sessao_150923.png }
-:page-sinopse: [ "Shigeru, um coletor de lixo sem audição, encontra uma prancha de surfe descartada e, então, resgata-a para consertar e começar a experimentar as ondas. Ele logo fica obcecado pelo esporte e nós o acompanhamos juntos de sua namorada de longo prazo, Takako." ]
-:page-informacoes: { sala: B05 (bloco B do IME), horario: 16h00, dia: 15/09, dia_semana: sexta-feira }

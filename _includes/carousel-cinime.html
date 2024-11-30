@@ -1,27 +1,27 @@
 <!-- Para fazer o Carousel usei o swiffy-slider. -->
 
 <!-- Captura todas as páginas que têm como categoria "sessao_cinime" -->
-{% assign paginas = site.pages | where: "categories", "filme_cinime" | sort: "date" | reverse %}
+{% assign paginas = site.data.sessoes | sort: "data" | reverse %}
 
 <div class="swiffy-slider slider-item-show3">
     <!-- Onde ficam os slides -->
     <ul class="slider-container">
         {% for pagina in paginas %}
         
-            {% if pagina != paginas[0] %}
+            {% if pagina != paginas[0] && !pagina.apenas_google_forms %}
 
-            {% assign date = pagina.date | date: "%d/%m/%Y" %}
+            {% assign date = pagina.data | date: "%d/%m/%Y" %}
 
             <li>
                 <div>
                     <b>Sessão {{ date }}</b>
                     <br>
                     <img 
-                        src="{{ site.urlImagens }}/cinime/{{ pagina.header.image }}"
+                        src="{{ site.urlImagens }}/cinime/{{ pagina.capa }}"
                         alt=""
                     >
                     <br>
-                    <b>{{ pagina.title }}</b>
+                    <b>{{ pagina.titulo }}</b>
                 </div>
             </li>
 

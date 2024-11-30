@@ -1,6 +1,0 @@
-= A Vida de Brian (1979)
-:page-date: 2022-11-11
-:page-categories: [sessao_cinime, filme_cinime]
-:page-header: { image: sessao_111122.png }
-:page-sinopse: [ "Estrelado e escrito pelo grupo Monty Python, o filme A Vida de Brian é uma sátira religiosa contando a história de Brian Cohen, um jovem judeu nascido no mesmo dia que Jesus Cristo numa casa vizinha a dele, e é frequentemente confundido com o Messias.", "Na época de seu lançamento, o filme fora considerado blasfêmico, sendo censurado ou proibido em alguns países." ]
-:page-informacoes: { sala: B09, horario: 16h00, dia: 11/11, dia_semana: sexta-feira }

@@ -1,7 +1,0 @@
-= Especial Godard: Breathless
-:page-date: 2022-09-30
-:page-categories: [sessao_cinime, filme_cinime]
-:page-header: { image: sessao_300922.png }
-:page-descricao: [ "Em homenagem ao cineasta e roteirista fracês, Jean-Luc Godard, o CinIME exibirá Breathless (1960) em sua próxima sessão (sexta 30/09). O filme foi escolhido por vocês por meio da votação, com Breathless tendo 74 dos 98 votos computados!"]
-:page-sinopse: [ "Breathless é um filme de teatro criminal francês e marca a estreia de Jean-Paul Belmondo como ator, sendo ele protagonista como um criminoso errante chamado Michel, e a atriz Jean Seberg como a sua namorada, a americana Patricia. O filme é o primeiro trabalho de longa-metragem de Godard."]
-:page-informacoes: { sala: B09, horario: 16h00, dia: 30/09, dia_semana: sexta-feira }

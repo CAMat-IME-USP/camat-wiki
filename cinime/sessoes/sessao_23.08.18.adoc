@@ -1,6 +1,0 @@
-= 12 Macacos (1995)
-:page-date: 2023-08-18
-:page-categories: [sessao_cinime, filme_cinime]
-:page-header: { image: sessao_180823.png }
-:page-sinopse: [ "No ano de 2035, o preso James Cole se voluntaria para ser mandado ao passado, no ano de 1996, a fim de descobrir a origem do vírus que quase dizimou por completo a população. Porém, Cole é mandado ao ano de 1990 e acaba preso em um hospital psiquiátrico onde conhece pessoas-chave que podem lhe ajudar." ]
-:page-informacoes: { sala: B05 (bloco B do IME), horario: 16h00, dia: 18/08, dia_semana: sexta-feira }
