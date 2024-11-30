@@ -47,7 +47,7 @@ table {
 }
 
 .header {
-    padding-top: 1rem;
+    padding-top: 4rem;
 }
 
 @media (min-width: 40rem) {
@@ -134,6 +134,17 @@ table {
         width: 100%;
         z-index: 10;
         overflow-y: hidden;
+    }
+    .header-aviso {
+        top: 5.2rem;
+        position: fixed;
+        text-align: center;
+        background: var(--header-color) !important;
+        padding: 6px;
+        max-width: 100%;
+        width: 100%;
+        z-index: 10;
+        left: 0;
     }
 
     .navigation .container {
@@ -491,4 +502,41 @@ a.anchor::before {
 .quoteblock .attribution {
     text-align: right;
     margin-bottom: 20px;
+}
+
+/* links */
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link p {
+    background-color: var(--highlight-color);
+    border-radius: 10px;
+    text-align: center;
+}
+.link p:hover {
+    cursor: pointer;
+    background-color: var(--foreground-color);
+}
+.link a {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 40px;
+    width: 50rem;
+    padding: 10px 20px;
+}
+
+.link-grande {
+    width: 100%;
+    padding: 10px;
+    border: var(--border-color);
+    border-radius: 5px;
+    background: var(--header-color);
+    margin: 10px 0px;
+}
+.link-grande a {
+    color: var(--highlight-color) !important;
 }

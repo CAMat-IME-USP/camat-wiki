@@ -33,6 +33,10 @@ let elementosNoturnoExcecoes = [
   document.querySelector('.l-nav'),
   document.querySelector('.menu-header'),
 ]
+// se tiver algum link grande, adiciona na lista
+let linksgrandes = [...document.querySelectorAll('.link-grande')]
+linksgrandes.map(el => elementosNoturnoExcecoes.push(el))
+
 // se tiver algum modal, adiciona na lista
 document.querySelector('.modal-content') ? elementosNoturnoExcecoes.push(document.querySelector('.modal-content')) : ''
 
