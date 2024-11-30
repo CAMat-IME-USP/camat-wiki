@@ -49,34 +49,17 @@
             <h2>An(IME)²</h2>
 
             <div class="relatorios">
-
-              <a href="{{ site.url }}/arquivos/regulamentos/2023_RegulamentoConcursodeCosplay.pdf" class="relatorio">
+            {% assign regulamentos_anime = site.data.regimento_anime | sort: "data" | reverse %}
+            {% for regulamento in regulamentos_anime %}
+              <a href="{{ site.url }}/arquivos/{{ regulamento.pdf }}" class="relatorio">
                 <div class="relatorio-capa">
-                  <img src="{{ site.urlImagens }}/estatutos/2023_RegulamentoConcursodeCosplay.jpg" alt="">
+                  <img src="{{ site.urlImagens }}/{{ regulamento.capa }}" alt="">
                 </div>
                 <div class="relatorio-titulo">
-                  [2023] Regulamento Concurso de Cosplay
+                  {{ regulamento.titulo }}
                 </div>
               </a>
-
-              <a href="{{ site.url }}/arquivos/regulamentos/2023_AnIME_concursoBottons.pdf" class="relatorio">
-                <div class="relatorio-capa">
-                  <img src="{{ site.urlImagens }}/estatutos/2023_AnIME_concursoBottons.jpg" alt="">
-                </div>
-                <div class="relatorio-titulo">
-                  [2023] Regulamento Concurso de Bottons
-                </div>
-              </a>
-
-              <a href="{{ site.url }}/arquivos/regulamentos/2022_Regulamento_ConcursoCosplay.pdf" class="relatorio">
-                <div class="relatorio-capa">
-                  <img src="{{ site.urlImagens }}/estatutos/2022_Regulamento_ConcursoCosplay.jpg" alt="">
-                </div>
-                <div class="relatorio-titulo">
-                  [2022] Regulamento Concurso de Cosplay
-                </div>
-              </a>
-
+            {% endfor %}
             </div>
 
             <br>
@@ -84,16 +67,17 @@
             <h2>Eleições</h2>
 
             <div class="relatorios">
-
-              <a href="{{ site.url }}/arquivos/regulamentos/Edital_Eleição_CAMat2019.pdf" class="relatorio">
+            {% assign regulamentos_eleicao = site.data.eleicao | sort: "data" | reverse %}
+            {% for regulamento in regulamentos_eleicao %}
+              <a href="{{ site.url }}/arquivos/{{ regulamento.pdf }}" class="relatorio">
                 <div class="relatorio-capa">
-                  <img src="{{ site.urlImagens }}/estatutos/Edital_Eleição_CAMat2019.jpg" alt="">
+                  <img src="{{ site.urlImagens }}/{{ regulamento.capa }}" alt="">
                 </div>
                 <div class="relatorio-titulo">
-                  [2019] Edital Eleição CAMat
+                  {{ regulamento.titulo }}
                 </div>
               </a>
-
+            {% endfor %}
             </div>
 
         </section>

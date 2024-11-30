@@ -1,0 +1,39 @@
+- titulo: "Propostas de Reforma da Licenciatura"
+  capa: "propostas_de_reforma_da_licenciatura.jpg"
+  link: "propostas_de_reforma_da_licenciatura.pdf"
+  data: 2023-11-02
+
+- titulo: "Relatório Mapeamento PAPFE 2023"
+  capa: "relatorio_papfe_2023.jpg"
+  link: "relatorio_papfe_2023.pdf"
+  data: 2023-11-01
+
+- titulo: "Atividades Online Durante a Quarentena"
+  capa: "atividades_online_quarentena/computer-pixelart.jpg"
+  link: "../quarentena"
+  data: 2023-10-01
+
+- titulo: 'Pesquisa de opinião "Catracas no IME-USP" (2020)'
+  capa: "2020_relatorio_CatracasIMEUSP.jpg"
+  link: "2020_relatorio_CatracasIMEUSP.pdf"
+  data: 2020-10-01
+
+- titulo: 'Cola em prova (2020)'
+  capa: "cola_em_prova.jpg"
+  link: "Relatorio_Cola_em_prova.pdf"
+  data: 2020-09-01
+
+- titulo: '[Graduação] Cancelamento do Semestre (2020)'
+  capa: "cancelamento_semestre.jpg"
+  link: "Relatorio_Grad_Cancelamento_do_Semestre.pdf"
+  data: 2020-08-01
+
+- titulo: '[ERRATA] [Graduação] Cancelamento do Semestre (2020)'
+  capa: "Errata_Relatorio_Grad_Cancelamento_do_Semestre.jpg"
+  link: "Errata_Relatorio_Grad_Cancelamento_do_Semestre.pdf"
+  data: 2020-07-01
+
+- titulo: '[Pós-Graduação] Reorganização do Semestre (2020)'
+  capa: "Relatorio_PosGrad_Reorganizacao_do_Semestre.jpg"
+  link: "Relatorio_PosGrad_Reorganizacao_do_Semestre.pdf"
+  data: 2020-06-01
