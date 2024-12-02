@@ -16,3 +16,11 @@ pagination:
   administrativa e burocrática -- e comunicação entre a gestão do CAMat e a 
   galera do IME.
 </p>
+
+
+{% assign gestoes = site.data.gestoes | sort: "ano" | reverse %}
+{% assign atual = gestoes[0] %}
+
+<h2>Gestão {{ atual.ano }}</h2>
+
+<p>A gestão atual do CAMat é a chapa <i>{{ atual.nome }}</i>. <a href="/gestao">Veja mais informações aqui</a>.</p>

@@ -1,0 +1,71 @@
+- nome: "Alexandra Elbakyan"
+  ano: 2025
+  instagram: "@elbakyan.camat"
+  membros:
+    - nome: 'Link Zhang'
+      curso: 'Licenciatura em Matemática'
+      cargo: 'Presidente'
+
+    - nome: 'Gabriel Marques'
+      curso: 'Bacharelado em Matemática Aplicada'
+      cargo: 'Vice-presidente'
+
+    - nome: 'Maitê Donina'
+      curso: 'Licenciatura em Matemática'
+      cargo: 'Secretária'
+    
+    - nome: 'Octavio Potalej'
+      curso: 'Bacharelado em Matemática Aplicada e Computacional'
+      cargo: 'Secretário'
+    
+    - nome: 'Cadu'
+      curso: 'Licenciatura em Matemática'
+      cargo: 'Tesoureiro'
+
+    - nome: 'Júlio Gabriel'
+      curso: 'Bacharelado em Estatística'
+      cargo: 'Tesoureiro'
+    
+    - nome: 'Mel'
+      curso: 'Licenciatura em Matemática'
+      cargo: 'Diretoria'
+
+    - nome: 'Nicolas Miguel'
+      curso: 'Bacharelado em Matemática'
+      cargo: 'Diretoria'
+
+    - nome: 'Eduardo Yukio'
+      curso: 'Bacharelado em Estatística'
+      cargo: 'Diretoria'
+
+    - nome: 'Bruna Bugari'
+      curso: 'Licenciatura em Matemática'
+      cargo: 'Diretoria'
+
+    - nome: 'Otávio Fonseca'
+      curso: 'Bacharelado em Estatística'
+      cargo: 'Diretoria'
+
+    - nome: 'Ana Beatriz'
+      curso: 'Bacharelado em Matemática'
+      cargo: 'Diretoria'
+
+    - nome: 'Thiago Guelfi'
+      curso: 'Bacharelado em Matemática'
+      cargo: 'Diretoria'
+
+    - nome: 'Pietra Holtz'
+      curso: 'Bacharelado em Matemática Aplicada e Computacional'
+      cargo: 'Diretoria'
+
+    - nome: 'Carlos Marques'
+      curso: 'Bacharelado em Ciência da Computação'
+      cargo: 'Diretoria'
+
+    - nome: 'Juche'
+      curso: 'Bacharelado em Matemática Aplicada e Computacional'
+      cargo: 'Diretoria'
+
+    - nome: 'Madeline Morato'
+      curso: 'Bacharelado em Matemática'
+      cargo: 'Diretoria'

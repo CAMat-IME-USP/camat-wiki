@@ -1,0 +1,36 @@
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    {% include head.html %}
+    <meta property="og:type" content="website"/>
+    
+    <!-- CSS da Gestao -->
+    <link rel="stylesheet" href="{{ site.url }}/css/gestao.css">
+
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    {% include menu.html %}
+
+    <main class="wrapper">
+        
+        <div class="menu">
+            <div class="menu-hamburger"></div>
+        </div>
+
+        {% include header.html %}
+        
+        <section class="container">
+            {{ content }}
+        </section>
+
+        {% include footer.html %}
+
+    </main>
+
+    {% include js_pos.html %}
+
+    <script src="{{ site.url }}/js/rds_atuais.js"></script>
+</body>
+</html>

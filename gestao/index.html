@@ -1,0 +1,43 @@
+---
+title: "Gestão"
+layout: gestao
+excerpt: "Gestão atual"
+sitemap: false
+permalink: /gestao
+---
+
+{% assign gestoes = site.data.gestoes | sort: "ano" | reverse %}
+{% assign atual = gestoes[0] %}
+
+<h1>{{ page.title }} {{ atual.ano }} - {{ atual.nome }}</h1>
+
+<header>
+    <img src="{{ site.url }}/images/gestao/{{ atual.ano }}/logo.jpg">
+</header>
+
+<a class="programa" href="{{ site.url }}/arquivos/gestao/{{ atual.ano }}/programa.pdf">
+    <i class="fa fa-solid fa-file-pdf"></i>
+    &nbsp;
+    Programa da gestão
+</a>
+
+<br>
+
+<h2>Membros</h2>
+<section class="membros">
+    <table>
+    {% for membro in atual.membros %}
+        {% assign membro_foto = membro.nome | downcase | replace: " ", "_" %}
+        <tr>
+            <td class="membro_foto">
+                <img src="{{ site.url }}/images/gestao/{{ atual.ano }}/{{ membro_foto }}.jpg" alt="Fotografia">
+            </td>
+            <td>
+                <div class="membro_nome">{{ membro.nome }}</div>
+                <div class="membro_cargo">{{ membro.cargo }}</div>
+                <div class="membro_curso"><b>Curso: </b>{{ membro.curso }}</div>
+            </td>
+        </tr>
+    {% endfor %}
+    </table>
+</section>

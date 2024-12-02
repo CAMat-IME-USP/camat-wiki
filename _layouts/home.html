@@ -38,6 +38,11 @@
                 Navegação
             </h3>
             <ul>
+                <li>
+                  <a href="{{ site.url }}/gestao">
+                      Gestão
+                  </a>
+                </li>
                 {% for page in pages %}
                 {% if page.title %}
                 {%- unless page.title contains 'Página' -%}
