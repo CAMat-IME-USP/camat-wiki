@@ -22,8 +22,10 @@ link:./departamentos/index.html[Departamentos]
 
 link:./coc/index.html[Comissão Coordenadora de Curso (CoC)]
 
-link:./congregacao_cg/index.html[Congregação e Comissão de Graduação (CG)]
+link:./congregacao/index.html[Congregação]
+
+link:./cg/index.html[Comissão de Graduação (CG)]
 
 link:./cta/index.html[Conselho Técnico-Administrativo (CTA)]
 
-link:./gts/cip/index.html[Comissão de Inclusão e Pertencimento (CIP)]
+link:./cip/index.html[Comissão de Inclusão e Pertencimento (CIP)]

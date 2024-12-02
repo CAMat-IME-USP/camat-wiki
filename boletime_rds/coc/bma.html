@@ -1,0 +1,25 @@
+---
+title: BoletIME RDs
+layout: repasses_rds
+---
+
+<h1>{{ page.title }}</h1>
+
+<h2>Comissão Coordenadora de Curso (CoC)</h2>
+
+<h3>Bacharelado em Matemática Aplicada</h3>
+
+{% if site.data._rds.cocs.bma.size > 0 %}
+    {% assign repasses = site.data._rds.cocs.bma | sort: "data" | reverse %}
+    {% for repasse in repasses %}
+        <div class="colapsador">
+            Reunião {{ repasse.data | date: "%d/%m/%Y" }} - {{ repasse.autoria }}
+        </div>
+        <div class="repasse">
+            <p>{{ repasse.texto }}</p>
+        </div>
+        <br>
+    {% endfor %}
+{% else %}
+    Ainda sem repasses.
+{% endif %}

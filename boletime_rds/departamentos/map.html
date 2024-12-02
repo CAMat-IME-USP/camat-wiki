@@ -1,0 +1,23 @@
+---
+title: BoletIME RDs
+layout: repasses_rds
+---
+
+<h1>{{ page.title }}</h1>
+
+<h2>Departamentos - MAP</h2>
+
+{% if site.data._rds.departamentos.map.size > 0 %}
+    {% assign repasses = site.data._rds.departamentos.map | sort: "data" | reverse %}
+    {% for repasse in repasses %}
+        <div class="colapsador">
+            Reunião {{ repasse.data | date: "%d/%m/%Y" }} - {{ repasse.autoria }}
+        </div>
+        <div class="repasse">
+            <p>{{ repasse.texto }}</p>
+        </div>
+        <br>
+    {% endfor %}
+{% else %}
+    Ainda sem repasses.
+{% endif %}

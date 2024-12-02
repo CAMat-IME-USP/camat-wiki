@@ -1,0 +1,302 @@
+- data: 2023-03-15
+  autoria: "Anny Beatriz"
+  texto: |
+    <h4>Pautas:</h4>
+    <div class="subcolapsador">
+      <a>1. Discussão sobre distribuição de vagas Fuvest/ENEM</a>
+    </div>
+
+    <div class="subrepasse">
+      <ul>
+        <li>
+          Foi decidido manter para 2024 a mesma distribuição de 2023, que também foi a distribuição de 2022
+          <ul>
+            <li>21 vagas fuvest (13 AC, 5 EP, 3 PPI), 9 vagas enem usp (2 AC, EP L3 4, PPI L4 3)</li>
+            <li>Observação sobre os dados: as vagas são divididas em metade ampla concorrência e a outra metade para cotas, e as cotas não levam em conta a renda</li>
+          </ul>
+        </li>
+        <li>
+          Podemos disponibilizar até 30% das vagas totais (que são 30) para o enem usp. decidimos manter os 30%  
+        </li>
+        <li>
+          A decisão de manter igual as dos anos passados também levou em conta a estabilidade dos dados para pensarmos sobre a evasão de quem entra pela fuvest e quem entra pelo enem.
+        </li>
+      </ul>
+    </div>
+
+    <!-- ------------------ -->
+
+    <div class="subcolapsador">
+      <a>2. Discussão sobre curricularização da extensão</a>
+    </div>
+
+    <div class="subrepasse">
+      <ul>
+        <li>
+          O que é: o processo de inserção de atividades de extensão universitária na matriz curricular dos cursos de Graduação, na forma de componente curricular
+        </li>
+        <li>
+          MEC exigiu que 10% da carga horária do curso seja dedicado a programa de extensão até 2021, a usp está atrasada no cronograma, precisamos propor mudanças esse ano sem falta
+          <ul>
+            <li>
+              ○ Nosso curso tem atualmente a carga horária de 2730 horas (o mínimo exigido é 2700), então vão ser necessárias 270 horas para esses programas
+            </li>
+            <li>
+              É algo independente das horas de AAC
+            </li>
+          </ul>
+        </li>
+        <li>
+          É algo difícil de encaixar no nosso curso por ser muito teórico, vamos precisar pensar em ideias
+        </li>
+        <li>
+          A pró-reitoria da usp vai disponibilizar uma lista com programas de extensão que já acontecem na usp e que poderiam ser aproveitadas para os cursos
+        </li>
+        <li>
+          Para contar como atividade de extensão curricular são necessários: ser um evento para pessoas de fora da usp, ter a presença de um docente na atividade e ter alguma forma de avaliação
+        </li>
+        <li>
+          Não basta só criar novos programas na grade, pois é preciso ser uma porcentagem do curso, então temos que controlar o denominador também
+        </li>
+        <li>
+          Ideias sugeridas até agora:
+          <ul>
+            <li>
+              Transformar o evento de apresentação de MAT0148 em um evento de divulgação científica ao público leigo, não só uma apresentação científica para pessoas da graduação, como era feito até então. Pode contar como evento para pessoas de fora da usp pois é disponibilizado livremente no Youtube
+            </li>
+            <li>
+              Formular uma matéria com crédito trabalho onde o objetivo seja realizar uma atividade de extensão (mais detalhes sobre a ideia no tópico de alteração curricular)
+            </li>
+            <li>
+              Tirar uma eletiva da grade para que equilibre o denominador com a criação dessa nova matéria (mais detalhes no tópico de alteração curricular)
+            </li>
+            <li>
+              É preciso checar as contas, mas acreditamos que com essas duas coisas sobrem apenas 30 horas que veremos se conseguimos encaixar na lista da pró-reitoria
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+    <!-- ------------------ -->
+
+    <div class="subcolapsador">
+      <a>3. Indicação de nome para a Comissão de Estágios</a>
+    </div>
+
+    <div class="subrepasse">
+      <ul>
+        <li>
+          A Comissão de Estágios do IME conta com a representação de um professor por curso
+        </li>
+        <li>
+          O professor que nos representava era o professor Jorge Beloqui
+        </li>
+        <li>
+          A CoC indicou o nome do professor Jorge Tadashi, ficaram de ver com ele se ele aceita
+        </li>
+        <li>
+          Foi levantado o ponto de que não sabemos de nenhum aluno do bacharelado que esteja fazendo estágio no momento
+          <ul>
+            <li>
+              Não sabemos se é porque não há ninguém fazendo ou se é falta de comunicação entre as duas comissões
+            </li>
+            <li>
+              Esperamos que ao sugerimos um nome para representar o curso na Comissão de Estágio, possamos ter mais comunicação e sabermos quantos alunos se envolvem com estágios
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+    <!-- ------------------ -->
+
+    <div class="subcolapsador">
+      <a>4. Discussão sobre alterações curriculares</a>
+    </div>
+
+    <div class="subrepasse">
+      <ul>
+        <li>
+          Já está em andamento a modificação das ementas de cálculo 1 e 2 pelos professores Vinícius e Lucia. As principais alterações são:
+          <ul>
+            <li>
+              Cálculo 1: passará a ter integrais impróprias, integrais de Riemann e aplicações: volumes de revolução, comprimento de curvas. Será removida a parte de noções sobre equações diferenciais ordinárias de primeira ordem (exceto quando ministrado na física)
+            </li>
+            <li>
+              Cálculo 2: passará a cobrir somente curvas no R2 e R3 e funções de mais variáveis; diminuirá para 4 créditos; remoção de bibliografia
+            </li>
+            <li>
+              Já foi votado pela CoC anteriormente neste ano e estão todos de acordo
+            </li>
+          </ul>
+        </li>
+        <li>
+          Será criada uma disciplina de transição do ensino médio para a graduação. Por conta da curricularização da extensão, as ideias iniciais para a matéria foram modificadas e agora as ideias são:
+          <ul>
+            <li>
+              A disciplina substituirá a de números inteiros, que passará a ser ministrada no segundo semestre
+              <ul><li> Algo que acabou sendo esquecido na hora, mas a representação discente pretende levar o questionamento por email, é que o segundo semestre ficaria pesado, com 6 matérias e 26 créditos </li></ul>
+            </li>
+            <li>
+              A proposta é que os alunos revisem conteúdos do ensino médio e ao final da disciplina produzam materiais didáticos para estudantes do ensino médio e vestibular; podem ser videos, apostilas, etc; os melhores materiais serão disponibilizados num site aberto ao público
+            </li>
+            <li>
+              A ideia é que os alunos que entram com dificuldade em alguns assuntos possam se nivelar para ter menos dificuldade na graduação, e farão isso de forma ativa, com “a mão na massa” e quem já tem conhecimento sobre os assuntos não se sentirá desmotivado a fazer a disciplina, pois terá o trabalho de ajudar os colegas e produzir os materiais
+            </li>
+            <li>
+              Ainda está sendo pensado em como será a disciplina, mas a ideia é que os conteúdos dependam da turma, de quais são as maiores dificuldades, e que usem o horário da disciplina, que não serão aulas, para realizarem as atividades em grupo
+            </li>
+            <li>
+              Foi sugerido dar 4 créditos aula (pois o professor terá esses dois encontros semanais com a turma, mesmo que não sejam aulas propriamente ditas) e 2 créditos trabalho, pela produção dos materiais
+              <ul><li>Foi pensado em aproveitar esses 2 créditos para as horas de extensão</li></ul>
+            </li>
+            <li>
+              Será uma disciplina voltada apenas para o bacharelado (para funcionar bem o ideal é que a turma não seja muito grande)
+            </li>
+            <li>
+              Pelo menos no início foi sugerido que membros da CoC ministrem a disciplina, pois são professores que costumam pegar turmas de primeiro ano e podem acompanhar de perto esse novo projeto para que seja ajustado com o tempo
+            </li>
+          </ul>
+        </li>
+        <li>
+          Foi proposto a remoção de uma optativa eletiva, para equilibrar o denominador na porcentagem das horas de extensão
+          <ul>
+            <li>
+              O curso passará a exigir 16 créditos de optativas eletivas e 4 créditos de optativas livres
+            </li>
+            <li>
+              A proposta foi aceita por todos os membros
+            </li>
+          </ul>
+        </li>
+        <li>
+          Foi proposto a remoção da exigência de matérias “optatórias”
+          <ul>
+            <li>
+              Não houveram opiniões positivas para manter
+            </li>
+            <li>
+              A proposta foi aceita por todos os membros
+            </li>
+          </ul>
+        </li>
+        <li>
+          Ficou de ser decidida sobre a matéria nova e acertar os últimos detalhes das outras mudanças o mais rápido possível para mandarmos as propostas para aprovação, para que seja possível implementar logo no ano que vem
+        </li>
+      </ul>
+    </div>
+
+    <!-- ------------------ -->
+
+    <div class="subcolapsador">
+      <a>5. Discussão sobre duplo diploma</a>
+    </div>
+
+    <div class="subrepasse">
+      <ul>
+        <li>
+          A CoC recebeu um formulário sobre a possibilidade de duplo diploma para o curso
+        </li>
+        <li>
+          No momento não temos convênio com nenhuma universidade para a realização disso
+        </li>
+        <li>
+          Nenhum membro da CoC tem informações precisas e suficiente sobre como funciona o processo; ficamos de nos informar mais
+        </li>
+        <li>
+          Foi levantado o ponto de que nunca recebemos a informação de interesse nem de alunos nem de professores sobre o assunto
+          <ul><li>Não sabemos se isso ocorre pois ninguém realmente tem interesse ou se porque não há nenhum incentivo ou informações sobre o assunto</li></ul>
+        </li>
+        <li>
+          Foi levantado o ponto de que provavelmente as comissões se mobilizam para realizar convênios e ir atrás de fazer acontecer quando surge a necessidade ou interesse por alunos e/ou professores
+          <ul>
+            <li>Apesar disso, o professor Vitor ficou de mandar email para os professores, perguntando se alguém teria algum interesse e algo encaminhado na direção disso</li>
+            <li>Também ficou de checar com o Sérgio, que tem cargo também na Aucani, sobre possibilidades e sobre como funciona o processo</li>
+          </ul>
+        </li>
+        <li>
+          Foi levantada a questão sobre a relevância de existir algo assim no curso
+          <ul>
+            <li>
+              Já existe o intercâmbio, que apesar de ser um processo diferente, já envolve a internacionalização
+            </li> 
+            <li>
+              Processos como esse usualmente atrasam a formação do aluno
+            </li>
+            <li>
+              Para o objetivo do nosso curso em específico, que é formar pesquisadores, que passam por mestrado e doutorado, já existe a possibilidade de estudar fora nessas outras fases do estudo, e na pós graduação existe a possibilidade de duplo diploma
+            </li>
+            <li>
+              Um ponto positivo levantado foi o de que com duplo diploma o aluno possivelmente aumentaria suas chances de conseguir pós graduação na universidade envolvida
+              <ul>
+                Foi levantado o ponto de que o intercâmbio talvez já seja o suficiente para isso
+              </ul>
+            </li>
+            <li>
+              Foi mencionado que um dos pontos positivos mais evidentes são oportunidade de empregos em outros países, por exemplo um engenheiro que teria a possibilidade de exercer sua função no país da outra universidade por ter um diploma de lá, mas entra no ponto de que não é muito o caso do nosso curso em específico
+            </li>
+          </ul>
+        </li>
+        <li>
+          Ficamos de ir atrás de mais informações sobre o assunto e levantar ele novamente em outros momentos, se necessário
+        </li>
+      </ul>
+    </div>
+
+    <!-- ------------------ -->
+
+    <div class="subcolapsador">
+      <a>6. Data para reunião com os ingressantes</a>
+    </div>
+
+    <div class="subrepasse">
+      <ul>
+        <li> A CoC gostaria de fazer uma reunião com os ingressantes </li>
+        <li>
+          Os objetivos incluem conhecer e ter contato com eles e apresentar assuntos burocráticos e coisas sobre o curso, e deixar aberto a dúvidas no final
+        </li>
+        <li>
+          Marcamos terça feira dia 11/04, às 13h, com duração de uma hora
+        </li>
+        <li>
+          Foi solicitado que estejam presentes todos os membros, e ambos titular e suplente da representação discente, para que os ingressantes conheçam todos
+        </li>
+      </ul>
+    </div>
+
+    <!-- ------------------ -->
+
+    <div class="subcolapsador">
+      <a>7. Formulários sobre disciplinas eletivas e sobre avaliação das matérias</a>
+    </div>
+
+    <div class="subrepasse">
+      <ul>
+        <li>
+          Foi discutido se deveríamos manter o formulário de avaliação das matérias
+          <ul>
+            <li>
+              Todos concordaram que é bom manter
+            </li>
+          </ul>
+        </li>
+        <li>
+          Vamos oficializar o procedimento com a CG, para que seja obrigatório em todos os semestres, para todas as disciplinas
+        </li>
+        <li>
+          Ano passado houve sobreposição do tempo de resposta aos dois formulários, ambos ficaram um período de tempo abertos ao mesmo tempo, o que não foi bom, pois eram muitas coisas para os estudantes responderem
+        </li>
+        <li>
+          Para não ter sobreposição este ano, foi decidido que passaremos o formulário sobre as eletivas primeiro, pois a distribuição de professores tem que estar pronta até maio, e depois passaremos o formulário sobre as disciplinas
+          <ul>
+            <li>
+              Está previsto para passarmos o formulário das eletivas agora em abril, se tudo der certo logo depois da semana santa, e o formulário sobre as matérias no começo de maio, para que já tenha passado todas as P1’s
+            </li>
+          </ul>
+        </li>
+      </ul>
+
+    </div>
+
+    <!-- ------------------ -->
