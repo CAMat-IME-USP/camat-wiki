@@ -3,8 +3,6 @@ title: 'RDs'
 layout: rds_atuais
 ---
 
-Confira a lista de representantes discentes e contatos aqui.
-
 {% assign lista_rds = site.data._rds.pessoas | sort: "ano" | reverse %}
 {% assign atual = lista_rds[0] %}
 
@@ -12,7 +10,9 @@ Confira a lista de representantes discentes e contatos aqui.
 const ANO = "{{ atual.ano }}";
 </script>
 
-<h1>{{ page.title }} {{ atual.ano }}</h1>
+<h1>Representantes Discentes ({{ atual.ano }})</h1>
+
+<p>Confira a lista de representantes discentes e contatos aqui.</p>
 
 <!-- Cargos principais: Congregacao, CG e CTA -->
 <section>
