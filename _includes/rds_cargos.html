@@ -1,0 +1,37 @@
+<section>
+{% for cargo in include.cargos %}
+    <h3>{{ cargo.nome }}</h3>
+    <table class="tableblock frame-all grid-all stretch">
+        <colgroup>
+            {% if cargo.sem_suplente %}
+                <col style="width: 100%">
+            {% else %}
+                <col style="width: 50%">
+                <col style="width: 50%">
+            {% endif %}
+        </colgroup>
+        <thead>
+            <tr>
+                {% if cargo.sem_suplente %}
+                    <th class="tableblock">Representante</th>
+                {% else %}
+                    <th class="tableblock">Representante</th>
+                    <th class="tableblock">Suplente</th>
+                {% endif %}
+            </tr>
+        </thead>
+        <tbody>
+        {% for rd in cargo.rds %}
+            <tr>
+                {% if rd.suplente %}
+                    <td style="text-align: center;" class="rd_nome">{{ rd.representante }}</td>
+                    <td style="text-align: center;" class="rd_nome">{{ rd.suplente }}</td>
+                {% else %}
+                    <td style="text-align: center;" class="rd_nome">{{ rd.representante }}</td>
+                {% endif %}
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endfor %}
+</section>

@@ -1,0 +1,286 @@
+################################################################
+# > REPRESENTANTES DISCENTES DE 2024
+################################################################
+- ano: 2024
+  rds:
+    ################################
+    # > CARGOS PRINCIPAIS
+    ################################
+    - nome: 'Congregação'
+      tipo: 'principal'
+      rds:
+        - representante: 'Thiago Guelfi'
+          suplente:      'Matheus Siniscarchio'
+
+        - representante: 'Carlos Marques'
+          suplente:      'Octavio Potalej'
+        
+        - representante: 'Link Zhang'
+          suplente:      'João Guilherme de Souza'
+        
+    - nome: 'Comissão de Graduação (CG)'
+      tipo: 'principal'
+      rds:
+        - representante: 'Thiago Guelfi'
+          suplente:      'Luiza Barros'
+
+    - nome: 'Conselho Técnico Administrativo (CTA)'
+      tipo: 'principal'
+      rds:
+        - representante: 'Link Zhang'
+          suplente:      'Pedro Eduardo Soto'
+
+    ################################
+    # > COCS
+    ################################
+
+    - nome: 'CoC BM'
+      tipo: coc
+      rds:
+        - representante: 'Caio Domiciano'
+          suplente:      'Marcos Yuri'
+
+    - nome: 'CoC BE'
+      tipo: coc
+      rds:
+        - representante: 'Matheus Siniscarchio'
+          suplente:      'Bruno Kleine'
+
+    - nome: 'CoC LM'
+      tipo: coc
+      rds:
+        - representante: 'Isabela Pacheco da Silveira'
+          suplente:      'Izabelle Camile Moreira'
+
+    - nome: 'CoC BMA'
+      tipo: coc
+      rds:
+        - representante: 'Gabs'
+          suplente:      'Luiza Ferraz Santos'
+
+    - nome: 'CoC BMAC'
+      tipo: coc
+      rds:
+        - representante: 'Pedro Eduardo Soto'
+          suplente:      'Pietra Holtz'
+
+    - nome: 'CoC BCC'
+      tipo: coc
+      rds:
+        - representante: 'Rafael de Oliveira Magalhães'
+          suplente:      'Pedro Lucas Rezende'
+
+    ################################
+    # > CONSELHOS
+    ################################
+
+    - nome: 'Conselho MAT'
+      tipo: conselho
+      rds:
+        - representante: 'Bugari'
+          suplente:      'Thiago Guelfi'
+        
+        - representante: 'Ananda Monichelly'
+          suplente:      'Madeline Morato'
+        
+        - representante: 'Cadu'
+          suplente:      'Riani de Souza Alvaro'
+
+    - nome: 'Conselho MAE'
+      tipo: conselho
+      rds:
+        - representante: 'Bruno Kleine'
+          suplente:      'Matheus Siniscarchio'
+
+    - nome: 'Conselho MAP'
+      tipo: conselho
+      rds:
+        - representante: 'Antonio Gabriel Freitas da Silva'
+          suplente:      'Sil'
+
+    - nome: 'Conselho MAC'
+      tipo: conselho
+      rds:
+        - representante: 'Rafael de Oliveira Magalhães'
+          suplente:      'Pedro Lucas Rezende'
+
+    ################################
+    # > COMISSOES
+    ################################
+
+    - nome: 'Comissão de Gestão da Comunicação'
+      tipo: comissao
+      sem_suplente: true
+      rds:
+        - representante: 'Thiago Guelfi'
+
+    - nome: 'Comissão de Acolhimento à Mulher'
+      tipo: comissao
+      sem_suplente: true
+      rds:
+        - representante: 'Atena Pinheiro'
+        - representante: 'Luana Giacomini Barbosa'
+
+    - nome: 'Comissão de Cultura e Extensão (CCEx)'
+      tipo: comissao
+      rds:
+        - representante: 'Marcos Augusto Fontes de Araujo'
+          suplente:      'Raphael Vlasman'
+
+    - nome: 'Comissão de Estágios'
+      tipo: comissao
+      rds:
+        - representante: 'Raphael Vlasman'
+          suplente:      'Marcos Augusto Fontes de Araujo'
+    
+    - nome: 'Comissão de Pesquisa e Inovação (CPql)'
+      tipo: comissao
+      rds:
+        - representante: 'Thiago Augusto Silva Dourado'
+          suplente:      'Thiago Guelfi'
+    
+    - nome: 'Comissão de Inclusão e Pertencimento (CIP)'
+      tipo: comissao
+      rds:
+        - representante: 'Thiago Guelfi'
+          suplente:      'Atena Pinheiro'
+
+    - nome: 'CCSL'
+      tipo: comissao
+      sem_suplente: true
+      rds:
+        - representante: 'Bruna Bazaluk'
+
+################################################################
+# > REPRESENTANTES DISCENTES DE 2023
+################################################################
+- ano: 2023
+  rds:
+    ################################
+    # > CARGOS PRINCIPAIS
+    ################################
+    - nome: 'Congregação'
+      tipo: 'principal'
+      rds:
+        - representante: 'Link Zhang'
+          suplente:      'Ivan Kuvasney Lima'
+
+        - representante: 'João Guilherme de Souza'
+          suplente:      'Carlos Marques'
+        
+        - representante: 'Thiago Guelfi'
+          suplente:      'Mateus Schimidt'
+        
+    - nome: 'Comissão de Graduação (CG)'
+      tipo: 'principal'
+      rds:
+        - representante: 'Luiza Barros'
+          suplente:      'Camila Cavalcanti'
+
+    - nome: 'Conselho Técnico Administrativo (CTA)'
+      tipo: 'principal'
+      rds:
+        - representante: 'Ivan Kuvasney Lima'
+          suplente:      'Tiago Sotelo Calvo'
+
+    ################################
+    # > COCS
+    ################################
+
+    - nome: 'CoC BM'
+      tipo: coc
+      rds:
+        - representante: 'Anny Beatriz Silva de Azevedo'
+          suplente:      'Cayo Leitão Costa'
+
+    - nome: 'CoC BE'
+      tipo: coc
+      rds:
+        - representante: 'Carolina Hirata'
+          suplente:      'Melissa Tiemi Tanaka'
+
+    - nome: 'CoC LM'
+      tipo: coc
+      rds:
+        - representante: 'Isabela Pacheco da Silveira'
+          suplente:      'Carlos Eduardo Ribeiro'
+
+    - nome: 'CoC BMA'
+      tipo: coc
+      rds:
+        - representante: 'Renata Santos Miranda'
+          suplente:      ''
+
+    - nome: 'CoC BMAC'
+      tipo: coc
+      rds:
+        - representante: 'Sil'
+          suplente:      'Antonio Gabriel Freitas da Silva'
+
+    - nome: 'CoC BCC'
+      tipo: coc
+      rds:
+        - representante: 'Marília Takaguti Dicezare'
+          suplente:      'Daniel Silva Lopes da Costa'
+
+    ################################
+    # > CONSELHOS
+    ################################
+
+    - nome: 'Conselho MAT'
+      tipo: conselho
+      rds:
+        - representante: 'Thiago Guelfi'
+          suplente:      'Ana Julia Modesto'
+
+    - nome: 'Conselho MAE'
+      tipo: conselho
+      rds:
+        - representante: 'Camilla Fonseca'
+          suplente:      'Sávio Campos'
+
+    - nome: 'Conselho MAP'
+      tipo: conselho
+      rds:
+        - representante: 'Antonio Gabriel Freitas da Silva'
+          suplente:      'Sil'
+
+    - nome: 'Conselho MAC'
+      tipo: conselho
+      rds:
+        - representante: 'Daniel Silva Lopes da Costa'
+          suplente:      'Marília Takaguti Dicezare'
+
+    ################################
+    # > COMISSOES
+    ################################
+
+    - nome: 'Comissão de Gestão da Comunicação'
+      tipo: comissao
+      sem_suplente: true
+      rds:
+        - representante: 'Thiago Guelfi'
+
+    - nome: 'Comissão de Acolhimento à Mulher'
+      tipo: comissao
+      sem_suplente: true
+      rds:
+        - representante: 'Atena Pinheiro'
+
+    - nome: 'Comissão de Cultura e Extensão (CCEx)'
+      tipo: comissao
+      rds:
+        - representante: 'Henrique Luiz Pereira'
+          suplente:      'Raphael Vlasman'
+
+    - nome: 'Comissão de Estágios'
+      tipo: comissao
+      rds:
+        - representante: 'Raphael Vlasman'
+          suplente:      'Henrique Luiz Pereira'
+
+    - nome: 'CCSL'
+      tipo: comissao
+      sem_suplente: true
+      rds:
+        - representante: 'Felipe Ribas Serras'

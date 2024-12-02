@@ -1,0 +1,40 @@
+---
+title: 'RDs'
+layout: rds_atuais
+---
+
+{% assign lista_rds = site.data._rds.pessoas | sort: "ano" | reverse %}
+{% assign atual = lista_rds[0] %}
+
+<script>
+const ANO = "{{ atual.ano }}";
+</script>
+
+<h1>{{ page.title }} {{ atual.ano }}</h1>
+
+<!-- Cargos principais: Congregacao, CG e CTA -->
+<section>
+    {% assign principais = atual.rds | where: "tipo", "principal" %}
+    {% include rds_cargos.html cargos=principais %}
+</section>
+
+<!-- CoCs -->
+<section>
+    <h2>Comissões Coordenadoras de Curso (CoCs)</h2>
+    {% assign cocs = atual.rds | where: "tipo", "coc" %}
+    {% include rds_cargos.html cargos=cocs %}
+</section>
+
+<!-- Conselhos -->
+<section>
+    <h2>Conselhos de Departamento</h2>
+    {% assign conselhos = atual.rds | where: "tipo", "conselho" %}
+    {% include rds_cargos.html cargos=conselhos %}
+</section>
+
+<!-- Comissoes -->
+<section>
+    <h2>Comissões</h2>
+    {% assign comissoes = atual.rds | where: "tipo", "comissao" %}
+    {% include rds_cargos.html cargos=comissoes %}
+</section>

@@ -5,15 +5,10 @@
  * 
  * Este é o javascript da página de RDs atuais do site. Para armazenar a informação dos RDs
  * é utilizado um JSON que está no diretório "/_data".
- * 
- * Há dois tipos de modo noturno: um escuro (#212121) e um mais escuro (#111). Essa diferenciação 
- * é feita em uma lista.
  */
 
-const ANO = 2024
-
 // diretório dos contatos
-const DIR_CONTATOS = `/boletime_rds/rds/${ANO}/contatos.json`
+const DIR_CONTATOS = `/boletime_rds/rds/contatos/${ANO}.json`
 
 // Captura o Modal
 var modal = document.getElementById("modal_infoRD")
@@ -94,16 +89,10 @@ capturarInfos().then(res => {
 })
 
 // capturar as âncoras
-var tds = document.getElementsByTagName('td')
+var tds = document.querySelectorAll('td.rd_nome')
 var ancoras = []
 for (let td of tds) {
-  // se só tiver 1, provavelmente é esse que se busca
-  if (td.children.length != 1) continue
-
-  let p = td.children[0]
-  let a = p.children[0]
-  
-  a.onclick = function() { atualizarModal(this.textContent) }
+  td.onclick = function() { atualizarModal(this.textContent) }
 }
 
 // Get the <span> element that closes the modal

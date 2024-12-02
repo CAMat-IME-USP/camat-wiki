@@ -5,6 +5,11 @@
  * 
  * Arquivo de estilização da página dos RDs atuais.
  */
+
+.rd_nome {
+  color: var(--highlight-color);
+  cursor: pointer;
+}
  
 /* Modal */
 .modal {
