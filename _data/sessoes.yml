@@ -1,11 +1,32 @@
 #####################################################################################################
 
+- titulo: "Eu vi o brilho na TV (2024)"
+  data: 2024-12-06
+  capa: 'sessao_061224.jpg'
+  sinopse: |
+    Dirigido por Jane Schoenbrun - ume diretore trans e não-binare -, a longa de terror conta sobre a conexão entre dois adolescentes através de um seriado de televisão. Por meio de elementos fantásticos e de terror psicológico, o filme aborda a temática trans de maneira nuançada e sutil, colocando em cheque os clichês do cinema queer comercial  ao trazer uma inversão de papéis no que diz à representação da transgeneridade.
+    <br><br>
+    A sessão faz parte da aderência do CAMat à Caravana por Cotas Trans na USP.
+    <br><br>
+    Pelo fim dos vestibulares e pela construção de uma Universidade Popular!
+  informacoes:
+    sala: B05
+    horario: 16h00
+    dia: 06/12
+    dia_semana: sexta-feira
+  especial: false
+  votacao: false
+
+#####################################################################################################
+
 - titulo: "🏆 Torrent Toroidal de Ouro 2024 🏆"
   data: 2024-10-01
   apenas_google_forms: true
   forms: https://docs.google.com/forms/d/e/1FAIpQLSeKJACyqjkhHsG7RaPOw3iHtNN7FFuSalE2zaMQHFGqX5U5TA/viewform?embedded=true
   altura_forms: 100vh
 
+#####################################################################################################
+# 2023
 #####################################################################################################
 
 - titulo: "🎞 CORUJÃO NA GREVIME 😱🚩"
