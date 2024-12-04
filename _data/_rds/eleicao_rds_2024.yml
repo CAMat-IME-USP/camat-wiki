@@ -1,59 +1,55 @@
 ############################
 
 congregacao:
-  link: "#"
-  titulo: "(Pendente) Congregação, CG e Comissão de Estágios"
+  link: "https://vote.usp.br/usp/eleicaoCongrega_CG_Estagios/vote"
+  titulo: "Congregação, CG e Comissão de Estágios"
 
 cta:
-  link: "#"
-  titulo: "(Pendente) CTA, CCEx, CPql, Comunicação e CIP"
+  link: "https://vote.usp.br/usp/eleicao_rd_cta_ccex_cpqi_cip_comunicacao/senha"
+  titulo: "CTA, CCEx, CIP e Comunicação"
+
+cpql:
+  link: "https://vote.usp.br/usp/CPqI_grad_pos_grad/vote"
+  titulo: "Comissão de Pesquisa e Inovação"
 
 ############################
 
-mac_conselho:
-  link: "#"
-  titulo: "(Pendente) Conselho do MAC"
-
-mac_coc:
-  link: "#"
-  titulo: "(Pendente) CoC do MAC"
+mac_conselho_coc:
+  link: "https://vote.usp.br/usp/eleicao_cons_mac_coc_bcc_grad/vote"
+  titulo: "Conselho do MAC e CoC do Bacharelado em Ciência da Computação"
 
 ############################
 
 map_conselho:
-  link: "#"
-  titulo: "(Pendente) Conselho do MAP"
+  link: "https://vote.usp.br/usp/eleicao_cons_grad_map/vote"
+  titulo: "Conselho do MAP"
 
 map_bmac_coc:
-  link: "#"
-  titulo: "(Pendente) CoC do BMAC"
+  link: "https://vote.usp.br/usp/eleicao_bmac/vote"
+  titulo: "CoC do BMAC"
 
 map_bma_coc:
-  link: "#"
-  titulo: "(Pendente) CoC do BMA"
+  link: "https://vote.usp.br/usp/eleicao_bma/vote"
+  titulo: "CoC do BMA"
 
 ############################
 
 mat_conselho:
-  link: "#"
-  titulo: "(Pendente) Conselho do MAT"
+  link: "https://vote.usp.br/usp/eleicao_cons_mat_grad/vote"
+  titulo: "Conselho do MAT"
 
 mat_lic_coc:
-  link: "#"
-  titulo: "(Pendente) CoC da Lic"
+  link: "https://vote.usp.br/usp/eleicao_coc_lm/vote"
+  titulo: "CoC da Lic"
 
 mat_pura_coc:
-  link: "#"
-  titulo: "(Pendente) CoC da Pura"
+  link: "https://vote.usp.br/usp/eleicao_bm/vote"
+  titulo: "CoC da Pura"
 
 ############################
 
-mae_conselho:
-  link: "#"
-  titulo: "(Pendente) Conselho da Estat"
-
-mae_coc:
-  link: "#"
-  titulo: "(Pendente) CoC da Estat"
+mae_conselho_coc:
+  link: "https://vote.usp.br/usp/eleicao_cons_Grad_mae/vote"
+  titulo: "Conselho do MAE e CoC do Bacharelado em Estatística"
 
 ############################

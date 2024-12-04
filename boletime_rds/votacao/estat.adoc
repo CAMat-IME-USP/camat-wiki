@@ -9,12 +9,12 @@
 // Página de links para a votação nos RDs
 
 
-== Estat
+== Bacharelado em Estatística
 === Das 09h do dia 05/12 às 18h do dia 06/12
 
-Para votar, acesse os links abaixo. O usuário é seu número USP, e a senha para cada votação foi enviada em seu e-mail.
+Para votar, acesse os links abaixo. O usuário é seu número USP e a senha é a senha única USP.
 
-- +++<a href="{{ site.data._rds.eleicao_rds_2024.congregacao.link }}">{{ site.data._rds.eleicao_rds_2024.congregacao.titulo }}</a>+++
-- +++<a href="{{ site.data._rds.eleicao_rds_2024.cta.link }}">{{ site.data._rds.eleicao_rds_2024.cta.titulo }}</a>+++
-- +++<a href="{{ site.data._rds.eleicao_rds_2024.mae_conselho.link }}">{{ site.data._rds.eleicao_rds_2024.mae_conselho.titulo }}</a>+++
-- +++<a href="{{ site.data._rds.eleicao_rds_2024.mae_coc.link }}">{{ site.data._rds.eleicao_rds_2024.mae_coc.titulo }}</a>+++
+- +++<a target="_blank" href="{{ site.data._rds.eleicao_rds_2024.congregacao.link }}">{{ site.data._rds.eleicao_rds_2024.congregacao.titulo }}</a>+++
+- +++<a target="_blank" href="{{ site.data._rds.eleicao_rds_2024.cta.link }}">{{ site.data._rds.eleicao_rds_2024.cta.titulo }}</a>+++
+- +++<a target="_blank" href="{{ site.data._rds.eleicao_rds_2024.cpql.link }}">{{ site.data._rds.eleicao_rds_2024.cpql.titulo }}</a>+++
+- +++<a target="_blank" href="{{ site.data._rds.eleicao_rds_2024.mae_conselho_coc.link }}">{{ site.data._rds.eleicao_rds_2024.mae_conselho_coc.titulo }}</a>+++
