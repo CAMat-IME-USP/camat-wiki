@@ -1,0 +1,25 @@
+/**
+ * CAMat-Wiki!
+ * Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Arquivo de estilização do modo noturno.
+ */
+
+
+.modo-noturno {
+    background-color: #212121 !important;
+    color: white !important;
+}
+
+.modo-noturno-excecao {
+    color: rgb(228, 228, 228);
+    background-color: #111 !important;
+    border: none;
+}
+
+@media all and (max-width: 980px) {
+    .botao_modo_footer {
+        display: none;
+    }
+}

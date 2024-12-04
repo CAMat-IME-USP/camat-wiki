@@ -1,0 +1,296 @@
+{
+  "Octavio Potalej": {
+    "foto": "octavio_potalej.jpg",
+    "curso": "Bacharelado em Matemática Aplicada e Computacional",
+    "celular": "11969753394",
+    "email": "oapotalej@usp.br",
+    "cargos": [
+      "Suplente na Congregação"
+    ]
+  },
+  "Link Zhang": {
+    "foto": "link_zhang.jpg",
+    "curso": "Licenciatura em Matemática",
+    "celular": "11955570066",
+    "email": "link.netscape@usp.br",
+    "cargos": [
+      "Representante na Congregação",
+      "Representante no Conselho Técnico-Administrativo (CTA)"      
+    ]
+  },
+  "João Guilherme de Souza": {
+    "foto": "joao_guilherme_de_souza.jpg",
+    "curso": "Bacharelado em Ciência da Computação",
+    "celular": "",
+    "email": "joaosouzaaa12@usp.br",
+    "cargos": [
+      "Suplente na Congregação"
+    ]
+  },
+  "Carlos Marques": {
+    "foto": "carlos_marques.jpg",
+    "curso": "Bacharelado em Ciência da Computação",
+    "celular": "11961914445",
+    "email": "carlos.albmr@usp.br",
+    "cargos": [
+      "Representante na Congregação"
+    ]
+  },
+  "Thiago Guelfi": {
+    "foto": "thiago_guelfi.jpg",
+    "curso": "Bacharelado em Matemática",
+    "celular": "11940021303",
+    "email": "thiago.guelfi@usp.br",
+    "cargos": [
+      "Representante na Congregação",
+      "Representante na Comissão de Graduação (CG)",
+      "Suplente no Conselho MAT",
+      "Suplente na Comissão de Pesquisa e Inovação (CPql)",
+      "Representante na Comisssão de Inclusão e Pertencimento (CIP)",
+      "Representante na Subcomissão de Gestão da Comunicação"
+    ]
+  },
+  "Luiza Barros": {
+    "foto": "luiza_barros.jpg",
+    "curso": "Bacharelado em Ciência da Computação",
+    "celular": "",
+    "email": "lbrsoezima@usp.br",
+    "cargos": [
+      "Suplente na Comissão de Graduação (CG)"
+    ]
+  },
+  "Isabela Pacheco da Silveira": {
+    "foto": "isabela_pacheco_da_silveira.jpg",
+    "curso": "Licenciatura em Matemática",
+    "celular": "11981305104",
+    "email": "isabelapacheco@usp.br",
+    "cargos": [
+      "Representante na CoC LM"
+    ]
+  },
+  "Sil": {
+    "foto": "sil.jpg",
+    "curso": "Bacharelado em Matemática Aplicada e Computacional",
+    "celular": "",
+    "email": "sil.bitt13@gmail.com",
+    "cargos": [
+      "Suplente no Conselho MAP"
+    ]
+  },
+  "Antonio Gabriel Freitas da Silva": {
+    "foto": "antonio_gabriel_freitas_da_silva.jpg",
+    "curso": "Bacharelado em Matemática Aplicada e Computacional",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante no Conselho MAP"
+    ]
+  },
+  "Atena Pinheiro": {
+    "foto": "atena_pinheiro.jpg",
+    "curso": "Licenciatura em Matemática",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na Comissão de Acolhimento à Mulher",
+      "Representante na Comisssão de Inclusão e Pertencimento (CIP)"
+    ]
+  },
+  "Raphael Vlasman": {
+    "foto": "raphael_vlasman.jpg",
+    "curso": "Bacharelado em Matemática Aplicada e Computacional",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na Comissão de Cultura e Extensão (CCEx)",
+      "Representante na Comissão de Estágios"
+    ]
+  },
+  "Matheus Siniscarchio": {
+    "foto": "matheus_siniscarchio.jpg",
+    "curso": "Bacharelado em Estatística",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na Congregação",
+      "Representante na CoC BE",
+      "Suplente no Conselho MAE"
+    ]
+  },
+  "Pedro Eduardo Soto": {
+    "foto": "pedro_eduardo_soto.jpg",
+    "curso": "Bacharelado em Matemática Aplicada e Computacional",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente no Conselho Técnico Administrativo (CTA)",
+      "Representante na CoC BMAC"
+    ]
+  },
+  "Caio Domiciano": {
+    "foto": "caio_domiciano.jpg",
+    "curso": "Bacharelado em Matemática",
+    "celular": "",
+    "email": "caio.dompires@usp.br",
+    "cargos": [
+      "Representante na CoC BM"
+    ]
+  },
+  "Marcos Yuri": {
+    "foto": "marcos_yuri.jpg",
+    "curso": "Bacharelado em Matemática",
+    "celular": "",
+    "email": "marcosyuri@usp.br",
+    "cargos": [
+      "Suplente na CoC BM"
+    ]
+  },
+  "Bruno Kleine": {
+    "foto": "bruno_kleine.jpg",
+    "curso": "Bacharelado em Estatística",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na CoC BE",
+      "Representante no Conselho MAE"
+    ]
+  },
+  "Izabelle Camile Moreira": {
+    "foto": "izabelle_camile_moreira.jpg",
+    "curso": "Licenciatura em Matemática",
+    "celular": "",
+    "email": "izabellecamille@usp.br",
+    "cargos": [
+      "Suplente na CoC LM"
+    ]
+  },
+  "Gabs": {
+    "foto": "gabs.jpg",
+    "curso": "Bacharelado em Matemática Aplicada",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na CoC BMA"
+    ]
+  },
+  "Luiza Ferraz Santos": {
+    "foto": "luiza_ferras_santos.jpg",
+    "curso": "Bacharelado em Matemática Aplicada",
+    "celular": "",
+    "email": "luizaferraz23@usp.br",
+    "cargos": [
+      "Suplente na CoC BMA"
+    ]
+  },
+  "Pietra Holtz": {
+    "foto": "pietra_holtz.jpg",
+    "curso": "Bacharelado em Matemática Aplicada e Computacional",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Suplente na CoC BMAC"
+    ]
+  },
+  "Rafael de Oliveira Magalhães": {
+    "foto": "rafael_de_oliveira_magalhaes.jpg",
+    "curso": "Bacharelado em Ciência da Computação",
+    "celular": "",
+    "email": "rafaelom04@usp.br",
+    "cargos": [
+      "Representante na CoC BCC",
+      "Representante no Conselho MAC"
+    ]
+  },
+  "Pedro Lucas Rezende": {
+    "foto": "pedro_lucas_rezende.jpg",
+    "curso": "Bacharelado em Ciência da Computação",
+    "celular": "",
+    "email": "pedrosicampos@usp.br",
+    "cargos": [
+      "Suplente na CoC BCC",
+      "Suplente no Conselho MAC"
+    ]
+  },
+  "Bugari": {
+    "foto": "bugari.jpg",
+    "curso": "",
+    "celular": "",
+    "email": "h.bugari@outlook.com",
+    "cargos": [
+      "Representante no Conselho MAT"
+    ]
+  },
+  "Ananda Monichelly": {
+    "foto": "ananda_monichelly.jpg",
+    "curso": "",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante no Conselho MAT"
+    ]
+  },
+  "Madeline Morato": {
+    "foto": "madeline_morato.jpg",
+    "curso": "",
+    "celular": "",
+    "email": "madeline@usp.br",
+    "cargos": [
+      "Suplente no Conselho MAT"
+    ]
+  },
+  "Cadu": {
+    "foto": "cadu.jpg",
+    "curso": "",
+    "celular": "",
+    "email": "carlos.eaandrade@usp.br",
+    "cargos": [
+      "Representante no Conselho MAT"
+    ]
+  },
+  "Riani de Souza Alvaro": {
+    "foto": "riani_de_souza_alvaro.jpg",
+    "curso": "",
+    "celular": "",
+    "email": "riani.alvaro@usp.br",
+    "cargos": [
+      "Suplente no Conselho MAT"
+    ]
+  },
+  "Luana Giacomini Barbosa": {
+    "foto": "luana_giacomini_barbosa.jpg",
+    "curso": "",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na Comissão de Acolhimento à Mulher"
+    ]
+  },
+  "Marcos Augusto Fontes de Araujo": {
+    "foto": "marcos_augusto_fontes_de_araujo.jpg",
+    "curso": "",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na Comissão de Cultura e Extensão (CCEx)",
+      "Suplente na Comissão de Estágios"
+    ]
+  },
+  "Thiago Augusto Silva Dourado": {
+    "foto": "thiago_augusto_silva_dourado.jpg",
+    "curso": "",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante na Comissão de Pesquisa e Inovação (CPql)"
+    ]
+  },
+  "Bruna Bazaluk": {
+    "foto": "bruna_bazaluk.jpg",
+    "curso": "",
+    "celular": "",
+    "email": "",
+    "cargos": [
+      "Representante no Centro de Competência em Software Livre"
+    ]
+  }
+}
