@@ -30,7 +30,7 @@ jobs:
           jekyll_src: './'           # Por padrao eh o diretorio raiz
           jekyll_cfg: '_config.yml'  # Por padrao eh o _config.yml
           jekyll_baseurl: ''         # O padrao eh o que esta no _config.yml
-          bundler_ver: '>=0'         # Por padrao eh a versao mais recente do bundler
+          bundler_ver: '2.4.22'      # Versao mais recente do bundler
           cname: ''                  # O padrao eh nao usar um cname
           actor: ''                  # O padrao eh GITHUB_ACTOR
           pre_build_commands: ''     # Instalando dependencias adicionais (Arch Linux)
