@@ -23,17 +23,25 @@
       type="image/svg+xml" 
       href="{{ site.url }}/images/icons/favicon.svg">
 
-<meta name="twitter:site" value="@{{ site.twitter }}">
-<meta property="twitter:url" content="{{ site.url }}">
-<meta property="twitter:title" content="{{ page.title }}">
-<meta property="twitter:description" content="{{ description }}">
-<meta property="twitter:image" 
-      content="{{ site.url }}/images/icons/favicon.svg">
-<meta property="twitter:card" content="summary_large_image">
-
+<!-- SEO -->
+<meta prefix="og: http://ogp.me/ns#" /> 
 <meta property="og:title" content="{{ page.title }}"/>
-<meta property="og:image" content="{{ site.url }}/images/icons/favicon.svg"/>
-<meta property="og:image:type" content="image/svg+xml"/>
 <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-<meta property="og:description" content="{{ description }}"/>
+<meta property="og:description" content="{{ page.seo_descricao }}"/>
 <meta property="og:locale" content="pt_BR"/>
+
+{% if page.seo_capa %}
+    <meta property="og:image"      content="{{ site.url }}/images/{{ page.seo_capa }}"/>
+    <meta property="twitter:image" content="{{ site.url }}/images/{{ page.seo_capa }}">
+    <meta property="twitter:card"  content="{{ site.url }}/images/{{ page.seo_capa }}">
+{% else %}
+    <meta property="og:image"      content="{{ site.url }}/images/icons/logo.jpg"/>
+    <meta property="twitter:image" content="{{ site.url }}/images/icons/favicon.jpg">
+    <meta property="twitter:card"  content="{{ site.url }}/images/icons/favicon.jpg">
+{% endif %}
+
+<!-- SEO (TWITTER) -->
+<meta name="twitter:site"            value="@{{ site.twitter }}">
+<meta property="twitter:url"         content="{{ site.url }}">
+<meta property="twitter:title"       content="{{ page.title }}">
+<meta property="twitter:description" content="{{ page.seo_descricao }}">
