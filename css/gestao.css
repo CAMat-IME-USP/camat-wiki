@@ -1,0 +1,48 @@
+/**
+ * CAMat-Wiki!
+ * Centro Acadêmico da Matemática, Estatística e Computação da Universidade de São Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Arquivo de estilização da página da gestao.
+ */
+
+.membro_foto {
+    padding: 0px;
+}
+.membro_foto img {
+    border-radius: 5px;
+    width: 13rem;
+    height: 13rem;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: middle;
+    object-fit: cover;
+}
+.membro_nome {
+    font-size: 1.9rem;
+    font-weight: bolder;
+}
+.membro_cargo, .membro_curso, .membro_contato {
+    font-size: 1.5rem;
+}
+.membros table {
+    border-collapse: separate;
+    border-spacing: 0 2em;
+}
+
+@media all and (max-width: 340px) {
+    .membro_foto {
+        width: 9rem;
+        height: 9rem;
+    }
+}
+
+a.programa {
+    background-color: var(--highlight-color);
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 50px;
+}
