@@ -504,6 +504,10 @@ a.anchor::before {
     margin-bottom: 20px;
 }
 
+blockquote p {
+    text-indent: 0px !important;
+}
+
 /* links */
 .link {
     display: flex;

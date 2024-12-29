@@ -1,7 +1,7 @@
 = Educação não é opção quando não há democracia popular
 :page-subtitle: Uma resposta à "A luta pela educação precisa ser feita com educação" (Jornal USP)
-:page-identificador: 20231005_educacao_nao_e_opcao_quando_nao_ha_democracia_popular
-:page-data: "05 de outubro de 2023"
+:page-identificador: 20231006_educacao_nao_e_opcao_quando_nao_ha_democracia_popular
+:page-data: "06 de outubro de 2023"
 :page-layout: boletime_post
 :page-categories: [boletime_post]
 :page-tags: ['Leitores', 'GrevIME', 'BoletIME']

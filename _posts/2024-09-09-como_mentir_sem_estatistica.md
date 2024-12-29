@@ -1,0 +1,20 @@
+---
+title: Como mentir sem estatística
+identificador: 20240909_como_mentir_sem_estatistica
+data: "09 de setembro de 2024"
+layout: boletime_post
+categories: [boletime_post]
+tags: ['BoletIME']
+boletime: "Setembro/2024 (14ed)"
+autoria: "Redação"
+resumo: ['Complemento da redação ao texto "Sondagem eleitoral e o caso EPEPUSP", enviado por um leitor.']
+---
+
+Além da crítica tecida por Julio no texto ["Sondagem eleitorale o caso EPEPUSP"](https://camat.ime.usp.br/boletime_post/2024/09/09/sondagem_eleitoral_caso_epepusp.html), gostaríamos de levantar alguns pontos trazidos pelo corpo editorial do BoletIME. O uso de gráfico de setores (ou de pizza) foi o primeiro indicativo para um conteúdo de pouquíssima qualidade, é tratado nas aulas iniciais de qualquer curso introdutório de estatística que tal gráfico dificulta a interpretação de dados pelo leitor, não permite comparação direta entre os setores. Ademais, no relatório divulgado no dia (11/08), a EPEP USP admitiu usar a plataforma Canva para fazer seus gráfico e que estavam sujeitos a erros nas porcentagens por conta das técnicas de arredondamento intrínsecas à plataforma. É inadmissível que uma sondagem, uma prática que já é conceitualmente pouco rigorosa na obtenção dos dados esteja sujeita, ainda, a uma falta de rigor na apresentação, mesmo que haja diversos softwares à disposição para a produção de gráficos: R, Minitab, MatLab, Excel, diversas
+bibliotecas de Python...
+
+Um segundo aspecto a ser levantado, além dos idealizadores do projeto, é a organização que realizou a análise de dados obtidos: o Grupo Turing. Trata-se de um grupo de extensão nascido na Escola Politécnica, mas que hoje conta com alunos de diversos institutos, e tem o objetivo primário de estudar inteligência artificial. O grupo afirma, ainda, ter a ciência de dados como um das cinco áreas de foco, o que levanta alguns pontos críticos. Em primeiro lugar, ciência de dados não é estatística! A primeira utiliza recursos computacionais para lidar com a gigantesca quantidade de dados que temos acesso na modernidade. A última, em contrapartida, oferece todo o rigor metodológico para fazer a análise das informações contidas nos dados e ainda quantifica a confiabilidade das informações inferidas.
+
+Uma pesquisa eleitoral ou uma sondagem são campos que lidam com dados extremamente sensíveis e, por isso, deveriam permitir que a estatística fizesse a análise dos dados com maior precisão. Por exemplo, para uma pesquisa com confiança de 90% e erro de 3% para mais ou para menos, dos aproximadamente 6300 alunos da Poli, ao menos 670 deveriam ter sido entrevistados, mas apenas 116 contribuiram para infame sondagem. Na FAU, há 1216 alunos somente na graduação, dos quais apenas 70 foram entrevistados, o que resulta numa margem de 10 pontos percentuais. Isto é o bastante para empatar, tecnicamente, Ricardo Nunes, Tábata Amaral e os outros candidatos sequer mencionados no gráfico. No IME, a margem de erro é de 9 pontos percentuais, o que empata tecnicamente todos os candidatos mencionados, com exceção de Boulos, e a categoria “outros”.
+
+A grande e óbvia conclusão que queremos trazer aos leitores é que, por mais que "estatística" e "ciência de dados" possam parecer palavras magicas no contexto tecnológico em que vivemos, estão longe de ser isso. Estatística só é capaz de trazer informações relevantes quando dados significantes e suficientes são fornecidos ao estatístico. O projeto desenvolvido pelo grupo de extensão parece maravilhoso e de grande relevância para a comunidade USP, mas não passa de um charlatanismo disfarçado de ciência. Pedimos a você, leitor, que reflita sobre como as práticas anticientíficas estão presentes mesmo na universidade e tal fenômeno agrava-se quando grupos blindam-se de críticas e aproveitam-se da ingenuidade e cegueira dos estudantes ao divulgar informações indiscriminadamente.
