@@ -34,6 +34,10 @@
     <meta property="og:image"      content="{{ site.url }}/images/{{ page.seo_capa }}"/>
     <meta property="twitter:image" content="{{ site.url }}/images/{{ page.seo_capa }}">
     <meta property="twitter:card"  content="{{ site.url }}/images/{{ page.seo_capa }}">
+{% else if page.layout == "boletime_post" %}
+    <meta property="og:image"      content="{{ site.url }}/images/boletime/posts/{{ page.identificador }}/capa.jpg"/>
+    <meta property="twitter:image" content="{{ site.url }}/images/boletime/posts/{{ page.identificador }}/capa.jpg"/>
+    <meta property="twitter:card"  content="{{ site.url }}/images/boletime/posts/{{ page.identificador }}/capa.jpg"/>
 {% else %}
     <meta property="og:image"      content="{{ site.url }}/images/icons/logo.jpg"/>
     <meta property="twitter:image" content="{{ site.url }}/images/icons/favicon.jpg">
