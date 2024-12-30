@@ -7,7 +7,7 @@ categories: [boletime_post]
 tags: ['BoletIME']
 boletime: "Dezembro/2024 (15ed)"
 autoria: "Gabriel Oliveira"
-resumo: ['“Mesmo popular, o CBLOL não conseguiu transformar audiência em dinheiro capaz de salvá-lo da crise dos esportes eletrônicos [..]”. Matéria da Globo Esportes que traz à tona a volatilidade do atual modelo de negócios dos jogos eletrônicos e E-Sports']
+resumo: ['“Mesmo popular, o CBLOL não conseguiu transformar audiência em dinheiro capaz de salvá-lo da crise dos esportes eletrônicos [..]”. Matéria da Globo Esportes que traz à tona a volatilidade do atual modelo de negócios dos jogos eletrônicos e E-Sports.']
 ---
 
 
