@@ -21,23 +21,23 @@ Para comemorar este momento, organizamos uma retrospectiva sobre o que foi o Cin
 
 Desejamos a todes um ótimo fim de ano com muitas festas e descanso! Nos vemos ano que vem!
 
-Atenciosamente, <br>Comissão Organizadora do CinIME
+Atenciosamente,<br>Comissão Organizadora do CinIME
 
 ---
 
-<h2>Filmes por Gênero</h2>
+## Filmes por Gênero
 
 | ![Gráfico pizza grandão](/images/boletime/posts/20241205_mensagem_da_corg_do_cinime/por_genero.jpg) |
 
 ---
 
-<h2>Filmes por Nacionalidade</h2>
+## Filmes por Nacionalidade
 
 | ![Gráfico pizza grandão](/images/boletime/posts/20241205_mensagem_da_corg_do_cinime/por_nacionalidade.jpg) |
 
 ---
 
-<h2>Mostras Mensais</h2>
+## Mostras Mensais
 
 - **ABRIL: "Propaganda" + evento com CA Panthalassa (IO)**
   - Os 800 (2020)
@@ -64,29 +64,33 @@ Atenciosamente, <br>Comissão Organizadora do CinIME
 
 ---
 
-<h2>Eventos e Colaborações</h2>
-<h3>Torrent Toroidal de Ouro 2024</h3>
+## Eventos e Colaborações
+
+### Torrent Toroidal de Ouro 2024
 
 Oficialmente chamado de Prêmios da Academia, o Oscar representa em seu fundamento a elitização do acesso ao cinema e a comercialização da produção artística do cinema, além da sintomática falta de diversidade como extensão do imperialismo estadunidense. Em 2024, não diferentemente dos anos anteriores, a cerimônia foi transmitida em canal pago e serviço de streaming no Brasil, aprofundando a negação do acesso à arte.
 
 Como contraponto, o CinIME propôs a segunda edição do prêmio Torrent Toroidal de Ouro! Neste ano, escolhemos três filmes que não foram indicados ao Oscar 2023, e deixamos a comunidade escolher qual deles mereceu o prêmio Torrent Toroidal de Ouro 2024 do CinIME!
 
-<h4>Filme vencedor: Monster (2023)</h4>
-<h5>44% dos votos</h5>
+#### Filme vencedor: Monster (2023)
+
+##### 44% dos votos
 
 | ![Capa do filme Monster](/images/boletime/posts/20241205_mensagem_da_corg_do_cinime/tt_vencedor.jpg) |
 |:--:|
 | **Monster (2023)**, Dir. Hirokazu Koreeda |
 
-<h4>2º Lugar: Bottoms (2023)</h4>
-<h5>36% dos votos</h5>
+#### 2º Lugar: Bottoms (2023)
+
+##### 36% dos votos
 
 | ![Capa do filme Bottoms](/images/boletime/posts/20241205_mensagem_da_corg_do_cinime/tt_segundo.jpg) |
 |:--:|
 | **Bottoms (2023)**, Dir. Emma Seligman |
 
-<h4>3º Lugar: Retratos Fantasmas (2023)</h4>
-<h5>20% dos votos</h5>
+#### 3º Lugar: Retratos Fantasmas (2023)
+
+##### 20% dos votos
 
 | ![Capa do filme Retratos Fantasmas](/images/boletime/posts/20241205_mensagem_da_corg_do_cinime/tt_terceiro.jpg) |
 |:--:|
@@ -97,6 +101,7 @@ Como contraponto, o CinIME propôs a segunda edição do prêmio Torrent Toroida
 O CinIME fez, ao decorrer do ano, várias sessões especiais como parte de eventos tanto do IME quanto da USP como um todo.
 
 #### Semana das Mulheres promovida pelo CAMat
+
 ##### 22 de março
 
 | ![Filme "A Girl Wlaks Home Alone at Night"](/images/boletime/posts/20241205_mensagem_da_corg_do_cinime/a_girl_walks_home_alone_at_night.jpg) |
@@ -106,6 +111,7 @@ O CinIME fez, ao decorrer do ano, várias sessões especiais como parte de event
 A história se passa numa cidade-fantasma iranana, Bad City, em que os moradores passam a ser perseguidos por uma vampira solitária.
 
 #### Comemoração de um ano da deflagração da greve estudantil de 2023 na USP
+
 ##### 20 de setembro
 
 | ![Filme "A Greve"](/images/boletime/posts/20241205_mensagem_da_corg_do_cinime/a_greve.jpg) |
@@ -115,6 +121,7 @@ A história se passa numa cidade-fantasma iranana, Bad City, em que os moradores
 O primeiro longa de Sergei Eisenstein, A Greve retrata o movimento de construção da greve em uma fábrica, no período pré-revolucionário da Rússia. Dividida em seis atos, busca abordar desde a calmaria pré-greve, o clímax e a repressão.
 
 #### Campanha do ESPP, com oferecimento do Cineclube Al Ard
+
 ##### 27 de setembro
 
 | ![Filme "Os Enganados"](/images/boletime/posts/20241205_mensagem_da_corg_do_cinime/os_enganados.jpg) |
@@ -124,6 +131,7 @@ O primeiro longa de Sergei Eisenstein, A Greve retrata o movimento de construç�
 Os Enganados (1972) retrata três sujeitos tentando atravessar a fronteira do Kuwait em busca de uma vida melhor. As três histórias retratam três gerações de palestinos: um mais velho, já entrando no fim da vida, que busca deixar um legado financeiro para seus filhos; um adulto tenta uma saída para os problemas de emprego do Iraque, onde vive refugiado; e um jovem, no começo da vida, que ainda guarda esperanças de ter um futuro melhor em outro lugar
 
 #### Caravana por Cotas Trans na USP
+
 ##### 06 de dezembro
 
 | ![Filme "Eu Vi o Brilho na TV"](/images/boletime/posts/20241205_mensagem_da_corg_do_cinime/eu_vi_o_brilho_na_tv.jpg) |
@@ -131,7 +139,6 @@ Os Enganados (1972) retrata três sujeitos tentando atravessar a fronteira do Ku
 | **Eu Vi o Brilho na TV (2024)**, Dir. Jane Schoenbrun |
 
 Dirigido por Jane Schoenbrun - ume diretore trans e não-binarie -, o longa de terror conta sobre a conexão entre dois adolescentes através de um seriado de televisão. Por meio de elementos fantásticos e de terror psicológico, o filme aborda a temática trans de maneira nuançada e sutil, colocando em cheque os clichês do cinema queer comercial ao trazer uma inversão de papéis no que diz respeito à representação da transgeneridade.
-
 
 #### Corujão Meia-Noite eu te Conto
 
@@ -154,6 +161,7 @@ No dia 01 de novembro, o CinIME organizou em conjunto ao CEFISMA o corujão Meia
 | **Longlegs (2024)**, Dir. Oz Perkins |
 
 #### CinIME vai ao CINUSP:
+
 ##### Vamos assistir The Vanishing (1988)!
 
 No dia 03 de abril, ocorreu um CinIME vai ao CINUSP durante a sessão de The Vanishing (1988), às 19h. Neste dia, o CinIME convidou e organizou todes a irem o CinUSP, localizado na Colmeia, favo 4, do CRUSP, e conversar um pouco sobre a história da Universidade de São Paulo durante a ditadura empresarial-militar, aproveitando o momento também como uma oportunidade de socialização.

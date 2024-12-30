@@ -8,7 +8,11 @@ tags: ['BoletIME']
 boletime: "Setembro/2024 (14ed)"
 autoria: "Ju Sieg e Lígia Orlandin"
 autoria-completa: "Ju Sieg e Lígia Orlandin, militantes do Partido Comunista Brasileiro Revolucionário (PCBR)"
-resumo: ['Trecho do artigo publicado no site Em Defesa do comunsimo sobre as origens do sionismo.']
+resumo: ['Trecho do artigo publicado no site Em Defesa do Comunismo sobre as origens do sionismo.']
+---
+
+Este é um trecho do artigo escrito por Ju Sieg e Lígia Orlandin, militantes do Partido Comunista Brasileiro Revolucionário (PCBR), e publicado originalmente no site [Em Defesa do Comunismo](https://emdefesadocomunismo.com.br/sionismo-e-palestina-uma-analise-critica-da-historia-e-da-colonizacao/).
+
 ---
 
 À luz do recente aprofundamento do genocídio do povo palestino em Gaza, torna-se imperativo desvendar as raízes profundas do movimento sionista e sua materialização no Estado de Israel em 1948. É crucial romper com narrativas simplificadas e abordar de forma contundente a questão da limpeza étnica, que se manifestou como um projeto contínuo do Estado de Israel desde sua criação.

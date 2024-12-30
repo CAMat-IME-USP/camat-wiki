@@ -7,9 +7,12 @@ categories: [boletime_post]
 tags: ['BoletIME']
 boletime: "Dezembro/2024 (15ed)"
 autoria: "Karl Marx (1865)"
-resumo: ['Excerto do segundo capítulo do livro “Salário, Preço e Lucro”, escrito por Karl Marx em 1865 comentando sobre a Lei das Dez Horas passada em 1848, na Inglaterra. O excerto dialoga com o momento atual da luta contra a escala 6x1 colocando em cheque os velhos argumentos sobre a produtividade, lucro e salário.']
+resumo: ['Excerto do segundo capítulo do livro “Salário, Preço e Lucro”, escrito por Karl Marx em 1865 comentando sobre a Lei das Dez Horas passada em 1848, na Inglaterra. O excerto foi publicado originalmente no site Em Defesa do Comunismo e dialoga com o momento atual da luta contra a escala 6x1, colocando em cheque os velhos argumentos sobre a produtividade, lucro e salário.']
 ---
 
+Excerto do segundo capítulo do livro “Salário, Preço e Lucro”, escrito por Karl Marx em 1865 comentando sobre a Lei das Dez Horas passada em 1848, na Inglaterra. O excerto foi publicado originalmente no site [Em Defesa do Comunismo](https://emdefesadocomunismo.com.br/efeitos-da-reducao-da-jornada-de-trabalho-sobre-os-salarios/) e dialoga com o momento atual da luta contra a escala 6x1, colocando em cheque os velhos argumentos sobre a produtividade, lucro e salário.
+
+---
 
 [...]
 
