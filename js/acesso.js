@@ -15,10 +15,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Pega o post_id da URL
     const path = window.location.pathname;
-    const pageId = path.substring(path.lastIndexOf('/') + 1); // Supondo que o post_id seja a última parte da URL
+    let pageId = path.substring(path.lastIndexOf('/') + 1); // Supondo que o post_id seja a última parte da URL
+    if (pageId == "") pageId = "/index";
 
     // Faz uma requisição para registrar o acesso
-    fetch('http://camat.ime.usp.br/registrar.php', {
+    fetch('https://camat.ime.usp.br/registrar.php', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/x-www-form-urlencoded', // Enviando os dados como formulário
