@@ -15,8 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Pega o post_id da URL
     const path = window.location.pathname;
-    let pageId = path.substring(path.lastIndexOf('/') + 1); // Supondo que o post_id seja a última parte da URL
-    if (pageId == "") pageId = "/index";
+    let pageId = path; // Supondo que o post_id seja a última parte da URL
 
     // Faz uma requisição para registrar o acesso
     fetch('https://camat.ime.usp.br/registrar.php', {
