@@ -1,4 +1,6 @@
 <?php
+if (!isset($_POST['page_id'])) header('Location: https://camat.ime.usp.br');
+
 include('mysql/mysql.php');
 
 // Criando a conexão com o MySQL
