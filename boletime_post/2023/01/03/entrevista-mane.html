@@ -1,0 +1,676 @@
+<!-- 
+ * CAMat-Wiki!
+ * Centro Academico da Matematica, Estatistica e Computacao da Universidade de Sao Paulo
+ * https://camat.ime.usp.br/
+ * 
+ * Este eh o layout basico da pagina do BoletIME!
+-->
+
+<!doctype html>
+<html class="no-js" lang="pt-br" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CAMat - BoletIME Entrevista: Manuel Valentim</title>
+<meta name="description" content="A primeira edição do BoletIME de 2023 traz entrevista com o professor Manuel Valentim de Pera Garcia, coordenador do curso de bacharelado em matemática aplicada e computacional (BMAC) e pesquisador no Departamento de Matemática Aplicada (MAP). Convidamos o professor a contar um pouco do contexto e desdobramentos da greve de 21 dias que ocorrera no Instituto de Matemática e Estatística (IME) em 1975, ano em que era calouro do instituto.">
+<meta name="author" content="Centro Acadêmico da Matemática, Estatística e Computação do Instituto de Matemática e Estatística da Universidade de São Paulo">
+<meta name="copyright" content="GPLv2">
+
+<link rel="stylesheet" href="https://camat.ime.usp.br/css/fonts.css">
+<link rel="stylesheet" href="https://camat.ime.usp.br/css/coderay.css">
+<link rel="stylesheet" href="https://camat.ime.usp.br/css/milligram.css">
+<link rel="stylesheet" href="https://camat.ime.usp.br/css/main.css">
+<link rel="stylesheet" href="https://camat.ime.usp.br/css/menu.css">
+<link rel="stylesheet" href="https://camat.ime.usp.br/css/repasse.css">
+<link rel="stylesheet" href="https://camat.ime.usp.br/css/noturno.css">
+<link rel="icon" 
+      type="image/svg+xml" 
+      href="https://camat.ime.usp.br/images/icons/favicon.svg">
+
+<!-- SEO -->
+<meta prefix="og: http://ogp.me/ns#" /> 
+<meta property="og:title" content="BoletIME Entrevista: Manuel Valentim"/>
+<meta property="og:url" content="https://camat.ime.usp.br/boletime_post/2023/01/03/entrevista-mane.html"/>
+<meta property="og:description" content=""/>
+<meta property="og:locale" content="pt_BR"/>
+
+
+    <meta property="og:image"      content="https://camat.ime.usp.br/images/boletime/posts/20230103_entrevista_mane/capa.jpg"/>
+    <meta property="twitter:image" content="https://camat.ime.usp.br/images/boletime/posts/20230103_entrevista_mane/capa.jpg"/>
+    <meta property="twitter:card"  content="https://camat.ime.usp.br/images/boletime/posts/20230103_entrevista_mane/capa.jpg"/>
+
+
+<!-- SEO (TWITTER) -->
+<meta name="twitter:site"            value="@camat_usp">
+<meta property="twitter:url"         content="https://camat.ime.usp.br">
+<meta property="twitter:title"       content="BoletIME Entrevista: Manuel Valentim">
+<meta property="twitter:description" content="">
+
+<!-- BowserJS, para capturar informacoes do navegador -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bowser/2.11.0/bundled.js" integrity="sha512-FS3rpwhhjq9Tjt/U+qIrgOIa60xmW+Kr71CSGS5ifKJl/E9DdODyUrtentDS6eRmrfXPRzqq0DhywHd06qpdGw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!-- Analytics... -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6SGJS111Z5"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-6SGJS111Z5');
+</script>
+    <meta property="og:type" content="website"/>
+
+    <!-- css do boletIME -->
+    <link rel="stylesheet" href="https://camat.ime.usp.br/css/boletime.css">
+    <link rel="stylesheet" href="https://camat.ime.usp.br/css/boletime_post.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    
+</head>
+<body>
+    <div class="l-nav">
+    <nav class="nav_topo">
+        
+        <ul class="float-right">
+            
+                <li class="nav_topo-primary">
+                    <a href="https://camat.ime.usp.br/apoio/">
+                        Apoio aos Estudos
+                    </a>
+                </li>
+            
+                <li class="nav_topo-primary">
+                    <a href="https://camat.ime.usp.br/arquivos/">
+                        Arquivos
+                    </a>
+                </li>
+            
+                <li class="nav_topo-primary">
+                    <a href="https://camat.ime.usp.br/blog/index.html">
+                        Blog BoletIME
+                    </a>
+                </li>
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                <li class="nav_topo-primary">
+                    <a href="https://camat.ime.usp.br/cinime/">
+                        CinIME
+                    </a>
+                </li>
+            
+                <li class="nav_topo-primary">
+                    <a href="https://camat.ime.usp.br/boletime_rds/">
+                        RDs
+                    </a>
+                </li>
+            
+        </ul>
+
+    </nav>
+    <div style="width: 30px; height: 30px; fill: #ba3925; cursor: pointer; position: absolute; bottom: 30px; right: 10px;" class="botao_alternar_modo_visao">
+        <div class="modo-escuro">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M223.5 32C100 32 0 132.3 0 256S100 480 223.5 480c60.6 0 115.5-24.2 155.8-63.4c5-4.9 6.3-12.5 3.1-18.7s-10.1-9.7-17-8.5c-9.8 1.7-19.8 2.6-30.1 2.6c-96.9 0-175.5-78.8-175.5-176c0-65.8 36-123.1 89.3-153.3c6.1-3.5 9.2-10.5 7.7-17.3s-7.3-11.9-14.3-12.5c-6.3-.5-12.6-.8-19-.8z"/></svg>
+        </div>
+        <div class="modo-claro" style="display: none;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M361.5 1.2c5 2.1 8.6 6.6 9.6 11.9L391 121l107.9 19.8c5.3 1 9.8 4.6 11.9 9.6s1.5 10.7-1.6 15.2L446.9 256l62.3 90.3c3.1 4.5 3.7 10.2 1.6 15.2s-6.6 8.6-11.9 9.6L391 391 371.1 498.9c-1 5.3-4.6 9.8-9.6 11.9s-10.7 1.5-15.2-1.6L256 446.9l-90.3 62.3c-4.5 3.1-10.2 3.7-15.2 1.6s-8.6-6.6-9.6-11.9L121 391 13.1 371.1c-5.3-1-9.8-4.6-11.9-9.6s-1.5-10.7 1.6-15.2L65.1 256 2.8 165.7c-3.1-4.5-3.7-10.2-1.6-15.2s6.6-8.6 11.9-9.6L121 121 140.9 13.1c1-5.3 4.6-9.8 9.6-11.9s10.7-1.5 15.2 1.6L256 65.1 346.3 2.8c4.5-3.1 10.2-3.7 15.2-1.6zM352 256c0 53-43 96-96 96s-96-43-96-96s43-96 96-96s96 43 96 96zm32 0c0-70.7-57.3-128-128-128s-128 57.3-128 128s57.3 128 128 128s128-57.3 128-128z"/></svg>
+        </div>
+    </div>
+</div>
+
+
+
+    <main class="wrapper">
+        
+        <div class="menu">
+          <div class="menu-hamburger"></div>
+        </div>
+
+        <nav class="navigation menu-header" role="navigation">
+    
+
+    <section class="container">
+        <a class="navigation-title" href="https://camat.ime.usp.br">
+            <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" class="img" viewBox="0 0 256 53.8552">
+  <title>CAMat</title>
+  <desc>Texto &quot;CAMat&quot; em letras garrafais</desc>
+  <path d="M49.3084 41.919q-.7105.9947-1.492 1.9894-.7106.9236-1.5631 1.7762-2.3447 2.4867-5.5419 4.334-1.492.9236-3.1261 1.6341-1.6342.7105-3.4104 1.2078-3.6235.9947-7.2473.9947-5.5418 0-10.4442-2.1315-4.9024-2.1314-8.597-5.826-3.6234-3.6235-5.755-8.5258Q0 32.4696 0 26.9276q0-5.542 2.1315-10.4442 2.1314-4.8314 5.755-8.597 3.7656-3.6234 8.5969-5.755Q21.3857 0 26.9276 0q3.6235 0 7.2473.9947 3.5524.9946 6.5362 2.7709 1.563.9236 2.913 2.0604 1.421 1.0657 2.6288 2.2736 1.7763 1.8473 3.0552 3.7656.4973.7816.2131 1.5631-.2842.7105-1.1368 1.0658l-5.2576 2.1314q-.7815.3553-1.7762.1421-.9237-.2842-1.492-.9947l-.7106-.7105q-.3552-.4263-.7105-.7816-.7815-.7815-1.6341-1.421-.7816-.6394-1.7052-1.2078-.9236-.5684-1.9183-.9947-.9947-.4262-1.9894-.7815-2.0604-.6395-4.263-.6395-3.4814 0-6.6784 1.421-3.1262 1.492-5.3287 3.9078-2.2735 2.4867-3.6235 5.6128-1.3499 3.1972-1.3499 6.7496 0 3.6235 1.35 6.7495 1.3499 3.126 3.6234 5.6129 2.2026 2.4867 5.3287 3.8367 3.0551 1.492 6.6784 1.492 2.2025 0 4.263-.6395.9947-.3552 1.9894-.7815.9946-.4263 1.9183-.9947.9236-.5684 1.7052-1.2079.8526-.7105 1.6341-1.492l.7105-.7105q.3552-.4263.7105-.7815.5684-.7106 1.492-.9948.9947-.2842 1.7763.071l5.2576 2.1315q.8526.3553 1.1368 1.1368.2842.7816-.2131 1.5631zM51.5898 50.9394L76.244 1.7024Q76.6704.85 77.6651.85t1.421.8525l24.6544 49.237q.4263.7816.071 1.35-.2842.5683-1.2078.5683h-6.4658q-.9236 0-1.8473-.5684-.9236-.5684-1.2788-1.421l-2.1315-4.263q-.4263-.7815-1.3499-1.3499-.8526-.5683-1.7763-.5683H67.576q-.9236 0-1.8473.5683-.9236.5684-1.2789 1.421l-2.0604 4.192q-.4263.8526-1.3499 1.421-.8526.5684-1.7763.5684h-6.4657q-.9236 0-1.2789-.5684-.2842-.5684.071-1.35zM72.4072 36.019h10.5154q.9236 0 1.2078-.5684.3552-.6395 0-1.421l-5.5418-11.7229q-.3553-.8525-.9237-.8525t-.9236.8525l-5.6129 11.7229q-.3552.8525 0 1.421.3553.5684 1.279.5684zM163.1671 2.0598v48.5977q0 .9236-.6395 1.563-.6394.6395-1.492.6395h-5.6129q-.9236 0-1.563-.6394-.6395-.6395-.6395-1.5631V28.7742q0-.9236-.4263-1.0658-.3553-.2131-.9236.5684l-13.4991 16.128q-.5684.7105-1.421.7105-.7816 0-1.35-.7106l-13.4285-16.1279q-.5684-.7105-.9947-.5684t-.4263 1.0658v21.8833q0 .9236-.6395 1.563-.6394.6395-1.563.6395h-5.5419q-.9236 0-1.563-.6394-.6395-.6395-.6395-1.5631V2.0598q0-.9236.8526-1.0658.8525-.142 1.421.5684l22.4514 27.7092q.5684.6395 1.421.6395t1.421-.6395l22.5226-27.7092q.5684-.7105 1.421-.5684t.8526 1.0658zM169.4054 50.9394l24.6543-49.237Q194.486.85 195.4807.85t1.421.8525l24.6544 49.237q.4263.7816.071 1.35-.2842.5683-1.2078.5683h-6.4658q-.9236 0-1.8473-.5684-.9236-.5684-1.2788-1.421l-2.1315-4.263q-.4263-.7815-1.35-1.3499-.8525-.5683-1.7762-.5683h-20.1781q-.9236 0-1.8473.5683-.9236.5684-1.2789 1.421l-2.0604 4.192q-.4263.8526-1.3499 1.421-.8526.5684-1.7763.5684h-6.4657q-.9236 0-1.2789-.5684-.2842-.5684.071-1.35zm20.8174-14.9204h10.5153q.9237 0 1.2079-.5684.3552-.6395 0-1.421l-5.5419-11.7229q-.3552-.8525-.9236-.8525t-.9236.8525l-5.6129 11.7229q-.3552.8525 0 1.421.3553.5684 1.2789.5684zM253.7978 9.6644h-10.4442q-.9237 0-1.5631.6395-.6395.6394-.6395 1.563v38.7928q0 .9236-.6395 1.563-.6394.6395-1.563.6395h-5.5419q-.9236 0-1.563-.6395-.6395-.6394-.6395-1.563V11.8669q0-.9236-.6395-1.563-.6395-.6395-1.563-.6395h-10.5154q-.9237 0-1.5631-.6395-.6395-.6394-.6395-1.563V3.0567q0-.9236.6395-1.563.6394-.6395 1.563-.6395h35.3113q.9237 0 1.5631.6394.6395.6395.6395 1.5631v4.405q0 .9237-.6395 1.5631-.6394.6395-1.563.6395z"/>
+</svg>
+
+        </a>
+
+        <ul class="navigation-list float-right">
+            
+                <li class="navigation-item">
+                        <a class="navigation-link"
+                        href="https://camat.ime.usp.br/apoio/">
+                            Apoio aos Estudos
+                        </a>
+                    </li>
+            
+                <li class="navigation-item">
+                        <a class="navigation-link"
+                        href="https://camat.ime.usp.br/arquivos/">
+                            Arquivos
+                        </a>
+                    </li>
+            
+                <li class="navigation-item">
+                        <a class="navigation-link"
+                        href="https://camat.ime.usp.br/blog/index.html">
+                            Blog BoletIME
+                        </a>
+                    </li>
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                <li class="navigation-item">
+                        <a class="navigation-link"
+                        href="https://camat.ime.usp.br/cinime/">
+                            CinIME
+                        </a>
+                    </li>
+            
+                <li class="navigation-item">
+                        <a class="navigation-link"
+                        href="https://camat.ime.usp.br/boletime_rds/">
+                            RDs
+                        </a>
+                    </li>
+            
+
+        </ul>
+    </section>
+</nav>
+        
+        <div class="boletIME-post-capa" style="background-image: url('https://camat.ime.usp.br/images/boletime/posts/20230103_entrevista_mane/capa.jpg')">
+          <!-- <img src="" alt="Capa do BoletIME"> -->
+          <div class="boletIME-post-titulo">
+            <div class="container">
+              BoletIME Entrevista: Manuel Valentim
+              <h2 class="subtitulo"></h2>
+            </div>
+          </div>
+        </div>
+
+        <section class="container boletIME-post-texto">
+          <div class="boletIME-post-pos-cabecalho">
+            <div class="boletIME-post-pos-cabecalho-tags">
+              
+                <div class="boletIME-post-tag boletIME-post-tag-BoletIME">
+                  
+                    BoletIME Janeiro/2023
+                  
+                </div>
+              
+                <div class="boletIME-post-tag boletIME-post-tag-Entrevista">
+                  
+                    Entrevista
+                  
+                </div>
+              
+            </div>
+            
+            <div class="boletIME-post-cabecalho-info">
+              <div class="boletIME-post-cabecalho-autor">
+                <i>Por <b>
+                  
+                    CAMat
+                  
+                </b></i>
+              </div>
+              <div class="boletIME-post-cabecalho-data">
+                <i class="fa-regular fa-calendar"></i> 03 de janeiro de 2023
+              </div>
+            </div>
+          </div>
+
+          
+            <div class="boletIME-post-texto-conteudo nao-indentar">
+          
+              <p>
+A primeira edição do BoletIME de 2023 traz entrevista com o professor Manuel Valentim de Pera Garcia, coordenador do curso de bacharelado em matemática aplicada e computacional (BMAC) e pesquisador no Departamento de Matemática Aplicada (MAP). Convidamos o professor a contar um pouco do contexto e desdobramentos da greve de 21 dias que ocorrera no Instituto de Matemática e Estatística (IME) em 1975, ano em que era calouro do instituto.
+</p>
+<hr>
+<p>
+<strong>Bom, professor, primeiramente muito obrigado por conceder seu tempo para
+nos dar essa entrevista.</strong>
+</p>
+<p>
+Ok. Então vamos lá. O que é que vocês queriam saber?
+</p>
+<p>
+<strong>A primeira coisa é que queríamos saber um pouco de você, como você decidiu que ia fazer matemática aplicada, como ingressou, quando, sua jornada desde aluno até professor.</strong>
+</p>
+<p>
+75 é um ano meio complicado. Quer dizer, o movimento estudantil e a própria sociedade no geral, depois da repressão muito forte em 68, teve um belo de uma&#8230;&#8203; Eu não diria que morreu. Ele não morreu. Mas ele ficou bem na defensiva até esse ano (75). E nesse ano aconteceram algumas coisas que no primeiro semestre começaram a mostrar que os ventos estavam mudando. Eu entrei em 75. No colégio não se sabia, não existia, ou pelo menos eu não conhecia, nenhum tipo de agitação ou de movimento.
+</p>
+<p>
+Em abril de 75, a ECA entra em greve. Isso é uma coisa&#8230;&#8203; Eu não sei quando havia sido a última greve. Certamente não como aquela. Aconteceu que na altura a USP era muito diferente. Existiam professores que eram contratados sem doutorado, de forma muito precária. Isso em praticamente todas as unidades, na ECA também. E um desses mestrandos que era auxiliar de ensino, foi reprovado num exame, o que indicava que ele tinha que ser desligado. O diretor da ECA na época, o Nunes, ele era tão habilidoso que o próprio regime achava que ele era meninado nas atitudes, levou a coisa na porrada e isso entrou numa greve que durou 70 e poucos dias da ECA, e teve durante alguns dias pelo menos a USP entrou em greve. Não era bem uma greve geral da USP, mas uma unidade parava hoje, outra parava amanhã. Eu lembro que a gente parou no IME uma ou duas noites. Isso, uma greve de 2 meses numa escola cujo diretor era notório simpatizante do regime, era um negócio mortal.
+</p>
+<p>
+<strong>Mas o diretor do IME era simpatizante ou o reitor?</strong>
+</p>
+<p>
+Bom, foram dois meses de greve no primeiro semestre, não teve a ver com o IME, o IME não teve nada a ver com isso. E essa greve tecnicamente foi mal sucedida. O Miranda era o diretor da ECA.
+</p>
+<p>
+O diretor do IME na altura ainda era o professor Waldyr Muniz Oliva que no final do ano seria indicado reitor. Não era o reitor, era o diretor da ECA. A greve foi contra o diretor da ECA. Nunes. E esse cara, pediram a cabeça dele. Não dava para isso acontecer. O que aconteceu foi que no final da greve, que acabou porque nenhum estudante aguenta dois meses de greve assim, acabou porque acabou, exauriu. Mas o diretor não foi demitido como o movimento queria, mas ele tirou uma licença até um mês antes de acabar o mandato, aí ele voltou, acabou o mandato, então nos registros oficiais ele não foi demitido nunca, mas não resta dúvidas que foi uma vitória na época. Dos alunos da ECA e da ECA.
+</p>
+<p>
+Por outro lado, o IME era bem diferente também. Hoje você entra no BMAC, ou no BMA, ou na licenciatura, ou na computação etc. Você entrava no lic. Na verdade, a única diferença é que você entrava ou no diurno ou no noturno. O primeiro ano era igual para todo mundo. Todo mundo tinha o mesmo primeiro ano. Era cálculo 1, cálculo 2, introdução a computação, cálculo numérico, vetores e geometria, álgebra linear, e introdução à probabilidade e estatística 1 e 2, mesmas matérias. No fim do primeiro ano, os alunos do diurno participavam de uma coisa chamada processo de opções. Era algo parecido com o que vocês tem no BMAC com a questão da escolha da habilitação. Você tinha BCC, Bacharelado na Matemática, Bacharelado na Estatística, Bacharelado na Matemática Aplicada e Licenciatura no diurno. No noturno só licenciatura. Tecnicamente existia a possibilidade de 5 alunos do noturno conseguirem vaga em algum curso, conseguir uma transferência. Era meio complicado o processo.
+</p>
+<p>
+<strong>Então, nesse caso, dependia dos alunos transferirem para o diurno?</strong>
+</p>
+<p>
+É, não era só em notas, pro cara do noturno conseguir a transferência ele precisava ser um dos cinco primeiros naquele curso que ele queria, mais ou menos isso. Não é que você concorria pelo, digamos, BCC. Os alunos do noturno não concorriam pelas 30 vagas do BCC, se eles fossem um dos 5 primeiros, precisava ser do BCC, quem é que quer BCC? Bom, esses daí, esse cara do noturno quer BCC, ele é um dos 5 melhores? não? então esquece. Não é nem considerado. Mais ou menos isso. Para dizer a verdade eu precisaria olhar a legislação, mas eram 5% das vagas ou coisa parecida. Era visivelmente, pra vocês terem uma ideia, nunca nenhum aluno do noturno conseguiu transferência para o BCC, porque o BCC tinha 30 vagas, os ingressantes do diurno eram 50 vagas para licenciatura,30 para o BCC, 30 para estatística, 30 para a pura e 20 para a aplicada. 50 para licenciatura!
+</p>
+<p>
+Em 1975 o mundo queria BCC, então era, pra começar, os alunos que vinham para o IME, também era diferente o ingresso no IME. Você tinha 3 grandes carreiras, só: exatas, humanas e biológicas. Evidentemente o IME estava em exatas, então, no meu ano, eu fui um dos poucos que entrou no IME porque colocou como primeira opção o IME. Você podia botar o que você quisesse como opção. Você era obrigado a preencher todas de exatas se queria exatas, podia botar 14 opções. Fui um dos poucos que entrou no IME como primeira opção. A grande maioria era terceira opção. Era evidentemente Poli, física, IME. E evidentemente a grande maioria que já era segunda opção, terceira, queria BCC, 30 vagas. Então em 75 nós tínhamos que fazer essa habilitação no fim de novembro, um pouquinho antes da matrícula, que era feita em janeiro, você fazia as habilitações, você fazia as opções, eram cadastradas as notas, e se distribuía as vagas. Então isso era novembro. No meio de outubro começou-se a falar em greve. Na época também coincidiu que o professor Waldyr, que era o diretor, tava concorrendo para ser reitor, queria ser indicado reitor, e acabou sendo, e me lembro que nossos colegas do CA diziam que, bom, este é um bom momento, o Waldyr não vai querer que a escola dele esteja incendiada na época em que ele é candidato, bom, bobagem (risos), e a greve entrou. O noturno não tinha, era licenciatura, pronto. Então a greve tinha dois focos: o primeiro era o fim do critério de opções, queremos vaga pra todo mundo! Olhando bem era completamente irreal, esse era completamente irreal, mas a gente queria. E o segundo era pela criação do bacharelado noturno, queríamos que fosse criado um bacharelado a noite.
+</p>
+<p>
+<strong>O bacharelado especificamente na matemática aplicada?</strong>
+</p>
+<p>
+A gente queria um bacharelado, que o IME propusesse um bacharelado, não estávamos propondo o BMAC, queríamos um bacharelado, concordávamos que não dava pra ter 4 bacharelados. A gente dizia que não queria o impossível, só um bacharelado a noite. Entramos em greve.
+</p>
+<p>
+Eu não lembro bem se foi, eu acho que entramos em greve antes, mas ou durante a greve ou um pouquinho antes, no fim de outubro, a sociedade foi abalada pelo falecimento do Herzog, o caso Herzog, aí tem uma semana de greve na USP, que culmina numa decisão de, bom, vamos para a praça da sé, eu cheguei a tomar o ônibus mas meu ônibus parou na Paulista, não desceu até a Sé. Mas o Erasmo Dias, que era o secretário de segurança, bloqueou o centro da cidade, então ninguém entrava. O que muitas pessoas fizeram foi descer dos ônibus e dos automóveis e foram a pé, atravessando as ruas, passando pela cavalaria da polícia, e pelo destacamento das tropas, até a catedral. A ideia era ir para a praça da Sé, onde estava tendo o ato ecumenico. O Herzog era judeu, mas o cardeal, Don Arns, cedeu a praça da sé apra um ato ecumenico, então naquele momento a igreja não era um simbolo da igreja catolica, era um simbolo do cristianismo, um ato ecumenico.
+</p>
+<div class="openblock img">
+<div class="content">
+<img alt="Catedral da Sé e Herzog." src="https://camat.ime.usp.br/images/boletime/posts/20230103_entrevista_mane/herzog.png">
+<p>
+<em>Multidão em frente à praça da Sé no culto ecumênico (à esquerda) e Vladimir Herzog, conhecido como Vlado (à direta).</em><br>
+<em>Fonte: Comissão da Verdade da PUC e banco de imagens USP</em>
+</p>
+</div>
+</div>
+<p>
+Isso deu força. Muita gente queria, os estudantes estavam bem mobilizados, havia um certo clima de vamo aproveitar que tão deixando a gente fazer greve, foi um pouco&#8230;&#8203; E a gente acabou, o movimento estudantil tinha feito, as lideranças tinham feito junto aos calouros, uma forte recepção, os estudantes tinham se envolvido de uma certa maneira, com todo aquele clima que tinha acontecido no primeiro semestre. Isso tornou um pouco simpático às propostas. Começou com uma proposta de paralisação para a gente discutir. Primeiro era: vamos exigir que a diretoria do IME, que eles nos ouçam oficialmente. Imediatamente o Chaim, que já estava em exercício, Waldyr tinha se afastado para campanha de reitor, aceitou. Falou: vamos conversar. O professor Chaim, apareceu numa semana, junto com os chefes de departamento, nos explicaram que era impossível o que a gente estava pedindo. E os nossos colegas veteranos nos explicaram que estávamos sendo enganados, e apareceram mil e uma propostas na época. Aquilo evoluiu para uma proposta de greve, e junto com isso apareceu a proposta para o bacharelado noturno. Precisava de alguma coisa para incluir os estudantes do noturno. “Vamos propor o bacharelado noturno”. Na época o departamento da matemática aplicada no IME tinha três departamentos: matemática, estatística e aplicada. Aplicada reunia o que hoje é a aplicada mais a computação, eram juntas. Se o departamento, especialmente, aí teve um peso muito grande o pessoal da aplicada que era da computação, tivesse sido simpático a essa proposta, provavelmente teria havido um bacharelado noturno mais cedo. Mas o pessoal não, era absolutamente contrário. O pessoal da computação, principalmente, e depois até mudaram, as pessoas mudam, mas na época, na verdade não era só eles, os professores mais graduados, titulares, livre docentes, etc, ninguém suportava a ideia de um bacharelado noturno, e a ideia era simplesmente a seguinte: bacharelado é pra formar pesquisadores, coisa que mudou né, mas a ideia era formar bacharelado para formar pesquisador. Como é que o cara que vem a noite, que trabalha, já na época o perfil do aluno do noturno em geral tinha alguma atividade de dia, esse cara não vai ficar 24 horas por dia na biblioteca, não pode ser bacharel, “então nós fomos contra porque era um desperdício de recursos”. A norma era mais ou menos essa. “Não somos contra não porque somos contra por fim, é porque pra formar pesquisador precisa ter um aluno que tem uma dedicação que quem só tá aqui a noite não consegue ter”, e o bacharelado quando é criado não tinha nenhuma dessas coisas. E essa própria visão não era exatamente contestada nem pelos estudantes. O que se pedia era: essa história de que bacharelado é pra formar pesquisador&#8230;&#8203; por que isso? era onde nós estudantes brigavamos. A gente aceitava o argumento. O argumento tinha lógica, vamos dizer assim, pra época então, muita lógica, mas a gente, nah! crie-se um bacharelado, como existiam outros bacharelados. Crie-se um bacharelado menos “puro”, vamos dizer assim, menos&#8230;&#8203;
+</p>
+<p>
+<strong>Voltado para pesquisa, né.</strong>
+</p>
+<p>
+Isso. Bom. No começo a greve teve muita força, os estudantes estavam muito
+envolvidos.
+</p>
+<p>
+<strong>Como foi organizada essa greve? Foi o Cefisma que a organizou?</strong>
+</p>
+<p>
+Isso. O Cefisma puxou a greve.
+</p>
+<div class="openblock img">
+<div class="content">
+<img alt="Recorte da capa vermelha com letras pretas escrito "Evento" height="com um círculo preto e uma seta preta sobre circunferências circunscritas." src="https://camat.ime.usp.br/images/boletime/posts/20230103_entrevista_mane/revista_evento_cefisma.png" width="Cefisma Nº4"">
+<p>
+<em>Recorte da capa da Revista Evento do CEFISMA, publicada na década de 1970.</em><br>
+<em>Fonte: Acervo Histórico do IFUSP</em>
+</p>
+</div>
+</div>
+<p>
+<strong>E como que o Cefisma juntava tanto os estudantes?</strong>
+</p>
+<p>
+Ele passava nas salas e chamava os alunos para as assembleias. Então você tava assistindo aula, aí vinha um pessoal do Cefisma e dizia “olha pessoal, como vocês sabem existe o criterio de opção - e faziam um terrorismo, né, como verdadeiros agitadores -, todo mundo vai pegar licenciatura!” era a ameaça. Eu tinha certeza que eu pegava o curso que queria, que era o bacharelado, mas tudo bem. “Vai todo mundo pegar licenciatura! Pra evitar isso, vai todo mundo na assembleia, vamos discutir o que fazer”, e aí reunia. A assembleia era marcada na sala do básico, que era onde tava a maior quantidade de alunos, que era onde os alunos mais estavam mobilizados. Se você marca na sala do terceiro ano, aluno do terceiro ano não está tão afim assim. Mas aluno do básico, pro final de uma aula, a aula acabava dez pra meio-dia, você marcava a assembleia vinte pra meio-dia. Então pronto, a assembleia tava garantida que tava cheia. O tema era sensível, não era contra a guerra do Vietnã, era um treco bem sensível pros alunos do IME, principalmente do primeiro ano, e chamava-se os alunos do segundo ano “ah, vamo lá, colabora, a experiência de vocês é importante”, então ok, isso acabou&#8230;&#8203;
+</p>
+<p>
+Nessas assembleias, propostas eram votadas. Ninguém cogitava tomar decisões sobre greve ou sobre qualquer coisa do movimento estudantil, “vamos em passeata até o&#8230;&#8203;”, nós estávamos na reitoria velha, a gente tinha aula na reitoria velha, “vamos seguir em passeata até o prédio do IME” que era este, que tinha sido inaugurado em março. A gente tinha aula na reitoria. O prédio tinha o bloco A, com as salas dos professores, nenhuma sala de aula, e umas pouquíssimas salas de aula no bloco B, que em 75 praticamente não existia. Mas a biblioteca era aqui, já funcionava no lugar que ela funciona. “Vamos em passeata até a reitoria”, quando tinha assembleia, a gente ia em passeata da reitoria velha, onde a gente tinha aula, do lado da ECA, até o prédio novo do IME, entregar as nossas reivindicações. Era assim que os estudantes eram chamados: você tava assistindo aula, você recebia a convocação na sala. Algumas convocações ficaram famosas, “pessoal, vai ter uma assembleia muito importante para vocês irem. Eu não posso porque eu tenho prova!” (risos). O cara não foi exatamente um sucesso com essa convocação&#8230;&#8203; (risos). E deu tudo certo.
+</p>
+<p>
+As pessoas entraram em greve. No começo foi uma beleza. Depois, alguém citou 21 dias. Tecnicamente foram 24 ou 25. A greve acabou em 21 dias. Depois de 21 dias já estavam exaustos. As pessoas tinham participado. Uma greve decidida assim é sempre a dinâmica mais ou menos a mesma: há um momento inicial em que vupt!, em que capitaliza tudo, mas aconteceu que depois de algum tempo isso se esvai. Os alunos do segundo e do terceiro e do quarto ano, “tá bom vai, a gente dá uma forcinha pra vocês, mas chega né, 21 dias tá bom né”. Os próprios primeiro-anistas, quem tava com nota razoável pra pegar a primeira opção começou a pressionar pelo fim, começou a votar contra a greve. As assembleias começaram a se desgastar um pouco, como era natural.
+</p>
+<p>
+<strong>E vocês continuavam vindo pro IME mesmo em greve para protestar e fazer as
+reivindicações?</strong>
+</p>
+<p>
+Isso. Cada assembleia marcava uma próxima assembleia, em geral, cada semana tinha, dependia da semana, tinha pelo uma, pelo menos na sexta-feira tinha sempre uma assembleia para avaliar a continuidade do movimento. Na primeira semana não se discutiu nada, tinha uma assembleia no diurno e uma no noturno, somavam os votos. Na primeira semana, praticamente, a greve continuava com 100% de adesão. A segunda semana já foi mais complicada. Para conseguirem com que a greve continuasse depois de 14 dias, as lideranças do movimento já tiveram que se esforçar um pouco mais. E quando a greve ia completar 21 dias, ela só não acabou porque alguns ativistas fizeram uma sacanagem na votação, conseguiram que a decisão fosse&#8230;&#8203; a decisão foi uma das coisas mais engraçadas, decidiu-se marcar uma nova assembleia na segunda-feira para deliberar sobre como iria continuar o movimento. E ficou todo mundo assim: “mas pra que isso?”, mas tinha sido um golpe dado pela mesa, a mesa fez isso, perguntou se alguém tinha algo contra e antes de esperar qualquer coisa saiu da sala e estava encerrada a assembleia (risos). É claro que na segunda-feira a greve acabou, a única dúvida era se acabava na segunda, na terça ou na quarta. Acho que no noturno acabou na quarta.
+</p>
+<p>
+<strong>E os professores respeitavam as greves?</strong>
+</p>
+<p>
+Err&#8230;&#8203; (risos). Deixa eu dizer algo para você. A gente não perguntava para os professores. Eu fui contratado no dia da minha última prova de graduação, fui um dos únicos que foi contratado imediatamente assim que terminou a graduação. Um ano depois, quando eu estava dando aula, alguns alunos vieram falar comigo, “professor, você vai ficar chateado se a gente entrar em greve amanhã? se não viermos na aula de amanhã por causa de uma greve?” e eu falei “vou”. Estava todo mundo lá para assistir a aula. O outro professor que falou “não, tudo bem, vocês estão fazendo greve”, achou muito estranho, falou “como assim? Eu estava dando aula, os alunos não apareceram na minha aula. A greve é contra mim?”. Não, eles me perguntaram se eu ia ficar chateado, eu falei que ia e eles apareceram (risos). A gente fez greve. Nós não perguntamos para os professores, não pedimos autorização dos professores para fazer greve. Alguns deles ameaçaram passar a lista, contar falta. Ninguém foi reprovado por falta. Isso também foi verdade. Classes pequenas de terceiro ano tiveram aula “escondido”. Era um boato, também ninguém foi verificar, não houve caça às bruxas. Não houve piquete, não houve forçação, nem bater panela, nada. Era assim: nós estamos em greve, fim de papo. Quem decidiu uma greve foi a assembleia, respeita isso. Era assim. Como as assembleias eram grandes, esse foi um ponto. Por que a greve acabou depois de 21 dias? Se você fizesse uma assembleia depois de vinte e um dias, quem ia a assembleia ia votar a favor da greve. Mas isso era piada. As assembleias que decidiram a greve foram muito grandes. A greve foi decidida por uma assembleia, bom, não foi nesta sala, foi numa sala lá da reitoria velha, mas seria algo como a B16, aquela sala que tem ao lado da lanchonete, lotada, gente saindo pra fora. E foi decidida a greve. Pronto. Aqueles alunos estavam&#8230;&#8203; Não havia a contestação de que “ah, nem todo mundo votou”, é verdade, nem todo mundo votou. Mas não havia essa contestação. As decisões do movimento estudantil eram em assembleia, como é que nós dois anos depois fomos para a rua? Quando a coisa era no IME, era tranquilo. Você sabia pelo número de alunos se era para ter greve ou não era pra ter greve. Se tinha 20 alunos na sala, então ninguém ia decidir greve. Tinha isso também. Em 75 ninguém estava afim de criar confusão por causa disso. Então, enquanto teve força, teve força.
+</p>
+<p>
+Foi bem-sucedida ou mal-sucedida? Não se criou o bacharelado noturno, precisou de 25 anos. Quando se criou o bacharelado noturno, aí eu falei “bom, agora posso dizer que minha primeira greve deu certo, criaram o bacharelado noturno!”. Tenho muito orgulho de participar da criação, porque para mim era a coisa mais importante, criar o bacharelado noturno.
+</p>
+<p>
+A greve teve toda a força por causa da outra reivindicação, muito mais chamativa. Da outra reivindicação, não acabou o critério de opções, mas pela primeira e única vez, houve uma flexibilização, então o BCC acabou aceitando 40 alunos, por volta de 40. O bacharelado em estatística também. Mais ou menos, se conseguiu a seguinte coisa: quase nenhum aluno no IME pegou a terceira opção. Então era todo mundo ou primeira ou segunda. Nesse ponto, foi bom. De outro ponto de vista, talvez, não tenha sido tão bom, era muito difícil fazer greve no IME depois daquela, principalmente pelo jeito como ela acabou. Forçação de barra pra continuar um pouco, e também a diretoria se preparou um pouquinho melhor. Naquela vez os estudantes tiveram um certo vezeiro muito forte, e esse vezeiro acho que não foi atingido pelos seguintes. Não houve greve pelo fim do critério de opções nos anos seguintes, e nunca nos anos seguintes os estudantes foram tão bem atendidos quanto a isso quanto naquele ano.
+</p>
+<p>
+Mas teve coisas interessantes nesses anos. A proposta de bloquear a seção de alunos. Ninguém pensou em invadir fisicamente a seção de alunos, mas era: todo mundo preenche todos os critérios, toda a ficha, pedindo um determinado curso; no dia seguinte, você vai e faz um requerimento para cancelar o requerimento anterior; no dia seguinte você vai e apresenta um terceiro requerimento para recancelar o recancelamento (risos). Isso deveria criar alguma confusão na burocracia, era essa a ideia. Isso rendeu alguns cafezinhos na sala da diretoria (risos). “Não tô propondo nada ilegal”. E eu conheci o Chaim, muito divertido. Teve algumas coisas engraçadas.
+</p>
+<p>
+E o pessoal era assim. Proposta de adiar prova. Era decidido&#8230;&#8203; “Olha, vai ter uma prova, está marcada para terça-feira. Vamos propor para ninguém vir na aula na terça para não ter essa prova”. Eu tomei a maior vaia da minha vida, falei, bom gente, vocês querem propor o quê? Adiar de terça para sexta, sabe o que vai acontecer? Os alunos que iam tirar 10 vão tirar 10 e fim de papo. Os alunos iam tirar de 7 a 8 vão tirar de 9 a 10. Os demais, vão melhorar de 4 para 4.2, talvez alguns vão para 5, não vai acontecer nada. Não é assim, vocês têm que pedir outras coisas. Vamos melhorar a condição de ensino. Na altura, a biblioteca, a gente não podia entrar no acervo, então aproveitava qualquer coisa para “pela liberação do acervo na biblioteca!”. Não deixavam. Isso foi uma derrota total. Criou-se até a comissão para estudar a eventualidade de um bacharelado noturno: impossível. O aluno que estuda a noite tem perfil que não é compatível com bacharelado. Era essa a justificativa. As opções: se fez um belo abrandamento naquele ano. A biblioteca funcionar e permitir o acesso ao acervo; essa nem sequer foi cogitada. Só muitos anos depois, depois da criação do bacharelado, é que essa outra reivindicação foi aceita
+</p>
+<p>
+<strong>Era por conta do preço dos livros?</strong>
+</p>
+<p>
+Diziam que era porque não havia segurança suficiente. Não dava. Eles não tinham funcionários suficientes para controlar. Não havia câmeras, não havia&#8230;&#8203; Então eles diziam: “nós não temos funcionários suficientes. Vamos perder o controle do que está acontecendo na biblioteca”. Essa proposta alguns professores já eram favoráveis. Bastante favoráveis. Infelizmente eram os mesmos que eram muito contra o bacharelado noturno. É mais ou menos isso que eu lembro. Pessoal se divertiu um pouco. Teve coisas legais. Aquela turma, a turma de 75, aprendeu um pouco do que era o movimento estudantil, então as assembléias decidindo&#8230;&#8203; Não tinha internet. Hoje, para você pensar em fazer uma greve como aquela, característica, precisaria de um tipo de mobilização que parece bem diferente, da que parece estar no cardápio. Na época era a única que dava. Era a única que dava. Você vai tomar uma decisão se vai ter greve ou não? Se você vota pela greve, você está contrariando o decreto 477. O decreto 477 dizia que quem fazia isso era expulso da universidade. Não havia maneira de fazer&#8230;&#8203; Era isso ou nada. Enquanto só tinha um jeito você faz do jeito que dá.
+</p>
+<p>
+<strong>Mas pelo menos colocou os alunos para discutir junto com o IME, né?</strong>
+</p>
+<p>
+Para discutir, as pessoas discutiam nos intervalos nas salas de aula. Quando os caras entravam na aula, muitas vezes eles entravam no final da aula, pediam para o professor “professor, quando o senhor encerrar a aula, o senhor avisa a gente para a gente entrar e falar com a sala?”. A gente pedia isso para alguns professores. Sabia que se pedisse para certos professores eles iam responder com uma patada. Então a gente pedia para outros, eles topavam, deixavam a gente entrar nos últimos 5 minutos. Dava-se aviso, e se conversava. Era assim que era feita a discussão. Claro que algumas pessoas aproveitavam para ir embora. Não havia o que fazer. Mas algumas ficavam para conversar. E as que ficavam para conversar conversavam com outras, e era assim que funcionava. Como é que eu comecei a participar? Eu estava lá, assistindo aula, apareceu um cara para falar da greve da ECA. Por que que eu vou fazer greve pela ECA? Aí o cara veio me explicar, que não era bem assim, havia uma razão para fazer greve pela ECA. Me convenceu? Na primeira vez, não. Mas você vai vendo algumas coisas e certas coisas que o cara falava faziam sentido. No terceiro dia de protesto pela ECA eu acho que eu participei. Aí veio a mobilização pelo critério de opções e pelo bacharelado. Qualquer aluno do IME, não precisava de muito para convencer o cara de que isso era uma coisa boa. Os professores no IME, apesar de boatos do contrário, já na época, não eram exatamente refratários a conversar. Mesmo sendo em 75, muitos deles apareciam para bater papo. Então isso era mais um motivo pelos quais a assembleia&#8230;&#8203; Vários professores apareciam para bater papo. Não exatamente na assembleia, mas ali perto, um pouco depois da assembleia, perguntavam “o que aconteceu?”, “vai continuar a greve?”. Conversava-se com os caras. Como esse processo, vamos dizer, tem um tempo de validade curto, quando ele terminou acabou a greve. Mas a greve acabou, em 75, bem. Exceto para o bacharelado noturno (risos). O pessoal tinha essa ideia. O critério de opções era menos defensável. “Nós não temos professores para atender o&#8230;&#8203;”, era, por que não duplicar turmas? “Nós não temos professores para dar dois cursos BCC, duas turmas do BCC”, era essa a [desculpa].
+</p>
+<p>
+<strong>Nos anos seguintes, as assembleias continuaram acontecendo?</strong>
+</p>
+<p>
+As assembleias continuaram acontecendo sempre que precisavam acontecer. As passeatas de 77, que você deve ter ouvido falar, quando a USP volta às ruas, foram decididas, quase todas, em assembleia. A primeira passeata foi decidida pelo Erasmo Dias. Não era para ser nada. Foi a primeira vez que aconteceu uma manifestação, que saiu uma passeata da USP para chegar em Pinheiros. Não foi decidida por ninguém. Tinham decidido que um grupo de alunos ia sair da USP para entregar uma petição no escritório do MEC que ficava no Largo do Arouche. O Erasmo bloqueou, falou “não, não vão não, isso é ilegal”. Fechou o acesso. Um monte de alunos que estava vindo para a USP para assistir aula ficou parado na Rebouças. Já que não tem o que fazer, desceram e foram andando. Alguns caras perceberam, opa, vamos aproveitar, vamos levar esses fulanos. Essa turma de alunos que estava andando foi direcionada para fazer uma manifestação no Largo de Pinheiros, e foi uma festa. Foi assim. As outras foram decididas em assembleia. Era assim que as coisas eram decididas. Até 78, quando teve o negócio da PUC, e depois começou-se a questionar o papel da assembleia. Se você queria saber se a USP ia entrar em greve ou não, era fácil: descobre onde vai ser a assembleia. “A greve continua ou não?”. Onde vai ser a assembleia? Se fosse no pátio da história, a greve continua. Se a assembleia é no pátio da Poli, esquece, a greve acabou (risos). Aí não dá, né, desmoralizou. Isso foi em 78, 79. Eu também passei por essa fase, de “você quer fazer essa greve? quer que essa greve continue? Marca assembleia para a história”. Eram assembleias massivas, tinha muita gente. Claro que em comparação com o número de alunos era um épsilon, 3%, mas era muita gente. Saia bem no jornal.
+</p>
+<p>
+<strong>Isso era divulgado na mídia?</strong>
+</p>
+<p>
+Sempre. A Folha, o Estado. Fotos. Se as assembleias fossem na Poli, também eram massivas, também tinha muita gente, e você tinha uma certeza absoluta do resultado. Era impossível errar.
+</p>
+<p>
+<strong>Mas como é que se fazia para ter uma assembleia tão unificada? Todos os CAs tinham uma comunicação muito boa para marcar a assembleia?</strong>
+</p>
+<p>
+A assembleia era marcada pelo DCE, e os CAs, claro. Os CAs tinham o Conselho dos Centros Acadêmicos, e qual era o poder do CCA? Aí começou a discussão de quem decide as coisas: é a assembleia ou o CCA? A turma da Libelu, Liberdade e Luta, sempre favorável à assembleia. A turma da Caminhando, Refazendo etc, sempre favorável ao CCA. E a coisa variava, dependendo do momento e da agitação. Mas depois acabou&#8230;&#8203; O CCA acho que ganhou a parada. Eu não ouço falar de assembleias deliberativas na USP há muito tempo. Acho que isso foi uma prática que acabou. Em termos de USP é questionável. Em termos de IME, não me parece tão questionável. Fazer uma assembleia que realmente seja representativa na USP é complicado, mas fazer uma assembleia como aconteceu alguns anos atrás, que realmente seja representativa no IME, não é tão complicada.
+</p>
+<p>
+<strong>Você estava próximo do movimento, participava, mas chegou a fazer parte do Cefisma em si?</strong>
+</p>
+<p>
+Eu sou mais Libelu, amigo. (risos). Então eu participava forte. Até a hora que dei um pontapé na história. Veja. Eu participava, a proposta de desobediência civil, vamos entulhar a seção de alunos de papéis inúteis, nasceu de algumas ideias minhas, foi aqui que fui chamado pela primeira vez para conversar com o Chaim. Mas o Chaim era uma peça muito divertida. Nunca houve perseguição por causa disso. Cheguei a fazer parte da Libelu. E uma hora você percebe que essa questão de assembleias, como é que você chega nos estudantes, não é por aí, você passa a ter outros objetivos, não é exatamente isso assim. Na época, durante toda a minha graduação, eu não fui aluno exemplar, de jeito nenhum. Meu boletim de graduação é péssimo, meu boletim bom é na pós-graduação. Eu me diverti na graduação, aprendi parca, em matemática, mas&#8230;&#8203; indo na biblioteca, indo na sala de professor e fazendo pergunta idiota para ele, não era exatamente um aluno modelo. E me sobrava tempo. Como eu não estava querendo me formar no prazo mínimo, sobrava tempo. Eu entrei em 75 e me formei no primeiro semestre de 80, bem longe do prazo ideal. Até 79 eu tive forte participação na Libelu e aí a Liberdade e Luta dá uma guinada, não vou dizer se para a direita ou para a esquerda, mas dá uma guinada, muda um pouco de postura. Eu não gostei muito, já não estava me sentindo muito à vontade, e saí. Mas eu participei ativamente. Foi assim, as pessoas me convenceram. E eu tenho certeza de que em 75, naquela época, não foi “quem iniciou a greve?”, os alunos fizeram alguma coisa. Os alunos conseguiram que naquele ano ninguém pegasse a quarta opção. Muitos poucos pegaram a terceira. Acho que só por descuido podia pegar a terceira. Mas como eu disse, eu era o cara que ia de vez em quando e pedia besteira, pedia para adiar a prova, e era vaiado. Não era muito popular nas minhas intervenções. Na Libelu eu era chamado um pouco intelectual demais, mas me toleravam. Nunca fui diretor nem do Cefisma, nem do CAMat. O Libelu nunca ganhou nem o CAMat nem o Cefisma. Não, o Cefisma ganhou, mas foi no ano que se separou. O CAMat não, nunca tivemos chance. Mas eu participei. Nas passeatas de 77, acho que fui em todas, sem dúvida nenhuma.
+</p>
+<p>
+<strong>E o senhor considera importante ainda hoje os alunos estarem participando de movimento estudantil e tentar reivindicar melhorias?</strong>
+</p>
+<p>
+Se for como eu, uma participação sabendo o que está fazendo, eu acho ótimo. Acho realmente ótimo participar, da maneira que se participa. Não sei se hoje a participação é via assembleia, como eu falei, hoje o mundo é diferente. Nunca acredite que o bom era o mundo como era antes. Isso é a maior besteira. Tem um artigo&#8230;&#8203; Sabe aquele grafo de Petersen? O Petersen também era um geólogo, e ele escreveu um artigo sensacional, um prefácio em um livro de geometria elementar se mostrando extremamente preocupado que do jeito que na França, em Paris, o ensino de geometria estava sendo avacalhado, logo logo as escolhas iriam fechar porque era o fim do&#8230;&#8203; Este discurso é mais velho do que andar para trás, gente! (risos) Não acreditem nele! É claro que a geração de hoje não sabe os teoremas de geometria que a minha geração sabia quando entrou na USP. Não sabe. Mas vocês sabem fazer muitas outras coisas. Vocês sabem usar esse negócio [aponta para o celular] desde criança, eu não sei usar nada. O tipo de relacionamento que vocês têm entre vocês, jovens, é completamente diferente. Eu não sei como vocês aguentaram a pandemia. Uma coisa que eu comentei várias vezes durante a pandemia: se fosse na época que eu tinha a idade de vocês, era impossível pensar em isolamento social. Como assim? Vai falar para o moleque que acabou de entrar na USP sobre isolamento social. Tá louco! Hoje, com toda essa parafernalha, pode ser. Mas as coisas são muito diferentes. Então, a participação no movimento, sim, eu acho que continua sendo extremamente importante. Se é em assembleia, se é na internet ou se é&#8230;&#8203; não sei, eu não saberia participar de uma rede social, mas isso é um problema meu, não é um problema. Então a participação hoje é importante, e é tão importante quanto na época. Sempre foi. Mas é do mesmo jeito? Não, não é. Eu não sei como é. Quem tem que saber são vocês. Eu não estou no centro acadêmico, eu não converso com os colegas, eu não sei como é o dia-a-dia. Mas participação no movimento, sim. Nós tínhamos o jornal do CAMat, eu participava. Tentei, eu e o Pedrão, Pedrão era o professor Pedro Tonelli, professor aposentado do MAP, nós tentamos algumas vezes fundar um clube de xadrez do IME. Nunca funcionou. A gente tentou. A gente se divertia. Levávamos peças para o CAMat, um monte de aulas a gente matou jogando xadrez. Todo ano tem o curso, por que que eu vou ficar lá! (risos) Mas o mundo mudou. Eu tinha uma liberdade pra ser anarquista que hoje não existe, por incrível que pareça, eu estava na ditadura. Mas fazer a graduação do jeito que eu fiz, acho que hoje é impossível. Não gostava do professor, então não ia assistir aula. Tem todo ano mesmo. Muitos&#8230;&#8203; Basicamente, eu não fiz nenhuma disciplina com nenhum professor que eu não gostasse. Eu não assistia. Mas demorei, entrei em 75 e me formei em 80. E o jubilamento? O que é isso? Na USP? Ninguém ia jubilar ninguém em 75, na ditadura, as coisas mudam. Vocês têm um ensino muito melhor, em algum sentido, e vocês são muito mais cobrados. Nós tínhamos um ensino de muito mais difícil acesso, mas tínhamos um grau de cobrança diferente. Não é que era menor, mas era diferente. Os tipos de problema que existem são bem diferentes, mas a participação é bem importante! Não acreditem que o que se fazia em 75 era o correto. Era o correto para 75! Mesmo porque não haveria maneira de se fazer diferente. Hegel dizia que o que acontece é o que merece acontecer. Ele não era exatamente revolucionário, grande filósofo alemão. O real, e não é o conjunto dos números reais (risos), é o que devia acontecer. E isso faz parte da filosofia de Hegel. O que acontece é o que tem que acontecer. A participação no movimento naquela altura era sob condições daquela altura, com pessoas daquela altura. Mas participar, manter vivo o CA, eu acho isso importantíssimo.
+</p>
+<div class="openblock img">
+<div class="content">
+<img alt="Multidão de estudantes na Faculdade de Arquitetura e Urbanismo participando da assembleia da USP." src="https://camat.ime.usp.br/images/boletime/posts/20230103_entrevista_mane/assembleia_usp.png">
+<p>
+<em>Assembleia des Estudantes da USP na década de 1970.</em><br>
+<em>Fonte: Acervo Histórico Perseu Abramo</em>
+</p>
+</div>
+</div>
+<p>
+<strong>Uma última coisa. O senhor falou que foi só 25 anos depois que veio a ser criado o BMAC. Como é que isso ressurgiu como pauta? Por que foi criado?</strong>
+</p>
+<p>
+Alguns professores começaram a ter essa ideia terrorista. Se vocês querem fazer uma entrevista com alguém que sabe a história da criação do bacharelado, ou vocês esperam três anos ou vocês têm que pedir um espaço na agenda do diretor, porque ele é o pai do BMAC. Eu tenho muito orgulho de ter tido alguns alunos. O Serginho é um deles. Não vai chamar o diretor de Serginho, hein. (risos). O professor Sérgio Muniz de Oliva Filho, diretor do IME, ele fez a proposta de criação do BMAC. Existiam várias propostas. Apesar da minha ideia ser simpática, faltava alguém que sentasse o traseiro na cadeira e pusesse em prática. Ele pegou, sentou, trabalhou e conseguiu. Uma proposta revolucionária, extraordinária, que na época revolucionava tudo em termos de ensino de matemática. Primeiro curso de matemática aplicada que tem TCC? BMAC. O BMA não era para fazer, mas aí eu e o Saulo, meu colega de turma de 75, que infelizmente faleceu durante a pandemia, por um problema de ataque cardíaco, eu e o professor Saulo dissemos “não, você não vai criar isso no noturno. O BMA entra junto!”. Não era a ideia do Sérgio, o Sérgio queria que isso fosse implementado no noturno, e depois passar para o diurno. Não! Nós já éramos o patinho feio, o BMA, desse jeito íamos ficar o patinho horroroso. O Sérgio topou. Esse cara merece uma estátua. Dos alunos do BMAC então, são Sérgio. Não importa se é corintiano, palmeirense ou se o cara é santista. Mas então, se quiserem conversar sobre a criação do BMAC, ou esperam acabar a chefia do Sérgio, ou pedem para ele uma entrevista, porque ele é o criador. Ele conversou comigo, com a Sônia. Eu e a Sônia fomos professores do Sérgio. Conversou também com o professor Caio da estatística, Julio, que na altura era da computação, Antônio Luís Pereira. Envolveu uma série de professores com essa ideia. E essa ideia funcionou. Ela foi viável. Eu tinha uma ideia que, segundo ele, era maravilhosa, nunca vai sair da ideia porque é impossível. Aí ele criou uma ideia viável, ele acreditou, e acho que vocês* são um exemplo de que ela é viável. Mas é com ele que vocês têm que falar.
+</p>
+<p>
+*os entrevistadores são estudantes do BMAC.
+</p>
+<hr>
+<p>
+No pós-entrevista, o professor falou que o primeiro matriculado no BMAC foi o Pedo Peixoto, que atualmente é professor do departamento de matemática aplicada e suplenete do Mané na coordenação do BMAC.
+</p>
+<div class="openblock img">
+<div class="content">
+<img alt="Professor Manuel Valentim" height="uma blusa vinho" src="https://camat.ime.usp.br/images/boletime/posts/20230103_entrevista_mane/mane.png" width="um senhor branco com camisa cinza e branca quadriculada">
+<p>
+<em>Professor Mané durante a entrevista com o BoletIME.</em><br>
+<em>29 de novembro de 2022</em>
+</p>
+</div>
+</div>
+<div class="openblock img">
+<div class="content">
+<img alt="Professor Sergio" height="durante a posse da diretoria." src="https://camat.ime.usp.br/images/boletime/posts/20230103_entrevista_mane/sergio.png" width="homem branco de terno preto e camiseta branca">
+<p>
+<em>Sergio Muniz Oliva Filho, atual diretor do IME-USP e "pai" do BMAC</em><br>
+<em>Fonte: Banco de imagens da USP.</em>
+</p>
+</div>
+</div>
+<div class="openblock img">
+<div class="content">
+<img alt="Professor Pedro Peixoto" height="bigode e barbixa" src="https://camat.ime.usp.br/images/boletime/posts/20230103_entrevista_mane/peixoto.png" width="homem branco">
+<p>
+<em>Pedro Peixoto, graduado na primeira turma do BMAC e professor associado no IME-USP atualmente.</em><br>
+<em>Fonte: Site do IME.</em>
+</p>
+</div>
+</div>  
+          </div>
+        </section>
+
+        <section class="container boletIME-post-postexto">
+          <span>
+            Curtiu? Compartilha com a galera aí
+          </span>
+          <br>
+          <div class="boletIME-post-compartilhar">
+            <a id="botao_whatsapp" class="boletIME-post-botao-compartilhar" target="_blank" href="https://api.whatsapp.com/send?text=https://camat.ime.usp.br/boletime_post/2023/01/03/entrevista-mane.html" data-action="share/whatsapp/share">
+              <i class="fa-brands fa-whatsapp"></i>
+            </a>
+            <a class="boletIME-post-botao-compartilhar" target="_blank" href="https://t.me/share/url?url=https://camat.ime.usp.br/boletime_post/2023/01/03/entrevista-mane.html&text=BoletIME Entrevista: Manuel Valentim">
+              <i class="fa-brands fa-telegram"></i>
+            </a>
+            <a class="boletIME-post-botao-compartilhar" target="_blank" href="https://www.facebook.com/sharer.php?u=https://camat.ime.usp.br/boletime_post/2023/01/03/entrevista-mane.html">
+              <i class="fa-brands fa-facebook"></i>
+            </a>
+            <a class="boletIME-post-botao-compartilhar" target="_blank" href="https://twitter.com/intent/tweet?url=https://camat.ime.usp.br/boletime_post/2023/01/03/entrevista-mane.html&text=BoletIME Entrevista: Manuel Valentim">
+              <i class="fa-brands fa-twitter"></i>
+            </a>
+            <a class="boletIME-post-botao-compartilhar" onclick="print()">
+              <i class="fa-solid fa-print"></i>
+            </a>
+          </div>
+        </section>
+
+        <section class="container boletIME-post-outros-posts">
+          
+
+<h3>Outros posts</h3>
+
+<div class="boletime-post-recomendacoes">
+  
+    
+    <a href="https://camat.ime.usp.br/boletime_post/2025/01/02/retomada-da-instalacao-de-grades-no-crusp.html" class="boletime-post-recomendacao">
+      <div class="boletime-post-recomendacao-capa" style="background-image: url('https://camat.ime.usp.br/images/boletime/posts/20250102_retomada_da_instalacao_de_grades_no_crusp/capa.jpg')">
+      </div>
+      <div class="boletime-post-recomendacao-conteudo">
+        <div class="boletime-post-recomendacao-titulo">
+          
+          A retomada da instalação de grades no Crusp
+          
+        </div>
+        <div class="boletime-post-recomendacao-resumo">
+          Na manhã de hoje, 02 de janeiro, a Pró-Reitoria de Inclusão e Pertencimento (PRIP) retomou, sem qualquer aviso prévio, a investida de instalação de grades no CRUSP. A intenção de gradear a moradia estudantil sobre o discurso cínico e oportunista de “melhorar a segurança dos moradores” teve início em agosto/2024, sendo barrada após mobilização dos moradores e estudantes mobilizados através dos centros acadêmicos (vide BoletIME #13).
+        </div>
+        
+        <div class="boletime-post-recomendacao-data">
+          <i class="fa-regular fa-calendar"></i> 02 de janeiro de 2025
+        </div>
+        <div class="boletime-post-recomendacao-autoria">
+          Por <b>CAMat e Cefisma</b>
+        </div>
+      </div>
+    </a>
+    
+  
+    
+    <a href="https://camat.ime.usp.br/boletime_post/2024/12/31/queremos-tempo-para-viver.html" class="boletime-post-recomendacao">
+      <div class="boletime-post-recomendacao-capa" style="background-image: url('https://camat.ime.usp.br/images/boletime/posts/20241231_queremos_tempo_para_viver/capa.jpg')">
+      </div>
+      <div class="boletime-post-recomendacao-conteudo">
+        <div class="boletime-post-recomendacao-titulo">
+          
+          Queremos tempo para viver e ter direito à cidade
+          
+        </div>
+        <div class="boletime-post-recomendacao-resumo">
+          Na última quinta-feira, 26, foi anunciado pela prefeitura e pelo governo de São Paulo o aumento nas passagens de ônibus e trilhos para 2025, a partir do dia 6 de Janeiro. Além do fato de terem se aproveitado da data para fazer esse anúncio, no qual a população ainda estaria em clima de festa, e sem perspectiva de mobilização imediata para questionar esse aumento, a medida em si será um grande ataque para os trabalhadores de São Paulo, ainda mais levando em consideração que a maioria dos VTs só cobrem apenas o transporte de ônibus, essa medida injustificada vai aumentar e muito o custo de transporte para a maioria dos trabalhadores de SP
+        </div>
+        
+        <div class="boletime-post-recomendacao-data">
+          <i class="fa-regular fa-calendar"></i> 31 de dezembro de 2024
+        </div>
+        <div class="boletime-post-recomendacao-autoria">
+          Por <b>CAMat</b>
+        </div>
+      </div>
+    </a>
+    
+  
+    
+    <a href="https://camat.ime.usp.br/boletime_post/2024/12/07/recado_dos_editores.html" class="boletime-post-recomendacao">
+      <div class="boletime-post-recomendacao-capa" style="background-image: url('https://camat.ime.usp.br/images/boletime/posts/20241207_recado_dos_editores/capa.jpg')">
+      </div>
+      <div class="boletime-post-recomendacao-conteudo">
+        <div class="boletime-post-recomendacao-titulo">
+          
+          Recado dos editores
+          
+        </div>
+        <div class="boletime-post-recomendacao-resumo">
+          Recadinho de fim de ano!
+        </div>
+        
+        <div class="boletime-post-recomendacao-data">
+          <i class="fa-regular fa-calendar"></i> 07 de dezembro de 2024
+        </div>
+        <div class="boletime-post-recomendacao-autoria">
+          Por <b>Redação</b>
+        </div>
+      </div>
+    </a>
+    
+  
+    
+    <a href="https://camat.ime.usp.br/boletime_post/2024/12/05/mensagem_da_corg_do_cinime.html" class="boletime-post-recomendacao">
+      <div class="boletime-post-recomendacao-capa" style="background-image: url('https://camat.ime.usp.br/images/boletime/posts/20241205_mensagem_da_corg_do_cinime/capa.jpg')">
+      </div>
+      <div class="boletime-post-recomendacao-conteudo">
+        <div class="boletime-post-recomendacao-titulo">
+          
+          Uma mensagem da Comissão Organizadora do projeto CinIME
+          
+        </div>
+        <div class="boletime-post-recomendacao-resumo">
+          A Comissão Organizadora do CinIME traz, neste texto para fechar 2024, uma retrospectiva do que foi o CinIME!
+        </div>
+        
+        <div class="boletime-post-recomendacao-data">
+          <i class="fa-regular fa-calendar"></i> 05 de dezembro de 2024
+        </div>
+        <div class="boletime-post-recomendacao-autoria">
+          Por <b>COrg CinIME</b>
+        </div>
+      </div>
+    </a>
+    
+  
+</div>
+        </section>
+        
+        <footer class="footer">
+    <section class="container">
+        <a href="mailto:camat@ime.usp.br">camat@ime.usp.br</a>
+        
+        <nav class="nav">
+            <a role="button" 
+               aria-label="GitHub" 
+               href="https://github.com/camat-usp/camat-wiki">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+            </a>
+            <a role="button" 
+               aria-label="Instagram" 
+               href="https://www.instagram.com/camat.usp">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+            </a>
+            <a role="button" 
+               aria-label="Facebook" 
+               href="http://www.fb.com/CAMatUSP">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg>
+            </a>
+            <a role="button" 
+               aria-label="Twitter" 
+               href="https://twitter.com/camat_usp">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+            </a>
+            <a role="button" 
+               aria-label="Telegram" 
+               href="https://t.me/camat_usp">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+            </a>
+        </nav>
+    </section>
+</footer>
+
+<div style="width: 30px; height: 30px; fill: #ba3925; cursor: pointer; position: fixed; right: 5%; bottom: 50px; z-index: 100;" class="botao_alternar_modo_visao botao_modo_footer">
+    <div class="modo-escuro">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M223.5 32C100 32 0 132.3 0 256S100 480 223.5 480c60.6 0 115.5-24.2 155.8-63.4c5-4.9 6.3-12.5 3.1-18.7s-10.1-9.7-17-8.5c-9.8 1.7-19.8 2.6-30.1 2.6c-96.9 0-175.5-78.8-175.5-176c0-65.8 36-123.1 89.3-153.3c6.1-3.5 9.2-10.5 7.7-17.3s-7.3-11.9-14.3-12.5c-6.3-.5-12.6-.8-19-.8z"/></svg>
+    </div>
+    <div class="modo-claro" style="display: none;">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M361.5 1.2c5 2.1 8.6 6.6 9.6 11.9L391 121l107.9 19.8c5.3 1 9.8 4.6 11.9 9.6s1.5 10.7-1.6 15.2L446.9 256l62.3 90.3c3.1 4.5 3.7 10.2 1.6 15.2s-6.6 8.6-11.9 9.6L391 391 371.1 498.9c-1 5.3-4.6 9.8-9.6 11.9s-10.7 1.5-15.2-1.6L256 446.9l-90.3 62.3c-4.5 3.1-10.2 3.7-15.2 1.6s-8.6-6.6-9.6-11.9L121 391 13.1 371.1c-5.3-1-9.8-4.6-11.9-9.6s-1.5-10.7 1.6-15.2L65.1 256 2.8 165.7c-3.1-4.5-3.7-10.2-1.6-15.2s6.6-8.6 11.9-9.6L121 121 140.9 13.1c1-5.3 4.6-9.8 9.6-11.9s10.7-1.5 15.2 1.6L256 65.1 346.3 2.8c4.5-3.1 10.2-3.7 15.2-1.6zM352 256c0 53-43 96-96 96s-96-43-96-96s43-96 96-96s96 43 96 96zm32 0c0-70.7-57.3-128-128-128s-128 57.3-128 128s57.3 128 128 128s128-57.3 128-128z"/></svg>
+    </div>
+</div>
+    </main>
+
+    <!-- JavaScript do BoletIME -->
+    <script src="https://camat.ime.usp.br/js/boletime.js"></script>
+
+    <!-- Tags <script> adicionadas no final de todas as páginas -->
+
+<!-- JQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<!-- Menu hamburguer -->
+<script src="https://camat.ime.usp.br/js/hamburguer.js"></script>
+
+<!-- Modo noturno -->
+<script src="https://camat.ime.usp.br/js/modoNoturno.js"></script>
+
+<!-- Acessos -->
+<script src="https://camat.ime.usp.br/js/acesso.js"></script>
+</body>
+</html>
